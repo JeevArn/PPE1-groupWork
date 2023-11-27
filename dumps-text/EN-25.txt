@@ -1,0 +1,302 @@
+   #Biodiversity Heritage Library Atom Feed Biodiversity Heritage Library
+   » Feed Biodiversity Heritage Library » Comments Feed
+
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
+     * Home
+     * News
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
+
+   Home
+   News
+   Featured Books
+       All Featured Books
+       Book of the Month Series
+   User Stories
+   Campaigns
+       Fossil Stories
+       Garden Stories
+       Monsters Are Real
+       Page Frights
+       Her Natural History
+       Earth Optimism 2020
+   Tech Blog
+   Visit BHL
+     * Home
+     * News
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
+
+   ____________________
+
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
+
+   Illuminating BHL’s Dark Data
+
+   Citizen Scientists and AI Unlock Key Biodiversity Data in GBIF
+   Illuminating BHL’s Dark Data
+
+   Flora, Fauna, and Photography
+
+   Five Years of Digitising Content for BHL in Aotearoa
+   Flora, Fauna, and Photography
+
+   Interlinking BHL Data
+
+   in the Wikimedia Project Ecosystem
+   Interlinking BHL Data
+
+Welcome to the Biodiversity Heritage Library Blog
+
+   BHL News, Blog Reel, Featured Books
+
+Illuminating BHL’s Dark Data: Citizen Scientists and AI Unlock Key
+Biodiversity Data in GBIF
+
+   Read the full blog post
+
+   In the face of climate change and environmental challenges,
+   understanding and documenting Earth’s biodiversity is essential. The
+   Global Biodiversity Information Facility (GBIF) serves as a global
+   repository for biodiversity data, playing a pivotal role in this
+   critical mission of safeguarding our planet’s biodiversity. Species
+   occurrence data sourced from the Biodiversity Heritage Library (BHL)
+   provides insights into species distributions, behaviors, and
+   interactions much deeper into time, offering key species baseline data
+   required to effectively address the climate crisis. Without accurate
+   and comprehensive data in GBIF, our collective ability to track
+   environmental changes and make informed decisions is severely hampered.
+
+   As a GBIF participant node, BHL is committed to sharing biodiversity
+   data openly, adhering to FAIR (Findable, Accessible, Interoperable,
+   Reusable) and CARE (Collective Benefit, Authority to Control,
+   Responsibility, Ethics) data principles, and collaborating with a
+   global network of biodiversity organizations to bolster and build
+   capacity to strengthen the biodiversity information infrastructure. To
+   honor our commitments, technical staff from BHL are working to
+   establish a scalable data pipeline of occurrence data currently trapped
+   in archival field notes, journals, letters, correspondence, and other
+   primary source materials. The journey has been an arduous one due to
+   poor OCR (optical character recognition) data quality for BHL’s
+   sub-corpus of handwritten materials.
+   Continue reading
+   November 9, 2023byJJ Dearborn, Joseph deVeer and Paul Flemons
+   BHL News, Blog Reel
+
+BHL Adds Dumbarton Oaks and Meise Botanic Garden as New Affiliates
+
+   Read the full blog post
+
+   The Biodiversity Heritage Library is pleased to welcome two new
+   Affiliates in 2023: Dumbarton Oaks in Washington, DC, and Meise Botanic
+   Garden in Meise, Belgium. The BHL Consortium now includes 19 Members
+   and 23 Affiliates.
+   Continue reading
+   October 30, 2023byColleen Funkhouser
+   Blog Reel, Featured Books
+
+Flora, Fauna, and Photography: Five Years of Digitising Content for BHL in
+Aotearoa
+
+   Read the full blog post
+
+   Auckland Museum joined the Biodiversity Heritage Library (BHL) in 2018
+   and currently remains the only organisation in Aotearoa New Zealand
+   contributing to the consortium. During my four years working as a
+   technician and coordinator on the project, and with the help of a
+   volunteer, Brianna Vincent, we have added over 25,000 pages, increasing
+   our library of contributions from three to over 100 biodiversity
+   literature items. These items span from 1790 to 2004, covering over 200
+   years of biological knowledge, and range from field notebooks and
+   sketches to identification guides, records and proceedings, educational
+   textbooks, plant material, cyanotypes (blueprints), and hand-painted
+   illustrations.
+   Continue reading
+   October 10, 2023byKelly Hall, Brodie Jean Hoare and Phoebe Shum
+   BHL News, Blog Reel, Tech Updates
+
+Interlinking BHL Data in the Wikimedia Project Ecosystem
+
+   Read the full blog post
+
+   The planet is at a critical juncture, where urgent action is required
+   to combat climate change, biodiversity loss, and secure a sustainable
+   future for our planet. With the release of the recent BHL Wikimedia
+   white paper entitled Unifying Biodiversity Knowledge to Support Life on
+   a Sustainable Planet, the Biodiversity Heritage Library Secretariat
+   hopes that an expanded data vision for the BHL community presents new
+   opportunities to take bold steps forward into Wikimedia projects and
+   the emergent semantic web. The white paper sheds light on BHL’s crucial
+   role as a member of the biodiversity informatics community and reveals
+   a series of key use cases and big data challenges that, if addressed,
+   could be opportunities to enhance global biodiversity data
+   infrastructure.
+   Continue reading
+   August 25, 2023byJJ Dearborn
+   BHL News, Blog Reel
+
+BHL Bi-annual Newsletter (June 2023) Now Available!
+
+   Read the full blog post
+
+   Our latest bi-annual newsletter is now available! From BHL Day 2023 in
+   Paris to releasing the new Ukrainian Українська Collection, don’t miss
+   the latest news from the BHL community.
+   Continue reading
+   June 2, 2023byColleen Funkhouser
+   BHL News, Blog Reel
+
+2023 BHL Annual Meeting – Together Again in Paris
+
+   Read the full blog post
+
+   Originally scheduled for 2020, the BHL Annual Meeting finally made it
+   to Paris after two years of virtual meetings and a break to hold the
+   2022 BHL Annual Meeting in conjunction with the Society for the
+   Preservation of Natural History Collections (SPNHC) and the Natural
+   Sciences Collections Society (NatSCA) meetings in Edinburgh, Scotland.
+
+   The host for the 2023 meeting was the library of the Muséum national
+   d’Histoire naturelle (MNHN), led by Alice Lemaire, Clément Oury, and
+   Gildas Illien. The meeting took place 17-21 April 2023 and included BHL
+   business meetings, tours of library and museum sites, and a BHL
+   symposium titled “Fostering Data Driven Natural Science through Open
+   Digital Libraries”. In total, the meeting gathered 38 attendees (both
+   in-person and virtually) from 22 BHL partners from around the world.
+   Continue reading
+   May 24, 2023byMartin R. Kalfatovic
+   Blog Reel, Featured Books
+
+Travelling Plants: A Collaborative Project
+
+   Read the full blog post
+
+   During 2020, the Archives team at Kew Gardens developed a collaboration
+   with the University of Roehampton, the University of the Third Age
+   (U3A), and the Biodiversity Heritage Library (BHL), to create a model
+   for the archive sector, which uses volunteer-driven, remote methods to
+   transcribe and research collections, making them easily shareable and
+   accessible using TEI-XML encoding. We wanted to create ways in which
+   TEI could be embedded in the archive sector and managed by archivists
+   with little experience of textual encoding, or time to carry out
+   encoding themselves. In creating this model, we would also digitise,
+   transcribe, encode, and make accessible in BHL one of Kew’s most
+   important, but inaccessible volumes – the Kew Record Book. For Kew, it
+   was important that the volume would be made fully accessible, as part
+   of our commitment to transparency around our history and involvement in
+   colonialism.
+
+   The model we created was timely, as the COVID-19 pandemic meant many
+   institutions could no longer accommodate volunteers on-site, and remote
+   ways of working have persisted. The Travelling Plants project built a
+   community and model of engaging with and developing the digital
+   capacity of older people remotely, a sector of society that
+   particularly felt the impact of social isolation during the pandemic.
+   Continue reading
+   May 11, 2023byKiri Ross-Jones, Kate Teltscher and Dustin Frazier Wood
+   Page 1 of 1661234»102030...Last »
+
+Help Support BHL
+
+   BHL’s existence depends on the financial support of its patrons. Help
+   us keep this free resource alive!
+
+   Donate Now
+
+search
+
+   Search for: ____________________
+
+About BHL
+
+   The Biodiversity Heritage Library (BHL) is the world’s largest open
+   access digital library for biodiversity literature and archives.
+   Headquartered at the Smithsonian Libraries and Archives in Washington,
+   D.C., BHL operates as a worldwide consortium of natural history,
+   botanical, research, and national libraries working together to
+   digitize the natural history literature held in their collections and
+   make it freely available for open access as part of a global
+   “biodiversity community.”
+
+Follow BHL
+
+     *
+     *
+     *
+     *
+     *
+
+Join Our Mailing List
+
+   Sign up to receive the latest news, content highlights, and promotions.
+   Subscribe Now
+
+Subscribe to Blog via Email
+
+   Enter your email address to subscribe to this blog and receive
+   notifications of new posts by email.
+
+   Email Address ____________________
+
+   (BUTTON) Subscribe
+
+Subscribe to Blog Via RSS
+
+   Subscribe to the blog RSS feed to stay up-to-date on all the latest BHL
+   posts.
+   Access RSS Feed
+
+BHL on Twitter
+
+   Tweets by @BioDivLibrary
+
+   Inspiring Discovery through Free Access to Biodiversity Knowledge.
+
+   The Biodiversity Heritage Library makes it easier than ever for you to
+   access the information you need to study and explore life on Earth…for
+   free, anytime, anywhere.
+
+   60+ Million Pages of
+   Biodiversity Literature Online.
+
+   EXPLORE
+
+   Tools and Services
+   to Transform Research.
+
+   EXPLORE
+
+   300,000+
+   Illustrations on Flickr.
+
+   EXPLORE
+
+
+   ABOUT | BLOG AUTHORS | HARMFUL CONTENT | PRIVACY | SITE MAP | TERMS OF
+   USE
+
+   Download Adobe Acrobat Reader

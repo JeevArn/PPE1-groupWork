@@ -1,0 +1,346 @@
+   Accéder directement au contenu HAL open science HAL open science
+   (BUTTON)
+
+     * Documentation
+     * (BUTTON) FR
+       Français (FR)
+       Anglais (EN)
+     * (BUTTON) Se connecter
+
+     * Portail HAL SHS
+     * (BUTTON) Recherche ____________________
+       Loading...
+       (BUTTON)
+
+Recherche avancée
+       Information de documents
+       (title_t) Titres
+          + Titres
+          + Sous-titre
+          + Titre de l'ouvrage
+          + Titre du volume (Série)
+          + Champ de recherche par défaut (multicritères) + texte intégral
+            des PDF
+          + Résumé
+          + Texte intégral indexé des documents PDF
+          + Mots-clés
+          + Type de document
+          + Sous-type de document
+          + Tous les identifiants du document
+          + Identifiant HAL du dépôt
+          + Langue du document (texte)
+          + Pays (Texte)
+          + Ville
+          + À paraître (true ou false)
+       ____________________ (BUTTON) Ajouter
+       Auteur
+       (auth_t) Auteur (multicritères)
+          + Auteur (multicritères)
+          + Auteur : Nom complet
+          + Auteur : Nom de famille
+          + Auteur : Prénom
+          + Auteur : Complément de nom, deuxième prénom
+          + Auteur : Organisme payeur
+          + Auteur : IdHal (chaîne de caractères)
+          + Auteur : Fonction
+          + Auteur : personID (entier)
+          + Auteur : Identifiant de l'organisme payeur
+          + Auteur : Identifiant de la structure
+          + Directeur de thèse
+          + Éditeur
+          + Éditeur scientifique
+          + Éditeur de la série
+       ____________________ (BUTTON) Ajouter
+       Structure
+       (structure_t) Structure (multicritères)
+          + Structure (multicritères)
+          + Structure : Acronyme
+          + Structure : Nom
+          + Structure : Code
+          + Structure : Pays
+          + Structure : Type
+          + Structure : État dans le référentiel
+          + Structure : Identifiant HAL de la structure
+          + Structure/équipe de recherche : Pays
+          + Structure/regroupement d'équipes : Pays
+          + Structure/laboratoire : Pays
+          + Structure/regroupement de laboratoires : Pays
+          + Structure/institution : Pays
+          + Structure/regroupement d'institutions : Pays
+       ____________________ (BUTTON) Ajouter
+       Autres
+       (text) Champ de recherche par défaut (multicritères)
+          + Champ de recherche par défaut (multicritères)
+          +
+          + Revues (multicritères)
+          + Revue : Éditeur
+          + Revue : Titre abrégé
+          + Revue : Titre
+          + Revue : Identifiant interne
+          + Revue : Date de début de publication
+          + Revue : ISSN électronique
+          + Revue : ISSN
+          + Revue : Éditeur
+          + Revue : Couleur dans SHERPA/RoMEO
+          + Revue : État dans le référentiel
+          +
+          + Colloque (multicritères)
+          + Colloque : Titre
+          + Colloque : Organisateur
+          + Colloque : date de début (Année)
+          + Colloque : date de fin (Année)
+          + Conférence invitée (oui/non)
+          +
+          + Projets ANR (multicritères)
+          + Projet ANR : Acronyme
+          + Projet ANR : Acronyme du programme
+          + Projet ANR : Code décision (référence)
+          + Projet ANR : Nom
+          + Projet ANR : Identifiant interne
+          + Projet ANR : État dans le référentiel
+          +
+          + Projets européens (multicritères)
+          + Projet européen : Acronyme
+          + Projet européen : Identifiant de l'appel à projet
+          + Projet européen : Référence
+          + Projet européen : Nom
+          + Projet européen : Date de fin
+          + Projet européen : Financement
+          + Projet européen : Date de début
+          + Projet européen : État dans le référentiel
+          + Projet européen : Identifiant interne
+          +
+          + Date de production : année
+          + Date de mise en ligne : année
+          + Date de publication : année
+          + Date d'écriture : année
+          + Date de modification du dépôt : année
+          + Date de dépôt : année
+          + Date de publication électronique : année
+          +
+          + Collection HAL (multicritères)
+          + Collection HAL : catégorie
+          + Collection HAL : Code
+          + Collection HAL : Nom
+          + Collection HAL : Identifiant interne
+          +
+          + Identifiant interne du contributeur/déposant
+          + Nom complet du contributeur/déposant
+          +
+          + Domaines
+          + Domaine primaire
+          + Domaine racine
+          + Sous-domaine niveau 1
+          + Sous-domaine niveau 2
+          + Sous-domaine niveau 3
+          +
+          + Statut du document
+          + Version du document
+          + Type de dépôt
+          + Type de document
+          + ISBN
+          + Numéro - référence
+          + Identifiant DOI
+          +
+          + Classification
+          + Audience
+          + Vulgarisation
+          + Comité de lecture - texte (oui ou non)
+          + Actes de colloque
+          + Référence interne
+          + Financement
+          + Collaborations
+       ____________________ (BUTTON) Ajouter
+
+       (Lancer la recherche) Lancer la recherche
+       (BUTTON) Recherche experte (SolR)
+
+Recherche experte (SolR)
+
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       (BUTTON) Lancer la recherche
+       (BUTTON) Vers la recherche avancée
+     * Déposer
+
+   HAL SHS : Sciences humaines et sociales
+
+     * Accueil
+     * Parcourir
+          + Par discipline
+          + Par date de publication, rédaction
+          + Par type de publication
+     * Services
+          + Consulter les laboratoires connus de HAL SHS
+     * Documentation HAL
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   Loading...
+   (BUTTON) ×
+
+   Communication Dans Un Congrès Année : 2018
+
+L'héritage social et l'impact social des pratiques et des événements
+sportifs.
+
+   Dorothée Fournier (1, 2, 3)
+   (BUTTON) Afficher plus de détails
+   1 Labex ITEM - Laboratoire d'excellence Innovation et Territoires de
+   Montagne
+   2 LARHRA APMU - Action publique et mondes urbains
+   3 SENS - Sport et Environnement Social
+   Dorothée Fournier
+     * Fonction : Auteur
+     * PersonId : 4215
+     * IdHAL : dorothee-fournier
+
+   Laboratoire d'excellence Innovation et Territoires de Montagne
+   Action publique et mondes urbains
+   Sport et Environnement Social
+   (BUTTON) Réduire la vue détaillée
+
+Résumé
+
+   (BUTTON) en
+   Depuis le début du XXe siècle, les pratiques de loisirs sportifs, dont
+   les événements d’envergure locale, nationale et internationale, au
+   premier rang desquels le Tour de France cycliste, participent �
+   structurer la montagne sportive et touristique. En témoigne le lien
+   fort entretenu entre la Grande boucle et les Alpes dès les premières
+   années de l’épreuve. Cette corrélation entre pratiques sportives et
+   transformation des territoires a fait l’objet de nombreux travaux dans
+   divers champs disciplinaires étudiant le fait sportif. D’autres
+   recherches se sont attachées aux conséquences de ces évolutions en
+   termes de patrimoine sportif. Institué en ressource territoriale, le
+   secteur des loisirs sportifs constitue aujourd’hui un enjeu essentiel
+   de la pérennité des territoires de montagne en regard des retombées
+   économiques générées. Si cette manne n’est plus à démontrer (les
+   calendriers événementiels démontrent cette dynamique), il devient en
+   parallèle légitime de s’interroger sur la capacité du sport et des
+   événements liés à transmettre un héritage social et culturel, et dans
+   l’affirmative, à en mesurer l’impact au niveau social, culturel,
+   symbolique et de sa prise en compte par les politiques publiques. Notre
+   propos vise à expliquer le phénomène dans un contexte local en prenant
+   pour cas d’étude l’Oisans qui s’affiche comme « Capitale Mondiale du
+   vélo de montagne ». Si depuis de nombreuses années des acteurs du
+   territoire se sont positionnés en faveur de la création d’une Maison du
+   vélo, intention non mise en œuvre à ce jour, très récemment, un projet
+   de Cycling Lab est en passe de se concrétiser dans le but de «
+   capitaliser sur l’activité vélo très fortement ancrée sur le territoire
+   » . On peut s’interroger sur la validité et les fondements de cet «
+   ancrage » territorial du cyclisme en Oisans, le sonder au prisme de
+   l’impact de la pratique du ski alpin. Cela nous conduit dans un premier
+   temps à identifier les répercussions sociales en Oisans des sports
+   d’hiver à partir des années 1960, en termes de structuration
+   professionnelle, de recomposition culturelle, de réseau de sociabilité.
+   Nous nous attachons dans un deuxième temps à émettre des comparaisons
+   avec les indicateurs d’un nouvel héritage social. Les pratiques de
+   glisse, dérivées du ski et les pratiques du vélo « de montagne »
+   dérivées du cyclisme sur route en sont les éléments mobilisés depuis
+   les années 1970. La structuration de la profession de moniteurs de VTT
+   autour d’un Syndicat et la création de nouveaux métiers tels que les
+   patrouilleurs des domaines skiables, tout autant qu’une reconsidération
+   de la saison estivale par les opérateurs touristiques, sont
+   quelques-uns des indicateurs soulignant la forte propension de
+   l’événement à structurer le territoire. Dans une démarche historique,
+   la collecte de données croisées s’opère à différents niveaux en vue de
+   reconstituer les contextes et les jeux d’acteurs : analyse de textes,
+   entretiens semi-directifs, fonds d’archives des collectivités locales,
+   archives de la presse régionale.
+
+Mots clés
+
+   (BUTTON) en
+   Héritage social Héritage culturel Vélo tout terrain Mountain bike
+   Oisans montagne
+
+Domaines
+
+   Histoire Sociologie Géographie
+   (BUTTON) Liste complète des métadonnées
+
+   Dorothée Fournier  : Connectez-vous pour contacter le contributeur
+
+   https://shs.hal.science/halshs-01937837
+
+   Soumis le : mercredi 28 novembre 2018-11:48:09
+
+   Dernière modification le : vendredi 12 mai 2023-03:52:40
+
+   Fichier non déposé
+
+Dates et versions
+
+   halshs-01937837 , version 1 (28-11-2018)
+
+Identifiants
+
+     * HAL Id : halshs-01937837 , version 1
+
+Citer
+
+   (BUTTON)
+   Dorothée Fournier. L'héritage social et l'impact social des pratiques
+   et des événements sportifs.. Héritage sportif et dynamique
+   patrimoniale. International Conference. 18e Carrefours d'Histoire du
+   sport de la Société Française d'Histoire du Sport. 22th Conference of
+   the European Committee for Sports History, SFHS, CESH, Oct 2018,
+   Bordeaux, France. ⟨halshs-01937837⟩
+
+Exporter
+
+   BibTeX XML-TEI Dublin Core DC Terms EndNote DataCite
+
+Collections
+
+   ENS-LYON UNIV-LYON3 UNIV-SAVOIE UGA CNRS UNIV-LYON2 IRSTEA LARHRA SENS
+   UDL INRAE LARHRA-ARHN LARHRA-CONFLICTUALITES LARHRA-REGULATIONS
+   LARHRA-TES LARHRA-ATISM
+
+   446 Consultations
+   0 Téléchargements
+
+Partager
+
+   Gmail Facebook X LinkedIn More
+
+   Contact
+     * Support
+
+   Ressources
+     * Documentation
+     * FAQ
+     * API
+     * OAI-PMH
+     * AuréHAL
+
+   Informations
+     * Données personnelles
+     * Mentions légales
+     * Accessibilité
+     * Conformité RGAA
+
+   Questions juridiques
+     * Je publie, quels sont mes droits ?
+     * Loi pour une République numérique
+     * Stratégie de non-cession des droits
+     * SHERPA/RoMEO
+
+   Portails
+     * Portails institutionnels
+     * HAL
+     * HAL SHS
+     * HAL Thèses
+     * MédiHAL
+
+   CCSD
+     * CCSD
+     * Episciences
+     * Sciencesconf

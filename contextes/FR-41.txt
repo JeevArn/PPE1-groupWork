@@ -1,0 +1,30 @@
+
+Héritage
+
+   L'héritage est un des grands principes de la programmation orientée
+   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
+--
+
+   L'héritage est très utile pour définir et abstraire certaines
+   fonctionnalités communes à plusieurs classes, tout en permettant la
+--
+   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
+   une méthode privée eux-mêmes sans se soucier des règles d'héritage
+   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
+--
+     être connues avant d'être utilisées. Les classes mères doivent être
+     définies avant l'écriture d'un héritage. Cette règle générale
+     s'applique aussi dans le cas d'héritage ou d'implémentation
+     d'interfaces.
+--
+
+   Exemple #1 Exemple d'héritage
+   <?php
+--
+   déclaraient pas leur type de retour, et tout type de retour était
+   autorisé lors de leur héritage.
+
+--
+          + Visibilité
+          + Héritage
+          + L'opérateur de résolution de portée (::)

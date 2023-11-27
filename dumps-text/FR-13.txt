@@ -1,0 +1,380 @@
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Mon compte
+     * (BUTTON)
+     * Abo Mon compte johndoe@mail.com
+     *
+          + Mon abonnement
+          + Mes newsletters
+          + Lire le journal numérique
+          + Aide et contact
+     * Se déconnecter
+
+   S'abonner (BUTTON) (BUTTON)
+
+     * S'abonner
+     * (BUTTON) Mon compte
+          + Abo Mon compte
+          +
+               o Mon abonnement
+               o Mes newsletters
+               o Lire le journal numérique
+               o Aide et contact
+          + Se déconnecter
+     * Se connecter
+     * Newsletters
+     * Lire le journal
+
+     * Politique (BUTTON)
+          + Emmanuel Macron
+          + Elisabeth Borne
+          + Marine Le Pen
+          + Jean-Luc Mélenchon
+     * Société (BUTTON)
+          + Éducation
+          + Police
+          + Justice
+          + Santé
+          + Écologie
+     * International (BUTTON)
+          + Guerre en Ukraine
+          + Moyen-Orient
+          + Europe
+          + Amérique
+          + Asie
+          + Afrique
+     * Opinions (BUTTON)
+          + Tribunes
+          + Débats
+          + Nos chroniqueurs
+     * Économie (BUTTON)
+          + Entreprises
+          + Emploi
+          + Immobilier
+          + Médias
+          + Tech
+     * Paris
+     * Culture (BUTTON)
+          + Cinéma
+          + Livres
+          + Musique
+          + Expos
+     * Sport (BUTTON)
+          + Jeux Olympiques
+          + Football
+          + Rugby
+          + Tennis
+          + Cyclisme
+          + Formule 1
+          + Basket
+     * L'Antisèche
+     * JDD MAGAZINE
+     * Conférences
+
+   LES PLUS LUS
+
+   Abo
+
+Meurtre de Thomas à Crépol : ces prénoms qu’il faudrait taire
+
+Israël : le témoignage glaçant d’une survivante de l’attaque du 7 octobre,
+violée et mutilée par les terroristes du Hamas
+
+Mort de Thomas à Crépol : qui est Chaïd A., le principal suspect dont le
+profil se précise ?
+
+   Publicité
+
+   Société
+
+L'héritage, une spécificité culturelle française
+
+   Faut-il assouplir les règles successorales ? Doit-on encourager la
+   donation de son vivant ? Les modalités françaises liées à l'héritage
+   sont régulièrement questionnées en vertu des inégalités qu'elles
+   peuvent générer et de l'évolution sociale et démographique de notre
+   société. Éclairage avec les notaires et la sociologue Anne Gotman.
+   Chloé Rossignol 27/03/2021 à 16:00, Mis à jour le 10/02/2023 à 04:29
+
+   David Ambrosiano et Anne Gotman.
+   David Ambrosiano et Anne Gotman. © Romuald Meigneux-Emmanuelle
+   Corne/FMSH
+     * Facebook
+     * Email
+     * Whatsapp
+     * Twitter
+
+"Le patrimoine est un formidable instrument de solidarité et de cohésion
+familiale"
+
+   L'éclairage de David Ambrosiano, président du Conseil supérieur de
+   notariat.
+   Publicité
+
+   Le rapport annuel de la profession sera publié dans les prochains
+   jours. Quel est le bilan de l'année 2020 en matière de succession?
+   Il est toujours difficile d'évaluer précisément le nombre de
+   successions en France chaque année car toutes ne se règlent pas
+   obligatoirement dans nos offices. Pour autant, les notaires ont établi
+   en 2020 environ 500 000 actes de notoriété qui constatent qui sont les
+   héritiers d'un défunt. Un nombre relativement stable d'une année sur
+   l'autre.
+   La suite après cette publicité
+
+   Quel rôle le notariat a-t‑il joué dans l'histoire et l'évolution de la
+   fiscalité des successions?
+   Nous avons souvent été interrogés lors des réformes fiscales sur les
+   droits de mutation à titre gratuit [donations et successions], car nous
+   sommes au contact direct des Français en recevant chaque année plus de
+   20 millions de clients dans les 8.000 points de rencontre que
+   représentent nos offices notariaux et bureaux annexes – plus que les
+   bureaux de Poste ! Nous pouvons donc évaluer en amont et en aval et
+   avec pertinence les effets de telle ou telle disposition sur les
+   comportements de nos concitoyens.
+   La suite après cette publicité
+
+     "
+
+     Le nombre de familles recomposées augmente chaque année et la
+     solidarité doit pouvoir s'y exprimer
+     "
+
+   Le régime n'a pas été réformé en profondeur depuis 2007. A-t‑il besoin
+   d'être de nouveau simplifié, voire modernisé?
+   Les travaux que nous menons tendent à une modernisation du régime
+   d'imposition des mutations à titre gratuit, pour une plus grande
+   mobilité des patrimoines entre les générations, avec des règles
+   simples, équilibrées et compréhensibles par tous.
+
+   La fiscalité actuelle de la transmission du patrimoine est-elle
+   inadaptée aux enjeux de notre époque?
+   Premièrement, le patrimoine provient de revenus ou d'épargne déj�
+   fiscalisés. Ce patrimoine a déjà été taxé lors de son acquisition et de
+   sa détention puisque les taxations existent à chaque stade du cycle
+   économique. Deuxièmement, ce même patrimoine, quelle qu'en soit
+   l'importance, est un formidable instrument de solidarité et de cohésion
+   familiale intergénérationnelle. Nous le constatons au quotidien. C'est
+   un moyen d'entraide entre les générations, qui peut par ailleurs
+   prendre partiellement le relais de l'État providence.
+   La suite après cette publicité
+   La suite après cette publicité
+
+   Quelles sont les préconisations des notaires de France pour rendre le
+   système plus juste sur le plan social?
+   Le notariat formule plusieurs propositions pour aménager les barèmes,
+   faciliter la fluidité et la mobilité des patrimoines en faveur des
+   jeunes générations, "doper" fiscalement les transmissions
+   transgénérationnelles et, enfin, déconnecter des droits de mutation �
+   titre gratuit du droit du sang en facilitant les transmissions entre
+   beaux-parents et beaux-enfants indépendamment de toute adoption. Le
+   nombre de familles recomposées augmente chaque année et la solidarité
+   doit pouvoir s'y exprimer également de manière simple et souple.
+
+     "
+
+     Toutes les mesures en faveur des donations n'ont aucun coût fiscal
+     pour l'État
+     "
+
+   L'une des solutions est-elle de favoriser la donation de son vivant?
+   Doit-on aller vers une différenciation des barèmes?
+   C'est une piste pour fluidifier la circulation des patrimoines en
+   faveur des jeunes générations, en favorisant le barème des donations
+   par rapport aux successions mais sans alourdir les droits de succession
+   ; en réintroduisant une réduction de droits en cas de donation en
+   prenant en compte l'âge du donateur et/ou du donataire ; en
+   assouplissant les règles du rappel fiscal, car le délai de quinze ans
+   est beaucoup trop long. Ce délai devrait être ramené à dix ans avec la
+   possibilité de reconstituer les abattements chaque année au prorata du
+   temps passé depuis la dernière donation, ce qui permettrait de donner
+   de façon beaucoup plus régulière. Nous proposons également de favoriser
+   fiscalement les transmissions transgénérationnelles au profit des
+   petits-enfants en matière de donation et de succession. Toutes ces
+   mesures en faveur des donations n'ont en réalité aucun coût fiscal pour
+   l'État, car en la matière les Français ne donnent pas au-delà des
+   abattements fiscaux, et ce qui n'est pas donné, par définition, n'est
+   pas taxé et ne profite à personne, ni aux jeunes générations ni �
+   l'économie, qui en ont tous deux besoin.
+
+"L'héritage a une fonction symbolique majeure, il est le codage des liens
+intergénérationnels"
+
+   L'éclairage d'Anne Gotman, sociologue et directrice de recherche
+   émérite au CNRS-Cerlis, auteur du Que sais-je? L'Héritage (PUF, 2006)
+
+   Que dit la succession de nos sociétés ? De quoi est-elle
+   représentative?
+   L'héritage est un phénomène populaire, il n'est plus l'apanage des
+   riches, et le patrimoine acquis par le travail est une donnée de la vie
+   française qui fait partie de notre culture, à laquelle nous sommes
+   attachés quasiment comme au Code civil. Réduire l'héritage ou voire
+   l'abolir n'est absolument pas un désir commun, même s'il est bien sûr
+   un facteur d'inégalités entre les catégories sociales concernées. Les
+   droits successoraux sont progressifs ; on peut certes se demander s'ils
+   le sont suffisamment, mais il existe un pourcentage important
+   d'héritiers qui n'en paient pas en raison de la modicité de la part
+   héritée. La spécificité française, qui remonte à la Révolution, est de
+   payer des impôts sur la partie héritée, et non pas léguée,
+   contrairement aux systèmes anglo-saxons, qui utilisent la liberté
+   testamentaire. En France, outre sa fonction utilitaire et économique,
+   l'héritage a une fonction symbolique majeure, il est le codage des
+   liens intergénérationnels et la représentation de l'égalité au sein de
+   la famille. La transmission par voie de filiation obligatoire qui
+   prévaut en France et dans les pays de Code civil est connue de tous
+   sans exception, à la naissance, si j'ose dire, tant elle fait partie de
+   notre histoire.
+
+     "
+
+     L'héritage est un redistributeur de biens, certes, mais également
+     des liens d'affection!
+     "
+
+   Comment s'accommode-t‑on du paradoxe lié à l'héritage, à la fois source
+   de partage, de liberté, mais aussi de captivité envers nos aînés?
+   On parle de captivité à partir du moment où on considère les liens
+   intergénérationnels comme privatifs de liberté. C'est un point de vue…
+   C'est dans l'air du temps, dans notre société qui invite sans cesse �
+   se construire et se reconstruire, de concevoir l'ascendance comme une
+   prison. Dans cette optique, l'héritage est la réactivation de
+   l'ascendance sur la descendance, et sur le plan affectif, celle de
+   l'emprise familiale sur l'individu. Les conflits potentiels sont liés �
+   l'argent mais aussi à la redistribution des places au sein de la
+   cellule familiale, dont la part reçue est la tranchante concrétisation.
+   L'héritage est un redistributeur de biens, certes, mais également des
+   liens d'affection! Les parents refusent souvent de jouer cette carte
+   affective, et préfèrent "laisser faire la loi", ainsi qu'ils le disent,
+   plutôt que de faire un testament. Une forme de succession sans parole
+   qui peut frustrer les enfants en mal de reconnaissance. En tout état de
+   cause, l'héritage met la famille en crise car s'y disputent des parts
+   mais également des places, et parce que les biens à partager,
+   intimement chargés de liens affectifs, ont une valeur à la fois
+   économique et symbolique.
+
+   La donation de son vivant est-elle une solution?
+   Oui, mais encore faut-il pouvoir donner à tout le monde à parts égales
+   ; tout dépend de l'entente et de la compréhension au sein de la
+   famille. Autre limite de la donation : les besoins de fin de vie, que
+   les parents ont peine à évaluer, et sur lesquels les notaires engagent
+   à la prudence. Nous ne sommes plus en effet au temps, pas si lointain,
+   où les enfants, plus à l'aise que leurs parents sur le plan économique,
+   les incitaient à se faire plaisir de leur vivant, et à ne pas leur
+   réserver à tout à prix un héritage susceptible par ailleurs de leur
+   créer des obligations. Donner, oui, quand les enfants en ont besoin,
+   sans oublier toutefois les besoins du grand âge, qui peuvent se révéler
+   très gourmands.
+
+
+     "
+
+     L'allongement de l'espérance de vie peut favoriser les donations du
+     vivant
+
+
+     "
+
+   Quel avenir pour l'héritage en conséquence de ces évolutions
+   démographiques et sociales?
+   L'allongement de l'espérance de vie peut tarir les transferts
+   successoraux et favoriser les donations du vivant, en raison de besoins
+   de fin de vie de plus en plus importants. Après avoir progressivement
+   gagné toutes les catégories de population, l'héritage post mortem
+   risque de diminuer. La transmission transgénérationnelle – aux
+   petits-enfants – devrait se démocratiser en vertu du vieillissement des
+   héritiers directs. Quant à l'écrêtement au sommet, pour les plus
+   fortunés, c'est une question politique et fiscale.
+
+   Publicité
+
+Contenus sponsorisés
+
+   Sur le même sujet
+
+   Caio Benicio travaillait comme livreur à Dublin. Il était en moto
+   lorsque l’attaque au couteau a eu lieu, ce jeudi 23 novembre.
+   International
+
+Attaque au couteau à Dublin : la cagnotte pour le Brésilien qui a désarmé
+l’agresseur récolte plus de 350.000 euros
+
+   Pour récompenser Caio Benicio, le Brésilien qui a maîtrisé l’agresseur
+   de Dublin ce jeudi 23 novembre, une cagnotte a été lancée afin de lui «
+   payer une pinte ». Pour l’heure, elle a récolté plus de 350.000 euros.
+
+   Quartier dédié aux mineurs dans un centre pénitentiaire.
+   Abonné Société
+
+Une jeunesse sans limite(s)
+
+   Armés et ultra-violents, de plus en plus de mineurs basculent du côté
+   obscur, bien plus vite qu’auparavant.
+
+   Ce croquis du tribunal du 13 novembre 2018 montre le tueur en série
+   français présumé Michel Fourniret et son ancienne épouse Monique
+   Olivier à la Cour des Assizes des Yvelines à Versailles, lors du
+   premier jour du procès de Michel Fourniret, soupçonné du meurtre en
+   1988 de Farida Hamiche.
+   Abonné Société
+
+Monique Olivier, l’âme damnée de Fourniret
+
+   Le procès de la veuve du tueur en série s’ouvre le 28 novembre. Un
+   récent ouvrage revient sur cette affaire sordide.
+
+   Un individu a agressé au couteau un couple dans un centre commercial E.
+   Leclerc à Amboise.
+   Société
+
+Indre-et-Loire : un couple victime d’une attaque au couteau à Amboise
+
+   Dans un centre commercial situé à Amboise (Indre-et-Loire), un individu
+   a agressé au couteau un couple. L’assaillant a été maîtrisé et a été
+   placé en garde à vue pour tentative de meurtre.
+
+   Dans un appartement d’Alfortville, les policiers ont découvert les
+   trois enfants, sans vie.
+   Société
+
+Val-de-Marne : un père de famille connu des services de police tue ses trois
+enfants
+
+   Younes E., 41 ans, a tué ses trois jeunes enfants dans un appartement
+   d’Alfortville (Val-de-Marne). La mère des victimes n’a pas encore été
+   retrouvée.
+
+   Le naufrage a eu lieu mercredi 22 novembre
+   Société
+
+Naufrage de migrants dans la Manche : quatre personnes mises en examen et
+incarcérées
+
+   Un bateau transportant une soixantaine de migrants a chaviré mercredi
+   après avoir quitté une plage entre Neufchâtel-Hardelot et Equihen-Plage
+   (Pas-de-Calais).
+
+   Publicité
+
+   Publicité
+
+   Télécharger l'application Le Journal du Dimanche pour iPhone, iPad ou
+   Android
+
+     * Contact
+     * Annonceurs
+     * CGU
+     * Charte des données personnelles
+     * Charte des cookies
+     * Gestion des cookies
+     * Mentions légales
+     * CGV abonnement
+     * Aide abonnement
+     * Plan du site
+
+     *
+     *
+     *
+     *
+
+   © Copyright Le Journal du Dimanche. Tous droits réservés.

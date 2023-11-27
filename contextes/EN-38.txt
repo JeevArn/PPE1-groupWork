@@ -1,0 +1,306 @@
+   Networks and Stories. Analyzing the Transmission of the Feminist
+   Intangible Cultural Heritage on Twitter
+
+--
+
+Digital Technologies and the Role of Data in Cultural Heritage: The Past, the
+Present, and the Future
+--
+   (This article belongs to the Special Issue Big Data Analytics for
+   Cultural Heritage)
+   Download keyboard_arrow_down
+--
+   development is inevitable because of the increasing digitisation of
+   cultural heritage and the demand to make collections more accessible”
+   [26]. It is obvious that it is a matter of accessibility. The stakes
+--
+   while, other conceptual models proposed are not that widespread. The
+   CIDOC CRM represents an “ontology” for cultural heritage information,
+   i.e., it describes in a formal language the explicit and implicit
+   concepts and relations relevant to the documentation of cultural
+   heritage. On the other hand, one can find a large number of protocols
+   that are constructed in order to describe cultural related objects.
+--
+   the digitization is the part that holds the actual “image”. Applying
+   only to tangible cultural heritage the power of images is such that
+   digitization is considered to be one of the major branches of the
+--
+   European Commission has once more invested a large number of projects
+   related to digital cultural heritage focusing on the digitisation
+   processes.
+   https://digital-strategy.ec.europa.eu/en/policies/cultural-heritage,
+   accessed on 27 June 2022. Projects like VHH (Visual History of the
+--
+   (Geometric reconstruction and novel semantic reunification of cultural
+   heritage objects, https://cordis.europa.eu/project/id/665155, accessed
+   on 27 June 2022 and Scan4Reco (Multimodal scanning of cultural heritage
+   assets for their multilayered digitization and preventive conservation
+--
+   process of interconnecting people with culture. An extensive survey on
+   machine learning for cultural heritage has recently been presented by
+   Fiorucci et al. [85]. They conclude, however, “in most cases that ML is
+--
+   been and keeps being invested in cultural informatics and cultural
+   heritage. Europeana (Europeana, Discover inspiring European Cultural
+   Heritage, https://www.europeana.eu, accessed on 27 June 2022) is a main
+   axe in founding a place of common grounds. A place to define a common
+   language, to dig for our roots, to search for interconnections.
+   According to its website, Europeana “provides cultural heritage
+   enthusiasts, professionals, teachers, and researchers with digital
+   access to European cultural heritage material”. This is performed in
+   order “to inspire and inform fresh perspectives and open conversations
+--
+   Apart from Europeana, that leads the way to digitization and access to
+   culture and cultural heritage, an important procedure in order to
+   interconnect with our roots, during the last two decades, a large
+--
+   content generation in the online world. PLUGGY supports citizens in
+   shaping cultural heritage and being shaped by it. Amongst its goals is
+   to look at new approaches of presenting cultural resources, and new
+--
+   outcomes related to visualization that can help the access to
+   archaeological heritage. It actually deals with large scale data in
+   archaeology [95].
+   The fact that Europe keeps changing, and people that live or inhabit in
+   it, or deal with the digital world are largely unaware of the heritage
+   is the main targte of Rices project [96]. Digital heritage in a mixed
+   environment, as well as identifying the differentiation between
+--
+   achieve the key aspects of the New EU Agenda for Culture. CHIEF project
+   (Chief Project—Cultural Heritage and Identities of Europe’s Future,
+   https://cordis.europa.eu/project/id/770464, accessed on 27 June 2022 is
+   also concerned about the EU agenda related to cultural heritage and
+   identity. Understanding the new environment in which creative and
+--
+   from an interdisciplinary, collaborative, and pluralistic perspective.
+   SPICE project aims to promote citizen curation of cultural heritage by
+   providing a set of state-of-the-art tools so that people can share
+--
+   digital services and tools for facilitating the access to Cultural
+   Heritage through tailor-made novel experiences, creative reuse,
+   enrichment, and co-creation [98]. CREARCH is a project the intends to
+   show to the public the development and building of shared values and
+   common heritage as a result of trading or migrations within Europe. It
+   is based on digital storytelling based on visual, digital, and
+   transmedia performances [99]. Advanced methods in cultural heritage
+   digitization is the scope of the VAST project. It achieves that with
+--
+   culture/history [100]. The projects mentioned are only some of the
+   numerous projects related to arts, culture, cultural heritage, and
+   their connection to cultural informatics or technology in general.
+--
+
+2.8. Big Data and Cultural Heritage
+
+   The new “trends” in technology usually affect the research branches
+   that are attached to it, and so, cultural heritage is examined from the
+   perspective of big data. Big data usually derive from social media,
+--
+   trend of personas. Another interesting sector of culture and cultural
+   heritage is games. The authors in [103] explain an algorithm for user
+   clustering in cultural games. Intangible cultural heritage and the
+   analysis on social media is the main theme of [104]. Specifically, the
+   authors analyse the Transmission of the Feminist Intangible Cultural
+   Heritage on Twitter. The perspective of multi-faceted analytics in the
+   cultural heritage domain is researched in [105]. The authors present a
+   data lake that offers both fundamental and advanced user and
+--
+   Many recent works try to tackle problems related to culture, cultural
+   heritage, and cultural informatics from the perspective of big data
+   [107,108,109,110,111,112,113]. The real question is why issues that
+--
+   problem that we came up with today and have to find a solution. On the
+   contrary, culture and cultural heritage management remains in the
+   discussion of how we should deal with it in each era and its modern
+--
+   conducted over recent decades, having as their main topic culture,
+   cultural heritage, a combination of humanities and technology, and so
+   on. Actually, behind this huge funding on behalf of the EU, there is a
+   strategic plan concerning culture and cultural heritage. There are two
+   ways to examine the strategy of the EU towards culture. The first one
+--
+   protection and nurturing of democracies, as well as reshaping them. The
+   second part is directly related to cultural heritage and includes green
+   technologies, new ways for sustainability in museums and cultural
+--
+   another axis which is the universality of the “system”; this related to
+   cultural heritage and cultural informatics when it comes to
+   people-centric approaches. Data cannot be encountered as an autonomous
+--
+   understanding the 21st century audiences, driving visionary
+   interdisciplinary research, preserving natural and cultural heritage,
+   providing a more efficient administrative infrastructure, and by
+--
+   mission: “...working internationally to further the appreciation and
+   preservation of the world’s cultural heritage for the enrichment and
+   use of present and future generations”, has as its strategic plan to
+--
+   technology giants Microsoft and Google, the first one with its
+   initiative called AI for Cultural Heritage
+   (https://www.microsoft.com/en-us/ai/ai-for-cultural-heritage (accessed
+   on 5 June 2022)) and the second one with its platform called “Arts and
+--
+   AI  Artificial Intelligence
+   CH  Cultural Heritage
+   EU  European Union
+--
+   32. Pletinckx, D.; Callebaut, D.; Killebrew, A.E.; Silberman, N.A.
+       Virtual-reality heritage presentation at Ename. IEEE MultiMedia
+       2000, 7, 45–48. [Google Scholar] [CrossRef]
+--
+       exhibits: Designing personalized stories with handheld Augmented
+       Reality in museums. In Proceedings of the 2013 Digital Heritage
+       International Congress (DigitalHeritage), Marseille, France, 28
+       October–1 November 2013; Volume 2, pp. 685–688. [Google Scholar]
+--
+   49. Arias, P.; Herraez, J.; Lorenzo, H.; Ordonez, C. Control of
+       structural problems in cultural heritage monuments using
+       close-range photogrammetry and computer methods. Comput. Struct.
+       2005, 83, 1754–1766. [Google Scholar] [CrossRef]
+   50. Yastikli, N. Documentation of cultural heritage using digital
+       photogrammetry and laser scanning. J. Cult. Herit. 2007, 8,
+--
+       methods of terrestrial laser scanning, photogrammetry and
+       tacheometry data for recording of cultural heritage buildings. Int.
+       Arch. Photogramm. Remote Sens. Spat. Inf. Sci. 2008, 37, 213–218.
+--
+       technologies: What are the differences? In Proceedings of the 2013
+       Digital Heritage International Congress (DigitalHeritage),
+       Marseille, France, 28 October–1 November 2013; Volume 1, pp.
+--
+   56. Guidi, G.; Gonizzi Barsanti, S.; Micoli, L.L.; Russo, M. Massive 3D
+       digitization of museum contents. In Built Heritage: Monitoring
+       Conservation Management; Springer: Cham, Switzerland, 2015; pp.
+       335–346. [Google Scholar]
+   57. Singh, G. CultLab3D: Digitizing cultural heritage. IEEE Comput.
+       Graph. Appl. 2014, 34, 4–5. [Google Scholar] [CrossRef]
+   58. Tommasi, C.; Achille, C.; Fassi, F. From point cloud to BIM: A
+       modelling challange in the cultural heritage field. Int. Arch.
+       Photogramm. Remote. Sens. Spat. Inf. Sci. 2016, 41, 429–436.
+--
+   59. Rahaman, H.; Champion, E. To 3D or not 3D: Choosing a
+       photogrammetry workflow for cultural heritage groups. Heritage
+       2019, 2, 1835–1851. [Google Scholar] [CrossRef][Green Version]
+   60. Grilli, E.; Farella, E.; Torresani, A.; Remondino, F. Geometric
+       feature analysis for the classification of cultural heritage point
+       clouds. In Proceedings of the 27th CIPA International Symposium
+--
+       semantic segmentation using a deep learning framework for cultural
+       heritage. Remote Sens. 2020, 12, 1005. [Google Scholar]
+       [CrossRef][Green Version]
+--
+       F. The AIRES-CH Project: Artificial Intelligence for Digital
+       REStoration of Cultural Heritages Using Nuclear Imaging and
+       Multidimensional Adversarial Neural Networks. In Proceedings of the
+--
+   64. Ballarin, M.; Balletti, C.; Vernier, P. Replicas in cultural
+       heritage: 3D printing and the museum experience. Int. Arch.
+       Photogramm. Remote Sens. Spat. Inf. Sci. 2018, 42, 55–62. [Google
+--
+   85. Fiorucci, M.; Khoroshiltseva, M.; Pontil, M.; Traviglia, A.; Del
+       Bue, A.; James, S. Machine learning for cultural heritage: A
+       survey. Pattern Recognit. Lett. 2020, 133, 102–108. [Google
+--
+   89. Blümm, M.; Schmunk, S. Digital Research Infrastructures: DARIAH. In
+       3D Research Challenges in Cultural Heritage II; Springer: Cham,
+       Switzerland, 2016; pp. 62–73. [Google Scholar]
+--
+       Vassilakaki, E.; Padfield, J. Empowering reuse of digital cultural
+       heritage in context-aware crosscuts of European history. In
+       Proceedings of the Workshop on Cultural Informatics co-located with
+       the EUROMED International Conference on Digital Heritage 2018
+       (EUROMED 2018), Nicosia, Cyprus, 3 November 2018; pp. 1–10. [Google
+--
+       the Characteristics of Qualitative Discussions and Their Analysis
+       for Recommendations to Cultural Institutions. Heritage 2018, 1,
+       239–253. [Google Scholar] [CrossRef][Green Version]
+--
+   93. Lim, V.; Frangakis, N.; Tanco, L.M.; Picinali, L. PLUGGY: A
+       pluggable social platform for cultural heritage awareness and
+       participation. In Advances in Digital Cultural Heritage; Springer:
+       Cham, Switzerland, 2018; pp. 117–129. [Google Scholar]
+   94. Ioannides, M.; Davies, R. ViMM-Virtual Multimodal Museum: A
+       manifesto and roadmap for Europe’s digital cultural heritage. In
+       Proceedings of the 2018 International Conference on Intelligent
+--
+       Gangemi, A.; Kuflik, T.; Lieto, A.; Maguire, M.; Marras, A.M.; et
+       al. Integrating citizen experiences in cultural heritage archives:
+       Requirements, state of the art, and challenges. ACM J. Comput.
+--
+   98. Kaldeli, E.; Tsakou, G.; Giglitto, D.; Cesaroni, F.; Tzouvaras, V.;
+       Stamou, G. CultureLabs: Cultural heritage and digital technology at
+       the service of social innovation. In Proceedings of the CEUR
+--
+   101. Konstantakis, M.; Alexandridis, G.; Caridakis, G. A personalized
+       heritage-oriented recommender system based on extended cultural
+       tourist typologies. Big Data Cogn. Comput. 2020, 4, 12. [Google
+--
+       Peña-Fernández, S. Networks and Stories. Analyzing the Transmission
+       of the Feminist Intangible Cultural Heritage on Twitter. Big Data
+       Cogn. Comput. 2021, 5, 69. [Google Scholar] [CrossRef]
+--
+       Vassilakis, C. Hydria: An online data lake for multi-faceted
+       analytics in the cultural heritage domain. Big Data Cogn. Comput.
+       2020, 4, 7. [Google Scholar] [CrossRef][Green Version]
+--
+       Schreiber, F.A.; Tanca, L. Big data meets digital cultural
+       heritage: Design and implementation of scrabs, a smart
+       context-aware browsing assistant for cultural environments. J.
+--
+       data techniques to construct a balance model referring to
+       stakeholders of tourism intangible cultural heritage. Int. J.
+       Comput. Appl. Technol. 2016, 54, 192–200. [Google Scholar]
+--
+       Analysis of the Temporal and Spatial Characteristics of Material
+       Cultural Heritage Driven by Big Data—Take Museum Relics as an
+       Example. Information 2021, 12, 153. [Google Scholar] [CrossRef]
+--
+       and topics of Big Data and Artificial Intelligence application for
+       cultural heritage and museum research. IOP Conf. Ser. Mater. Sci.
+       Eng. 2020, 806, 012036. [Google Scholar] [CrossRef]
+   111. Levin, N.; Ali, S.; Crandall, D.; Kark, S. World Heritage in
+       danger: Big data and remote sensing can help protect sites in
+--
+       personalized 3D representation and big data management in cultural
+       heritage. In Proceedings of the International Conference on
+       Transdisciplinary Multispectral Modeling and Cooperation for the
+       Preservation of Cultural Heritage, Athens, Greece, 10–13 October
+       2018; pp. 69–77. [Google Scholar]
+   113. Dimoulas, C.A. Cultural Heritage Storytelling, Engagement and
+       Management in the Era of Big Data and the Semantic Web.
+--
+       [Google Scholar]
+   119. Giaccardi, E. Heritage and Social Media: Understanding Heritage in
+       a Participatory Culture; Routledge: London, UK, 2012. [Google
+--
+   CulturalBase    2015                 Social Platform
+      Riches       2013    Engage with heritage in the digital world
+      INVENT       2020           Inclusive Cultural Policies
+--
+   Poulopoulos, V.; Wallace, M. Digital Technologies and the Role of Data
+   in Cultural Heritage: The Past, the Present, and the Future. Big Data
+   Cogn. Comput. 2022, 6, 73. https://doi.org/10.3390/bdcc6030073
+--
+   Poulopoulos V, Wallace M. Digital Technologies and the Role of Data in
+   Cultural Heritage: The Past, the Present, and the Future. Big Data and
+   Cognitive Computing. 2022; 6(3):73. https://doi.org/10.3390/bdcc6030073
+--
+   Poulopoulos, Vassilis, and Manolis Wallace. 2022. "Digital Technologies
+   and the Role of Data in Cultural Heritage: The Past, the Present, and
+   the Future" Big Data and Cognitive Computing 6, no. 3: 73.
+--
+   Poulopoulos, V.; Wallace, M. Digital Technologies and the Role of Data
+   in Cultural Heritage: The Past, the Present, and the Future. Big Data
+   Cogn. Comput. 2022, 6, 73. https://doi.org/10.3390/bdcc6030073
+--
+   Poulopoulos V, Wallace M. Digital Technologies and the Role of Data in
+   Cultural Heritage: The Past, the Present, and the Future. Big Data and
+   Cognitive Computing. 2022; 6(3):73. https://doi.org/10.3390/bdcc6030073
+--
+   Poulopoulos, Vassilis, and Manolis Wallace. 2022. "Digital Technologies
+   and the Role of Data in Cultural Heritage: The Past, the Present, and
+   the Future" Big Data and Cognitive Computing 6, no. 3: 73.
+--
+   [_] Hematology Reports
+   [_] Heritage
+   [_] Histories
