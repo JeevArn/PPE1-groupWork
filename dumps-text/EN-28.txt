@@ -1,277 +1,287 @@
-   #alternate alternate alternate alternate
+   Skip to main content
 
-   Interpol Logo Interpol Logo
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
 
-   (BUTTON)
-     * Who we are
-          +
-               o What is INTERPOL?
-               o INTERPOL – Five actions for a safer world
-          +
-               o General Secretariat
-               o Secretary General
-               o Official visitors to the General Secretariat
-               o Jürgen Stock biography
-               o Values and ethics
-          +
-               o Governance
-               o General Assembly
-               o Executive Committee
-               o President
-          +
-               o Member countries
-               o National Central Bureaus (NCBs)
-          +
-               o Strategy
-               o Strategic Framework 2022-2025
-               o Global Policing Goals
-          +
-               o Legal framework
-               o Data protection
-               o Legal documents
-               o Cooperation agreements
-               o Membership of INTERPOL
-               o Name and logo
-               o Information, communications and technology (ICT) law
-                 projects
-          +
-               o Our funding
-          +
-               o INTERPOL 100
-               o 1923 – how our history started
-               o Key dates
-               o INTERPOL then and now
-          +
-               o Commission for the Control of INTERPOL’s Files
-               o About the CCF
-               o How to submit a request
-               o CCF sessions and decisions
-               o Frequently Asked Questions
-     * Crimes
-          +
-               o Corruption
-          +
-               o Counterfeit currency and documents
-          +
-               o Crimes against children
-          +
-               o Cultural heritage crime
-          +
-               o Cybercrime
-          +
-               o Drug Trafficking
-          +
-               o Environmental crime
-          +
-               o Financial crime
-          +
-               o Firearms trafficking
-          +
-               o Human trafficking and migrant smuggling
-          +
-               o Illicit goods
-          +
-               o Maritime crime
-          +
-               o Organized crime
-          +
-               o Terrorism
-          +
-               o Vehicle crime
-          +
-               o War crimes
-     * How we work
-          +
-               o COVID-19
-          +
-               o Border management
-          +
-               o Capacity building
-          +
-               o Command and coordination centre
-          +
-               o Criminal intelligence analysis
-          +
-               o Databases
-          +
-               o Forensics
-          +
-               o Fugitive investigative support
-          +
-               o I-CORE: our vision for change
-          +
-               o Innovation
-          +
-               o INTERPOL response teams
-          +
-               o Major event security
-          +
-               o Notices
-          +
-               o The Dialogue
-     * Our partners
-          +
-               o Government partners
-          +
-               o International organization partners
-               o INTERPOL and the European Union
-               o INTERPOL and the African Union
-               o INTERPOL and the United Nations
-          +
-               o Our partnerships with regional policing bodies
-               o Support for AFRIPOL
-          +
-               o INTERPOL Foundation for a Safer World
-          +
-               o Private sector partners
-          +
-               o General Assembly Exhibition
-          +
-               o How to become a partner
-     * What you can do
-          +
-               o Stay safe
-               o Beware of scams using INTERPOL’s name
-          +
-               o Help us find
-          +
-               o If you need help
-          +
-               o Honouring the world's police
-          +
-               o Work for us
-     * News
-     * Wanted persons
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TZWKT8
 
-   en
-     * en
-     * fr
-     * es
-     * ar
+   Kent State University logo
+     * Apply
+     * Visit
+     * Give Now
 
-What are you searching for ?
+     * FlashLine Login
+     * Calendars
+     * Phone Directory
+     * Maps & Directions
+     * Search
 
-   ____________________ (BUTTON) icon-loupe
+   School of Information
+     * Academic Programs
+       Close Academic Programs Overview
+          + Health Informatics
+          + Knowledge Management
+          + Library & Information Science
+          + School Library Media K-12
+          + User Experience
+          + Health Informatics Graduate Certificate
+          + Knowledge Management Graduate Certificate
+          + Admissions
+          + Scholarships
+     * Careers & Internships
+       Close Careers & Internships Overview
+          + Share an Opportunity
+          + Jobs in the iSchool
+          + Job & Internship Board
+          + Resources for Students & Alumni
+     * Research
+       Close Research Overview
+          + Reinberger Children's Library Center
+          + Research Centers & Facilities
+          + Explore Our Work
+     * Faculty & Staff
+       Close Faculty & Staff Overview
+          + Full-Time Faculty
+          + Part-Time/Adjunct Faculty
+          + Staff
+          + Emeriti
+     * Alumni
+       Close Alumni Overview
+          + Alumni Spotlights
+          + Alumni Award Winners
+          + MLIS Student Achievement Data
+          + Health Informatics Student Achievement Data
+          + Update Your Information
+          + Give to the iSchool
+     * About
+       Close About Overview
+          + Message from the Director
+          + Why the iSchool?
+          + News & Events
+          + Diversity & Inclusion Statement
+          + History
+          + Mission & Accreditation
+          + Location & Facilities
+          + Contact Us
+          + Advisory Boards
 
-Cultural heritage crime
+     * FlashLine Login
+     * Calendars
+     * Phone Directory
+     * Maps & Directions
+     * Search
 
-   Home
-   >
-   Crimes
-   >
-   Cultural heritage crime
-   Print this page Facebook INTERPOL Twitter INTERPOL Scroll to top
-   [SELECT A PAGE___________________________________________________]
-     *
-          + The issues – cultural property
-     *
-          + How we fight cultural heritage crime
-     *
-          + ID-Art mobile app
-          +
-               o ID-Art: success stories
-               o Privacy Policy - ID-Art Application
-               o Cookie Policy - ID-Art Application
-               o ID Art application - Terms of Use
-     *
-          + Stolen Works of Art Database
-          +
-               o Application form to access INTERPOL’s Works of Art
-                 Database
-     *
-          + Object ID
-     *
-          + Partnerships
-     *
-          + Protecting cultural heritage
+     * Apply
+     * Visit
+     * Give Now
 
-   Cultural property is part of our heritage, history and identity. It
-   needs protecting from criminals.
+   Menu
 
-   Trafficking in cultural property is a low-risk, high-profit business
-   for criminals with links to organized crime.
+Cultural Heritage Informatics
 
-   From stolen artwork to historical artefacts, this crime can affect all
-   countries, either as origin, transit or destinations.
+You are here
 
-Activities
+     * Kent
+     * School of Information
+     * Cultural Heritage Informatics
 
-   CrimesThe issues – cultural property
+   Cultural heritage informatics (CHI) is an emerging field of
+   interdisciplinary research and practice concerned with the role of
+   information and computing technologies (ICTs) to support the creation,
+   capture, organization, and pluralization of culture, in whatever form,
+   as heritage.
 
-   There is a lucrative black market in cultural property with strong
-   links to organized crime.
-   CrimesHow we fight cultural heritage crime
+   Cultural heritage stewardship encompasses numerous allied disciplines
+   including archival studies, librarianship, preservation of heritage
+   materials, and museum studies. They share a common goal of the
+   protection of cultural heritage in all forms, both tangible and
+   intangible.
 
-   Our specialized officers share their expertise and passion for
-   protecting cultural heritage.
-   CrimesID-Art mobile app
+   While there is a focus on existing data, datasets, and metadata and
+   ways to link them, CHI also necessarily includes identification and
+   exploration into appraisal, data capture, preservation, data
+   processing, curation, forensics and reconstruction, visualization,
+   documentation, access and discoverability, as well as development of
+   innovative technologies to empower and support engagement with ICTs as
+   tools for communication and remembering of culture.
 
-   Capture the art, capture the criminals
-   CrimesStolen Works of Art Database
+Pathways
 
-   The Stolen Works of Art database is our main tool to tackle the traffic
-   in cultural property.
-   What you can doProtecting cultural heritage
+   Archival Studies | Museum Studies | Special Collections
 
-   Individuals and countries can all do more to protect cultural heritage.
-   CrimesObject ID
-   Our partnersPartnerships
+Archival Studies
 
-   Combined action with partners strengthens our efforts to protect
-   cultural heritage.
+   Archivists are information professionals who assess, collect, organize,
+   preserve, maintain control over, and provide access to records and
+   archives determined to have long-term value. The records maintained by
+   an archivist can consist of a variety of analog and digital forms and
+   documentary genres, including letters, diaries, logs, various other
+   writings, official documents, photographs and other visual materials,
+   sound recordings, and moving images. According to archival scholar
+   Laura Millar, “these records are kept because they have continuing
+   value to the creating agency and to other potential users. They are the
+   documentary evidence of past events. They are the facts we use to
+   interpret and understand history.” Archival material can be found in
+   many institutions and organizations, as well as in personal
+   collections, thus archivists work in a wide variety of environments.
 
-Related news
+   For further information on this area, please consult the advising sheet
+   for the Archival Studies pathway.
 
-International art trafficking operation leads to 60 arrests and over 11,000
-objects recovered
+Museum Studies
 
-   4 May 2023
+   There is no agreed-upon single word to describe all museum workers. For
+   lack of that word, here we use museum professional. But this field-wide
+   disagreement perhaps arises because there is not one profession, but
+   several museal professions that consist of a range of activities
+   undertaken in a museum (e.g., collections work, administration, visitor
+   services, exhibit design). In this program, we approach the education
+   of museum professionals in a holistic way, from a museological
+   perspective, that provides education in the whole range of activities,
+   skills, and theory about/in museums. This is done in the broader
+   context of information science, rather than from a specific content
+   area; that is, the framework is from LIS but specific knowledge and
+   skills are museum-focused. Students are taught within a broader
+   context, one that understands that LIS is about the interaction of
+   people and information and this foundation cuts across all types of
+   information institutions and information work. The intent of this
+   specialization is to embed and integrate the thinking and training
+   across information institutions such as libraries, museums, and
+   archives. For this reason, there are many pathways a student can take
+   that includes museum studies.
 
-ID-Art, INTERPOL’s first App, turns one year old
+   For further information on this area, please consult the advising sheet
+   for the Museum Studies pathway.
 
-   12 July 2022
+Special Collections
 
-Cultural heritage crime: INTERPOL’s ID-Art app in the news
+   In library science, special collections are libraries or library units
+   that house materials requiring specialized security and user services.
+   Special collections can also be found in archival and museum
+   environments, although they may not be described as such. Materials
+   housed in special collections can be in any format (including rare
+   books, manuscripts, photographs, archives, ephemera, and digital
+   records), and are generally characterized by their artifactual or
+   monetary value, physical format, uniqueness or rarity, and/or an
+   institutional commitment to long-term preservation and access. They can
+   also include association with important figures or institutions in
+   history, culture, politics, sciences, or the arts. Individual
+   libraries, archival institutions, and other cultural heritage
+   organizations determine for themselves what materials constitute their
+   own special collections.
 
-   14 April 2022
+   For further information on this area, please consult the advising sheet
+   for the Special Collections pathway.
+     __________________________________________________________________
 
-52 arrests in operation across 28 countries targeting trafficking in cultural
-goods
+Faculty Supporting the Cultural Heritage Informatics Area
 
-   9 March 2022
+     * Image
+       KC
+       Katie Campana, Ph.D.
+       Associate Professor
+       kcampan2@kent.edu
+     * Image
+       Rebecca Elder headshot
+       Rebecca Elder
+       Instructor
+       relder8@kent.edu
+     * Image
+       Karen Gracy
+       Karen F. Gracy, Ph.D.
+       Professor
+       kgracy@kent.edu
+     * Image
+       Lala Hajibayova
+       Lala Hajibayova, Ph.D.
+       Associate Professor
+       lhajibay@kent.edu
+     * Image
+       Erin Hetrick headshot
+       Erin M. Hetrick
+       Instructor
+       ehetrick@kent.edu
+     * Image
+       Athena Salaba headshot
+       Athena Salaba, Ph.D.
+       Professor
+       asalaba@kent.edu
+     * Image
+       hs
+       Heather Soyka, Ph.D.
+       Assistant Professor
+       hsoyka@kent.edu
+     * Image
+       Marcia Lei Zeng headshot
+       Marcia Lei Zeng, Ph.D.
+       Professor
+       mzeng@kent.edu
 
-Cultural property crime thrives throughout pandemic says new INTERPOL survey
+   School of Information
 
-   18 October 2021
+Street Address
 
-   Interpol Logo
-   Connect with us
-     * Contact INTERPOL
-     * Careers
-     * Procurement
-     * About the CCF
+   314 University Library, 1125 Risman Drive, Kent, OH 44242-0001
 
-   Resources
-     * News and Events
-     * Information for journalists
-     * Multimedia
-     * Documents
+Mailing Address
 
-   Policies
-     * Cookie policy
-     * Privacy policy
-     * Terms of use
-     * Name and logo
+   800 E. Summit St.
+   Kent, OH 44242
 
-   Social media
-     * Facebook INTERPOL
-     * Twitter INTERPOL
-     * Youtube INTERPOL
-     * Instagram INTERPOL
-     * LinkedIn INTERPOL
+Contact Us
 
-   Site Map INTERPOL 2023. All Rights Reserved.
+   330-672-2782 iSchool@kent.edu
+   Facebook
+   Twitter
+   LinkedIn
+   Instagram
+   Contact Us
+     * 330-672-3000
+     * info@kent.edu
 
-   Our site uses cookies to ensure technical functionality, gather
-   statistics and enable sharing on social media platforms.
-   OK Tell me more
+   QUICK LINKS
+     * Jobs
+
+     * Kent State Kent Campus - facebook
+     * Kent State Kent Campus - twitter
+     * Kent State Kent Campus - youtube
+     * Kent State Kent Campus - instagram
+     * Kent State Kent Campus - linkedin
+     * Kent State Kent Campus - snapchat
+     * Kent State Kent Campus - pinterest
+     * ...
+
+   Information
+     * Accessibility
+     * Annual Security Reports
+     * Emergency Information
+     * For Our Alumni
+     * For the Media
+     * Health Services
+     * Jobs & Employment
+     * Privacy Statement
+     * HEERF CARES/CRRSAA/ARP Act Reporting and Disclosure
+     * Website Feedback
+
+   Kent State University logo
+   © 2023 Kent State University All rights reserved.

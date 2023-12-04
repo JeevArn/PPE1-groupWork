@@ -1,650 +1,357 @@
-   #Add PHP.net search PHP Release feed PHP: Hypertext Preprocessor
-   alternate contents index prev next alternate alternate alternate
-   alternate alternate alternate alternate alternate alternate
+   #alternate
 
-   php
-   [ ]
-     * Downloads
-     * Documentation
-     * Get Involved
-     * Help
-     * php8.3
+   Aller au contenu principal
 
-   ____________________
+   MINISTÈRE
+   DES SPORTS
+   ET DES JEUX OLYMPIQUES
+   ET PARALYMPIQUES
+   (BUTTON) Rechercher (BUTTON) Menu
 
-   PHP 8.1.26 Released!
+   sports.gouv.fr
 
-   Getting Started
-          Introduction
-          A simple tutorial
+Accès rapide
 
-   Language Reference
-          Basic syntax
-          Types
-          Variables
-          Constants
-          Expressions
-          Operators
-          Control Structures
-          Functions
-          Classes and Objects
-          Namespaces
-          Enumerations
-          Errors
-          Exceptions
-          Fibers
-          Generators
-          Attributes
-          References Explained
-          Predefined Variables
-          Predefined Exceptions
-          Predefined Interfaces and Classes
-          Predefined Attributes
-          Context options and parameters
-          Supported Protocols and Wrappers
+     * Signaler une violence
+     * Presse
 
-   Security
-          Introduction
-          General considerations
-          Installed as CGI binary
-          Installed as an Apache module
-          Session Security
-          Filesystem Security
-          Database Security
-          Error Reporting
-          User Submitted Data
-          Hiding PHP
-          Keeping Current
+   (BUTTON) Fermer
+   Rechercher ____________________________________________________________
+   (Rechercher) Rechercher
+   (BUTTON) Fermer
 
-   Features
-          HTTP authentication with PHP
-          Cookies
-          Sessions
-          Dealing with XForms
-          Handling file uploads
-          Using remote files
-          Connection handling
-          Persistent Database Connections
-          Command line usage
-          Garbage Collection
-          DTrace Dynamic Tracing
+Navigation principale
 
-   Function Reference
-          Affecting PHP's Behaviour
-          Audio Formats Manipulation
-          Authentication Services
-          Command Line Specific Extensions
-          Compression and Archive Extensions
-          Cryptography Extensions
-          Database Extensions
-          Date and Time Related Extensions
-          File System Related Extensions
-          Human Language and Character Encoding Support
-          Image Processing and Generation
-          Mail Related Extensions
-          Mathematical Extensions
-          Non-Text MIME Output
-          Process Control Extensions
-          Other Basic Extensions
-          Other Services
-          Search Engine Extensions
-          Server Specific Extensions
-          Session Extensions
-          Text Processing
-          Variable and Type Related Extensions
-          Web Services
-          Windows Only Extensions
-          XML Manipulation
-          GUI Extensions
+     * (BUTTON) Le sport pour moi
+       (BUTTON) Fermer
 
-   Keyboard Shortcuts
-   ?
-          This help
+Le sport pour moi
+       Le sport pour moi
 
-   j
-          Next menu item
+Les bienfaits du sport
+          + Les Maisons Sport-Santé
+          + Préparation physique - 10 réflexes en or
 
-   k
-          Previous menu item
+Pratiques écoresponsables
+          + Optimouv: réduisez l'impact carbone de vos déplacements
+            sportifs
+          + Outdoorvision : partagez vos traces GPS pour préserver vos
+            itinéraires !
+          + Suricate, signalez les problèmes rencontrés lors de vos
+            sorties en nature
 
-   g p
-          Previous man page
+Découvrir tous les sports
+          + Quiz: le bon sport pour moi
 
-   g n
-          Next man page
+Boîte à outils du sportif
+          + Le certificat médical pour le sport
+          + Trouver un club
+          + Trouver un équipement sportif
 
-   G
-          Scroll to bottom
+Sport et handicap
+          + Guide des parasports pour les élus aux sports
+          + Le HANDIGUIDE des sports
 
-   g g
-          Scroll to top
+Sport au féminin
+          + Agir pour plus de mixité dans le sport
+          + Médiatiser le sport au féminin
+          + Promouvoir les plans de féminisation des fédérations sportives
+          + Sport de haut niveau et maternité c'est possible
+          + Sport et maternité
 
-   g h
-          Goto homepage
+Thématiques sports
+          + Sport en entreprise
+          + Sport et autonomie
+     * (BUTTON) Le sport de haut niveau
+       (BUTTON) Fermer
 
-   g s
-          Goto search
-          (current page)
+Le sport de haut niveau
+       La réussite du sport français trouve sa source dans le partenariat
+       que l’Etat établit avec le CNOSF, les fédérations sportives, les
+       collectivités locales et le monde de l’entreprise, afin de pouvoir
+       conduire une politique ambitieuse pour le haut niveau.
+       Le sport de haut niveau
 
-   /
-          Focus search box
+Grands événements
 
-   L'opérateur de résolution de portée (::) »
-   « Visibilité
-     * Manuel PHP
-     * Référence du langage
-     * Les classes et les objets
+Liste des sportifs français de haut niveau
 
-   Change language: [French______________]
+Le sport de haut niveau, c'est quoi ?
+          + Mises en listes ministérielles
+          + Outils numériques
+          + Projet de Performance Fédéral (PPF)
+          + Reconnaissance du caractère de Haut Niveau (RHN) d'une ou
+            plusieurs disciplines sportives
 
-   Submit a Pull Request Report a Bug
+Aide d’Etat – ouverture de la 3ème période de compensation billetterie
 
-Héritage
+Mouvement sportif
+          + International
+          + National
 
-   L'héritage est un des grands principes de la programmation orientée
-   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
-   affecter la manière dont de nombreuses classes sont en relation les
-   unes avec les autres.
+Principaux acteurs
+          + Agence nationale du sport
+          + CNOSF
+          + CPSF
+          + Collectivités territoriales
+          + L'État
+          + Le conseil national du sport
+          + Les 120 fédérations sportives et 22 groupements nationaux
 
-   Par exemple, lorsqu'une classe est étendue, la classe enfant hérite de
-   toutes les méthodes publiques et protégées, propriétés et constantes de
-   la classe parente. Tant qu'une classe n'écrase pas ces méthodes, elles
-   conservent leur fonctionnalité d'origine.
+Structures d'accueil
+          + Formation au sein des clubs professionnels
+          + Soutien financiers des collectivités territoriales aux clubs
+            professionnels
+          + Structures locales : sociétés sportives ou clubs
+            professionnels
+          + Structures nationales
 
-   L'héritage est très utile pour définir et abstraire certaines
-   fonctionnalités communes à plusieurs classes, tout en permettant la
-   mise en place de fonctionnalités supplémentaires dans les classes
-   enfants, sans avoir à réimplémenter en leur sein toutes les
-   fonctionnalités communes.
+Suivi Socioprofessionnel des sportifs de haut niveau
+          + Couverture des accidents du travail et maladies
+            professionnelles (AT-MP) chez le sportif de haut niveau
+          + Dispositif de retraite des sportifs de haut niveau
+          + Les aides à la formation et aux concours
+          + Modalités de suivi socioprofessionnel des sportifs de haut
+            niveau
+     * (BUTTON) Les métiers et formations
+       (BUTTON) Fermer
 
-   Les méthodes privées d'une classe parente ne sont pas accessible à la
-   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
-   une méthode privée eux-mêmes sans se soucier des règles d'héritage
-   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
-   static étaient appliquées aux méthodes privées. À partir de PHP 8.0.0,
-   l'unique restriction de méthode privée qui est imposé est private final
-   sur les constructeurs, car c'est une manière courante pour "désactiver"
-   le constructeur lors de l'utilisation de méthodes factory statique à la
-   place.
+Les métiers et formations
+       Les métiers et formations
 
-   La visibilité des méthodes, propriétés et constantes peut être relaxé,
-   c.-à-d. une méthode protected peut être marqué comme public, mais elles
-   ne peuvent pas être restraint, e.g. marquer une propriété public comme
-   private. Une exception sont les constructeurs, pour lesquels la
-   visibilité peut être restraintes, par exemple un constructeur public
-   peut être annoté en tant que private dans la classe enfant.
+Apprentissage
+          + Actualités de l'apprentissage
+          + Kit de com apprentissage
+          + Réglementation
 
-     Note:
+Devenir maître-nageur sauveteur
+          + Formation pour obtenir le BNSSA permettant de disposer
+          + Formation pour permettre l'accès au titre de
+            maître-nageur-sauveteur
 
-     A moins que l'autochargement ne soit utilisé, les classes doivent
-     être connues avant d'être utilisées. Les classes mères doivent être
-     définies avant l'écriture d'un héritage. Cette règle générale
-     s'applique aussi dans le cas d'héritage ou d'implémentation
-     d'interfaces.
+Découvrir les métiers
+          + Animateur sportif / Educateur sportif
+          + Assistant animateur
+          + Coordonnateur / Entraîneur
+          + Directeur de structure / Directeur sportif
+          + La Semaine des métiers du sport
 
-     Note:
+Obtenir un diplôme
+          + Diplômes
+          + Formations
+          + Équivalences
+          + Calendriers
+          + La validation des acquis de l'expérience
 
-     Il n'est pas autorisé de redéfinir une propriété en lecture-écriture
-     avec une propriété en lecture seule ou vice versa.
+Travailler
+          + Encadrer une activité sportive
+          + Les conventions collectives
+          + Trouver un emploi
+     * (BUTTON) Le ministère
+       (BUTTON) Fermer
 
-   <?php
-   class A {
-   public int $prop;
-   }
-   class B extends A {
-   // Illegal: read-write -> readonly
-   public readonly int $prop;
-   }
-   ?>
+Le ministère
+       Le ministère des Sports et des Jeux Olympiques et Paralympiques a
+       la responsabilité de définir les grands objectifs de la politique
+       nationale du sport, d’en fixer le cadre juridique, et de veiller au
+       respect de l’intérêt général.
+       Le ministère
 
-   Exemple #1 Exemple d'héritage
-   <?php
-   class Foo
-   {
-   public function printItem($string)
-   {
-   echo 'Foo: ' . $string . PHP_EOL;
-   }
-   public function printPHP()
-   {
-   echo 'PHP est super' . PHP_EOL;
-   }
-   }
-   class Bar extends Foo
-   {
-   public function printItem($string)
-   {
-   echo 'Bar: ' . $string . PHP_EOL;
-   }
-   }
-   $foo = new Foo();
-   $bar = new Bar();
-   $foo->printItem('baz'); // Affiche : 'Foo: baz'
-   $foo->printPHP(); // Affiche : 'PHP est super'
-   $bar->printItem('baz'); // Affiche : 'Bar: baz'
-   $bar->printPHP(); // Affiche : 'PHP est super'
-   ?>
+Mission et organisation
+          + Administration
+          + Comité d'histoire
+          + Collège Terminologie et langue française
+          + Conseillers techniques
+          + Observatoire de l'économie du sport
 
-Compatibilité des types de retour avec les classes internes
+La ministre
+          + Agenda
+          + Biographie d'Amélie Oudéa-Castéra
+          + Cabinet
+          + Un an d'action au service du sport français
 
-   Antérieur à PHP 8.1, la plupart des classes ou méthodes internes ne
-   déclaraient pas leur type de retour, et tout type de retour était
-   autorisé lors de leur héritage.
+Priorités ministérielles
+          + Fortifier notre modèle sportif
+          + Grande Cause Nationale
+          + Impacter positivement la société
+          + Impulsion Politique et Coordination Stratégique (IPCS)
+          + Nos 15 mesures phares pour le sport français
+          + Réussir nos grands événements sportifs internationaux
 
-   À partir de PHP 8.1.0, la plupart des méthodes internes ont commencé �
-   déclarer "provisoirement" leur type de retour, dans ce cas, le type de
-   retour des méthodes doit être compatible avec la classe parent; Dans le
-   cas contraire, une notification de dépréciation est émise. Notez que
-   l'absence d'une déclaration de retour explicite est également
-   considérée comme une erreur de signature, et entraîne donc l'avis de
-   dépréciation.
+Délégation interministérielle aux grands événements sportifs
 
-   Si le type de retour ne peut être déclaré pour une méthode de surcharge
-   en raison de problèmes de compatibilité entre versions de PHP, un
-   attribut ReturnTypeWillChange peut être ajouté pour passer sous silence
-   l'avis de dépréciation.
+Plans
+          + Transition écologique
+          + Santé et bien-être
+          + Ethique sportive
+          + Le plan de prévention des noyades et de développement de
+            l'Aisance aquatique
+          + Le recensement des équipements sportifs
 
-   Exemple #2 La méthode surchargée ne déclare pas de type de retour.
-   <?php
-   class MyDateTime extends DateTime
-   {
-   public function modify(string $modifier) { return false; }
-   }
-   // "Deprecated: Return type of MyDateTime::modify(string $modifier)
-   should either be compatible with DateTime::modify(string $modifier):
-   DateTime|false, or the #[\ReturnTypeWillChange] attribute should be
-   used to temporarily suppress the notice" À partir de PHP 8.1.0
+Programmes et dispositifs
+          + Le Pass'Sport
+          + Campagnes de prévention
+          + Grenelle de l’emploi et des métiers du sport
+          + 2 heures de sport en plus au collège
+          + Organiser une manifestation sportive
+          + Savoir rouler à vélo
+          + Équipe de France des 30mn d'activité physique
+     * (BUTTON) Jeux Olympiques et Paralympiques
+       (BUTTON) Fermer
 
-   Exemple #3 La méthode surchargée déclare un mauvais type de retour.
-   <?php
-   class MyDateTime extends DateTime
-   {
-   public function modify(string $modifier): ?DateTime { return null; }
-   }
-   // "Deprecated: Return type of MyDateTime::modify(string $modifier):
-   ?DateTime should either be compatible with DateTime::modify(string
-   $modifier): DateTime|false, or the #[\ReturnTypeWillChange] attribute
-   should be used to temporarily suppress the notice" À partir de PHP
-   8.1.0
+Jeux Olympiques et Paralympiques
+       La France accueillera les Jeux Olympiques du 26 juillet au 11 août
+       2024, puis les Jeux Paralympiques du 28 août au 8 septembre. Quatre
+       enjeux majeurs seront à relever ces prochains mois pour assurer la
+       réussite des Jeux de Paris 2024.
+       Jeux Olympiques et Paralympiques
 
-   Exemple #4 La méthode surchargée déclare un mauvais type de retour sans
-   notice de dépréciation.
-   <?php
-   class MyDateTime extends DateTime
-   {
-   /**
-   * @return DateTime|false
-   */
-   #[\ReturnTypeWillChange]
-   public function modify(string $modifier) { return false; }
-   }
-   // Aucune notice n'est déclenchée
+Des athlètes français au meilleur de leur performance
 
-   ＋add a note
+Un héritage utile et durable
 
-User Contributed Notes 8 notes
+Une organisation irréprochable
 
-   up
-   down
-   210
-   jackdracona at msn dot com ¶
-   13 years ago
-   Here is some clarification about PHP inheritance – there is a lot of
-   bad information on the net. PHP does support Multi-level inheritance.
-   (I tested it using version 5.2.9). It does not support multiple
-   inheritance.
-   This means that you cannot have one class extend 2 other classes (see
-   the extends keyword). However, you can have one class extend another,
-   which extends another, and so on.
-   Example:
-   <?php
-   class A {
-   // more code here
-   }
-   class B extends A {
-   // more code here
-   }
-   class C extends B {
-   // more code here
-   }
-   $someObj = new A(); // no problems
-   $someOtherObj = new B(); // no problems
-   $lastObj = new C(); // still no problems
-   ?>
-   up
-   down
-   100
-   Mohammad Istanbouly ¶
-   6 years ago
-   I think the best way for beginners to understand inheritance is through
-   a real example so here is a simple example I can gave to you
-   <?php
-   class Person
-   {
-   public $name;
-   protected $age;
-   private $phone;
-   public function talk(){
-   //Do stuff here
-   }
-   protected function walk(){
-   //Do stuff here
-   }
-   private function swim(){
-   //Do stuff here
-   }
-   }
-   class Tom extends Person
-   {
-   /*Since Tom class extends Person class this means
-   that class Tom is a child class and class person is
-   the parent class and child class will inherit all public
-   and protected members(properties and methods) from
-   the parent class*/
-   /*So class Tom will have these properties and methods*/
-   //public $name;
-   //protected $age;
-   //public function talk(){}
-   //protected function walk(){}
-   //but it will not inherit the private members
-   //this is all what Object inheritance means
-   }
-   up
-   down
-   23
-   strata_ranger at hotmail dot com ¶
-   13 years ago
-   I was recently extending a PEAR class when I encountered a situation
-   where I wanted to call a constructor two levels up the class hierarchy,
-   ignoring the immediate parent. In such a case, you need to explicitly
-   reference the class name using the :: operator.
-   Fortunately, just like using the 'parent' keyword PHP correctly
-   recognizes that you are calling the function from a protected context
-   inside the object's class hierarchy.
-   E.g:
-   <?php
-   class foo
-   {
-   public function something()
-   {
-   echo __CLASS__; // foo
-   var_dump($this);
-   }
-   }
-   class foo_bar extends foo
-   {
-   public function something()
-   {
-   echo __CLASS__; // foo_bar
-   var_dump($this);
-   }
-   }
-   class foo_bar_baz extends foo_bar
-   {
-   public function something()
-   {
-   echo __CLASS__; // foo_bar_baz
-   var_dump($this);
-   }
-   public function call()
-   {
-   echo self::something(); // self
-   echo parent::something(); // parent
-   echo foo::something(); // grandparent
-   }
-   }
-   error_reporting(-1);
-   $obj = new foo_bar_baz();
-   $obj->call();
-   // Output similar to:
-   // foo_bar_baz
-   // object(foo_bar_baz)[1]
-   // foo_bar
-   // object(foo_bar_baz)[1]
-   // foo
-   // object(foo_bar_baz)[1]
-   ?>
-   up
-   down
-   15
-   akashwebdev at gmail dot com ¶
-   8 years ago
-   The Idea that multiple inheritence is not supported is correct but with
-   tratits this can be reviewed.
-   for e.g.
-   <?php
-   trait custom
-   {
-   public function hello()
-   {
-   echo "hello";
-   }
-   }
-   trait custom2
-   {
-   public function hello()
-   {
-   echo "hello2";
-   }
-   }
-   class inheritsCustom
-   {
-   use custom, custom2
-   {
-   custom2::hello insteadof custom;
-   }
-   }
-   $obj = new inheritsCustom();
-   $obj->hello();
-   ?>
-   up
-   down
-   11
-   jarrod at squarecrow dot com ¶
-   14 years ago
-   You can force a class to be strictly an inheritable class by using the
-   "abstract" keyword. When you define a class with abstract, any attempt
-   to instantiate a separate instance of it will result in a fatal error.
-   This is useful for situations like a base class where it would be
-   inherited by multiple child classes yet you want to restrict the
-   ability to instantiate it by itself.
-   Example........
-   <?php
-   abstract class Cheese
-   {
-   //can ONLY be inherited by another class
-   }
-   class Cheddar extends Cheese
-   {
-   }
-   $dinner = new Cheese; //fatal error
-   $lunch = new Cheddar; //works!
-   ?>
-   up
-   down
-   -3
-   niemans at pbsolo dot nl ¶
-   3 years ago
-   Inheritance works at create time, i.e. using the keyword 'new'. Static
-   properties confused my understanding, so in order tho show the effect
-   of visibility to inherintence I've created a simple demo script along
-   with some set and get magic:
-   <?php
-   class A {
-   private $a = 'private';
-   protected $b = 'protected';
-   public $c = 'public';
-   static $d = 'static';
-   public function __construct()
-   {
-   $this->e = 'constructed';
-   }
-   public function __set($property, $value)
-   {
-   echo ' set ' . $property . '=' . $value;
-   $this->$property=$value;
-   }
-   public function __get($property)
-   {
-   echo ' get ' . $property;
-   $this->$property = 'dynamic'; // invokes __set() !!
-   return $this->$property;
-   }
-   }
-   class B extends A
-   {
-   public function constructMe()
-   {
-   $this->e = 'constructed2';
-   }
-   }
-   class C extends B
-   {
-   public function __construct()
-   {
-   parent::constructMe();
-   }
-   }
-   echo " \n";
-   $a = new A();
-   $b = new B();
-   echo " \n";
-   echo ' B:c='.$b->c;
-   echo " \n";
-   echo ' B:d=' .$b->d;
-   echo " \n";
-   $c = new C();
-   echo " \n";
-   print_r($a);
-   print_r($b);
-   print_r($c);
-   print_r(A::$d);
-   print_r(B::$d);
-   print_r(C::$d);
-   echo 'A class: ';
-   $R = new reflectionclass('A');
-   print_r($R->getdefaultproperties());
-   print_r($R->getstaticproperties());
-   echo 'B class: ';
-   $R = new reflectionclass('B');
-   print_r($R->getdefaultproperties());
-   print_r($R->getstaticproperties());
-   ?>
-   This outputs:
-   set e=constructed
-   B:c=public
-   get d set d=dynamic B:d=dynamic
-   set e=constructed2
-   A Object
-   (
-   [a:A:private] => private
-   [b:protected] => protected
-   [c] => public
-   [e] => constructed
-   )
-   B Object
-   (
-   [a:A:private] => private
-   [b:protected] => protected
-   [c] => public
-   [d] => dynamic
-   )
-   C Object
-   (
-   [a:A:private] => private
-   [b:protected] => protected
-   [c] => public
-   [e] => constructed2
-   )
-   staticstaticstaticA class: Array
-   (
-   [d] => static
-   [a] => private
-   [b] => protected
-   [c] => public
-   )
-   Array
-   (
-   [d] => static
-   )
-   B class: Array
-   (
-   [d] => static
-   [b] => protected
-   [c] => public
-   )
-   Array
-   (
-   [d] => static
-   )
-   This shows how private variables ($a) are inherited, how static
-   variables ($d) are inherited (by the class, not by the object) and that
-   changing or adding variables in the parent ($e, $d) are not inherited
-   by the child.
-   up
-   down
-   -5
-   Anonymous ¶
-   4 years ago
-   PHP7 gives you a warning if you redeclare a function in a child class
-   with different parameters. For example:
-   class foo {
-   function print($text='') {
-   print text;
-   }
-   }
-   class bar extends foo {
-   function print($text1='',$text2='') {
-   print text1.text2
-   }
-   }
-   will give a PHP Warning: Declaration of bar::print($text1 = '', $text2
-   = '') should be compatible with foo::print($text= '').
-   up
-   down
-   -4
-   sibian0218 at gmail dot com ¶
-   5 years ago
-   I've noticed one thing concerning inheritance...
-   When declaring an abstract class with a private method,
-   which is overridden by a sub-class, private takes precedence over
-   public for child class...
-   (in the case you're redeclaring a method with a different signature in
-   fact).
-   Hope this helps
-   ＋add a note
+Une vraie fête populaire
 
-     * Les classes et les objets
-          + Introduction
-          + Syntaxe de base
-          + Propriétés
-          + Constantes de classe
-          + Auto-​chargement de classes
-          + Constructeurs et destructeurs
-          + Visibilité
-          + Héritage
-          + L'opérateur de résolution de portée (::)
-          + Statique
-          + Abstraction de classes
-          + Interfaces
-          + Traits
-          + Classes anonymes
-          + Surcharge magique
-          + Parcours d'objets
-          + Méthodes magiques
-          + Mot-​clé "final"
-          + Clonage d'objets
-          + Comparaison d'objets
-          + Late Static Bindings (Résolution statique à la volée)
-          + Objets et références
-          + Sérialisation d'objets
-          + Covariance et Contravariance
-          + Modifications en POO (Programmation orientée objet)
+   (BUTTON) Voir le fil d'Ariane
+    1. Accueil
+    2. Jeux Olympiques et Paralympiques
+    3. Un héritage utile et durable
 
-     * Copyright © 2001-2023 The PHP Group
-     * My PHP.net
-     * Contact
-     * Other PHP.net sites
-     * Privacy policy
+     * Jeux Olympiques et Paralympiques
 
-   To Top
+Un héritage utile et durable
+
+   4 000 logements, dont 40 % de logements sociaux peu énergivores et
+   adaptés au climat de 2050, seront ainsi légués à la Seine-Saint-Denis �
+   l’issue des Jeux.
+   Réglementation fédérale des équipements sportifs
+
+   4 000 logements, dont 40 % de logements sociaux peu énergivores et
+   adaptés au climat de 2050, seront ainsi légués à la Seine-Saint-Denis �
+   l’issue des Jeux. L’objectif sera aussi de faire vivre le sport à tous
+   les âges, en travaillant sur les équipements via le plan 5 000 terrains
+   de sport d’ici 2024 et le design actif, pour un environnement plus
+   propice au sport. Les Jeux étant un formidable levier pour construire
+   une « Nation sportive », leur héritage sera également de nature
+   immatérielle. C’est pour accompagner – et amplifier – l’ensemble des
+   actions déjà mises en œuvre (Pass’Sport, 30 minutes d’activité physique
+   quotidienne, deux heures de sport en plus par semaine pour les
+   collégiens…) que le Président de la République a d’ores et déjà décidé
+   de faire de l’activité physique et sportive la Grande Cause Nationale
+   en 2024. Les Jeux seront aussi l’opportunité d’ouvrir la pratique
+   sportive aux personnes en situation de handicap pour améliorer leur
+   autonomie et leur bien-être.
+     * Le chiffre clé : 80 % des investissements publics des JOP en
+       Seine-Saint-Denis
+
+Actualités Jeux Olympiques et Paralympiques
+
+L'ANS et la région IDF mettent à disposition le lycée Marcel Cachin pour
+l'installation de la Maison de la Performance tricolore pendant les JO
+
+   L’Agence Nationale du Sport et la Région Île-de-France signent la
+   convention de mise à disposition du lycée Marcel Cachin pour
+   l’installation de la Maison de la Performance tricolore pendant les JO.
+     * Actualités
+     * JOP Paris 2024
+
+   01 décembre 2023
+
+Aider nos athlètes à réussir les Jeux à la maison
+
+   La réussite des JOP relève d’un quatuor d’exigences : une organisation
+   irréprochable, une mobilisation populaire, la construction d’un
+   héritage durable et des sportifs au meilleur de leur performance.
+     * Actualités
+     * JOP Paris 2024
+
+   01 décembre 2023
+
+J–300 avant les Jeux Paralympiques 2024
+
+   02 novembre 2023
+
+Journée Paralympique 2023
+
+   09 octobre 2023
+
+Un budget ministériel inédit en 2024 pour l’année des Jeux Olympiques et
+Paralympiques de Paris
+
+   27 septembre 2023
+
+Liens
+
+Vous êtes
+
+     * Collectivité
+     * Entreprise
+     * Fédérations
+     * Éducateurs sportifs
+
+Le ministère
+
+     * Grands Événements
+     * Missions et organisation
+     * Plans
+     * Priorités ministérielles
+     * Programmes et dispositifs
+
+Fortifier notre modèle sportif
+
+     * Un sport d'excellence
+     * Un sport engagé
+     * Un sport robuste
+     * Un sport influent
+     * Un sport responsable
+
+Pôles ressources
+
+     * Sports et handicap
+     * Sport et innovation
+     * Sport santé
+     * Sports de nature
+
+Autres
+
+     * Actualités
+     * Ecrire à la ministre
+     * Espace presse
+
+   MINISTÈRE
+   DES SPORTS
+   ET DES JEUX OLYMPIQUES
+   ET PARALYMPIQUES
+
+   Découvrez également jeunes.gouv.fr et education.gouv.fr.
+
+Liens institutionnels
+
+     * légifrance.gouv.fr
+     * gouvernement.fr
+     * data.gouv.fr
+     * service-public.fr
+
+   (BUTTON) Fermer
+
+Grande Cause Nationale 2024
+
+   A l'aune de l’année olympique et paralympique à laquelle la France se
+   prépare, la Grande Cause Nationale 2024 porte sur l'activité physique
+   et sportive.
+
+   #GNC2024 #30minutesBouge
+   Plus d'informations sur www.grandecause-sport.fr
+
+Liens légaux
+
+     * Plan du site
+     * Mentions légales
+     * Accessibilité : partiellement conforme
+     * Données personnelles et cookies
+     * Gestion des cookies
+
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   etalab-2.0

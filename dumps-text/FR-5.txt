@@ -43,30 +43,30 @@
    Sitemap
      * Afrique
        Accueil Afrique
-       SÉNÉGAL
-       MADAGASCAR
        CONGO, Rép. démocratique du
-       CÔTE D'IVOIRE
-       TCHAD
-       SOUDAN
-       LIBÉRIA
+       GUINÉE-BISSAU
        AFRIQUE DU SUD
+       NIGER
+       SIERRA LEONE
+       MADAGASCAR
+       CÔTE D'IVOIRE
+       CAMEROUN
 
 Nos dossiers du moment
-       Madagascar : élection présidentielle
+       L'actualité en Guinée-Bissau
+       L'actualité au Cameroun
+       L'actualité au Niger
        RDC les défis d'un géant africain
-       L'actualité au Soudan
        Sénégal
-       L'actualité au Mali
      * International
        Accueil International
 
 Nos dossiers du moment
        Israël contre Hamas
-       L'actualité en Argentine
        Proche-Orient : Israël et Palestine, quelle paix ?
        Ukraine-Russie : la guerre
        Migrants : comment mettre fin à ces tragédies ?
+       L'actualité dans la Russie de Vladimir Poutine
      * Environnement
        Accueil Environnement
 
@@ -76,11 +76,11 @@ Nos dossiers du moment
        Accueil Terriennes
 
 Nos dossiers du moment
+       Le droit à l'avortement
        Violences faites aux femmes
-       Femmes et guerres
-       Femmes et migrations, réfugiées ou immigrées, la double peine
+       Femmes violentes, tabou et désordre social
+       Femmes, artistes, défricheuses
        La maternité dans tous ses états
-       Le viol, arme de guerre
      * Sport
        Accueil Sports
      * Culture
@@ -88,7 +88,6 @@ Nos dossiers du moment
 
 Nos dossiers du moment
        La musique sur TV5MONDE
-       Littérature
        L'Humeur de Linda
      * Science
        Accueil Sciences
@@ -143,7 +142,20 @@ Culture : L'héritage culturel de Senghor exposé au Quai Branly
 Afrique Culture
 
    TV5 JWPlayer Field
-   jtchapter: Rétrospective du peintre congolais Chéri Samba à Paris
+   jtchapter: "African Empires", retrace les grands empires africains
+   avant la colonisation
+   Afrique
+
+"African Empires", retrace les grands empires africains avant la colonisation
+
+   Afrique
+
+Exposition : "Mandela est mort", quel héritage ?
+
+   Bon anniversaire !
+
+Mode : le styliste Alphadi nous charme depuis 40 ans
+
    Exposition
 
 Rétrospective du peintre congolais Chéri Samba à Paris
@@ -152,58 +164,49 @@ Rétrospective du peintre congolais Chéri Samba à Paris
 
 "Raconter le Maroc" : la nouvelle mission culturelle des "Arabengers"
 
-   Afrique
-
-Algérie : le 15ème festival de la BD ouvre ses portes à Alger
-
-   Afrique
-
-"Création Africa", le forum de l'Afrique innovante
-
-   Mode d'alleurs
-
-Mode : la styliste malienne Awa Meité est à Paris
-
    Voir plus
 
 À la une
 
    Israël-Palestine
 
-DIRECT : dernier jour de trêve entre le Hamas et Israël
+DIRECT - Guerre à Gaza : le ministère de la Santé du Hamas annonce un nouveau
+bilan de 15 899 morts
 
-   confusion
+   International
 
-Tensions en Sierra Leone : que sait-on de la situation à Freetown ?
+Israël-Hamas : à Gaza, la situation humanitaire est "indescriptible"
 
-   quatre ans après le covid
+   Territoire disputé
 
-Chine : que sait-on de l’épidémie de maladies respiratoires qui inquiète les
-autorités sanitaires ?
+Référendum au Venezuela : victoire écrasante du "oui" au rattachement de
+l'Essequibo
 
-   Guerre
+   Guerre en Ukraine
 
-DIRECT : les Russes poursuivent leurs assauts sur Avdiïvka, selon Kiev
+DIRECT : les troupes russes accentuent leurs attaques sur Avdiïvka, selon
+Kiev
 
-   25 novembre
+   LUTTE CONTRE LE DJIHADISME
 
-"Nous ne voulons plus compter les mortes" : dans la rue pour lutter contre
-les violences
+Après le Mali, le Burkina et le Niger quittent la force antijihadiste G5
+Sahel
 
-   Election présidentielle
+   climat
 
-A Madagascar, contestation de l'opposition après la victoire annoncée d'Andry
-Rajoelina dès le premier tour
+COP 28 : les engagements volontaires pleuvent, avant le dur des négociations
+sur les fossiles
 
-   Comprendre
+   Suspect radicalisé
 
-COP 28 : les mots de la Conférence sur le climat à Dubaï
+Attentat près de la tour Eiffel : l'assaillant a fait allégeance à l'EI
 
    Plan du site
 
 Archives
 
      * 2023
+          + décembre 2023
           + novembre 2023
           + octobre 2023
           + septembre 2023

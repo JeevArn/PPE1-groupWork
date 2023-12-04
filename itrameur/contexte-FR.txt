@@ -1,0 +1,1833 @@
+<lang="FR">
+<page="FR-1">
+<text>    2. Famille - Scolarité
+    3. Héritage : ordre et droits des héritiers
+    4. Quelles sont les règles pour hériter ?
+--
+   L'un de vos proches vient de décéder. Vous voulez savoir si vous
+   héritez et calculer votre part d'héritage ? Vous devez distinguer 2
+   situations. Si le défunt n'a pas fait de testament, c'est l'ordre de
+   priorité des héritiers qui détermine les parts d'héritage. Si le défunt
+--
+   Toutefois, la règle de la représentation permet aux descendants d'un
+   héritier déjà décédé de recueillir sa part d'héritage.
+
+--
+
+   Les parts d'héritage sont attribuées différemment selon que le défunt
+   au eu des enfants ou non.
+--
+
+   Les parts d'héritage sont attribuées différemment selon que le défunt
+   laisse uniquement des enfants issus du couple ou non.
+--
+
+   Héritage des parents
+
+   Héritage de l'époux
+
+--
+
+   Héritage des parents
+
+   Héritage des frères et sœurs
+
+--
+   s'agit des héritiers réservataires: titleContent. Il reçoivent
+   obligatoirement une part de l'héritage du défunt : c'est la réserve
+   héréditaire: titleContent.
+--
+
+   La réserve héréditaire ne représente jamais la totalité de l'héritage
+   du défunt.
+--
+
+   Les parts d'héritage sont attribuées différemment selon que le défunt
+   au eu des enfants ou non.
+--
+
+   La part d'héritage réservée aux enfants est la suivante :
+     * La moitié des biens pour 1 enfant
+--
+
+     * Héritage : qu'est-ce que la règle de la représentation ?
+     * Peut-on hériter si l'on est fautif vis-à-vis du défunt ?
+--
+
+     * Héritage : ordre et droits des héritiersService-Public.fr
+     * TestamentService-Public.fr</text>
+</page> §
+<page="FR-10">
+<text>
+     3Héritage en question
+   (BUTTON) Afficher / masquer la sous-section Héritage en question
+     * 3.1Formule mathématique
+--
+
+   3.2La place de l'héritage dans l'histoire
+
+--
+
+Héritage (droit)
+
+--
+
+   Pour les articles homonymes, voir Héritage.
+
+--
+
+   Trouver des sources sur « Héritage (droit) » :
+     * Bing
+--
+
+   L'héritage est le patrimoine qu'une personne laisse à son décès. Il
+   concerne tous types d'objets : héritage culturel (religion, patronyme,
+   filiation, mœurs, etc.), et héritage des biens (maison, argent).
+
+   Cet article se concentre essentiellement sur l'héritage des biens.
+
+--
+   personne. Parfois, un testament, établi ou non chez un notaire
+   (testament olographe ou testament authentique), précise l'héritage. En
+   cas d'absence de testament, la plupart des États ont mis en place des
+--
+   l'administration taxe la transmission. Sur les 35 pays de l'OCDE, vingt
+   imposent l'héritage^[1]. La taxation dépend du degré de filiation entre
+   le donneur et le bénéficiaire : elle augmente avec le degré
+--
+   Bien évidemment, les courants politiques opposés au libéralisme
+   économique pensent pour leur part que l'héritage doit être lourdement
+   taxé, voire supprimé, et que, l'intégrité de l'entreprise étant jugée
+--
+
+Héritage en question[modifier | modifier le code]
+
+--
+
+La place de l'héritage dans l'histoire[modifier | modifier le code]
+
+--
+
+   Au cours des siècles, l'héritage a toujours été un moyen de
+   reproduction des élites. Par exemple : les dynasties souveraines, la
+--
+
+   Furetière dit dans son dictionnaire universel que l'héritage, serait la
+   « succession, hérédité » ; l'héritage finit par devenir le texte
+   référence et à s'imposer. Ce dont une personne hérite « n'est point dû
+--
+   véritable identité à des biens passant d'un auteur à un autre.
+   L'héritage n'est cependant pas juste l'acquis ; l'héritier change
+   l'héritage. Ainsi, un héritage peut vite être totalement vidé pour le
+   faire augmenter ; en l'inventoriant, en le modifiant, on finit par
+   mieux le posséder ! L'héritage est confronté à l'autorité d'autrui, le
+   besoin aussi de s'en sortir par des procédures quand il en devient trop
+--
+   d'existence par un bien qui ainsi récupère une « seconde vie » et peut
+   continuer. Le maître-mot de la lecture d'un héritage et le mot
+   « libre » qui donne ainsi naissance aux conflits en se revendiquent
+--
+   eux, d'autres s'installent dans un déni d'héritage^[4].
+
+--
+
+   L'héritage est en contradiction complète avec cette idée. Le droit des
+   successions encadre cependant l'héritage, dans un souci égalitaire, via
+   le principe de l'avance d'hoirie.
+
+   Les héritages se trouvent souvent disséminés dans tous les endroits du
+   royaume, on retrouve l'agrandissement du patrimoine et des lignages,
+--
+   implantations de certains royaumes, ensuite, relayant du pouvoir royal,
+   s'y opposant aussi parfois ». On voit dans l'héritage la notion de
+   puissance, d'élégance et de fierté par la détention de certains biens,
+   naît d'alliances matrimoniales, d'héritages aussi^[5].
+
+--
+
+   L'héritage moyen en France est de l'ordre de 120 800 € dans les années
+   2010^[6], tandis que l'héritage médian (incluant les donations) est de
+   moins de 70 000 € au cours d'une vie^[7].
+--
+   Selon un rapport de France Stratégie publié en 2018, seul 33 % des
+   Français ont touché un héritage, ils sont 45 % à envisager en toucher
+   un dans le futur. Le montant de la transmission par héritage est passé
+   en France de 60 milliards d'euros en 1980 à 250 milliards d'euros en
+--
+
+   L'imposition de l'héritage est fortement impopulaire^[8], menant à des
+   débats périodiques sur sa réforme^[12]. Selon une étude du Centre de
+--
+   France Stratégie, 75 % de la population pensent que les donations et
+   héritages aux enfants sont taxés au-dessus de 5 %, de 36 % les pensent
+   même au-dessus de 20 %, alors qu'ils le sont en réalité à moins de
+   5 %^[13]. En moyenne, les Français pensent à tort que l'héritage entre
+   époux est taxé à hauteur de 22 % alors que depuis 2007, ce type
+   d'héritage n'est plus taxé^[11].
+
+   En 2021, des abattements s'applique aux héritages en fonction du lien
+   de parenté avec le défunt, celui-ci est de 100 000 € pour un enfant, un
+--
+
+   83 % des héritages ne font pas l'objet d'une imposition au motif qu'il
+   ne dépasse pas les abattements fiscaux en vigueur^[11].
+
+   En France, les inégalités liés à l'héritage sont sensiblement plus
+   importantes que les inégalités de revenus. La fortune héritée
+--
+   Le taux d'imposition sont variables selon les cantons. Le taux
+   d'imposition moyen des héritages est passé de 4,1 % en 1999 à 1,4 % en
+   2019^[15]^,^[16]. Le fait que les héritages (tombant du ciel) soient
+   moins taxés que le travail (gagné à la sueur du front) peut être
+--
+       , sur La Croix, 14 octobre 2019 (consulté le 15 février 2022)
+    7. ↑ ^a et b Sébastien Grob, « Héritage : le cadeau de Valérie
+       Pécresse pour les plus riches », sur www.marianne.net, 4 janvier
+--
+    8. ↑ ^a et b Pauline Grégoire-Marchand, France Stratégie, « La
+       Fiscalité des héritages : connaissances et opinions des Français »
+       Accès libre [PDF], sur France Stratégie, janvier 2018 (consulté le
+--
+       l'héritage, France 1820-2100 » Accès libre [PDF], sur
+       piketty.pse.ens.fr, septembre 2013 (consulté le 15 février 2022)
+   11. ↑ ^a b c et d Stupid Economics, « Supprimer l'Héritage ? » Accès
+       libre , sur YouTube, 8 novembre 2020 (consulté le 15 février 2022)
+   12. ↑ Marie Bartnik, « L’Impôt sur l’héritage, matière hautement
+       inflammable » Accès limité , sur Le Figaro, 26 mars 2019 (consulté
+--
+   13. ↑ Patricia Croutte, Radmila Datsenko et Sandra Hoibian,
+       « L’Attachement à l’héritage : une illusion pour protéger ses
+       enfants ? » Accès libre [PDF], sur Centre de recherche pour l'étude
+--
+       février 2022)
+   15. ↑ ^a b et c Katharina Wehrli, « Héritage et égalité des chances »,
+       Moneta, journal de la Banque alternative suisse, numéro 1 de
+       l'année 2020, page 2 (mars 2020).
+   16. ↑ ^a et b Marius Brülhart (Université de Lausanne), « Les héritages
+       en Suisse : évolution depuis 1911 et importance pour les impôts »,
+--
+     * Anne Gotman, Hériter, PUF, 1988.
+     * Anne Gotman, L'Héritage, Que sais-je ?, PUF, 2013.
+     * Annick Pardailhé-Galabrun, L'Histoire de l'intime, 3000 foyers
+--
+   Sur les autres projets Wikimedia :
+     * Héritage, sur Wikimedia Commons
+     * héritage, sur le Wiktionnaire
+     * Héritage, sur Wikiquote
+     * Droit des successions, sur Wikinews
+--
+
+     * Alexandre Reichart Alexandre, « L’héritage, un sujet qui divise les
+       économistes », Alternatives économiques, 387, février 2019, pp.
+       72-74.
+     * Anne Chemin, « Et si l’héritage n’allait pas de soi ? », sur
+       lemonde.fr, 11 mars 2022 (consulté le 13 mars 2021).
+--
+     * Droit des successions
+     * Héritage universel
+     * Langue d'héritage
+
+--
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Héritage_(droit)oldid=206
+   790076 ».</text>
+</page> §
+<page="FR-11">
+<text>
+HERITAGE / HERITIER DEFINITION
+Dictionnaire juridique
+
+Définition de Héritage / Héritier
+
+--
+
+   Dans le très ancien droit on trouve mot "héritage" comme synonyme de "
+   propriété immobilière ". Il est encore utilisé dans ce sens par la Cour</text>
+</page> §
+<page="FR-12">
+<text>
+L'héritage culturel, thème majeur de Pierre Bourdieu
+
+--
+avait déjà fortement influencé les sciences humaines et sociales après la
+Seconde Guerre mondiale et c'est le thème de l'héritage culturel qui a
+toujours dominé dans ses œuvres sociologiques.
+
+   L'héritage culturel, thème majeur de Pierre Bourdieu
+   Les mécanismes de pouvoir symboliques
+--
+   langue. Par le biais de ces mécanismes, les classes dominantes se
+   transmettent de génération en génération un héritage intellectuel
+   spécifique qui rend les privilèges inaccessibles. Ainsi, la langue peut
+--
+
+L'héritage culturel, thème majeur de Pierre Bourdieu</text>
+</page> §
+<page="FR-13">
+<text>
+L'héritage, une spécificité culturelle française
+
+   Faut-il assouplir les règles successorales ? Doit-on encourager la
+   donation de son vivant ? Les modalités françaises liées à l'héritage
+   sont régulièrement questionnées en vertu des inégalités qu'elles
+--
+
+"L'héritage a une fonction symbolique majeure, il est le codage des liens
+intergénérationnels"
+--
+   L'éclairage d'Anne Gotman, sociologue et directrice de recherche
+   émérite au CNRS-Cerlis, auteur du Que sais-je? L'Héritage (PUF, 2006)
+
+--
+   représentative?
+   L'héritage est un phénomène populaire, il n'est plus l'apanage des
+   riches, et le patrimoine acquis par le travail est une donnée de la vie
+   française qui fait partie de notre culture, à laquelle nous sommes
+   attachés quasiment comme au Code civil. Réduire l'héritage ou voire
+   l'abolir n'est absolument pas un désir commun, même s'il est bien sûr
+--
+   testamentaire. En France, outre sa fonction utilitaire et économique,
+   l'héritage a une fonction symbolique majeure, il est le codage des
+   liens intergénérationnels et la représentation de l'égalité au sein de
+--
+
+     L'héritage est un redistributeur de biens, certes, mais également
+     des liens d'affection!
+--
+
+   Comment s'accommode-t‑on du paradoxe lié à l'héritage, à la fois source
+   de partage, de liberté, mais aussi de captivité envers nos aînés?
+--
+   se construire et se reconstruire, de concevoir l'ascendance comme une
+   prison. Dans cette optique, l'héritage est la réactivation de
+   l'ascendance sur la descendance, et sur le plan affectif, celle de
+--
+   cellule familiale, dont la part reçue est la tranchante concrétisation.
+   L'héritage est un redistributeur de biens, certes, mais également des
+   liens d'affection! Les parents refusent souvent de jouer cette carte
+--
+   qui peut frustrer les enfants en mal de reconnaissance. En tout état de
+   cause, l'héritage met la famille en crise car s'y disputent des parts
+   mais également des places, et parce que les biens à partager,
+--
+   les incitaient à se faire plaisir de leur vivant, et à ne pas leur
+   réserver à tout à prix un héritage susceptible par ailleurs de leur
+   créer des obligations. Donner, oui, quand les enfants en ont besoin,
+--
+
+   Quel avenir pour l'héritage en conséquence de ces évolutions
+   démographiques et sociales?
+--
+   de fin de vie de plus en plus importants. Après avoir progressivement
+   gagné toutes les catégories de population, l'héritage post mortem
+   risque de diminuer. La transmission transgénérationnelle – aux</text>
+</page> §
+<page="FR-14">
+<text>
+   Matrimoine : pour une véritable inclusion des femmes dans l'héritage
+   culturel
+--
+
+Matrimoine : pour une véritable inclusion des femmes dans l'héritage culturel
+
+--
+   nom de femme, l'objectif est de mettre en avant des créatrices du passé
+   dont l'héritage a été oublié dans les dictionnaires et les mémoires,
+   malgré l'immense succès qu'elles ont eu, pour certaines d'entre elles,
+--
+
+   Aurore Evain ajoute qu'"une fois le matrimoine disparu, l’héritage
+   culturel ne s’est plus conjugué qu’au masculin, et l’effacement des
+--
+   En estimant à 95% l'œuvre des hommes dans le patrimoine, le collectif
+   HF appelle à ce que l'héritage culturel soit composé du patrimoine et
+   du matrimoine, pour un héritage commun, égalitaire, paritaire et afin
+   de donner de nouveaux modèles aux jeunes générations.
+--
+   la musique érudite ou savante notamment, ou celles qui s'inscrivent
+   dans le matrimoine, les compositrices du passé dont l'héritage culturel
+   est encore bien souvent méconnu."
+--
+     * Matrimoine : pour une véritable inclusion des femmes dans
+       l'héritage culturel</text>
+</page> §
+<page="FR-15">
+<text>
+   Journées du Matrimoine : un héritage culturel au pluriel
+   24 août 2022
+--
+     *
+     * Un héritage culturel au pluriel
+
+   Les 16, 17 et 18 septembre, Villeurbanne et l’association "Si/si les
+   femmes existent" rendent hommage à l’héritage culturel venu des femmes,
+   à travers une installation participative exposée sur la place
+   Lazare-Goujon.
+   Un héritage culturel au pluriel
+
+   En parallèle des journées du Patrimoine, Villeurbanne vous propose
+   cette année de redécouvrir notre héritage culturel à travers des
+   portraits de femmes immigrées ou issues d’anciens territoires
+--
+
+Rendre hommage à l'héritage venu des femmes
+
+--
+   l'œuvre des hommes, la notion de matrimoine tend à réhabiliter
+   l’héritage venu des mères, et par extension des femmes, souvent
+   invisibilisé. Lancées en 2015 par l’association HF, les journées du
+   Matrimoine viennent compléter les manifestations organisées autour du
+   patrimoine français, afin de célébrer notre héritage culturel dans son
+   ensemble.
+--
+     *
+     * Un héritage culturel au pluriel</text>
+</page> §
+<page="FR-16">
+<text>   principales détentrices bien qu’il existe des professionnels dans tous
+   les pays soumissionnaires. Il s’agit d’un héritage très profondément
+   enraciné puisque ces techniques et méthodes sont développées depuis la
+--
+   éducation et une formation bien spécifiques. Ce savoir-faire se fonde
+   sur un héritage culturel très bien conservé et les principes en sont
+   définis par la doctrine issue des écuyers de l’école de Versailles et
+--
+   communautés. Il s’agit d’une pratique sociale rituelle en perpétuelle
+   évolution, bien qu’elle s’inscrive dans un héritage séculaire.
+   Cet « art de bien manger et de bien boire » à la française se fonde sur
+--
+   Il reste aujourd’hui moins d’une dizaine de détentrices de cet
+   héritage. L’apprentissage d’une telle technique nécessite sept à dix
+   ans de formation afin de parvenir à maîtriser l’ensemble des
+--
+   pour la civilisation réunionnaise singulière fondée sur le partage des
+   héritages et l’échange. En effet, les chants sont à la fois créole,
+   malgache, tamoul et makwa. Il est essentiel de sauvegarder cette</text>
+</page> §
+<page="FR-17">
+<text>
+L'héritage social et l'impact social des pratiques et des événements
+sportifs.
+--
+   parallèle légitime de s’interroger sur la capacité du sport et des
+   événements liés à transmettre un héritage social et culturel, et dans
+   l’affirmative, à en mesurer l’impact au niveau social, culturel,
+--
+   Nous nous attachons dans un deuxième temps à émettre des comparaisons
+   avec les indicateurs d’un nouvel héritage social. Les pratiques de
+   glisse, dérivées du ski et les pratiques du vélo « de montagne »
+--
+   (BUTTON) en
+   Héritage social Héritage culturel Vélo tout terrain Mountain bike
+   Oisans montagne
+--
+   (BUTTON)
+   Dorothée Fournier. L'héritage social et l'impact social des pratiques
+   et des événements sportifs.. Héritage sportif et dynamique
+   patrimoniale. International Conference. 18e Carrefours d'Histoire du</text>
+</page> §
+<page="FR-18">
+<text>
+   Les tourments de l'héritage
+     * (BUTTON) Menu
+--
+
+   L'héritage : un sujet délicat...
+   L'héritage : un sujet délicat... ©Getty - © Tim Macpherson / Coll.
+   Stone L'héritage : un sujet délicat... ©Getty - © Tim Macpherson /
+   Coll. Stone
+--
+
+Les tourments de l'héritage
+
+--
+   (BUTTON)
+   L'héritage : un sujet délicat... ©Getty - © Tim Macpherson / Coll.
+   Stone
+--
+
+La réforme de l’héritage est un véritable serpent de mer politique. On l’a vu
+réapparaître au début de la dernière campagne présidentielle, puis il a
+--
+   l’égalité ; autant dire à tous les tabous de la société française.
+   Réformer l’héritage est une entreprise délicate car elle place la
+   politique au niveau de l’intime : au nom de l’égalité des chances,
+--
+   Sans compter que neuf Français sur dix rejettent toute taxation de
+   l’héritage.
+
+   Patrick Avrane "L'héritage, c'est une histoire de famille. En règle
+   générale, on hérite de la famille, et on oublie que les héritiers en
+--
+   ni sa sœur. C'est une histoire de famille et ça devient parfois,
+   facilement, des conflits de famille parce que, au sein de l'héritage,
+   il y a des partages à faire !"
+--
+   patrimoine détenue par les plus grandes familles. Et cette question du
+   patrimoine n'est pas dissociable de la question de l'héritage, parce
+   que, en même temps que cette compression avait lieue avec l'émergence
+--
+
+   Comment donc traiter des tourments de l’héritage ? Certainement pas en
+   abordant la question en stricts termes économiques, ni en la réduisant
+--
+   d’une égalité simple. Non, Esprit de justice propose de restituer à la
+   question de l’héritage sa complexité humaine, anthropologique avec le
+   regard d’un psychanalyste, et de porter cette complexité également sur
+--
+   Patrick Avrane "C'est effectivement un des rares moments, actuellement,
+   où un sujet, au moment de l'héritage, rencontre sa filiation dans les
+   termes les plus simples, c'est-à-dire confronté à sa généalogie. La
+--
+   La question de l'égalité au sens de la répartition de façon égale de
+   l'ensemble des héritages, n'est absolument pas présente dans la
+   question de la succession telle qu'elle se pose pour chaque individu."
+
+   Vanessa Wisnia-Weill "En réalité, ce projet de réforme de l'héritage ne
+   concerne que très peu de personnes en terme de taxation. Effectivement,
+--
+   et compte-tenu des abattements qui existent, une immense majorité des
+   héritages ne sont pas taxés ou quasiment pas taxés."
+
+--
+   a toute cette dimension imaginaire qui est présente dans ce que l'on
+   reçoit au cours d'un héritage. Et c'est là où il y a une antinomie
+   entre le psychanalyste et le notaire, car le notaire, il ne se base que
+   sur la valeur des choses, c'est comme ça que se répartissent les
+   héritages, tandis que le psychanalyste, il entend, ce que supportent
+   ces choses, leur dimension fantasmatique."
+--
+   Vanessa Wisnia-Weill "A partir de la Révolution française, l'égalité
+   des droits, ça change le sens de l'héritage puisque effectivement à ce
+   moment-là, on rentre dans une possibilité pour les héritiers de
+--
+
+     * Choix de Patrick Avrane : " L'héritage" de Félix Leclerc - 1959 -
+       Label : Mercury.
+--
+
+   À écouter ou à réécouter : Héritage, droits de succession : le débat
+   aura-t-il lieu ?
+--
+     * Esprit de justice
+     * Les tourments de l'héritage</text>
+</page> §
+<page="FR-19">
+<text>
+La France est-elle redevenue une "société d’héritage"?
+
+--
+
+   Dénonçant la société de "rente et d'héritage" dans laquelle le travail
+   ne permet plus à lui seul d'augmenter significativement son niveau de
+--
+
+   Faut-il davantage taxer l’héritage? Aussi sensible soit-elle, cette
+   question revient régulièrement dans le débat public. En 2022, elle
+--
+   Conseil et ancien directeur de cabinet de la ministre du Travail Muriel
+   Pénicaud, y décrit une société française "de rente et d’héritage" dans
+   laquelle "la majorité de ce que les Français possèdent est due au
+--
+   d’analyse économique (CAE) qui a rendu un rapport intitulé "Repenser
+   l’héritage" fin 2021. Chargé de conseiller le Premier ministre, ce
+   groupe de réflexion composé d’économistes reconnus y dresse peu ou prou
+--
+   forte mobilité économique et sociale durant la seconde moitié du XXe
+   siècle, l’héritage redevient un facteur déterminant dans la
+   constitution du patrimoine dans les pays industrialisés", écrit-il.
+--
+   Les experts du CAE sont formels: "depuis une trentaine d’années", la
+   grande vitesse" en France. "L’héritage est de retour", résument-ils.
+   Les chiffres en témoignent: alors que le patrimoine représentait 300%
+--
+
+   "L’héritage moyen du top 0,1 % représente donc environ 180 fois
+   l’héritage médian", relève le CAE. Et les 1% d’héritiers les mieux
+   lotis peuvent "désormais obtenir, par une simple vie de rentier, un
+--
+   suggère de "se rapprocher de l’égalité des chances en augmentant les
+   droits de succession sur les héritages les plus importants (par exemple
+   le dernier décile)".
+--
+   Autre proposition formulée par le collège présidé par Philippe Martin:
+   traiter de la même manière les héritages en lignes directes (entre
+   ascendants ou descendants) et les héritages en lignes indirectes.
+   Enfin, si l’impôt sur les successions est "en principe progressif", il</text>
+</page> §
+<page="FR-2">
+<text>
+   Accueil International Hôpitaux au Royaume-Uni: l’héritage désastreux de
+   Boris Johnson
+--
+
+Hôpitaux au Royaume-Uni: l’héritage désastreux de Boris Johnson</text>
+</page> §
+<page="FR-20">
+<text>
+Patrimoine et héritage : sept choses à savoir pour comprendre le débat sur
+les droits de succession
+--
+   sur les questions économiques, incite à "repenser
+--
+   des lecteurs du Parisien, mardi 4 janvier, Emmanuel Macron s'est à son
+--
+   de quinze ans). A gauche, le candidat de la France insoumise, Jean-Luc
+   Mélenchon veut, lui, plafonner l'héritage maximal à 12 millions
+   d'euros.
+
+   Ne serait-il pas temps de "Repenser l'héritage" (PDF), comme l'a
+   proposé le Conseil d'analyse économique (CAE), qui conseille Matignon ?
+--
+
+L'héritage pèse de plus en plus lourd dans la position sociale des Français
+
+   Le premier constat est sans appel : l'héritage joue un rôle croissant
+--
+   du Conseil d'analyse économique. "Aujourd'hui, on observe le retour de
+   l'héritage. C'est lui qui joue un rôle de plus en plus important dans
+   la position sociale et économique, et ce n'est pas fini."
+--
+   yeux : "pouvoir acheter ou non un logement à Paris est de plus en plus
+--
+
+   dans sa note "Repenser héritage"
+
+--
+
+   dans sa note "Repenser l'héritage"
+
+   En mai 2021, le quotidien américain The Financial Times plaçait la
+   France en tête des pays comptant le plus de milliardaires par héritage.
+   Près de 80% de ces très grandes fortunes françaises sont en effet
+--
+
+   dans sa note "Repenser l'héritage"
+
+--
+
+   "De 85 à 90% des héritages en ligne directe (de parent à enfant) sont
+   exonérés d'impôt", explique Clément Dherbécourt. Mais peu de gens le
+--
+     "J'ai hérité de ma marraine et l'Etat français m'a volé 60% de
+     l'héritage, je trouve ça scandaleux. Quand est-ce que vous allez
+     arrêter ça ?"
+--
+
+   C'est cette imposition sur l'héritage indirect qui s'avère
+   particulièrement lucratif. "En dépit de représenter moins de 10% du
+--
+   internationales, la France figure parmi les pays qui taxent le plus
+   l'héritage, mais c'est en grande partie parce qu'on fait beaucoup payer
+   en ligne indirecte", résume Clément Dherbécourt.
+--
+   Alors qu'une bonne partie des Français n'en paiera jamais, l'impôt sur
+   l'héritage est impopulaire, mal connu et mal compris, selon l'enquête
+   menée en 2017 par le Credoc. A peine 9% des sondés (contre 17% en 2011)
+   estimaient que "l'impôt sur l'héritage devrait augmenter car les
+   héritages entretiennent les inégalités sociales". Et 87% étaient d'avis
+   que "l'impôt sur l'héritage devrait diminuer car il faut permettre aux
+   parents de transmettre le plus de patrimoine possible à leurs enfants".
+   Les politiques jouent donc sur du velours en prônant la réduction de la
+   fiscalité sur l'héritage, même si cette baisse ne profite qu'aux plus
+   aisés.
+--
+   Une infographie du Credoc illustrant les réponses à une enquête sur
+   l'impôt sur l'héritage. (CREDOC) Une infographie du Credoc illustrant
+   les réponses à une enquête sur l'impôt sur l'héritage. (CREDOC) Une
+   infographie du Credoc illustrant les réponses à une enquête sur l'impôt
+   sur l'héritage. (CREDOC)
+
+--
+
+   Lui juge nécessaire une remise à plat, parce que "l'héritage contribue
+   à l'inégalité des chances et ralentit la mobilité sociale". Ultime
+--
+
+   [hit.xiti?s=573499s2=11p=elections::articles::patrimoine_et_heritage_
+   sept_choses_a_savoir_pour_comprendre_le_debat_sur_les_droits_de_success</text>
+</page> §
+<page="FR-21">
+<text>
+Et si l’héritage n’allait pas de soi ?
+
+--
+
+   EnquêteDepuis les années 1970, l’héritage redevient un facteur
+   déterminant du patrimoine. Si la fiscalité des successions suscite des
+--
+   ce qui n’est pas forcément un signe de lucidité. « En France, poursuit
+   l’économiste, l’héritage n’est pas loin de retrouver, en ce début de
+   XXI^e siècle, l’importance qu’il avait à l’époque du Père Goriot. »
+--
+   forte mobilité économique et sociale durant la seconde moitié du
+   XX^e siècle, l’héritage est redevenu un facteur déterminant dans la
+   constitution du patrimoine, constatent Clément Dherbécourt, Gabrielle
+   Fack, Camille Landais et Stefanie Stantcheva. Ce retour de l’héritage
+   nourrit une dynamique de renforcement des inégalités patrimoniales
+--
+   cas : si la fiscalité successorale fait parfois l’objet de débats,
+   notre « imaginaire philosophique sur l’héritage s’est appauvri »,
+   constate Mélanie Plouviez, maîtresse de conférences à l’Université Côte</text>
+</page> §
+<page="FR-22">
+<text>
+   Un choix à faire entre 25 % de l'héritage et 100 % de son usufruit. Dès
+   lors que tous les enfants du défunt sont aussi ceux du conjoint
+--
+   En fonction de la solution choisie, les enfants du couple toucheront
+   soit les trois quarts de l’héritage en pleine propriété, soit la
+   totalité de la nue-propriété. Les autres membres de la famille n’ont
+--
+
+   Une seule solution, recevoir 25 % de l'héritage en pleine propriété. La
+   part d’héritage du conjoint est forcément égale au quart des biens en
+   pleine propriété lorsque le défunt a eu des enfants avec une ou
+--
+   conjoint et les autres. Là encore, le reste de la famille n’a aucun
+   droit sur l’héritage.
+
+--
+   disparu) s’ajoutant à la part du conjoint survivant, lequel va ainsi se
+   voir attribuer les trois quarts de l’héritage en pleine propriété.
+   Publicité
+--
+   frères et sœurs, sur les biens de "famille", ceux que le défunt peut
+   avoir reçus de son père ou de sa mère par héritage ou donation (par
+   exemple, une maison, un tableau ou un bijou), et que les frères ou
+--
+    A lire aussi - Pacs : testament, donation... Comment réserver une
+   partie de son héritage à son partenaire
+
+--
+   testament. Notez également que ce droit est gratuit, et vient donc en
+   plus de sa part d’héritage. S’il s’agissait d’un bien en location, les
+   loyers seront prélevés sur la succession.
+--
+   demande au notaire dans un délai d’un an. Ce droit d’habitation à vie
+   n’est cette fois pas gratuit, il sera déduit de la part d’héritage.
+--
+     * SUCCESSION
+     * HÉRITAGE
+     * COMPARATEUR D’ASSURANCE
+--
+     *
+   Pacs et succession : réserver une partie de son héritage à son
+       partenaire</text>
+</page> §
+<page="FR-23">
+<text>   En cas de décès, si rien n’est prévu, c’est la loi qui désigne les
+   héritiers et fixe leurs parts d’héritage. Mieux vaut donc anticiper
+   pour transmettre son patrimoine comme on l’entend, réduire les droits
+--
+   avez des enfants, ce sont eux et votre conjoint qui se partageront
+   votre héritage. À défaut, ce sont les autres membres de votre famille
+   (parents, frères et sœurs, cousins et cousines, etc.) qui hériteront.
+--
+   respecter la « réserve héréditaire », c’est-à-dire de ne pas priver vos
+   enfants et votre conjoint de la part d’héritage que la loi leur
+   réserve. Rien ne vous interdit en revanche d’écarter de votre
+--
+
+   La part d’héritage qui reviendra à votre conjoint ou à votre partenaire
+   de pacs sera totalement exonérée de droits de succession. Il en sera de
+   même, sous certaines conditions, pour la part d’héritage de vos frères
+   et sœurs. En revanche, vos autres héritiers devront payer des droits de
+--
+   vos héritiers bénéficieront à nouveau de l’abattement sur leur part
+   d’héritage. Ils en auront alors profité plusieurs fois (de votre vivant
+   puis à votre décès), ce qui réduira sensiblement leurs droits de
+--
+   ENQUÊTE
+   Héritage, donations
+   La donation-partage étendue à toute la famille</text>
+</page> §
+<page="FR-24">
+<text>
+Couple et argent : "Ma femme a-t-elle des droits sur l'héritage de mes
+parents?"
+--
+   SOMMAIRE
+    1. L’héritage de mes parents
+    2. L’argent venu du côté de ma femme
+--
+
+• L’héritage de mes parents
+
+     Gigi 78. Puis-je être le seul à bénéficier de l'héritage de mes
+   parents, si nous sommes mariés sous le régime de la communauté?Me
+--
+       toucher à l'hétage de l'autre suite au déces de ses parents . Mais
+       si j'achete un bien suite à cet héritage et notre contrat de
+       mariage , est ce que mon conjoint doit venir signer chez le notaire
+--
+   Pour aller plus loin
+   Héritage et succession: 4 solutions pour protéger votre conjoint
+
+   Héritage et succession: 4 solutions pour protéger votre conjoint
+   Venir en aide à ses enfants sans conflit: mode d'emploi</text>
+</page> §
+<page="FR-25">
+<text>   Publications
+   RENONCER A UN HÉRITAGE : C’EST POSSIBLE !
+
+RENONCER A UN HÉRITAGE : C’EST POSSIBLE !
+
+--
+
+   Les questions d'héritage sont complexes et, de plus, se posent souvent
+   dans des circonstances pénibles. L'ambition de cet article est de
+--
+
+   Les questions d'héritage sont complexes et, de plus, se posent souvent
+   dans des circonstances pénibles. L'a
+   RENONCER A UN HÉRITAGE : C’EST POSSIBLE !
+
+--
+   ou de bénéficier d’argent dont vous savez qu’il a été mal acquis :
+   autant de raisons de refuser un héritage. Mais est-ce possible de le
+   faire, comment et à quel moment ? Quelques éléments de réponse.
+--
+
+   Le droit français instaure une protection de l’héritage des descendants
+   de la personne décédée, par le mécanisme bien connu d’une part, de la
+--
+   Dans ces hypothèses, il est tout à fait possible de refuser cet
+   héritage. A ce moment-là sachez que vous renoncez à l’intégralité des
+   sommes et des biens auxquels vous auriez eu droit. On ne peut accepter
+--
+
+          •         Avantager vos enfants. En renonçant à votre héritage
+   ce sont eux qui héritent à votre place ou vos frères et sœurs si vous
+--
+
+Comment refuser l’héritage de mes parents ?
+
+   Pour refuser l’héritage de vos parents, vous devez manifester
+   clairement votre volonté, et ce dans les quatre mois suivant la date du
+--
+
+   Pour renoncer à votre héritage, vous devez remplir le formulaire Cerfa
+   n°15828*04 dit de renonciation à succession par une personne majeure.
+--
+   Une fois cette démarche effectuée, vous recevrez un récépissé de votre
+   renonciation à l’héritage. Il vous sera utile comme justificatif,
+   notamment face aux créanciers si votre parent avait des dettes.
+--
+
+Comment refuser un héritage avant décès ?
+
+   En théorie, il est impossible de renoncer à votre héritage avant le
+   décès de votre ou de vos parents. Vous pouvez toutefois renoncer à tout
+--
+
+Qui hérite si je renonce à mon héritage ?
+
+   Si vous renoncez à votre héritage, ce sont vos enfants qui vont hériter
+   de votre part, qu’ils soient nés de votre mariage, ou hors mariage ou
+--
+
+Puis-je revenir sur ma décision de renoncer à mon héritage ?
+
+--
+
+   Si l’héritage de votre parent est insuffisant pour payer les obsèques,
+   vous restez tenu de régler les frais funéraires à proportion de vos</text>
+</page> §
+<page="FR-26">
+<text>
+   La mission Culture, Loisirs et Héritage
+
+    1. Accueil
+    2. La mission Culture, Loisirs et Héritage
+
+Qu’est-ce que la mission Culture, Loisirs et Héritage du Samusocial de Paris
+?
+
+   La mission Culture, Loisirs et Héritage a pour objectif de développer
+   l’accès à la culture et aux loisirs des publics accueillis par le
+   Samusocial de Paris. Le volet héritage, permet quant à lui de valoriser
+   le passé, la créativité et les coutumes des résidents de nos structures
+--
+
+Le Mois Festif : la vitrine de la mission Culture, Loisirs et Héritage
+
+--
+
+Les partenaires de la mission Culture, Loisirs et Héritage
+
+--
+   Nous contacter
+   Paul Pecquet - Chargée de mission Culture, Loisirs et Héritage - 06 46
+   00 05 28</text>
+</page> §
+<page="FR-27">
+<text>
+   André Malraux : "La culture est l'héritage de la noblesse du monde"
+     * (BUTTON) Menu
+--
+
+André Malraux : "La culture est l'héritage de la noblesse du monde"
+
+--
+   alors ministre d'État chargé des Affaires culturelles, se rend au
+   Québec où il fait résonner cette phrase "La culture est l'héritage de
+   la noblesse du monde". Brève histoire de ce discours.
+--
+   diffuse un morceau de discours prononcé outre-Atlantique par Malraux,
+   qui commence par “la culture est l’héritage de la noblesse du monde”.
+   Cet extrait est conservé dans les fonds d’archives de l’INA :
+--
+
+   "La culture est l'héritage de la noblesse du monde. La seule force que
+   nous ayons en face de l'élément de la nuit, c'est précisément tout ce
+--
+     * France Culture
+     * André Malraux : "La culture est l'héritage de la noblesse du monde"</text>
+</page> §
+<page="FR-28">
+<text>
+L’héritage culturel de la France vient aussi des femmes
+
+--
+   patrimoine" qui se déroulent ce week-end dans toute la France, le
+   mouvement HF veut rappeler que les femmes comptent dans notre héritage
+   culturel. Et revaloriser leurs œuvres, trop souvent oubliées.
+--
+   Journées du matrimoine 2022
+   L’héritage culturel de la France vient aussi des femmes
+   Anne-Marie Rocco
+--
+   Près de 200 événements dans toute la France pour "célébrer les femmes
+   qui ont compté dans notre héritage culturel" : du 15 au 17 septembre,
+   les "Journées du matrimoine" rappelleront au grand public que le
+--
+   "Les mots sont importants, remarque Marie Guérini. Nous mettons en
+   avant l’héritage des femmes et c’est quelque chose que tout le monde
+   comprend." Cela explique l’intérêt croissant du public, parfois</text>
+</page> §
+<page="FR-29">
+<text>
+     * 1. Penser l'héritage
+     * 2. Histoire et philosophie des sciences
+--
+
+   Vous êtes ici : Home 1. Penser l'héritage
+
+--
+
+                         Workshops Penser l'héritage
+
+--
+   les années 1970, dans les pays développés, à « un retour de
+   l’héritage » : après avoir décru dans la première moitié du XXe siècle,
+   la part du patrimoine hérité dans les ressources totales des ménages a
+   retrouvé aujourd’hui un niveau comparable à celui qu’il détenait au
+   XIXe siècle. Et ce « retour de l’héritage », loin de bénéficier à tous,
+   est au contraire fortement discriminant dans la mesure où il est très
+--
+   siècle de Thomas Piketty (Piketty 2013), le retour contemporain de
+   l’héritage est resté peu visible et peu questionné, un nombre croissant
+   d’économistes en appellent aujourd’hui à une réforme de la fiscalité
+--
+   efficacité, que ce soit en faisant varier le taux d’imposition selon
+   qu’il s’agit d’héritages, de transferts entre vifs ou de dons
+   caritatifs (Kaplow 2001 ; Bernheim  alii 2004 ; Arrondel  Masson
+   2011 ; Masson 2015), selon que le patrimoine transmis provient d’un
+   héritage antérieur ou du produit du travail (Halliday 2018), selon
+   l’âge du défunt (Pestieau  Ponthière 2018), selon l’âge de l’héritier
+--
+
+   Mais si la question de l’héritage revêt une importance croissante en
+   économie, elle demeure singulièrement absente en philosophie, quand
+--
+   2002) et de gauche (Steiner 1994, Vallentyne 2001, Van Parijs 1991 et
+   1995, Otsuka 2003), l’institution de l’héritage reste très peu
+   questionnée au sein même des théories de la justice, cette partie de la
+--
+
+   Les workshops Penser l’héritage, organisé dans le cadre de la chaire
+   d'excellence UCAjedi Reconsidering Inheritance, entendent combler ce
+   manque en se saisissant philosophiquement de l’institution de
+   l’héritage.
+
+--
+   patrimoine ? », Revue de l’OFCE, 122, p. 231-261.
+   Arrondel L.  Masson A. (2011), « Taxer les héritages pour accroître la
+   mobilité du patrimoine entre générations », Revue française d'économie,
+--
+
+     [Affiche%20Penser%20lheritage.png]
+
+--
+
+   [workshop-penser-l-heritage-4-5-6.png]
+
+--
+   Histoire des Idées d’Université Côte d’Azur organise, dans le cadre de
+   l’ANR JCJC Philosophie de l’héritage, la première séance du workshop
+   REFORM-HERIT Réformer l'héritage aujourd’hui.
+
+--
+   l’EHESS) sur l’héritage. Ses propositions de réforme des pratiques
+   successorales seront discutées, en présence de l’auteur, à partir de
+   son dernier livre Chronique d’un impôt sur l’héritage en perdition.
+   Pourquoi et comment le sauver (PUF, 2023) par Marie Bastin (ATER
+--
+
+Mardi 27 juin 2023 - Workshop Penser l'héritage 11 - La Révolution française
+et l'héritage
+
+--
+   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
+   activités de l’Idex UCAJedi, le mardi 27 juin 2023 de 9h à 13h, un
+   onzième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
+   workshop, intitulé « La Révolution française et l’héritage »,
+   comprendra les interventions de Morgan MORCEL (doctorant contractuel,
+--
+
+Mardi 19 septembre 2023 - Workshop Penser l'héritage 12 - Droit successoral
+et démographie
+--
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   mardi 19 septembre 2023 de 10h à 13h, un douzième workshop "Penser
+   l'héritage" qui aura lieu en hybride. Ce workshop, intitulé « Droit
+   successoral et démographie », sera centré sur les travaux de recherche
+--
+
+Vendredi 9 juin 2023 - Workshop Penser l'héritage 10 - L’héritage chez Comte
+et les positivistes
+--
+   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
+   activités de l’Idex UCAJedi, le jeudi 9 juin 2023 de 10h à 13h, un
+   dixième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
+   workshop, intitulé « L’héritage chez Comte et les positivistes »,
+   comprendra deux interventions, l’une de Giovanni MINOZZI (docteur
+--
+
+Jeudi 4 mai 2023 - Workshop Penser l'héritage 9 - L'école leplaysienne et
+l'héritage
+
+--
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   jeudi 4 mai 2023 de 13h à 16h, un neuvième workshop "Penser l'héritage"
+   qui aura lieu en hybride. Ce workshop, intitulé « L'école leplaysienne
+   et l'héritage », comprendra deux interventions : l’une de Mélanie
+   PLOUVIEZ (Maîtresse de conférences en philosophie, Université Côte
+   d’Azur), intitulée « Le Play, les Leplaysiens et l’héritage : de la
+   liberté testamentaire au Homestead » ; l’autre de Stefania FERRANDO
+--
+
+Jeudi 9 mars 2023 - Workshop Penser l'héritage 8 - Codifier le droit
+coutumier de l'héritage en Inde Britannique
+
+--
+   En raison du mouvement actuel contre le projet de réforme des
+   retraites, la prochaine séance du workshop "Penser l'héritage", qui
+   était programmée le jeudi 16 février, est reportée au jeudi 9 mars
+--
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   jeudi 9 mars 2023 de 13h à 16h, un huitième workshop "Penser
+   l'héritage" qui aura lieu en hybride. Ce workshop est intitulé
+   « Codifier le droit coutumier de l'héritage en Inde Britannique. Entre
+   retour réflexif et cristallisation de l'exclusion des femmes ». Amanjit
+--
+   Paris Nanterre) y présentera une intervention intitulée « La succession
+   agnatique et l’exclusion des femmes dans l’héritage des propriétés
+   ancestrales : l’exemple des femmes veuves dans le Punjab britannique
+--
+   (1822-1888) : le droit coutumier Indien comme inspiration d’une réforme
+   libérale de l’héritage ».
+     __________________________________________________________________
+--
+
+Vendredi 2 décembre 2022 - Workshop Penser l'héritage 7 - Héritage et
+littérature au XIXe siècle
+--
+   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de
+   l'héritage, le vendredi 2 décembre 2022, de 9h à 12h, un septième
+   workshop "Penser l'héritage" qui aura lieu en hybride. Intitulé
+   "Héritage et littérature au XIX^e siècle", ce workshop portera sur les
+   représentations littéraires de la transmission patrimoniale au XIX^e
+--
+   une galerie de portraits littéraires d’héritiers et de testateurs,
+   donnant à voir la manière dont l'héritage pouvait affecter les
+   trajectoires individuelles au XIX^e siècle. Martin RUEFF (Professeur de
+--
+   entreprises romanesques configurent les législations nationales sur
+   l’héritage au XIX^e siècle. Il prendra ses exemples dans le roman
+--
+
+   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de l'héritage
+   et avec le soutien de l'équipe Interactions Culturelles et Discursives
+--
+
+Lundi 6 décembre 2021 - Workshop Penser l'héritage 6
+
+--
+   Le CRHI organisele lundi 6 décembre 2021, de 9h à 12h, un sixième
+   workshop "Penser l'héritage" qui aura lieu en distanciel. Intitulé
+   "Héritage et féminisme au XIXe siècle", ce workshop déploiera comment
+   la question de l'héritage a été, au XIXe siècle, un lieu d'élaboration
+   des premières théories féministes. Anne VERJUS (Directrice de recherche
+--
+   y présentera une intervention intitulée  "De l’abolition de la place du
+   père à l’abolition de l’héritage : Ma loi d’avenir de Claire Démar
+   (1833)".
+--
+
+Lundi 29 novembre 2021 - Workshop Penser l'héritage 5
+
+--
+   Le CRHI organise un cinquième workshop international "Penser
+--
+   présentera une intervention intitulée "Le principe Rignano, ou comment
+   transformer la propriété par la taxation de l'héritage". Marie BASTIN
+   (doctorante en philosophie, Université Paris 1 Panthéon-Sorbonne) y
+--
+
+Lundi 27 septembre 2021 - Workshop Penser l'héritage 4
+
+--
+   Le CRHI organise, dans le cadre de la chaire Idex Reconsidering
+   Inheritance, un quatrième workshop international "Penser l'héritage".
+   18h, en distanciel. Intitulé « Mill et l’héritage », ce workshop
+   étudiera la proposition émise par John Stuart Mill de plafonner
+   l’héritage et les justifications normatives qui la sous-tendent.
+   Philippe LÉGÉ (Maître de conférences en économie à l'Université de
+   Picardie) y présentera une intervention intitulée "John Stuart Mill et
+   la taxation des héritages : une réforme « radicale » ?". Éric FABRI
+   (post-doctorant au Centre de Théorie Politique de l’Université Libre de
+   Bruxelles, BAEF Postdoctoral Fellow, Harvard University) y présentera
+   une intervention intitulée "Taxation des héritages, legs et dons: et si
+   John Stuart Mill avait raison?".
+--
+
+Lundi 8 mars 2021 - Workshop Penser l'héritage 3
+
+--
+   UCAjedi Reconsidering Inheritance, un troisième workshop "Penser
+   l'héritage". Ce workshop aura lieu le lundi 8 mars 2021, de 9h à 12h,
+   en distanciel, et est intitulé "Justice et fiscalité successorale".
+--
+   Paris-Dauphine, IRISSO) y présentera une intervention intitulée
+   "L'héritage au concret : le poids des intermédiaires dans la taxation
+   de l'héritage et des successions en France et aux États-Unis
+--
+
+    1. Lundi 11 janvier 2021 - Workshop Penser l'héritage 2
+    2. Mercredi 16 décembre 2020 - Workshop Penser l'héritage 1</text>
+</page> §
+<page="FR-3">
+<text>
+La Toussaint en Corse : Un héritage culturel et spirituel célébré par les
+jeunes</text>
+</page> §
+<page="FR-30">
+<text>
+   Proposition de loi n°5095 pour un héritage juste et populaire
+   Proposition de loi n°5095 (Sommaire)</text>
+</page> §
+<page="FR-31">
+<text>   #CIELEDEN » Succession et procédure d’héritage Flux des commentaires
+   alternate
+--
+   Accueil Succession : guide complet Succession : définition et notions
+   de bases Succession et procédure d’héritage
+
+Succession et procédure d’héritage
+
+--
+   d’une personne, autorisent l’ouverture de sa succession.
+   procédure héritage procédure héritage
+   Sommaire (BUTTON) Voir tout
+--
+     * La gestion directe de la succession par les héritiers
+     * L'acceptation ou le refus de l'héritage
+     * Le partage de la succession
+--
+
+L'acceptation ou le refus de l'héritage
+
+--
+     * Déclaration de succession
+     * Héritage et succession
+     * Succession et procédure d’héritage
+     * Formalités démarches décès
+     * Acte de notoriété
+     * Héritage : l’indivision
+
+6 commentaires à Succession et procédure d’héritage
+
+--
+       Je viens de recevoir un courrier d’un notaire pour la succession
+       (héritage) qui me demande de remplir un formulaire avec toutes mes
+       coordonnées d’acte naissance etc… Aussi, les coordonnées de mon</text>
+</page> §
+<page="FR-32">
+<text>
+   Héritage et succession : les règles de transmission
+
+--
+   tout un mag pour vous
+   Accueil Tout un mag pour vous HomePage Particulier Héritage et
+   succession : les règles de transmission
+
+Héritage et succession : les règles de transmission
+
+--
+   essentiel. Les réponses à vos questions pour préparer votre
+   transmission ou gérer un héritage.
+
+--
+
+   Le partage de l'héritage dépend de l'existence d'un testament et de
+   l'ordre de priorité des héritiers établi par la loi. Si un testament
+--
+
+POUVEZ-VOUS REFUSER UNE SUCCESSION / UN HÉRITAGE ?
+
+--
+       dettes de la succession s’imputent uniquement sur votre part
+       d’héritage et non sur votre patrimoine personnel.
+
+--
+       à recueillir le patrimoine du défunt, mentionnant leur identité,
+       l'existence d'un testament, et la répartition de l'héritage.
+    2. Attestation de propriété immobilière : Elle atteste que les
+--
+
+COMBIEN DE TEMPS FAUT-IL POUR TOUCHER UN HÉRITAGE ?
+
+   Le délai pour toucher un héritage peut varier, mais cela prend souvent
+   au moins 6 mois. Rapprochez-vous de votre notaire pour avoir une</text>
+</page> §
+<page="FR-33">
+<text>    1. Accueil
+    2. Comment transmettre votre héritage numérique ?
+
+   heritage-numerique
+
+Comment transmettre votre héritage numérique ?
+
+--
+administratifs, les sites de vente en ligne ou bien de streaming, etc.
+Comment transmettre cet héritage numérique ?</text>
+</page> §
+<page="FR-34">
+<text>   Conseils en Bourse et Placements  Impôts et Droits  Droits de
+   succession  Vers un héritage plus productif !
+
+--
+
+Vers un héritage plus productif !
+
+--
+La transmission est un sujet qui s’est invité dès le début de la campagne
+présidentielle 2022. Pour les candidats, le sujet de l’héritage est un sujet
+important puisqu’il intéresse particulièrement le vaste électorat des
+--
+   Et, si finalement, à droite et à gauche, on se trompait totalement
+   d’approche sur l’héritage ?
+
+--
+   d’analyse économique, groupement d’économistes) en 2021, 60% du
+   patrimoine total provient d’un héritage alors que ce n’était que 35% en
+   1970.
+--
+
+   L’autre élément à prendre en compte est l’usage de l’héritage. Trop
+   souvent, notamment avec les héritiers de plus de 60 ans, cet argent est
+--
+
+   Il s’agit donc de revaloriser le fruit de l’héritage, de le remettre
+   dans la machine économique, sans retirer aux héritiers le droit de</text>
+</page> §
+<page="FR-35">
+<text>   #HéritageCivilisation - RSS
+
+--
+   Odyssee-Blanc.png
+   le logo de l'association Heritage  Civilisation - Odyssée
+
+--
+
+   LA NEWSLETTER Octobre 2023 : Héritage  Civilisation sur tous les
+   fronts !
+
+   LA NEWSLETTER Octobre 2023 : Héritage  Civilisation sur tous les
+   fronts !
+--
+   HC - LA NEWSLETTER Septembre 2023 : Le programme Odyssée s'étoffe
+   Héritage  Civilisation - LA NEWSLETTER Juillet 2023 : Les ambassadeurs
+   du patrimoine à Hébron
+
+   Héritage  Civilisation - LA NEWSLETTER Juillet 2023 : Les ambassadeurs
+   du patrimoine à Hébron
+--
+   (BUTTON)
+   https://www.heritageCopiez le lien
+   Lien copié
+--
+
+   Héritage et Civilisation - J2 L'Odyssée des Ambassadeurs de la
+   préservation du patrimoine à Hébron
+--
+
+Héritage et Civilisation - J2 L'Odyssée des Ambassadeurs de la préservation
+du patrimoine à Hébron
+
+   Héritage  Civilisation - L’odyssée des ambassadeurs de la préservation
+   du patrimoine à Hébron
+--
+
+Héritage  Civilisation - L’odyssée des ambassadeurs de la préservation du
+patrimoine à Hébron
+--
+
+   Le patrimoine est un héritage que nous léguons à la jeunesse et aux
+   futures générations. Le programme international ODYSSÉE a pour objectif
+--
+   (BUTTON)
+   https://www.heritageCopiez le lien
+   Lien copié
+--
+
+   HERITAGE  CIVILISATION
+
+--
+
+   contact@heritagecivilisation.com</text>
+</page> §
+<page="FR-36">
+<text>   Vous êtes ici
+   AccueilLe journal de la rechercheDossiersLouis Pasteur : un héritage
+   universel
+--
+
+Louis Pasteur : un héritage universel
+
+--
+   Pasteur. Sa renommée n’est plus à faire. Rues, boulevards, écoles
+   portent aujourd’hui son nom, en France et dans le monde. Son héritage
+   immense s’invite jusque dans nos maisons, avec les produits
+--
+   Louis Pasteur est une occasion unique de lui rendre hommage et de
+   transmettre son héritage. Découvrez les célébrations et évènements qui
+   émailleront cette année exceptionnelle sur pasteur2022.fr.</text>
+</page> §
+<page="FR-37">
+<text>
+     Succession et héritage: qui hérite s’il n’y a ni enfant ni conjoint?
+
+--
+
+Succession et héritage: qui hérite s’il n’y a ni enfant ni conjoint?
+
+--
+héritiers. Cependant, le montant des droits de succession diffère selon le
+lien de parenté avec les personnes désignées pour recevoir l'héritage.
+
+--
+   ses petits-enfants. Sans frères et sœurs, les parents reçoivent la
+   totalité de l'héritage.
+
+--
+   testament permet d'anticiper la transmission de ses biens et de
+   répartir son héritage selon ses souhaits, en contournant l'ordre de
+   priorité défini par la loi.</text>
+</page> §
+<page="FR-38">
+<text>     * L'actualité de la retraite
+     * Patrimoine, les Français face à la question de l’héritage et de la
+       donation
+--
+
+   Les Français face à la question de l’héritage et de la donation
+
+--
+
+   L’héritage a changé de fonction avec l’allongement de l’espérance de
+   vie. Les successions interviennent de plus en plus tard. Les enfants
+--
+
+   Autrefois, si l’héritage pouvait servir d’apport pour acheter sa
+   résidence principale ou créer son entreprise, il entre avant tout
+--
+
+   Si l’héritage constitue un sujet sensible en France, cela n’a pas
+   empêché le législateur, au fil des décennies, d’adopter des taux
+--
+   30 % lorsque la valeur de l'héritage dépasse les 26 millions d'euros.
+   L'abattement s'élève à 500 000 euros pour le conjoint et 400 000 euros
+--
+
+   Les Français convaincus qu’ils bénéficieront d’un héritage
+
+--
+   Selon une étude du CRÉDOC, 28 % des Français auraient déjà bénéficié
+   d’un héritage et 16 % d’une donation du vivant. Un tiers des Français
+   auraient donc profité soit d’un don soit d’un héritage.
+
+--
+   Il est à souligner que les deux tiers de ceux qui n’ont pas bénéficié
+   de dons ou d’héritages pensent un jour ou l’autre en recevoir un.
+
+--
+   de droits de succession. Ceux qui pensent ne jamais recevoir un
+   héritage ou un don sont avant tout les non-diplômés (59 %), les
+   titulaires de bas revenus (54 %), les ouvriers (49 %) et les personnes
+--
+   successions s’inscrivent dans le cadre des solidarités familiales.
+   L’héritage appartient à la sphère privée. Il est à l’opposé du concept
+   d’État-providence. C’est une partie de nous que nous ne souhaitons pas
+   voir socialiser. Même ceux qui n’ont jamais bénéficié d’héritages
+   pensent en transmettre un jour.
+--
+   succession pour réduire ces inégalités. 87 % jugent au contraire qu’il
+   faut diminuer l’impôt sur l’héritage, car il faut permettre aux parents
+   de transmettre le plus de patrimoine possible à leurs enfants. Cette
+--
+
+   Des héritages plus faibles en France que chez nos voisins
+
+--
+   pas imposées. Trois Français sur quatre surestiment le taux
+   d’imposition sur les donations et héritages aux enfants ou
+   petits-enfants.
+--
+
+   Près de 13 % des Français bénéficient d’un héritage dépassant 100 000
+   euros quand 40 % reçoivent moins de 8 000 euros. Plus les héritiers ont
+   des revenus élevés, plus la probabilité qu’ils soient bénéficiaires
+   d’héritages importants augmente.
+
+   Répartition héritage 1
+
+
+   Le montant de l’héritage est d’autant plus élevé que l’âge de
+   l’héritier l’est également. Hériter jeune est synonyme bien souvent de
+--
+
+   Répartition héritage 2
+
+
+   Répartition héritage 3
+
+--
+
+   Répartition héritage 4
+
+--
+   de moins de 30 ans, la part de l’immobilier est faible dans les
+   héritages par le fait que les défunts, souvent jeunes également n’ont
+   pas eu le temps d’acquérir leur résidence principale.
+--
+
+   Les héritages peuvent également concerner des petits-enfants et sont
+   donc d’un montant plus modeste que ceux réalisés entre parents et
+--
+
+   Types-d-heritage-selon-age</text>
+</page> §
+<page="FR-39">
+<text>
+Accepter une succession ou un héritage ou y renoncer
+
+--
+
+   L'autorité du pays de l'UE chargée de régler l'héritage ou la
+   succession peut vous fournir un document national certifiant votre</text>
+</page> §
+<page="FR-4">
+<text>
+   Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
+   tendre vers le rien."
+--
+
+Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
+tendre vers le rien."
+--
+   plus en plus sur l’ego et sur la fabrication d’une image de soi. Ça
+   arrête un héritage qui serait nécessaire pour qu’on puisse porter une
+   culture au-delà de nous-même et la transmettre à des générations
+--
+   contrainte. Si on ne se base que sur l’improvisation dans sa danse ou
+   dans son art, sans patrimoine, sans héritage, sans quelque chose qui
+   nous dépasse et dont on est dépositaire, on finit par tendre vers le
+--
+     * Affaires culturelles
+     * Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit
+       par tendre vers le rien."</text>
+</page> §
+<page="FR-40">
+<text>
+Héritage
+
+   L'héritage est un des grands principes de la programmation orientée
+   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
+--
+
+   L'héritage est très utile pour définir et abstraire certaines
+   fonctionnalités communes à plusieurs classes, tout en permettant la
+--
+   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
+   une méthode privée eux-mêmes sans se soucier des règles d'héritage
+   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
+--
+     être connues avant d'être utilisées. Les classes mères doivent être
+     définies avant l'écriture d'un héritage. Cette règle générale
+     s'applique aussi dans le cas d'héritage ou d'implémentation
+     d'interfaces.
+--
+
+   Exemple #1 Exemple d'héritage
+   ?php
+--
+   déclaraient pas leur type de retour, et tout type de retour était
+   autorisé lors de leur héritage.
+
+--
+          + Visibilité
+          + Héritage
+          + L'opérateur de résolution de portée (::)</text>
+</page> §
+<page="FR-41">
+<text>
+Un héritage utile et durable
+
+--
+    2. Jeux Olympiques et Paralympiques
+    3. Un héritage utile et durable
+
+--
+
+Un héritage utile et durable
+
+--
+   propice au sport. Les Jeux étant un formidable levier pour construire
+   une « Nation sportive », leur héritage sera également de nature
+   immatérielle. C’est pour accompagner – et amplifier – l’ensemble des
+--
+   irréprochable, une mobilisation populaire, la construction d’un
+   héritage durable et des sportifs au meilleur de leur performance.
+     * Actualités</text>
+</page> §
+<page="FR-42">
+<text>     * Culture - Loisirs
+--
+
+Manau, Soldat Louis et l'Héritage Goldman en concert en Dordogne à la foire
+expo de Bergerac
+--
+   Les chanteurs de la mythique "Tribu de Dana" et le groupe de rock
+   celtique Soldat Louis se partageront la tête d'affiche avec L'Héritage
+   Goldman, du 3 au 5 mai 2024 sur la plaine de Picquecailloux à Bergerac
+--
+   de Dana" sortie en 1998 pour enflammer la foule, au côté du groupe de
+   rock lorientais Soldat Louis et du show "L'Héritage Goldman".
+   (BUTTON) ⓘ Publicité
+--
+   Samedi 4 mai, ce sera au tour des six musiciens et de la dizaine de
+   chanteurs de L'Héritage Goldman, déjà passés à Périgueux pour la foire
+   expo il y a deux ans.</text>
+</page> §
+<page="FR-43">
+<text>   Avocat » Flux des commentaires Lawperationnel - Schaeffer Avocat »
+   Héritage et succession pourquoi faire appel à un avocat ? Flux des
+   commentaires alternate alternate alternate
+--
+   Lawperationnel - Schaeffer Avocat
+    Blog  Succession  Héritage et succession pourquoi faire appel à un
+   avocat ?
+--
+
+Héritage et succession pourquoi faire appel à un avocat ?
+
+--
+   juridique, il peut résoudre les conflits que peuvent entraîner la
+   question de l’héritage. Cependant, si vous vous demandez pour quelle
+   raison il est préférable de contacter un avocat, voici quelques
+--
+   régler au plus efficacement les problèmes qui peuvent apparaître lors
+   d’un héritage ou d’une succession.
+
+--
+   des solutions pouvant convenir à tous. Il peut, par exemple, vous
+   proposer une revente pour faciliter le partage de l’héritage. Si aucun
+   compromis n’est trouvé, l’avocat pourra vous aider à faire valoir vos
+--
+   défunt, il sera possible de demander à ce qu’ils soient reconnus comme
+   étant une avance sur leur part d’héritage. Face à un bien en
+   indivision, l’avocat pourra demander une expertise auprès du juge pour
+--
+
+   Un héritage peut être une source de disputes. Au défunt d’un proche,
+   les héritiers devront désigner le notaire pour l’accomplissement de
+--
+   Pour conclure, notre cabinet est compétent concernant les questions
+   relatives aux héritages et aux successions, et le conseil d’un avocat
+   en la matière est primordiale tant il permet à la fois de sécuriser
+--
+   You must be logged in to post a comment.
+     * Patrimoine familial : est-ce que l’héritage en fait partie ?
+     * Règlement de succession : procédure, démarche et délai
+--
+   Actualités :
+   - Héritage et succession: pourquoi faire appel à un avocat ?
+   - Pourquoi obtenir un second passport ?</text>
+</page> §
+<page="FR-44">
+<text>   Avis d'expert Social Media
+   Comment gérer au mieux votre héritage numérique ?
+     *
+--
+
+Comment gérer au mieux votre héritage numérique ?
+
+--
+
+   Ainsi comment gérer notre héritage numérique en amont ?
+
+--
+   Microsoft ne fournit aucun outil spécifique vous permettant de gérer
+   votre cyber-héritage, ni à un membre de votre famille de demander la
+   suppression de son compte.</text>
+</page> §
+<page="FR-45">
+<text>
+L’héritage numérique et la Loi
+
+--
+
+L’héritage numérique et la loi
+
+--
+   biens du défunt sont tous répertoriés afin d’être répartis entre les
+   légataires. Il était donc logique d’encadrer légalement l’héritage
+   numérique. Grâce à la Loi du 7 octobre 2016, il est dorénavant possible
+--
+   floues. Malgré tout, on commence à voir apparaître des solutions pour
+   prévoir la transmission de son héritage numérique de façon simple et
+   sécurisée. Les coffres-forts virtuels en sont une. Ils permettent de
+--
+   votre planification successorale, nous allons vous en dire plus sur la
+   hiérarchie des héritiers, mais aussi la répartition de l’héritage. Cela
+   vous permettra de mieux comprendre le droit de succession français, ce</text>
+</page> §
+<page="FR-46">
+<text>   #À la Une de 20minutes.fr «Héritage numérique»: La justice allemande
+   déverrouille l’accès aux données numériques personnelles d’un défunt
+--
+   By the Web L’Allemagne fait un pas en avant sur la question de
+   «l’héritage numérique»
+     * Partager sur Messenger
+--
+
+«Héritage numérique»: La justice allemande déverrouille l’accès aux données
+numériques personnelles d’un défunt
+--
+
+   La question de l'héritage numérique pose notamment problème sur les
+   réseaux sociaux.
+   La question de l'héritage numérique pose notamment problème sur les
+   réseaux sociaux. — geralt / Pixabay
+--
+   », explique à 20 Minutes, Bianca Schulz, responsable du Centre Européen
+   des Consommateurs France. Dans ce cas précis, la question de l’héritage
+   numérique a notamment posé problème parce qu’il s’agissait de données
+--
+
+Organiser son héritage numérique en amont
+
+--
+
+   « Des entreprises proposent aussi d’organiser votre héritage numérique
+   », indique Bianca Schulz. Les prestations vont du message post mortem
+--
+   Européen des Consommateurs France suggère également de préciser ses
+   volontés en matière d’héritage numérique dans son testament ou tout</text>
+</page> §
+<page="FR-47">
+<text>
+L’épineux problème de l’héritage à l'ère du numérique
+
+--
+   Plusieurs cas ont récemment montré le flou qui entoure la question de
+   l’héritage numérique, que ce soit dans le devenir des biens
+   numériques(chansons et vidéos téléchargées, livres numériques) ou dans
+--
+   Dans le cas de Facebook, le réseau social offre depuis peu aux
+   Etats-Unis la possibilité de désigner un « contact d’héritage ». A la
+   mort de l’utilisateur, ce légataire peut gérer le profil du défunt,</text>
+</page> §
+<page="FR-48">
+<text>    #EURACTIV.fr » Faut-il réguler l’héritage numérique ? Flux des
+   commentaires alternate alternate
+--
+    3. Économie
+    4. Faut-il réguler l’héritage numérique ?
+
+Faut-il réguler l’héritage numérique ?
+
+--
+   numérique », explique Sjef van Erp, un professeur qui dirige des
+   recherches sur l’héritage numérique à l’Institut de droit européen.
+
+--
+
+   « Le phénomène d’héritage numérique ne doit pas être géré séparément,
+   la structure traditionnelle de succession doit par contre être adaptée
+--
+   Les notaires reconnaissent toutefois que « de nouvelles solutions »
+--
+   Certains avocats pensent qu’il faudrait concevoir une loi européenne
+   sur les questions d’héritage – un domaine large sur lequel les lois
+   diffèrent grandement entre États membres.
+--
+
+   « Nous n’avons pas de loi européenne pour l’héritage de propriétés
+   immobilières. Inutile donc de créer une loi simplement pour l’héritage
+   numérique si nous n’avons pas déjà une sur l’immobilier », a-t-il
+--
+     * Facebook
+     * héritage
+     * plateformes en ligne</text>
+</page> §
+<page="FR-49">
+<text>
+Héritage numérique. Comment et à qui léguer vos comptes réseaux
+
+--
+   voudraient avoir accès aux actifs numériques. Lorsque la question de
+   l’héritage est discutée, une association se pose généralement avec
+   quelque chose de matériel – un appartement ou une voiture, de l’argent
+--
+   droits de succession. Mais c’est un chemin difficile, en Russie, je ne
+   connais aucun exemple d’un tel héritage, et nous n’avons en fait pas de
+   bureau Facebook. La communication avec le support est extrêmement
+   déroutante, et il n’est pas certain qu’ils seront en mesure de vous
+   transférer ces informations. En cas d’héritage des droits, vous pourrez
+   télécharger toutes les données, mais pas gérer le compte ou écrire au
+--
+
+Apple est un héritage numérique
+
+--
+     * Instagram – statut ou suppression mémorable
+     * Apple est un héritage numérique
+     * Google – accès aux données et silence du compte
+--
+
+   comment comptes héritage léguer numérique qui réseaux Vos</text>
+</page> §
+<page="FR-5">
+<text>
+Culture : L'héritage culturel de Senghor exposé au Quai Branly
+
+--
+
+Exposition : "Mandela est mort", quel héritage ?</text>
+</page> §
+<page="FR-50">
+<text>
+   BuzzWebzine » Tech  Geek » Héritage numérique Apple : comment donner
+   accès à vos données en cas de décès
+
+Héritage numérique Apple : comment donner accès à vos données en cas de décès
+
+--
+
+   Grâce à l’Héritage Numérique ou Digital Legacy, vous pouvez désigner
+   sur votre appareil vos héritiers numériques. Apple vous donne la</text>
+</page> §
+<page="FR-6">
+<text>   de 60 pays. La Société mondiale pour l'étude, la préservation et la
+   popularisation de l'héritage culturel de l'Ouzbékistan (WOSCU) a
+   coorganisé l'événement.</text>
+</page> §
+<page="FR-7">
+<text>
+   Le mérite en héritage : un podcast à écouter en ligne | France Culture
+
+--
+
+   Le mérite en héritage
+   © Radio France
+--
+
+Le mérite en héritage
+
+   Pour LSD, Rémi Dybowski-Douat explore l’héritage : de classe,
+   patrimonial, culturel et symbolique. Que faire de l’héritage, vecteur
+   d’inégalités mais auquel les Français sont viscéralement attachés ?
+--
+            Épisode 1/4 : Un château à tout prix
+            Chronique singulière d’un héritage, de la transmission de
+            l'édifice et de son parc de générations en générations depuis
+--
+            26 déc. 2022  •  58 min
+          + Discussions intenses sur l’héritage, les gens chez le notaire
+            au bureau - Illustrations
+            Épisode 2/4 : Le temps des héritiers
+            De l'importance croissante de l'héritage dans les inégalités
+            contemporaines.
+--
+            Épisode 3/4 : Transmission, une fiction intime
+            Petits arrangements avec son héritage : le mériter,
+            l’accepter, le rejeter ou comment vivre avec ?
+--
+
+   Pour LSD, Rémi Dybowski-Douat explore l’héritage : de classe,
+   patrimonial, culturel et symbolique. Que faire de l’héritage, vecteur
+   d’inégalités mais auquel les Français sont viscéralement attachés ?
+--
+   Au XIXe siècle, des philosophes osaient penser la transformation, voire
+   l'abolition de l'héritage. Aujourd’hui 60% de la fortune des Français
+   provient d’un l'héritage, alors que ce n'était que 30% dans les années
+   1970.
+--
+   partirons à la rencontre d'histoires intimes dans lesquelles nous
+   verrons qu'un héritage constitue une transmission à la fois culturelle
+   et symbolique.</text>
+</page> §
+<page="FR-8">
+<text>     d'histoire que de classiques littéraires, les films et séries
+     pourraient jouer ce rôle de transmission de notre héritage
+     millénaire.
+--
+   d'histoire que de classiques littéraires, les films et séries
+   pourraient jouer ce rôle de transmission de notre héritage millénaire.
+   Puisque ce n'est pas le cas, les productions venues d'ailleurs
+--
+   qui grandissent sous de telles influences. De la même manière,
+   l'absence d'offre culturelle rendant plus attractifs notre héritage et
+   nos valeurs explique pour partie le fait que tant de jeunes s'en
+--
+
+     Financer des superproductions valorisant notre héritage culturel et
+     historique aidera aussi à lutter contre le mal-être collectif dans
+--
+   enfin revivre dans la culture populaire. C'est ainsi que nous
+   transmettrons à nouveau notre héritage, pour nous réunir autour de la
+   fierté nationale. Il s'agit aussi de réinventer et de relancer
+--
+   productions commerciales qui pourraient se passer d'aides. Financer des
+   superproductions valorisant notre héritage culturel et historique
+   aidera aussi à lutter contre le mal-être collectif dans lequel baigne</text>
+</page> §
+<page="FR-9">
+<text>   uniquement armes au poing, sur le front des combats. Des dizaines
+   d'hommes et de femmes tentent aussi de protéger leur héritage, leurs
+   oeuvres d'art et leurs bâtiments historiques menacés par les attaques
+--
+   « L'objectif de Poutine est de détruire l'indépendance de l'Ukraine,
+   d'effacer, de supprimer notre patrimoine et notre héritage culturel »,
+   souligne Ihor Kozhan, le directeur du Musée national de Lviv.</text>
+</page> §
+</lang>

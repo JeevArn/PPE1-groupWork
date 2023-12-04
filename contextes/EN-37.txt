@@ -1,154 +1,25 @@
 
-Information & Communication Technologies in Cultural Heritage & Tourism
+The Finnish Genetic Disease Heritage
 
+   Molecular genetics research on a group of rare genetic diseases called
+   the Finnish Disease Heritage has been a key focus of The Folkhälsan
+   Research Center for decades. A new review article published in Disease
 --
-   the ways in which the public interacts, understands, and appreciates
-   the importance of cultural heritage around the world. They are
-   additionally enabling sustainable tourism to flourish in an era of
---
-   Svizzera italiana to develop and promote sustainable tourism in World
-   Heritage Sites - about the ways in which ICT is altering how we see the
-   past and travel around the world.
---
-   The UNESCO Chair in ICT to develop and promote sustainable tourism in
-   World Heritage Sites has been established at USI in 2013. But the
-   process started earlier, with the preparation of the application
---
-   (ICT for Sustainable Development) – could be of interest for UNESCO
-   enlisted World Heritage Sites. Hence the proposed Chair, whose goals
-   are to conduct extensive research and development activities in the
---
-   with the University of Turku, in Finland, to run a very innovative
-   travelling Summer School: we will visit five World Heritage Sites and
-   two UNESCO Biosphere Reserves in the southern part of Finland,
---
-   our mission: to orchestrate ICT in order to support and promote
-   sustainable tourism in World Heritage Sites (we are still accepting
-   late applications and it is possible also to participate online).
---
-   Development”, led by Paris 1 Panthéon-Sorbonne University, the MOOC
-   “Tourism Management of UNESCO World Heritage Sites”. This MOOC will
-   remain open until the end of 2018 and has attracted so far about 5,000
---
-   JBW: What is “sustainable tourism” and how can it improve the public's
-   awareness and understanding of cultural heritage, Professor Cantoni?
-   Remove Ads
+   geographic isolation and several evolutionary bottlenecks leading to
+   social isolation on a population level. The Finnish disease heritage is
+   a prominent example of this phenomena. In Finland about one in five
+   persons carries a gene variant associated with at least one Finnish
+   heritage disease, and about one in 500 children born is affected.
+   This is partially due to the prominence of what is called population
 --
 
-   If we think of Tourism and Heritage, we can refer to three areas of
-   sustainability: environmental, economic, and socio-cultural.
+   Enter the Finnish disease heritage, the FDH. An FDH disease is a
+   genetic disease or disorder that is significantly more common among the
 --
-   traditions. We have studied, for instance, the case of Lalibela, a
-   World Heritage Site in Ethiopia. It consists of eleven medieval
-   monolithic cave churches of the 13th century CE, still actively used as
+   "The Perheentupa-steps" (Uusimaa et al. 2022). This widely used
+   traditional representation of the Finnish disease heritage (FDH)
+   diseases organizes them chronologically based on the year in which the
 --
-   JBW: In your own words, how do media, technology, tourism, and cultural
-   heritage intersect? Which technologies do you believe will play a
-   commanding role in safeguarding cultural heritage and promoting
-   sustainable tourism in the future?
---
-     * Access: ICT can offer endless opportunities to provide good quality
-       information about heritage sites, through websites, videos, social
-       media, mobile apps, and the like. Definitely, AHE is a major player
---
-     * Connect: ICT can help to connect the three main players in this
-       relationship: locals, visitors, and the heritage itself. For
-       instance, we assisted RETOSA, the Regional Tourism Organisation of
-       Southern Africa, developing an offline/online digital game to help
-       the young generations to know more about the World Heritage Sites
-       of the 15 countries of the Southern African Development Community
---
-       partnered with local players in the Island of Mozambique – a World
-       Heritage Site – to develop their online presence: a super simple
-       website listing local B&Bs and their telephone numbers. After a few
---
-
-   JBW: Could you share further information about the #faces4heritage
-   campaign? How and when was this initiative started, and what are its
-   aims? I believe that the #faces4heritage campaign has been active for
-   several years if I am not mistaken.
---
-   LC: Right, happy to share something about this initiative. In 2015,
-   UNESCO launched the global #Unite4Heritage campaign, aimed at raising
-   awareness about the destruction of heritage done by violent extremists,
-   e.g. in Syria and Iraq, but also in Lybia, Mali, and elsewhere. At the
-   chair, we wanted to support such a campaign and developed
-   #faces4heritage, an online tool that enables you to combine half of
-   your face with half of the face of a destroyed statue. The created
---
-   your friends/followers are invited to reflect on such a dramatic issue.
-   #faces4heritage has been and is still very active on Twitter, being
-   among the most used hashtags in combination with #Unite4Heritage.
-
---
-   involved in the processes of preservation and valorization with regard
-   to cultural heritage? Do you have any specific recommendations or
-   personal suggestions?
---
-   Svizzera italiana to develop and promote sustainable tourism in World
-   Heritage Sites.
-
---
-   holder of the UNESCO chair in ICT to develop and promote sustainable
-   tourism in World Heritage Sites, established at USI in 2013. Dr.
-   Lorenzo Cantoni has been Dean of the Faculty (2010-2014) and President
---
-   Collections2
-   Madhubani Paintings: People’s Living Cultural Heritage
-   Article
-
-Madhubani Paintings: People’s Living Cultural Heritage
-
---
-   governments...
-   Greek World Heritage Sites
-   Article
-
-Greek World Heritage Sites
-
-   Greece, the 'cradle of western civilization', is home to a large...
-   Rome's Egyptian Heritage
-   Article
-
-Rome's Egyptian Heritage
-
---
-   per month you can become a member and support our mission to engage
-   people with cultural heritage and to improve history education
-   worldwide.
---
-
-   Human Computer Interaction, Tourism and Cultural Heritage: First
-   International Workshop, HCITOCH 2010, Brescello, Italy, September 7-8,
---
-
-   Human Computer Interaction, Tourism and Cultural Heritage: First
-   International...
---
-
-   Cross-Cultural Design. Applications in Cultural Heritage, Tourism,
-   Autonomous Vehicles, and Intelligent Agents (Information Systems and
---
-
-   Cross-Cultural Design. Applications in Cultural Heritage, Tourism,
-   Autonomous...
---
-   Wiener, J. B. (2018, June 13). Information & Communication Technologies
-   in Cultural Heritage & Tourism. World History Encyclopedia. Retrieved
-   from
---
-   Wiener, James Blake. "Information & Communication Technologies in
-   Cultural Heritage & Tourism." World History Encyclopedia. Last modified
-   June 13, 2018.
---
-   Wiener, James Blake. "Information & Communication Technologies in
-   Cultural Heritage & Tourism." World History Encyclopedia. World History
-   Encyclopedia, 13 Jun 2018. Web. 27 Nov 2023.
---
-
-   Our mission is to engage people with cultural heritage and to improve
-   history education worldwide. Please support World History Encyclopedia.
---
-   listed under our old name, Ancient History Encyclopedia.
-   Our Mission Our mission is to engage people with cultural heritage and
-   to improve history education worldwide.
+   A, Tikkanen R, Tyynismaa H, Vieira P, Zarybnicky T, Sipilä P, Kuure S,
+   Hinttala R. The Finnish genetic heritage in 2022 - from diagnosis to
+   translational research. Dis Model Mech. 2022 Oct 1;15(10):dmm049490.

@@ -1,755 +1,139 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSX5PBP
+   #FISH » Feed FISH » Comments Feed alternate alternate alternate
 
-   If you're seeing this message, it means we're having trouble loading
-   external resources on our website.
+FISH
 
-   If you're behind a web filter, please make sure that the domains
-   *.kastatic.org and *.kasandbox.org are unblocked.
+Forum on Information Standards in Heritage
 
-   To log in and use all the features of Khan Academy, please enable
-   JavaScript in your browser.
-   (BUTTON) Courses
-   Search
-   Get AI GuideDonateLog inSign up
-   Search for courses, skills, and videos
-   (BUTTON)
-   Main content
+   (BUTTON) Menu Skip to content
+     * News
+     * About
+     * MIDAS Heritage
+          + Other Guidance
+          + FISH Toolkit
+     * Terminology
+          + FISH Vocabularies
+          + Submit a Candidate Term
+          + Other Terminology Resources
+          + Chronology
+     * Heritage Information
+     * FISH-HEIRNET
+     * Working Groups
+     * Development
+     * glossary
 
-Special topics in art history
+   Search for: ____________________ Search
 
-   (BUTTON)
+About
 
-Course: Special topics in art history > Unit 1
+   Membership & current member organizations
 
-   Lesson 1: A beginner's guide
-   (BUTTON)
-     * ARCHES
-     * What is Cultural Heritage?
-     * Cultural heritage “in Crisis”
-     * Blow it up: cultural heritage and film
-     * ARCHES advisors
+   Welcome to the Forum on Information Standards in Heritage (FISH). This
+   site presents the work of the forum and contains links to recommended
+   information resources that support best practice in recording cultural
+   heritage.
 
-   Arts and humanities>
-   Special topics in art history>
-   ARCHES (At Risk Cultural Heritage Education Series)>
-   A beginner's guide
-   © 2023 Khan Academy
-   Terms of usePrivacy PolicyCookie Notice
-   (BUTTON)
+   We hope the site will give you an overview of the different
+   documentation guidance and indexing tools available and used by our
+   members. Please help us keep the website current and update us on
+   any additional or future resources, initiatives and conferences.
 
-What is Cultural Heritage?
+   FISH logo in the shape of a green fish.
 
-   Google Classroom
-   By Elena Franchi
-   Leonardo da Vinci, Mona Lisa, c. 1503–05, oil on panel, 30-1/4 x 21
-   inches (Musée du Louvre)
-   Leonardo da Vinci, Mona Lisa, c. 1503–05, oil on panel, 30-1/4 x 21
-   inches (Musée du Louvre)
-   We often hear about the importance of cultural heritage. But what is
-   cultural heritage? And whose heritage is it? Whose national heritage,
-   for example, does the Mona Lisa by Leonardo da Vinci belong to? Is it
-   French or Italian?
-   First of all, let’s have a look at the meaning of the words. “Heritage”
-   is a property, something that is inherited, passed down from previous
-   generations. In the case of “cultural heritage,” the heritage doesn’t
-   consist of money or property, but of culture, values, and traditions.
-   Cultural heritage implies a shared bond, our belonging to a community.
-   It represents our history and our identity; our bond to the past, to
-   our present, and the future.
-   Medallion Carpet, The Ardabil Carpet, Unknown artist (Maqsud Kashani is
-   named on the carpet’s inscription), Persian: Safavid Dynasty, silk
-   warps and wefts with wool pile (25 million knots, 340 per square inch),
-   1539–40 C.E., Tabriz, Kashan, Isfahan or Kirman, Iran (Victoria and
-   Albert Museum)
-   Medallion Carpet, The Ardabil Carpet, Unknown artist (Maqsud Kashani is
-   named on the carpet’s inscription), Persian: Safavid Dynasty, silk
-   warps and wefts with wool pile (25 million knots, 340 per square inch),
-   1539–40 C.E., Tabriz, Kashan, Isfahan or Kirman, Iran (Victoria and
-   Albert Museum)
+   The forum is guided by the FAIR principles for data management and
+   stewardship. This seeks to make data Findable, Accessible,
+   Interoperable and Reusable. For more information on the FAIR
+   principles, please visit their website:
 
-Tangible and intangible cultural heritage
+   https://www.go-fair.org/fair-principles/
 
-   Cultural heritage often brings to mind artifacts (paintings, drawings,
-   prints, mosaics, sculptures), historical monuments and buildings, as
-   well as archaeological sites. But the concept of cultural heritage is
-   even wider than that, and has gradually grown to include all evidence
-   of human creativity and expression: photographs, documents, books and
-   manuscripts, and instruments, etc. either as individual objects or as
-   collections. Today, towns, underwater heritage, and the natural
-   environment are also considered part of cultural heritage since
-   communities identify themselves with the natural landscape.
-   Moreover, cultural heritage is not only limited to material objects
-   that we can see and touch. It also consists of immaterial elements:
-   traditions, oral history, performing arts, social practices,
-   traditional craftsmanship, representations, rituals, knowledge, and
-   skills transmitted from generation to generation within a community.
-   Intangible heritage, therefore, includes a dizzying array of
-   traditions, music, and dances such as tango and flamenco, holy
-   processions, carnivals, falconry, Viennese coffee house culture, the
-   Azerbaijani carpet and its weaving traditions, Chinese shadow puppetry,
-   the Mediterranean diet, Vedic chanting,
-   (BUTTON) Kabuki theatre
-   , the polyphonic singing of the Aka of Central Africa (to name a few
-   examples).
-   Djingareyber Mosque, built 1327, Timbuktu, Mali. Two tombs at this
-   mosque were attacked by Islamic extremists in 2012. (photo: Johannes
-   Zielcke, CC BY-NC-ND 2.0)
-   Djingareyber Mosque, built 1327, Timbuktu, Mali. Two tombs at this
-   mosque were attacked by Islamic extremists in 2012. (photo: Johannes
-   Zielcke, CC BY-NC-ND 2.0)
+Become a member
 
-The importance of protecting cultural heritage
+   Membership is free. Join by subscribing to the FISH Mailing List and
+   participate in our forum discussions where all meeting papers and
+   presentations are also made available. To join, go to JISCMail and
+   select one of the three methods on how to
+   subscribe: https://www.jiscmail.ac.uk/help/subscribers/groupsubscriptio
+   ns.html
 
-   But cultural heritage is not just a set of cultural objects or
-   traditions from the past. It is also the result of a selection process:
-   a process of memory and oblivion that characterizes every human society
-   constantly engaged in choosing—for both cultural and political
-   reasons—what is worthy of being preserved for future generations and
-   what is not.
-   All peoples make their contribution to the culture of the world. That’s
-   why it’s important to respect and safeguard all cultural heritage,
-   through national laws and international treaties. Illicit trafficking
-   of artifacts and cultural objects, pillaging of archaeological sites,
-   and destruction of historical buildings and monuments cause irreparable
-   damage to the cultural heritage of a country. UNESCO (United Nations
-   Educational, Scientific and Cultural Organization), founded in 1954,
-   has adopted international conventions on the protection of cultural
-   heritage, to foster intercultural understanding while stressing the
-   importance of international cooperation.
-   The protection of cultural property is an old problem. One of the most
-   frequently recurring issues in protecting cultural heritage is the
-   difficult relationship between the interests of the individual and the
-   community, the balance between private and public rights.
-   Ancient Romans established that a work of art could be considered part
-   of the patrimony of the whole community, even if privately owned. For
-   example, sculptures decorating the façade of a private building were
-   recognized as having a common value and couldn’t be removed, since they
-   stood in a public site, where they could be seen by all citizens.
-   Lysippos of Sikyon, Apoxyomenos (Scraper), c. 50 A.D., Hellenistic or
-   Roman copy after Greek original, c. 390–306 B.C.E., 207.3 cm / 6 feet 9
-   inches high (Vatican Museums)
-   Lysippos of Sikyon, Apoxyomenos (Scraper), c. 50 A.D., Hellenistic or
-   Roman copy after Greek original, c. 390–306 B.C.E., 207.3 cm / 6 feet 9
-   inches high (Vatican Museums)
-   Lysippos of Sikyon, Apoxyomenos (Scraper), Hellenistic or Roman copy
-   after 4th c. Greek original, c. 390–306 B.C.E., 207.3 cm  high (Vatican
-   Museums)
-   Lysippos of Sikyon, Apoxyomenos (Scraper), Hellenistic or Roman copy
-   after 4th c. Greek original, c. 390–306 B.C.E., 207.3 cm  high (Vatican
-   Museums)
-   In his Naturalis Historia, the Roman author Pliny the Elder (23–79
-   C.E.) reported that the statesman and general
-   (BUTTON) Agrippa
-   placed the Apoxyomenos, a masterpiece by the very famous Greek sculptor
-   Lysippos, in front of his thermal baths. The statue represented an
-   athlete scraping dust, sweat, and oil from his body with a particular
-   instrument called a “strigil, or scraper. Emperor
-   (BUTTON) Tiberius
-   deeply admired the sculpture and ordered it be removed from public view
-   and placed in his private palace. The Roman people rose up and obliged
-   him to return the Apoxyomenos to its previous location, where everyone
-   could admire it.
-   Our right to enjoy the arts, and to participate in the cultural life of
-   the community is included in the United Nation’s 1948 Universal
-   Declaration of Human Rights. [1]
+   Link to FISH JISCMAIL
 
-Whose cultural heritage?
+   Forum meetings are held twice a year, to discuss strategic and
+   technical issues and developments. The meetings combine the efforts of
+   both FISH and HEIRNET (Historic Environment Information Resources
+   Network), two organisations with similar interests and aims.
 
-   The term “cultural heritage” typically conjures up the idea of a single
-   society and the communication between its members. But cultural
-   boundaries are not necessarily well-defined. Artists, writers,
-   scientists, craftsmen, and musicians learn from each other, even if
-   they belong to different cultures, far removed in space or time. Just
-   think about the influence of Japanese prints on Paul Gauguin’s
-   paintings; or of African masks on Pablo Picasso’s works. Or you could
-   also think of western architecture in Liberian homes in Africa. When
-   some of the freed African-American enslaved people went back to their
-   homeland*, they built homes inspired by the neoclassical style of
-   mansions on American plantations. American neoclassical style was in
-   turn influenced by the Renaissance architect Andrea Palladio, who had
-   been influenced by Roman and Greek architecture.
-   Let’s take another example, that of the Mona Lisa painted in the early
-   sixteenth century by Leonardo da Vinci, and displayed at the Musée du
-   Louvre in Paris. From a modern point of view, whose national heritage
-   does the Mona Lisa belong to?
-   People taking photos of the Mona Lisa (photo: Heather Anne Campbell, CC
-   BY-NC-ND 2.0)
-   People taking photos of the Mona Lisa (photo: Heather Anne Campbell, CC
-   BY-NC-ND 2.0)
-   Leonardo was a very famous Italian painter, that’s why the Mona Lisa is
-   obviously part of the Italian cultural heritage. When Leonardo went to
-   France, to work at
-   (BUTTON) King Francis I
-   ’s court, he probably brought the Mona Lisa with him. It seems that in
-   1518 King Francis I acquired the Mona Lisa, which therefore ended up in
-   the royal collections: that’s why it is obviously part of the French
-   national heritage, too. This painting has been defined as the best
-   known, the most visited, the most written about, and the most parodied
-   work of art in the world: as such, it belongs to the cultural heritage
-   of all mankind.
-   Cultural heritage passed down to us from our parents must be preserved
-   for the benefit of all. In an era of globalization, cultural heritage
-   helps us to remember our cultural diversity, and its understanding
-   develops mutual respect and renewed dialogue amongst different
-   cultures.
-   Notes:
-   [1] See Article 27 of the Universal Declaration of Human Rights.
-     __________________________________________________________________
+   A smaller Terminology Working Group also meets regularly, to discuss
+   vocabulary issues and candidate terms for the collection of thesauri
+   and authority files produced by or on behalf of FISH.
 
-   Additional resources
-   UNESCO on falconry
-   UNESCO on Chinese shadow puppetry
-   UNESCO on Vedic Chanting
-   UNESCO on Polyphonic singing of the Aka Pygmies of Central Africa
-   More from Smarthistory on at-risk cultural heritage education series
-   (ARCHES).
-   More stories of protecting our heritage and fostering creativity from
-   UNESCO.
-   The Universal Declaration of Human Rights from the United Nations.
-     __________________________________________________________________
+   FISH was established in 1998 as a non for profit organization. We are a
+   formally convened group with terms of reference and a national profile.
+   FISH is not a legal entity and we have no employed staff, income or
+   budget. There are currently over 400 members.
 
-   Essay by Elena Franchi
-     __________________________________________________________________
+   Download Terms of Reference (2001)
 
-   (BUTTON) Questions (BUTTON) Tips & Thanks
+CBA / Council for British Archaeology logo     ADS / Archaeology Data Service
+logo        Britiish-Museum-Logo                      Cadw logo
+Heritage-England-Logo RCAHMW new logo
+ALGAO logo       HES logo       dyfedarch logo          National Trust logo
+         national museum wales logo        Logo01-blue+CPAT_2094x2907
 
-Want to join the conversation?
+Current member organisations
 
-   Log in
-   Sort by:
-   (BUTTON) Top Voted
-     * leaf red style avatar for user petramhartwig
-       petramhartwig
-       9 years ago
-       Posted 9 years ago. Direct link to petramhartwig's post “I enjoy
-       and support the c...”
-       (BUTTON)
-       more
-       I enjoy and support the culture of all peoples, but I have a
-       conflict when it comes to acquiring artifacts for my own pleasure -
-       it feels like I am robbing or faking the enjoyment as my own. An
-       example is the jewelry made by our Native Americans. Made of
-       feathers and natural elements, I don't feel right wearing it since
-       it is not part of my culture (I'm German). Silly , I know, but I
-       wish to be respectful.
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on petramhartwig's post “I enjoy and support the
-       c...”
-       (27 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + leafers sapling style avatar for user Heather T
-            Heather T
-            4 years ago
-            Posted 4 years ago. Direct link to Heather T's post “If you
-            bought this jewelr...”
-            Good Answer
-            (BUTTON)
-            more
-            If you bought this jewelry new in a shop that features Native
-            artists, it was made to be worn by anyone, which includes you
-            (and when people ask you about it, tell them where they can
-            buy it; artists need to eat).
-            (BUTTON) CommentButton navigates to signup page
-            (18 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-       (BUTTON) Show more...
-     * blobby green style avatar for user ccw250
-       ccw250
-       8 years ago
-       Posted 8 years ago. Direct link to ccw250's post “In the final
-       paragraph El...”
-       (BUTTON)
-       more
-       In the final paragraph Elena Franchi said "Cultrual heritage passed
-       down to us from our parents must be preserved" that profoundly
-       resonated deeply in my spirit. Why? Because generations of culture,
-       family heritage and ancient religious practices are lost to
-       generations through the tearing down of of old churches, and
-       abandonment of schools and public buildings. ALOT OF THESE PLACES
-       HAVE PAINTINGS AND CARVINGS RIGHT ON THE STRUCTURE...what happens
-       then?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on ccw250's post “In the final paragraph El...”
-       (16 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * starky seedling style avatar for user Dyanna Hills
-       Dyanna Hills
-       7 years ago
-       Posted 7 years ago. Direct link to Dyanna Hills's post “Where does
-       cultural appro...”
-       (BUTTON)
-       more
-       Where does cultural appropriation play into this discussion of
-       cultural heritage? This is something that has often been discussed
-       about Pablo Picasso's work that was inspired by African masks. It
-       is one thing to be inspired, but where is the line drawn between
-       being inspired to appropriating artistic styles that are not your
-       own? If cultural heritage is something that should be preserved for
-       us all, does this mean we all have the right to take inspiration
-       from whatever is not our own culture? If so, is this okay as long
-       as we acknowledge it as something that is not our own?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Dyanna Hills's post “Where does cultural
-       appro...”
-       (21 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * male robot hal style avatar for user R3hall
-       R3hall
-       9 years ago
-       Posted 9 years ago. Direct link to R3hall's post “Isn't cultural
-       heritage i...”
-       (BUTTON)
-       more
-       Isn't cultural heritage is also a form of history: "learn from it
-       or be doomed to repeat its blunders"?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (16 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + blobby green style avatar for user Tatianna Jaynes
-            Tatianna Jaynes
-            7 years ago
-            Posted 7 years ago. Direct link to Tatianna Jaynes's post “The
-            way I see, Culture is...”
-            (BUTTON)
-            more
-            The way I see, Culture is a way of life. Or more accurately
-            how you live your life. Cultural heritage is a way to catalog
-            how the past ways of life flow into what they have become
-            today. So yes cultural heritage is a form of history. But
-            rather then focusing on dates and facts, cultural heritage
-            focuses on intellectual and spiritual humanity.
-            (BUTTON) CommentButton navigates to signup page
-            (9 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-       (BUTTON) Show more...
-     * mr pants teal style avatar for user Diana Kayser
-       Diana Kayser
-       9 years ago
-       Posted 9 years ago. Direct link to Diana Kayser's post “Would you
-       say that all ar...”
-       (BUTTON)
-       more
-       Would you say that all art moves the viewer in a private, specific,
-       way? Thank you for sharing! I love art.
-       Diana Kayser
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (8 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + blobby green style avatar for user cjnannycarol
-            cjnannycarol
-            8 years ago
-            Posted 8 years ago. Direct link to cjnannycarol's post
-            “Cultural Heritage is the ...”
-            (BUTTON)
-            more
-            Cultural Heritage is the sum total of various influences on an
-            individual, as of a particular point in time, that influences
-            that person to voice their thoughts, opinions and ideas to
-            others. Culture over time can and will change as new ideas are
-            explored and adopted
-            (BUTTON) CommentButton navigates to signup page
-            (3 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-       (BUTTON) Show more...
-     * blobby green style avatar for user Maddy Anjum
-       Maddy Anjum
-       7 years ago
-       Posted 7 years ago. Direct link to Maddy Anjum's post “Hey I just
-       loved the arti...”
-       (BUTTON)
-       more
-       Hey I just loved the article as it spoke on behalf of the people as
-       me who thrive to preserve their heritage but in vain. Here in
-       Pakistan, more than 1000 sites are unpreserved and untouched to
-       conserve. And the level of negligence is too high. I approached
-       many departments but they said, that since I belong to an IR field,
-       how could you possibly be concerned or worried about Heritage? Like
-       seriously! If people as You can assist and suppport our vision in
-       our countries, things would be better. I yearn to save and protect
-       my HERITAGE InshaaAllah which I would do so. Kudos for your
-       article. It speaks Volume :)
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Maddy Anjum's post “Hey I just loved the arti...”
-       (10 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * male robot johnny style avatar for user TashWill
-       TashWill
-       6 years ago
-       Posted 6 years ago. Direct link to TashWill's post “Why is the Mona
-       Lisa pain...”
-       (BUTTON)
-       more
-       Why is the Mona Lisa painting so famous?i'm going to do some
-       research on her.I'm very curious.
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (4 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + hopper jumping style avatar for user Ladie
-            Ladie
-            6 years ago
-            Posted 6 years ago. Direct link to Ladie's post “Although
-            Leonardo da Vinc...”
-            Good Answer
-            (BUTTON)
-            more
-            Although Leonardo da Vinci painted The Mona Lisa between 1503
-            and 1506, it didn't become famous in 1911 when it became
-            missing. A former employee of the Louvre Museum, Vincenzo
-            Peruggia, and his helpers stole the painting. Peruggia hid the
-            painting in his apartment for 2 years. But when he tried to
-            sell it to an art gallery in Florence, Italy, he was arrested.
-            When the Mona Lisa was missing, a lot of hype was created by
-            the media and the authorities. So when it was returned, over
-            100,000 people went to see it. Then the Louvre featured it as
-            one of its main attractions. It formerly was just another
-            less-known painting. Overtime, various kinds of experts began
-            to focus on it too. So this is probably the primary reason it
-            became famous.
-            Arthearty.com
-            (BUTTON) CommentButton navigates to signup page
-            (10 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * blobby green style avatar for user amdoukaki
-       amdoukaki
-       3 years ago
-       Posted 3 years ago. Direct link to amdoukaki's post “What about the
-       spoils of ...”
-       (BUTTON)
-       more
-       What about the spoils of war? For example, the marbles from
-       Parthenon and many more Greek statues are displayed in London,
-       still not returned to Greece.
-       Many pieces of art are displayed in museums all around the world as
-       a result of looting during times of war.Is it morally correct to
-       deprive pieces of history and culture from a now peaceful nation?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (7 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine ultimate style avatar for user jun.manzen
-            jun.manzen
-            4 months ago
-            Posted 4 months ago. Direct link to jun.manzen's post “i
-            agree. a LOT of egyptia...”
-            (BUTTON)
-            more
-            i agree. a LOT of egyptian history was taken by force from its
-            country, and it still has not been returned. england needs to
-            return ALL of the relics and art back to their original
-            countries.
-            (BUTTON) CommentButton navigates to signup page
-            (1 vote)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-       (BUTTON) Show more...
-     * stelly green style avatar for user Nandini Chaudhary
-       Nandini Chaudhary
-       2 years ago
-       Posted 2 years ago. Direct link to Nandini Chaudhary's post “Will
-       the Mona Lisa be kno...”
-       (BUTTON)
-       more
-       Will the Mona Lisa be known as part of the Italian cultural
-       heritage or France? Because even though it's made in France,
-       Leanardo was a famous ITALIAN painter.
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Nandini Chaudhary's post “Will the Mona Lisa be
-       kno...”
-       (5 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            2 years ago
-            Posted 2 years ago. Direct link to David Alexander's post “The
-            Mona Lisa is neither ...”
-            (BUTTON)
-            more
-            The Mona Lisa is neither French nor Italian, it is from a time
-            and culture before Italy, as a political state, even existed.
-            Since the painter, Leonardo, was a homosexual, you might just
-            as easily say that is part of Gay cultural heritage.
-            (BUTTON) CommentButton navigates to signup page
-            (4 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * duskpin seedling style avatar for user Jiayun Liu
-       Jiayun Liu
-       3 years ago
-       Posted 3 years ago. Direct link to Jiayun Liu's post “Why did
-       nobody smile for ...”
-       (BUTTON)
-       more
-       Why did nobody smile for pictures?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Jiayun Liu's post “Why did nobody smile for ...”
-       (2 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            3 years ago
-            Posted 3 years ago. Direct link to David Alexander's post
-            “There are people in this ...”
-            (BUTTON)
-            more
-            There are people in this world who think that their smile is
-            unattractive. There are people in this world who think
-            themselves to be unattractive, and don't like cameras pointed
-            at them. There are people in this world who believe that a
-            camera takes more than a visual image, but also subtracts a
-            little bit of their being.
-            (BUTTON) CommentButton navigates to signup page
-            (7 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
+     * Archaeology Data Service (ADS)
+     * Association of Local Government Archaeological Officers (ALGAO)
+     * British Museum
+     * Cadw (Wales)
+     * Clwyd-Powys Archaeological Trust
+     * Council for British Archaeology (CBA)
+     * Dyfed Archaeological Trust
+     * Historic England
+     * Historic Environment Scotland
+     * Local government Historic Environment Records (HERs)
+     * National Museum Wales
+     * National Trust
+     * Royal Commission on the Ancient and Historical Monuments of Wales
+       (RCAHMW)
 
-   (BUTTON) Loading...
+   Many organisations have helped develop FISH products of the years, some
+   of these include British & Irish Archaeological Bibliography
+   (BIAB), Manx National Heritage, Museum of London, the National
+   Archives, Northern Ireland Environment and Heritage Service, the
+   Portable Antiquities Scheme and the Victoria & Albert Museum.
+
+SMR Forum Scotland SMR Forum Scotland logo
+
+   For more information on Scottish heritage, please visit the HER Forum
+   Scotland website. Like FISH, The SMR Forum enables its members to keep
+   in touch with the latest developments and opportunities within the
+   historic environment sector, and to develop a coordinated national
+   approach. Member organizations include Historic Environment Scotland,
+   the National Trust for Scotland, local authority Historic Environment
+   Records (HERs) and Sites and Monuments Records (SMRs), and others.
+
+
+   Banner image: Whitby Abbey © Paul Adams.
+
+Contact FISH via
+
+   terminologies@HistoricEngland.org.uk
+
+Search the website
+
+   Search for: ____________________ Search
+
+Recent Posts
+
+     * FISH Vocabularies page November 22, 2023
+     * FISH Thesauri Version 26 Released April 27, 2023
+     * CAA 2020 Conference – 14th to 17th April 2020, Oxford January 21,
+       2020
+
+Archives
+
+   Archives [Select Month__]
+
+Recent Comments
+
+   Proudly powered by WordPress

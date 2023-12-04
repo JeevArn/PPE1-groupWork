@@ -1,147 +1,161 @@
-   (BUTTON) Our sites[production] 1.3.0
-   (BUTTON) Accessibility
-   Help & SupportContact CouncilMyCouncil
-    1. Home
-    2. ...Council
-    3. ...Planning and projects
-    4. Council plans
-    5. Sunshine Coast heritage plan
+   #DSpace
 
-   In this section
-   Toggle menu
-     * Sunshine Coast Reconciliation Action Plan
-     * Local disaster management plan
-     * All Abilities Action Plan 2024-2028
-     * Corporate Plan, Operational Plan and Quarterly Reports
-     * Ballinger Park Sports Complex Master Plan
-     * Beerwah Sportsground Master Plan
-     * Caloundra Central Park Sport Recreation Precinct Master Plan
-     * Caloundra Centre Master Plan
-     * Caloundra Public Art Plan
-     * Caloundra Town Reserve Landscape Concept Plan
-     * Coastal Pathway Linear Open Space Master Plan
-     * Conondale Memorial Recreation Park Master Plan
-     * Coolum Sports Complex Master Plan
-     * Crummunda Park Landscape Plan
-     * Dicky Beach Precinct Plan
-     * Elizabeth Daniels Sports Complex Master Plan
-     * Environmental Reserves Network Management Plan
-     * Glasshouse Mountains Sports Complex Master Plan
-     * Honey Farm Sport and Recreation Precinct Master Plan
-     * Inter-Urban Break Outdoor Recreation Plan
-     * Lower Order Unsealed Roads Upgrade Plan
-     * Maleny community precinct
-     * Maleny sport and recreation master plan
-     * Maroochydore Junior Rugby League Club Facility Development Plan
-     * Maroochydore Multi Sports Complex Master Plan
-     * Meridan Fields Sporting Complex Master Plan
-     * Mooloolah Recreation Reserve Master Plan
-     * Nambour Showgrounds Master Plan
-     * Palmwoods Sports Complex Master Plan
-     * Petrie Creek parklands open space master plan
-     * Placemaking Mooloolaba master plan
-     * Placemaking Palmwoods master plan
-     * Point Cartwright Reserve La Balsa Park Master Plan
-     * Regional Facilities Plan for Difficult to Locate Sports
-     * Reserve 1000 Master Plan
-     * Road safety plan
-     * Sippy Downs parks master plan
-     * Sunshine Coast street tree master plan
-     * Sunshine Coast active transport plan
-     * Sunshine Coast Aquatic Plan
-     * Sunshine Coast creative arts plan
-     * Sunshine Coast cemetery plan
-     * Sunshine Coast Council asset management plans
-     * Sunshine Coast Council local government area biosecurity plan
-     * Sunshine Coast Council organisational zero-net emissions plan
-     * Sunshine Coast heritage plan
-     * Sunshine Coast Housing and Homelessness Action Plan 2023
-     * Sunshine Coast Infrastructure Coordination Plan
-     * Sunshine Coast libraries plan
-     * Sunshine Coast parking management plan
-     * Sunshine Coast recreation parks plan
-     * Sunshine Coast Recreation Trail Plan 2012
-     * Sunshine Coast skate and BMX plan
-     * Sunshine Coast sport and active recreation plan
-     * Unsealed roads upgrade plan
-     * Urban public lighting master plan
+   (BUTTON) Toggle navigation       Repositorio Institucional
+   Repositorio Institucional
+   CONICET Digital
+     * ____________________ (BUTTON)
 
-Sunshine Coast heritage plan
+     * Inicio
+     * EXPLORAR
+          + AUTORES
+          + DISCIPLINAS
+          + COMUNIDADES
+     * Estadísticas
+     * Novedades
+          + Noticias
+          + Boletines
+     * Ayuda
+          + General
+          + Datos de investigación
+     * Acerca de
+          + CONICET Digital
+          + Equipo
+          + Red Federal
+     * Contacto
 
-     Council adopted the Sunshine Coast Heritage Plan 2021-2031 at its
-     Ordinary Meeting 25 February 2021.
+   JavaScript is disabled for your browser. Some features of this site may
+   not work without it.
 
-   (BUTTON) Share
-   (BUTTON) Print
+     * INFORMACIÓN GENERAL
+     * RESUMEN
+     * ESTADISTICAS
 
-   The Heritage Plan 2021-2031 (PDF, 2782KB) covers the conservation and
-   management of the important things we want to pass on to future
-   generations.
 
-Purpose
+   Capítulo de Libro
 
-   The heritage plan provides council with a framework to guide the
-   identification, protection, conservation and management of the region’s
-   heritage. The plan will ensure that council effectively manages and
-   conserves the region’s heritage assets.
+The development and management of territorial heritage: The recent experience
+of Argentina
 
-Overview
+Título del libro: Territorial heritage and spatial planning: A geographical
+perspective
 
-   The heritage plan covers all aspects of the Sunshine Coast’s cultural
-   and natural heritage, which council has direct responsibility for or
-   influence over.
+   Bustos Cara, Roberto Nicolas; Pinassi, Andrés Icon
+   Otros responsables: Manero Miguel, Fernando; García Cuesta, José Luí
+   Fecha de publicación: 2017
+   Editorial: Thomson Reuters Aranzadi
+   ISBN: 978-84-9152-762-6
+   Idioma: Inglés
+   Clasificación temática:
+   Geografía Cultural y Económica
 
-   The plan's vision declares that ‘our heritage is our gift for the
-   future’. It has been structured around the five outcome areas of:
-     * knowledge
-     * conservation
-     * support
-     * communication
-     * advocacy.
+Resumen
 
-   The implementation plan guides council's actions for the duration of 10
-   years.
+   «Identity, culture, heritage and territory are convergent concepts in
+   the sense that their essential constitutive attributes make up the
+   network of meanings that sustain the world of objects and actions […].
+   This convergence should be interpreted in two complementary ways,
+   oriented towards both the past and the future, acting as static
+   references, or as the driving force of a dynamic that assumes the form
+   of an interested transfer or an ever-renewing creation» (Bustos Cara,
+   2004: 17). As Guy Di Meo said, heritage values are defined like the
+   territory, as «time which makes sense and has meaning as if it were
+   history crystallised into an object, place or event. It has two
+   natures, the material and the ideal. It has a mnemonic function. They
+   insert the social fabric into a historical continuity made up of solid
+   cultural references that generate ideological and political control».
+   «How can we understand territory without assigning a heritage value to
+   it?». «Neither territory nor heritage represent an a priori fact. Yet
+   every object may have a heritage function and every space may be
+   transformed into a territory, if one or the other is integrated in a
+   communicational context» (Di Meo, 1998: 59). The idea of heritage
+   covers a broad and extremely dynamic conceptual field, and this is why
+   it is difficult to establish an institutional management structure that
+   can moderate between conflicts and may keep its dynamic character in
+   check. In this sense, there is a close relation between heritage and
+   territory and between heritage and development, and this relation is
+   always variable in content, depending on the ideological, political,
+   economic or cultural context from which it is analysed. In times of the
+   construction or reconstruction of nation states, or at times when there
+   is a dominantly liberal or neoliberal vision within the globalisation
+   framework, then the processes that lead to heritage status and its
+   institutionalisation have acquired different characteristics and
+   scales.
+   Palabras clave: TERRITORY , TERRITORIAL HERITAGE , DEVELOPMENT ,
+   ARGENTINA
+   Ver el registro completo
 
-Community engagement
+   Archivos asociados
+   Thumbnail
 
-   Extensive consultation was conducted with external stakeholders
-   including:
-     * traditional owners and custodians
-     * representatives from the heritage sector
-     * Sunshine Coast heritage reference group.
+   Documento disponible a texto completo
+   Tamaño: 1.209Mb
+   Formato: PDF
+   .
+   Descargar
+   Licencia
+   info:eu-repo/semantics/openAccess Excepto donde se diga explícitamente,
+   este item se publica bajo la siguiente descripción: Creative Commons
+   Attribution 2.5 Unported (CC BY 2.5)
+   Identificadores
+   URI: http://hdl.handle.net/11336/114494
+   URL: http://uvadoc.uva.es/handle/10324/36890
+   Colecciones
+   Capítulos de libros(CCT - BAHIA BLANCA)
+   Capítulos de libros de CTRO.CIENTIFICO TECNOL.CONICET - BAHIA BLANCA
+   Citación
+   Bustos Cara, Roberto Nicolas; Pinassi, Andrés; The development and
+   management of territorial heritage: The recent experience of Argentina;
+   Thomson Reuters Aranzadi; 2017; 277-298
+   Compartir
+   [google-scholar.png] [mendeley-ico.png]
+   Estadísticas
+   Visualizaciones: 456
+   Descargas: 66
 
-   Peer reviews were undertaken by:
-     * Queensland Department of Environment and Science
-     * National Trust of Australia (Queensland)
-     * Queensland Museum
-     * Queensland Heritage Council.
+Enviar por e-mail
+       (BUTTON)
 
-   The Heritage Plan 2021-2031 is based on the framework of the Sunshine
-   Coast Heritage Plan 2015-2020 (PDF, 8452KB).
+       Destinatario: ____________________ Separar cada destinatario (hasta
+       5) con punto y coma.
+       Remitente: ____________________
+       Mail: ____________________
+       Mensaje:
+        ___________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Cerrar (BUTTON) Enviar
+          + Facebook
+          + Twitter
+          + Instagram
+          + YouTube
+          + Sound Cloud
+       Los contenidos del CONICET están licenciados bajo Creative Commons
+       Reconocimiento 2.5 Argentina License
+       Ministerio
+       https://www.conicet.gov.ar/ - CONICET
 
-Contacts
+Inicio
 
-   For more information, contact council's cultural heritage
-   services officers on (07) 5420 8600, or email [email protected].
+Explorar
+          + Autores
+          + Disciplinas
+          + Comunidades
 
-   Further information about the heritage levy, our programs and
-   activities can be explored on our heritage website.
-   Sunshine Coast Council acknowledges the Sunshine Coast Country, home of
-   the Kabi Kabi peoples and the Jinibara peoples, the Traditional
-   Custodians, whose lands and waters we all now share.
-   We commit to working in partnership with the Traditional Custodians and
-   the broader First Nations (Aboriginal and Torres Strait Islander)
-   community to support self-determination through economic and community
-   development.
-   Council offices
-   General contacts
-   Councillor contacts
-   Development contacts
-   Site help & accessibility
-   Website supportAccessibilitySCC App
-   Sign-up for our newsletter
-   ____________________ (BUTTON) Signup
-   Follow us
-   (BUTTON) Accessibility
-   Version 1.3.0 Terms of use and privacy
-   © Sunshine Coast Regional Council 2008 - 2023
+Estadísticas
+
+Novedades
+          + Noticias
+          + Boletines
+
+Ayuda
+
+Acerca de
+          + CONICET Digital
+          + Equipo
+          + Red Federal
+
+Contacto
+       Godoy Cruz 2290 (C1425FQB) CABA – República Argentina – Tel: +5411
+       4899-5400 repositorio@conicet.gov.ar
+       TÉRMINOS Y CONDICIONES

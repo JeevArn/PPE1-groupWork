@@ -1,438 +1,335 @@
-   Skip to main content
+   ASP assistance scolaire personnalisée
+   un partenariat [logo-RDE.svg?1585573849]
+   [logo-maif.svg?1585573849]
 
    (BUTTON) Toggle navigation
-     * ESPON 2030
-          +
-               o ESPON 2030 Programme
-               o
-          +
-               o ESPON 2030
-               o ESPON 2030 Programme
-               o Previous Programmes
-               o ESPON 2020
-               o ESPON 2013
-               o ESPON 2006
-          +
-               o Thematic Action Plans
-               o Climate Neutral Territories
-               o Governance of New Geographies
-               o Places Resilient to Crises
-               o Perspectives for All People and Places
-          +
-               o
-               o Living, Working and Travelling Across Borders
-               o Smart Connectivity
-               o European Territories in Global Interactions
-               o Adapting to the Impacts of Climate Change
-     * What's New
-          +
-               o News & Events
-               o
-          +
-               o News
-               o Latest News
-               o ESPON Blog
-               o
-               o Newsletter Subscribe
-               o
-               o Publications
-               o
-                    #
+   (BUTTON) Terminale
+     * Petite section
+     * Moyenne section
+     * Grande section
+     * CP
+     * CE1
+     * CE2
+     * CM1
+     * CM2
+     * 6^e
+     * 5^e
+     * 4^e
+     * 3^e
+     * Seconde
+     * Première
+     * Première STMG
+     * Première ST2S
+     * Terminale
+     * Terminale STMG
+     * Terminale STI2D
+     * Terminale ST2S
 
-Working paper and Policy brief: Territorial perspective on green
-industrialisation
-                      October 19, 2023
-                    #
+   (BUTTON) Spécialité anglais
+     * Philosophie
+     * Histoire
+     * Géographie
+     * Anglais
+     * Spécialité anglais
+     * Spécialité SES
+     * Spécialité SVT
+     * Spécialité mathématiques
+     * Spécialité physique-chimie
+     * Grand oral
+     * Spécialité Histoire-géo.-Géopolitique.-Sciences politiques
+     * Enseignement scientifique
 
-Functional rural areas in Romania
-                      January 12, 2023
-          +
-               o Events
-               o Seminars
-               o Workshops
-               o ESPON at Events
-               o
-               o Case Studies
-               o
-                    #
+   (BUTTON) Révisions Réviser le cours
+     * Programme Consulter le programme
+     * Révisions Réviser le cours
+     * Sujets du bac Travailler sur des sujets du bac
+     * Méthodologie Consulter la méthodologie
 
-MSP-LSI in Estonia
-                      October 14, 2022
-                    #
+     * Accueil
+     * Se connecter
+     * Créer un compte
 
-MSP-LSI–on demand service for Luxembourg
-                      September 27, 2022
-          +
-               o Press
-               o Press Releases
-               o Press Clippings
-               o
-               o Stay Connected
-               o   Facebook
-               o   Twitter
-               o   LinkedIn
-               o   YouTube
-               o  RSS Feed
-          +
-               o Spotlight
-               o  Small and medium-sized cities: drivers of sustainable
-                 development and urban-rural cooperation
-               o [Image%20%281%29.jpg]
-                 We were thrilled to welcome you to the upcoming ESPON
-                 Semin
-               o more »
-     * Tools & Maps
-     * Participate
-          +
-               o Participate
-               o
-          +
-               o Calls
-               o Public Procurement FAQ
-               o Open Calls
-               o Pre-Announcements
-               o Previous Calls
-               o e-Tendering Platform
-               o List of Contractors
-          +
-               o Vacancies
-               o Vacancies
-               o Previous Vacancies
-               o Opportunities for Students
-               o
-               o Invitations for Stakeholders
-               o
-               o Consultations
-          +
-               o Spotlight
-               o  Open invitation to submit proposals for Targeted
-                 Analyses - 3rd cut off date
-               o [to%20the%20target.jpg]
-                 We are pleased to announce the third cut-off date for the
-                 submission of proposals for Targeted Analyses for the
-                 ESPON Programme 2030: 29 March 2024
-               o more »
-     * In your Country
-          +
-               o In your Country
-               o
-          +
-               o
-                    # Austria flag  Austria
-                    # Belgium flag  Belgium
-                    # Bulgaria flag  Bulgaria
-                    # Croatia flag  Croatia
-                    # Cyprus flag  Cyprus
-                    # Czech Republic flag  Czech Republic
-                    # Denmark flag  Denmark
-                    # Estonia flag  Estonia
-                    # Finland flag  Finland
-                    # France flag  France
-                    # Germany flag  Germany
-                    # Greece flag  Greece
-                    # Hungary flag  Hungary
-                    # Ireland flag  Ireland
-                    # Italy flag  Italy
-                    # Latvia flag  Latvia
-                    # Lithuania flag  Lithuania
-                    # Luxembourg flag  Luxembourg
-                    # Malta flag  Malta
-                    # Netherlands flag  Netherlands
-                    # Poland flag  Poland
-                    # Portugal flag  Portugal
-                    # Romania flag  Romania
-                    # Slovakia flag  Slovakia
-                    # Slovenia flag  Slovenia
-                    # Spain flag  Spain
-                    # Sweden flag  Sweden
-               o
-               o
-                    # Iceland flag  Iceland
-                    # Liechtenstein flag  Liechtenstein
-                    # Norway flag  Norway
-                    # Switzerland flag  Switzerland
-               o
-     * [search-icon.png]
+   Notion précédente
 
-Targeted Analyses
+Ancrage et héritage
 
-    1. Home
-    2. Projects
-    3. ESPON 2020
-    4. Targeted Analyses
-    5. 9-Material Cultural Heritage- HERITAGE
+   Notion suivante
+   Nouveau message
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Destinataire : []
+     __________________________________________________________________
 
-HERITAGE - The Material Cultural Heritage as a Strategic Territorial
-Development Resource: Mapping Impacts Through a Set of Common European
-Socio-economic Indicators
+   Message :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Envoyer le message
+   Message envoyé avec succès ! Envoyer un nouveau message
+   t_speang_08_________ T___________________ specialite-anglais__
+   student_____________
+   Signaler une erreur
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Vous avez repéré une erreur, une faute d'orthographe, une réponse
+   erronée... Signalez-nous la et nous nous chargerons de la corriger.
+   Description du problème :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Signaler le problème
+   Problème signalé avec succès ! Signaler un autre problème
+   ____________________ ____________________
+   Imprimer
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Choisir ce que vous souhaitez imprimer :
+   Vous devez sélectionner au moins une valeur.
+   [X] La fiche
+   [ ] Les exercices
+   [ ] Le corrigé
+   Imprimer
+   Revoir la notion Notion
+   Faire les exercices Exercices
+   précédent1[1] suivant
+   The English-speaking world has known numerous waves of immigration and
+   its territory has been built through generations of people coming from
+   different regions of the world. A legacy, an origin, roots are most of
+   the time a subject of pride and of recognition. They claim their sense
+   of belonging, they assert their cultural and ethnic origins.; This is
+   patriotism, that is to say a love and a respect for their homeland.
 
-   IFRAME: //www.youtube.com/embed/1BYiYroo8mU
+Celebration of a legacy
 
-   Theme: cultural heritage, territorial impact, indicators, monitoring
-   and evaluation
+   Many communities, many populations indeed celebrate their cultural
+   heritage through literature, art, sports, traditions, food, even their
+   daily routine and gestures: each difference, each particularity can be
+   a proof of their singularity.
+   For instance, Walter Scott, in his novels and poems, such as Rob Roy or
+   Ivanhoe, enhances the national narrative. Through his characters, he
+   pays tribute to his homeland, Scotland, using the great figures of the
+   nation to put forward the pride of being a Scot, of having a Scottish
+   lineage. This was shown in the movie Braveheart by Mel Gibson when he
+   extols the merits of William Wallace who became the hero of the nation.
+   The recognition of a Scottish spirit is also expressed in cultural
+   movements like the Celtic Revival, a variety of movements and
+   traditions in the 19^th and 20^th centuries that saw a renewed interest
+   in aspects of Celtic culture. Artists and writers drew on the contents
+   of Gaelic literature or Welsh-language literature. Traditions like the
+   Highland Games can also be a proof of an assertion of a certain
+   heritage: it aims at celebrating the Scottish culture through sport. It
+   consists in watching bagpipes players parading, people wearing kilts,
+   tug of war, toss the caber, etc.
 
-Scope
+A memorial heritage
 
-   The service shall attempt to quantify the contribution (impact) of
-   material cultural heritage to economical development in the stakeholder
-   countries and regions over the past 5 years. Building on the work done
-   by the European Heritage Heads Forum’s Economic Task Force and the
-   European Commission, this research activity will define a list of
-   economic sectors on which the material cultural heritage has an impact
-   and perform data collection on the selected impact indicators.
+   This legacy is also prominent through the construction for the
+   preservation of a memorial heritage, passed on from one generation to
+   another, a beacon of knowledge whose aim is to enlighten the world,
+   with architecture, culture, art or nature The preservation of the great
+   national parks in the USA like Yellowstone for example, are part of the
+   heritage that needs to be kept intact in order to show to the future
+   populations the grandeur of a nation and the beauty of a country; that
+   is why the park rangers were created.
+   Furthermore, in the United Kingdom, organizations like the National
+   Trust still exist, and commemoration days like the Poppy Day are
+   preserved. They are landmarks, or milestones in the History and the
+   culture of a country. It is even more important for the immigrant
+   communities as it helps them maintain a link with their homeland while
+   enriching the culture of the country hosting them. This is what we can
+   find in events like the Notting Hill Festival in London. It celebrates
+   and illustrates multiculturalism in the UK. We can refer to Columbus
+   Day in the US that is quite controversial because it only shows one
+   aspect of the American culture while putting aside another, that of the
+   natives and their longing to have their Indigenous Day. Through the
+   celebration of their origins, we can frankly wonder if the idea of
+   multiculturalism is at stake in the UK and in the USA.
 
-   The main outcome should be a common theoretical framework, defining the
-   most important economic sectors on which the material cultural heritage
-   has an impact and developing the empirical evidence of such impact.
-   This research activity will also develop a blueprint or in other words
-   a step-by-step plan on how to build a monitoring system in the
-   stakeholder countries that includes all actions necessary to obtain and
-   maintain data for the defined impact indicators in the future.
+Celebration as a fight
 
-   This study is named as one of the key studies by the “European
-   Framework for Action on Cultural Heritage” (adopted by the European
-   Commission in December 2018). Economic statistics and indicators
-   produced will be useful for understanding the economic contribution of
-   the material cultural heritage. Overall the results will promote
-   evidence-based decision making related to protection and promotion of
-   material cultural heritage.
+   Besides, this celebration can go beyond a simple claim and can rapidly
+   become a fight, a struggle to defend a territory or a border or to
+   preserve a threatened heritage or culture as is the case with Native
+   populations or minorities. In fact, the Stolen Generation in Australia
+   greatly harmed the Aborigine culture. White people had indeed
+   orchestrated an organized abduction, consisting in taking the Aborigine
+   children away from their families to place them in white institutions
+   with the aim of assimilating and converting them to Christianize: it
+   was a way to "whiten" them and to make this native population
+   disappear. The same happened with other native populations, such as the
+   Maoris in New Zealand, the Native Americans in the USA, the Inuit in
+   Greenland and in Canada, for whom the respect of their cultural and
+   environmental heritage is a question of survival.
+   Closer to us, the fight between Northern Ireland and The Republic of
+   Ireland concerning their border and their territories is quite
+   symptomatic of this notion of cultural anchoring. The period of the
+   Troubles has indeed marked the landscape and the spirits of many Irish
+   men and women since each one of them had a member of their family
+   touched, wounded or even killed during this conflict for the
+   reunification of the two Irelands. Songs like Bloody Sunday by U2 or
+   Zombie by the Cranberries or even Nothing compares by Sinead O'Connor
+   are examples of the mounting tension between the protestants and the
+   Catholics, a tension that is still perceptible nowadays. It has become
+   a matter of pride and territory and neither side wants to retreat since
+   it would mean the end of their dreams and the end of their identity.
+   The identification of a territory is essential for many artists or
+   writers who spend much of their time and career representing their
+   homeland, their mother country, whether to praise it through odes and
+   eulogies or to give a nostalgic if not critical vision. For instance,
+   Willa Cather in My Antonia relates the toughness and the determination
+   of pioneers and the nostalgia linked to this past. It is the story of a
+   young orphan, Jim Burden (Burden like having a weight on his shoulders)
+   who goes to live in the great plains of Nebraska with his grandparents.
+   Once there, he meets the elder daughter of a Czech family, Antonia and
+   the novel follows the life of these two characters while describing the
+   way America was built by the first immigrants and pioneers.
 
-Main outcomes
+Withdrawing into ourselves?
 
-     * A common theoretical framework defining the economic sectors on
-       which material cultural heritage has an impact.
-     * A common methodological framework describing how to determine the
-       impact material cultural heritage has on these economic sectors.
-     * Evidence (collected data and set of indicators) on the economic
-       impact of cultural heritage in stakeholder territories / regions
-       over the past 5 years (for example e.g. cultural heritage-related
-       gross value added in tourism, construction, etc.).
-     * Step-by-step plan on how to develop a monitoring system (at the
-       territorial level) to be used in the stakeholder countries, that
-       includes all actions necessary to obtain data of the defined
-       socio-economic impact indicators, building time series and checking
-       and reporting the status of the indicators on a regular basis. It
-       should also include an operational description of the data
-       generating and reporting procedures
-     *
+   Actually, claiming a part of the territory and asserting our cultural
+   origin can lead to some polemics, and can make people stray from their
+   mainstream path. It can even lead to xenophobia or to people
+   withdrawing into their shells. We can for instance allude to the
+   confederate legacy in the southern states of the USA, a legacy that is
+   symbolized by what happened in Charlottesville a couple of years ago.
+   Afro- Americans and Civil Rights activists wanted to remove the statue
+   of General Lee, the hero of the Confederacy during the Civil War. This
+   figure was indeed controversial because it still symbolizes a period
+   when slavery was tolerated and accepted in the southern states;
+   therefore, it still reinforces the idea of a rampant racism. White
+   supremacists refused to remove the statue and it ended with a
+   confrontation between the KKK and the black activists that resulted in
+   the killing of a young lawyer who was run over by a racist lunatic.
+   We can also quote all the events that are linked to the Brexit which
+   was a way for the conservatives and the Ukip (the far-right movement
+   led by Nigel Farage in the UK) to preserve their insularity, their
+   singularity and above all their identity and national sovereignty.
+   Exercice n°1
+   Are these sentences true or false according to the text, or is there no
+   information in the text?
+   Faites glisser les étiquettes dans les zones prévues à cet effet.
+   No information
+   False
+   True
+   English-speaking countries have witnessed very little immigration and
+   have remained closed to the world.
+   imcAnswer1?
+   Culture heritage is often used to celebrate a region's identity.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   The purpose of a memorial heritage is to help the rest of the world
+   aspire to greater cultural values.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   The cultural heritage of the Maoris is the same as that of the Inuit.
+   imcAnswer4?
+   Cultural heritage can cause problems when people want to assert their
+   right to it.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°2
+   What does the writer mean by ”Traditions like the Highland Games can
+   also be a proof of an assertion of a certain heritage…“?
+   Cochez la bonne réponse.
+   (*) The Highland Games are traditional sports that the community
+   enjoys.
+   ( ) Communities need to have more sports competitions to demonstrate
+   their cultural identity.
+   ( ) Community-based festivals and competitions are the best way to
+   assert their heritage.
+   ( ) ok It is through competitions like the Highland Games that a
+   cultural identity can be confirmed.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°3
+   What does the writer mean by ”It has become a matter of pride and
+   territory and neither side wants to retreat since it would mean the end
+   of their dreams and the end of their identity“?
+   Cochez la bonne réponse.
+   (*) Both sides are willing to compromise on their respective cultural
+   positions.
+   ( ) Cultural heritage is not linked to the pride of their history or
+   territory.
+   ( ) Cultural heritage can enable members of a community to dream.
+   ( ) ok Giving up on one's cultural heritage could lead to its
+   extinction.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°4
+   How do you understand the assertion that ”We can also quote all the
+   events that are linked to the Brexit which was a way for the
+   conservatives and the Ukip (the far-right movement led by Nigel Farage
+   in the UK) to preserve their insularity, their singularity and above
+   all their identity and national sovereignty“?
+   Cochez la bonne réponse.
+   (*) Nigel Farage is proud to be European and wants to fight for its
+   cultural identity.
+   ( ) Brexit means that Britain can remain open to outside cultural
+   influences.
+   ( ) Events such as Brexit mean that liberal voters can also maintain
+   their cultural heritage.
+   ( ) ok Major political events can also be considered as symbols of
+   cultural assertion and preservation.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Nouveau message
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Destinataire : []
+     __________________________________________________________________
 
-Stakeholders
+   Message :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Envoyer le message
+   Message envoyé avec succès ! Envoyer un nouveau message
+   t_speang_08_________ T___________________ specialite-anglais__
+   student_____________
+   Signaler une erreur
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Vous avez repéré une erreur, une faute d'orthographe, une réponse
+   erronée... Signalez-nous la et nous nous chargerons de la corriger.
+   Description du problème :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Signaler le problème
+   Problème signalé avec succès ! Signaler un autre problème
+   ____________________ ____________________
+   Imprimer
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Choisir ce que vous souhaitez imprimer :
+   Vous devez sélectionner au moins une valeur.
+   [X] La fiche
+   [ ] Les exercices
+   [ ] Le corrigé
+   Imprimer
+   []
 
-     * Norwegian Directorate for Cultural Heritage (lead stakeholder)
-     * Brussels Capital region (Heritage Department)
-     * Flanders Heritage Agency
-     * Swedish National Heritage Board
-     * Cultural Heritage Agency of the Netherlands
-     * European Council of Spatial Planners
-     * Romanian Ministry of Culture and National Identity
-     * Monuments Board of the Slovak Republic
-     * Institute for the Protection of Cultural Heritage of Slovenia
-     * Austrian Federal office for Cultural Heritage
+   L'assistance scolaire personnalisée utilise des cookies pour vous
+   offrir le meilleur service (en savoir plus) . En continuant la
+   navigation vous acceptez l'utilisation de ceux-ci. (BUTTON) Continuer
 
-Observer
+   un partenariat [logo-RDE.svg?1585573849]
+   [logo-maif.svg?1585573849]
+   Nos sites
+   Mon espace éducation
+   Cap Concours
+   Il était une histoire
+   Apprendre à porter secours
+   La quinte juste
+   Les solutions éducatives MAIF
+   Le fonds MAIF pour l'éducation
+   L'espace enseignant MAIF
 
-   European Commission, Directorate-General for Education, Youth, Sport
-   and Culture
-
-Contractors
-
-     * Valdani Vicari & Associati: IT (lead contractor)
-     * KEA European Affairs, BE
-
-   Budget: € 214.600,00
-
-   Lifetime: April 2018 – July 2019
-
-Deliveries
-
-     * Inception delivery, 11 June 2018
-     * Interim delivery, 13 August 2018
-     * Draft Final delivery, 5 February 2019
-     * Final delivery, 31 July 2019
-
-   Contact: Zintis Hermansons (Project Expert) [email protected], Johannes
-   Kiersch (Financial Expert) [email protected]
-
-Documents
-
-   [3d5d96f1223095588c8040298496a93e.jpg]
-
-Societal value of cultural heritage in Iceland.pdf
-
-     * Acrobat Document | 978KB
-
-   (BUTTON) Preview
-   [116730e1d59f46e52fec412af17c7d69.jpg]
-
-HERITAGE_Synthesis Report
-
-     * Acrobat Document | 707KB
-
-   (BUTTON) Preview
-   [a1b024577034f20b3f2fa909d41f4c95.jpg]
-
-HERITAGE_Main Report
-
-     * Acrobat Document | 3.03MB
-
-   (BUTTON) Preview
-   [346973567aa3901161dbee702928c15a.jpg]
-
-HERITAGE_Scientific Annex
-
-     * Acrobat Document | 1.91MB
-
-   (BUTTON) Preview
-
-Targeted Analyses
-
-     * Policy themes
-     * Applied Research
-     * Targeted Analyses
-
-     * ***ESPON Cross-border Public Services 2.0 (CPS 2.0)
-     * 1-Regional Strategies for Sustainable and Inclusive Territorial
-       Development - ReSSI
-     * 2-Thinking and Planning in Areas of Territorial Cooperation -
-       ACTAREA
-     * 3-Spatial Dynamics and Strategic Planning in Metropolitan Areas -
-       SPIMA
-     * 4-Linking Networks of Protected Areas to Territorial Development -
-       LinkPas
-     * 5-Territorial and Urban Potentials Connected to Migration and
-       Refugee Flows - MIGRATUP
-     * 6-Territorial Scenarios for the Baltic Sea Region - BT2050
-     * 7-Common spatial perspectives for the Alpine area - Alps 2050
-     * 8-Future Digital Health - eHEALTH
-     * 9-Material Cultural Heritage- HERITAGE
-     * 10-Cross-border Public Services - CPS
-     * 11-Cross-Border Cooperation - TIA CBC
-     * 12-Maritime spatial planning - MSP LSI
-     * 13-BIG DATA
-     * 14-Urban-rural connections in non-metropolitan areas - URRUC
-     * 15-EuropeaN Sustainable Urbanisation through port city REgeneration
-       - ENSURE
-     * 16-Adapting European Cities to Population Ageing: Policy Challenges
-       and Best Practices - ACPA
-     * 17-SHARING – Stocktaking and assessment of typologies of Urban
-       Circular Collaborative Economy initiatives
-     * 18-MISTA – Metropolitan Industrial Strategies & Economic Sprawl
-     * 19-TOURISM - Carrying capacity methodology for tourism
-     * 20-BusDev - Business Development Opportunities at External EU
-       Borders
-     * 21- ERMES - ESPON European Research for Maritime Eco(nomic)clusters
-       governance Strategy
-     * 22-IMAGINE - Developing a metropolitan-regional imaginary in
-       Milan-Bologna urban region
-     * 23-CE FLOWS – Spatial dynamics and integrated territorial
-       development scenarios for the functional area of Central Europe
-     * 24-DIGIPLAN - Evaluating Spatial Planning Practices with Digital
-       Plan Data
-     * 25-STISE - Sustainable Transport Infrastructure in the Strategic
-       urban region Eurodelta
-     * 26-ESPON METRO | The role and future perspectives of Cohesion
-       Policy in the planning of Metropolitan Areas and Cities
-     * 27- LAKES - territorial analysis of spatial progress and integrated
-       development opportunities of large lakes in Europe
-     * 28-QGasSP - Quantitative Greenhouse Gas Impact Assessment Method
-       for Spatial Planning Policy
-     * *TEVI – Territorial Evidence Support of European Territorial
-       Cooperation Programmes
-     * **Territorial Scenarios for the Danube and Adriatic Ionian
-       Macro-regions (TEVI 2050)
-
-
-
-Monitoring and Tools
-
-
-
-Transnational Outreach
-
-Preview (BUTTON) ×
-
-   (BUTTON) Close
-
-   © ESPON
-     * FAQ
-     * Contact
-     * Site Map
-     * Links
-     * Legal Notice
-
-   ESPON EGTC
-
-   ESPON is an EU funded programme that delivers quality expertise to
-   public authorities responsible for designing territorial policies.
-
-Stay Connected
-
-     *
-     *
-     *
-     *
-     *
-
-   ESPON IN YOUR COUNTRY
-   Austria flag  AT
-   Belgium flag  BE
-   Bulgaria flag  BG
-   Croatia flag  HR
-   Cyprus flag  CY
-   Czech Republic flag  CZ
-   Denmark flag  DK
-   Estonia flag  EE
-   Finland flag  FI
-   France flag  FR
-   Germany flag  DE
-   Greece flag  EL
-   Hungary flag  HU
-   Ireland flag  IE
-   Italy flag  IT
-   Latvia flag  LV
-   Lithuania flag  LT
-   Luxembourg flag  LU
-   Malta flag  MT
-   Netherlands flag  NL
-   Poland flag  PL
-   Portugal flag  PT
-   Romania flag  RO
-   Slovakia flag  SK
-   Slovenia flag  SI
-   Spain flag  ES
-   Sweden flag  SE
-   Iceland flag  IS
-   Liechtenstein flag  LI
-   Norway flag  NO
-   Switzerland flag  CH
-     * Austria
-     * Belgium
-     * Bulgaria
-     * Croatia
-     * Cyprus
-     * Czech Republic
-     * Denmark
-     * Estonia
-     * France
-     * Finland
-     * Germany
-     * Greece
-     * Hungary
-     * Iceland
-     * Ireland
-     * Italy
-     * Latvia
-     * Liechtenstein
-     * Lithuania
-     * Luxembourg
-     * Malta
-     * Netherlands
-     * Norway
-     * Poland
-     * Portugal
-     * Romania
-     * Slovakia
-     * Slovenia
-     * Spain
-     * Sweden
-     * Switzerland
+   Informations légales Contact © 2000-2023, rue des écoles

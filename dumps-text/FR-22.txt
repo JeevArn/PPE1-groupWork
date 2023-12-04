@@ -48,7 +48,7 @@
 
    Capital
    Publicité
-   Se connecter (BUTTON) Mon compte
+   (BUTTON) Se connecter (BUTTON) Mon compte
    (BUTTON) MON PROFIL (BUTTON) MES ARTICLES SAUVEGARDÉS (BUTTON) MES
    SUJETS SUIVIS (BUTTON) MES MAGAZINES MES PRÉFÉRENCES DE COMMUNICATION
    (BUTTON) DÉCONNEXION
@@ -370,18 +370,18 @@ Logement du couple
    Solidarité entre époux : principe et limites
        Votre argent
      *
-   Prévoir sa succession pour protéger son conjoint
-       Votre argent
-     *
    En quoi consiste le devoir de secours entre époux ?
        Votre argent
      *
-   Comment protéger votre conjoint survivant en aménageant votre contrat
-       de mariage
+   Prévoir sa succession pour protéger son conjoint
        Votre argent
      *
    Pacs et succession : réserver une partie de son héritage à son
        partenaire
+       Votre argent
+     *
+   Comment protéger votre conjoint survivant en aménageant votre contrat
+       de mariage
        Votre argent
      *
    Déclaration de succession
@@ -391,8 +391,9 @@ Logement du couple
        son régime matrimonial ?
        Votre argent
      *
-   Contrat de révélation de succession
-       Votre argent
+   Les époux Balkany jugés à partir de lundi pour fraude fiscale et
+       blanchiment
+       Economie et politique
      *
    Comment contester une succession ?
        Votre argent

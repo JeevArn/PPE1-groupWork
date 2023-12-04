@@ -71,28 +71,28 @@ Le mérite en héritage
             Chronique singulière d’un héritage, de la transmission de
             l'édifice et de son parc de générations en générations depuis
             la révolution.
-            (BUTTON) Lecture
+            (BUTTON) Indisponible
             26 déc. 2022  •  58 min
           + Discussions intenses sur l’héritage, les gens chez le notaire
             au bureau - Illustrations
             Épisode 2/4 : Le temps des héritiers
             De l'importance croissante de l'héritage dans les inégalités
             contemporaines.
-            (BUTTON) Lecture
+            (BUTTON) Indisponible
             27 déc. 2022  •  57 min
           + Le président du Groupe Lagardère, Jean-Luc Lagardère (G) et
             son fils Arnaud (D), en 1997.
             Épisode 3/4 : Transmission, une fiction intime
             Petits arrangements avec son héritage : le mériter,
             l’accepter, le rejeter ou comment vivre avec ?
-            (BUTTON) Lecture
+            (BUTTON) Indisponible
             28 déc. 2022  •  58 min
           + Plaque à l'entrée de l'ENA ou de l'Ecole Nationale
             d'Administration à Paris, France
             Épisode 4/4 : Les écoles du pouvoir
             « L’héritocratie » ou quand on hérite aussi des grandes
             écoles.
-            (BUTTON) Lecture
+            (BUTTON) Indisponible
             29 déc. 2022  •  57 min
 
    12 3 4 5
@@ -136,6 +136,15 @@ Provenant de l'émission
 
    Plus de séries
    (BUTTON)
+     * La marche de 83 : histoire d’une égalité manquée
+       La marche de 83, histoire d'une égalité manquée
+       Pour LSD, 40 ans après la marche pour l’égalité et contre le
+       racisme, Charlène De Vargas cherche à comprendre comment et
+       pourquoi en France, le système colonial continue de nourrir les
+       inégalités, la division et le souffle du racisme.
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
      * Le nu mis à nu
        Le nu mis à nu.
        Pour LSD, Perrine Kervran tente un voyage dans l’histoire de l’art
@@ -155,13 +164,15 @@ Provenant de l'émission
        (BUTTON)
        Découvrir
        (BUTTON) suivre
-     * Microbiote : tous en selle !
+     * Microbiote : tous en selles !
        Microbiote : tous en selle !
-       Pour LSD, Éllodie Maillot a plongé au cœur de ce qui nous est
+       Pour LSD, Élodie Maillot a plongé au cœur de ce qui nous est
        invisible et qui vit pourtant en nous : notre microbiote. Comment
        en notre flore intestinale ces milliards de micro-organismes
        peuvent influencer nos vies, notre santé, notre avenir et même nos
        identités ?
+       (BUTTON)
+       Découvrir
        (BUTTON) suivre
      * Ciel ma retraite ! Un siècle de reformes et contre réformes
        Ciel, ma retraite
@@ -247,21 +258,11 @@ Provenant de l'émission
        (BUTTON)
        Découvrir
        (BUTTON) suivre
-     * La poésie, arme de réenchantement massive
-       La poésie, arme de réenchantement massive
-       Pour LSD, Stéphane Bonnefoi convoque la poésie, même si elle ne
-       représente guère plus de 0,5% des ventes de l’édition française,
-       elle n’en demeure pas moins vivace.
-       (BUTTON)
-       Découvrir
-       (BUTTON) suivre
 
    (BUTTON)
 
      * Accueil
      * France Culture
-     * Podcasts
-     * Le mérite en héritage
 
    La radio
      * Contacter France Culture

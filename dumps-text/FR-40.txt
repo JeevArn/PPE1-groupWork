@@ -1,707 +1,648 @@
-   Your Europe
-
-   (BUTTON) frfrançais
-   Available languages
-   (BUTTON) Fermer le menu
-     * bgбългарски
-     * csčeština
-     * daDansk
-     * deDeutsch
-     * etEesti
-     * elΕλληνικά
-     * enEnglish
-     * esespañol
-     * frfrançais
-     * hrhrvatski
-     * ititaliano
-     * lvLatviešu
-     * ltLietuvių
-     * humagyar
-     * mtMalti
-     * nlNederlands
-     * plpolski
-     * ptportuguês
-     * roromână
-     * skSlovenčina
-     * slSlovenščina
-     * fisuomi
-     * svsvenska
-
-   (BUTTON) Recherche
-   Search terms ____________________
-     * Allemagne
-     * Autriche
-     * Belgique
-     * Bulgarie
-     * Chypre
-     * Croatie
-     * Danemark
-     * Espagne
-     * Estonie
-     * Finlande
-     * France
-     * Grèce
-     * Hongrie
-     * Irlande
-     * Italie
-     * Lettonie
-     * Lituanie
-     * Luxembourg
-     * Malte
-     * Pays-Bas
-     * Pologne
-     * Portugal
-     * Roumanie
-     * Slovaquie
-     * Slovénie
-     * Suède
-     * Tchéquie
-
-   (BUTTON) Recherche
-
-   (BUTTON) Menu
-
-   Menu
-   (BUTTON) Fermer le menu
-
-     * Recherche
-     * Séjourner, voyager
-          + Voyager
-               o Documents requis pour voyager en Europe
-                    # Documents de voyage – Citoyens de l'UE
-                    # Documents de voyage pour les membres de la famille
-                      n’ayant pas la citoyenneté de l’UE
-                    # Documents de voyage – Ressortissants de pays non
-                      membres de l'UE
-                    # Travel documents for EU nationals and their non-EU
-                      family members residing in the UK
-                    # Travel documents for UK nationals and their family
-                      members residing in an EU country
-                    # Passeports expirés ou perdus
-                    # Documents pour les mineurs voyageant dans l'UE
-               o Droits des passagers
-                    # Droits des passagers aériens
-                    # Droits des passagers ferroviaires
-                    # Droits des passagers voyageant en autobus ou autocar
-                    # Droits des passagers voyageant sur un navire
-               o Transport et handicap
-                    # Droits des voyageurs handicapés ou à mobilité
-                      réduite
-                    # Carte européenne de stationnement pour personnes
-                      handicapées
-               o Conduire à l'étranger
-                    # Louer une voiture
-                    # Permis de conduire et assurance automobile
-                    # Code de la route et sécurité routière
-               o Que pouvez-vous emporter avec vous?
-                    # Alcool, tabac et droits d’accises
-                    # Règles applicables au transport d'argent liquide
-                      lorsqu'on voyage dans l'UE, qu'on y entre ou qu'on
-                      en sort
-                    # Voyager avec des animaux de compagnie et d'autres
-                      animaux dans l'UE
-                    # Restrictions applicables aux bagages
-                    # Transporter des produits animaux, des denrées
-                      alimentaires ou des plantes
-                    # Utilisation de l'euro
-               o Sécurité et urgences
-                    # Sûreté des aéroports et des compagnies aériennes
-                    # Urgences
-                    # eCall: le système embarqué fondé sur le 112
-               o Voyages à forfait et multipropriété
-                    # Voyages à forfait et prestations de voyage liées
-                    # Multipropriété et autres contrats de vacances à long
-                      terme dans l'UE
-          + Travail et retraite
-               o Travailler à l'étranger
-                    # Égalité de traitement au travail
-                    # Travailleurs détachés
-                    # Travailleurs frontaliers
-                    # Travailler dans la fonction publique à l'étranger
-                    # Permis de travail
-                    # Règles de l’UE relatives au transport routier
-               o Qualifications professionnelles
-                    # Qu'est-ce qu'une profession réglementée?
-                    # Demande de prestation permanente de services
-                    # Demande de prestation temporaire de services
-                    # Documents et formalités
-                    # Carte professionnelle européenne (EPC)
-                    # UE-Royaume-Uni: qualifications professionnelles
-               o Chômage et allocations
-                    # Régimes de sécurité sociale dans l'UE
-                    # Couverture sociale à l'étranger
-                    # Perdre son emploi à l'étranger
-                    # Allocations familiales
-                    # Pensions de survie/de réversion et allocations de
-                      décès
-                    # Transfert des allocations de chômage
-                    # Si vous ne trouvez pas de travail
-                    # Formulaires normalisés en matière de sécurité
-                      sociale
-               o Prendre sa retraite à l'étranger
-                    # Pensions d'État à l'étranger
-                    # Pensions complémentaires à l'étranger
-               o Fiscalité
-                    # Impôts sur le revenu à l'étranger
-                    # Double imposition
-          + Véhicules
-               o Voitures
-                    # Achat et leasing d'une voiture
-                    # TVA lors de l’achat ou de la vente d'une voiture
-                    # Voitures de société
-               o Permis de conduire
-                    # Échange et reconnaissance des permis de conduire
-                      dans l'UE
-                    # Renouveler un permis de conduire dans un autre pays
-                      de l'UE
-                    # Obtenir un permis de conduire dans l'UE
-               o Assurances
-                    # Assurance automobile à l'étranger
-                    # Validité de l'assurance automobile dans l'UE
-               o Immatriculation
-                    # Immatriculation – Formalités et documents
-                    # Faire immatriculer sa voiture dans un autre pays de
-                      l'UE
-                    # Taxes automobiles dans un autre pays de l'UE
-          + Formalités de séjour
-               o Droits de séjour
-                    # Travailleurs – Droits de séjour
-                    # Étudiants – Droits de séjour
-                    # Droits de séjour des retraités
-                    # Demandeurs d'emploi – Droits de séjour
-                    # Citoyens de l'UE économiquement non actifs
-               o Droit de séjour pour les familles
-                    # Conjoints et enfants ressortissants de l'UE
-                    # Conjoints et enfants non ressortissants de l'UE
-                    # Partenaires civils et enregistrés
-                    # Parents
-                    # Proches
-                    # Demandeurs d'emploi – Membres de la famille
-               o Documents et formalités
-                    # S'enregistrer en cas de séjour inférieur à trois
-                      mois
-                    # S'enregistrer à l'étranger après trois mois de
-                      séjour
-                    # S'enregistrer en tant que membre de la famille
-                      ressortissant de l’UE
-                    # Titres de séjour pour les membres de la famille non
-                      ressortissants de l'UE
-                    # Séjour permanent des ressortissants de l’UE après
-                      cinq ans
-                    # Séjour permanent (> 5 ans) pour les membres de la
-                      famille n'ayant pas la citoyenneté européenne
-               o Élections à l'étranger
-                    # Élections municipales
-                    # Élections européennes
-                    # Élections nationales
-               o Residence rights for EU nationals in the UK and UK
-                 nationals in the EU
-                    # Brexit: how UK nationals and their family members
-                      resident in an EU country can stay there after 31
-                      December 2020
-                    # Brexit: how EU nationals and their family members
-                      resident in the UK can stay there after 31 December
-                      2020
-          + Éducation & jeunesse
-               o École
-                    # Aller à l'école dans un autre pays de l'UE
-                    # Partenariats avec des écoles à l'étranger
-               o Université
-                    # Université – Admission et conditions d'entrée
-                    # Université – Droits d'inscription et aide financière
-                    # Reconnaissance des diplômes universitaires
-                    # Étudier à l'étranger et bourses d'études
-                    # Travailler pendant ses études
-               o Stages
-                    # Stages – Aide financière
-               o Volontariat dans l’UE et au-del�
-                    # Volontariat — Par où commencer?
-                    # Volontariat – Se préparer
-               o Chercheurs
-                    # Chercheurs – Bourses et emplois
-                    # Chercheurs – Fiscalité
-          + Santé
-               o Soins de santé non programmés
-                    # Aller chez le médecin/à l'hôpital à l'étranger
-                    # Soins de santé non programmés: paiement et
-                      remboursement
-                    # Couverture médicale lors de séjours temporaires
-                    # Carte européenne d’assurance maladie (CEAM)
-               o Soins médicaux programmés à l'étranger
-                    # Programmer des soins médicaux à l'étranger
-                    # Dépenses et remboursements: soins programmés �
-                      l'étranger
-                    # Points d’information pour les soins de santé
-                      transfrontaliers
-               o Acheter des médicaments dans un autre pays de l’UE
-                    # Présenter une ordonnance dans un autre pays de l’UE
-                    # Ordonnances à l'étranger: coûts et remboursements
-                    # Acheter des médicaments en ligne
-               o Couverture maladie en cas de résidence à l'étranger
-                    # Votre couverture médicale
-          + Famille
-               o Enfants
-                    # Responsabilité parentale
-                    # Adoption
-                    # Enlèvement d'enfants
-               o Couples
-                    # Mariage
-                    # Unions civiles et partenariats enregistrés
-                    # Couples non mariés
-                    # Divorce et séparation légale
-                    # Pension alimentaire (aide versée à des membres de la
-                      famille)
-                    # Régimes patrimoniaux des couples internationaux
-                    # Faire reconnaître des documents publics dans l'UE
-               o Successions transfrontalières
-                    # Planifier sa succession transfrontalière
-                    # Gérer une succession transfrontalière
-          + Consommateurs
-               o Achats
-                    # Informations sur les contrats
-                    # Prix et paiements
-                    # TVA – Taxe sur la valeur ajoutée
-                    # Expédition et livraison
-                    # Garanties et retours
-                    # Achats: connaître ses droits
-               o Internet et télécommunications
-                    # Itinérance: utiliser un téléphone portable dans l’UE
-                    # Accéder à du contenu en ligne à l'étranger
-                    # Services de télécommunication
-                    # Internet: accès et utilisation
-                    # Protection des données et respect de la vie privée
-                      en ligne
-               o Produits et services financiers
-                    # Comptes bancaires dans l'UE
-                    # Prêts et crédits à la consommation
-                    # Produits d'assurance
-                    # Produits d'investissement
-                    # Prêts immobiliers
-                    # Paiements, virements et chèques
-                    # Investir dans un autre pays de l’UE
-               o Traitement inéquitable
-                    # Pratiques commerciales déloyales
-                    # Pratiques tarifaires déloyales
-                    # Clauses contractuelles abusives
-               o Fourniture d'énergie
-                    # Services énergétiques: accès et utilisation
-                    # Plaintes et règlement des litiges
-                    # Contrats et consommation d'énergie
-               o Règlement des litiges de consommation
-                    # Règlement informel des litiges pour les
-                      consommateurs
-                    # Procédures extrajudiciaires pour les consommateurs
-                    # Action en justice pour les consommateurs
-     * Faire des affaires
-          + Gérer une entreprise
-               o Développer une entreprise
-                    # Enregistrement EMAS
-                    # Fusions d'entreprises
-                    # Créer une société européenne (SE)
-                    # Libre flux des données à caractère non personnel
-                    # Comprendre les investissements transfrontières dans
-                      l’UE
-                    # Gérer une entreprise dans le secteur du tourisme
-               o Entreprise: réussir sa transition numérique
-                    # Créer un site web pour son entreprise
-                    # Vendre en ligne sur des plateformes tierces
-                    # Créer une boutique en ligne
-                    # Sécurisation d'un site web
-                    # Livraisons et réalisation de ventes en ligne
-                    # Service à la clientèle pour les entreprises en ligne
-                    # Promouvoir une entreprise en ligne
-               o Propriété intellectuelle
-                    # Droits de propriété intellectuelle
-                    # Brevets
-                    # Marques
-                    # Droits d'auteur
-                    # Secrets d'affaires
-                    # Protection des dessins ou modèles
-                    # Noms de domaine
-                    # Protection des bases de données
-                    # Indications géographiques
-                    # Commercialisation de la propriété intellectuelle
-                    # Atteinte aux droits de la propriété intellectuelle
-               o Création d’entreprise
-                    # Créer une entreprise
-                    # Erasmus pour les jeunes entrepreneurs
-               o Outils de soutien de l’UE aux PME
-          + Fiscalité
-               o Droits d'accise
-                    # Paiement des droits d'accises
-                    # Produits soumis à accise
-               o TVA
-                    # Règles et taux en matière de TVA: taux normaux,
-                      spéciaux et réduits
-                    # Facturer et déduire la TVA
-                    # Exonérations de la TVA
-                    # Remboursements de TVA: demande en ligne
-                    # TVA transfrontière
-                    # Vérifier un numéro de TVA (système VIES)
-                    # Perception de la TVA sur les services électroniques
-                      (mini-guichet unique)
-               o Impôt sur les sociétés
-                    # L'impôt sur les sociétés dans l'UE
-                    # Impôts sur les sociétés mères et les filiales
-          + Vendre dans l'UE
-               o Marchés publics
-                    # Règles en matière de passation de marchés publics
-                    # Demander le réexamen d'une procédure de passation de
-                      marché public
-                    # Rechercher un marché public et soumettre une offre
-               o Vente de biens et de services
-                    # Vendre des produits dans l'UE
-                    # Fournir des services dans un autre pays de l'UE
-                    # Commerce électronique, vente à distance et hors
-                      établissement
-                    # Voyages à forfait et prestations de voyage liées
-                    # Services de livraison de colis
-               o Concurrence entre entreprises
-                    # Signaler des pratiques anticoncurrentielle
-                    # Règles de concurrence de l'UE
-          + Ressources humaines
-               o Contrats de travail
-                    # Conditions d'emploi
-                    # Modification des contrats de travail
-                    # Information et consultation du personnel
-                    # Travail à durée déterminée
-                    # Travail à temps partiel
-                    # Travail intérimaire
-                    # Licenciements
-                    # Travailleurs adolescents
-               o Temps de travail, congés et vacances
-                    # Congé parental
-                    # Temps de travail
-               o Travailleurs du secteur des transports
-                    # Employer des travailleurs dans le transport routier:
-                      temps de conduite et périodes de repos
-                    # Personnel de l'aviation civile
-                    # Personnel ferroviaire
-                    # Gens de mer et travailleurs du secteur de la
-                      navigation intérieure
-               o Travailleurs détachés
-                    # Détachement de personnel à l'étranger
-                    # Conducteurs détachés
-               o Sécurité sociale et santé
-                    # Sécurité sociale
-                    # Santé et sécurité au travail
-               o Égalité de traitement et qualifications
-                    # Égalité de traitement du personnel
-                    # Aménagements raisonnables
-                    # Reconnaissance des qualifications
-          + Produits
-               o Normes
-                    # Les normes en Europe
-               o Conformité des produits
-                    # Connaître les exigences applicables aux produits
-                    # Évaluation de la conformité
-                    # Documentation technique et déclaration de conformité
-                    # Exigences en matière d'écoconception
-                    # Déclaration de reconnaissance mutuelle
-               o Étiquettes et marquages
-                    # Marquage CE
-                    # Étiquettes énergétiques
-                    # Marquage des DEEE
-                    # Étiquetage des chaussures
-                    # Étiquetage des produits textiles
-                    # Symbole «℮»
-                    # Label écologique de l'UE
-               o Substances chimiques
-                    # Classification, étiquetage et emballage de produits
-                      chimiques
-                    # Enregistrement des substances chimiques dans l’UE
-                      (règlement REACH)
-               o Recyclage et gestion des déchets
-                    # Responsabilités en matière de DEEE
-               o Étiquetage des denrées alimentaires
-                    # Règles d'étiquetage des denrées alimentaires
-                    # Déclaration nutritionnelle
-                    # Étiquetage des compléments alimentaires
-                    # Additifs alimentaires
-                    # Allégations nutritionnelles et de santé
-          + Financement et aide financière
-               o Comptabilité
-                    # Comptabilité des PME et des micro-entreprises
-               o Obtenir un financement
-                    # Accès au financement
-                    # Programmes de financement de l’UE
-               o Effectuer et recevoir des paiements
-                    # Recouvrement transfrontière de créances
-                    # Paiements électroniques et en espèces
-                    # Retard de paiement
-          + Relations avec les clients
-               o Contrats conclus avec les consommateurs et garanties
-                    # Garanties pour les consommateurs
-                    # Produits défectueux
-                    # Contrats conclus avec les consommateurs
-               o Protection des données
-                    # Protection des données en vertu du RGPD
-                    # Respect de la vie privée en ligne
-               o Résoudre un litige avec un client
-                    # Procédure européenne de règlement des petits litiges
-                    # Règlement extrajudiciaire/en ligne des litiges
-     * Contacter les services d’assistance
-     * Signaler un problème
-
-    1. Your Europe
-    2. (BUTTON) …
-    3. Citoyens
-    4. Famille
-    5. Successions transfrontalières
-    6. Gérer une succession transfrontalière
-
-                     Gérer une succession transfrontalière
-
-   Sur cette page
-
-   En cas de décès d'un membre de la famille ou d'un proche, l'héritier
-   peut en principe régler la succession:
-     * auprès des tribunaux du pays de l'UE où le défunt a vécu en dernier
-       lieu;
-     * auprès d'un notaire de n'importe quel pays de l'UE.
-
-   En règle générale, l'autorité chargée de la succession appliquera la
-   loi nationale du pays de l'UE dans lequel le défunt a vécu en dernier
-   lieu, sauf si celui-ci avait choisi la loi de son pays de nationalité.
-
-Possibilité pour les héritiers de choisir la juridiction
-
-   Si un problème de succession doit être tranché par un tribunal,
-   l'héritier doit en principe s'adresser aux tribunaux du pays de l'UE où
-   le défunt a vécu en dernier lieu.
-
-   Toutefois, si le défunt a choisi la loi de son pays de nationalité pour
-   régler sa succession et qu'il s'agit d'un pays de l'UE, les héritiers
-   et les autres parties concernées peuvent convenir de porter l'affaire
-   devant les tribunaux de ce pays.
-
-   Toutes les parties concernées doivent s'accorder sur le choix de la
-   juridiction.
-
-Accepter une succession ou un héritage ou y renoncer
-
-   La loi nationale qui s'applique à la succession peut vous autoriser �
-   déclarer devant un tribunal si vous acceptez la succession ou si vous y
-   renoncez.
-
-   Selon la réglementation de l'UE, vous pouvez faire cette déclaration
-   devant un tribunal du pays de l'UE dans lequel vous résidez, même si le
-   tribunal chargé de régler la succession est établi dans un autre pays
-   de l'UE.
-
-Effets des décisions de justice rendues dans un autre pays de l'UE
-
-   En matière de succession, une décision de justice rendue dans un pays
-   de l'UE est reconnue dans les autres pays de l'UE, sans autre procédure
-   particulière.
-
-   Toutefois, si une partie établie dans un autre pays de l'UE ne se
-   conforme pas de son plein gré à la décision de justice, vous pouvez
-   demander que la décision soit déclarée exécutoire, afin que la police
-   ou un huissier puisse intervenir.
-
-   L'autre partie ne peut introduire un recours contre la reconnaissance
-   ou le caractère exécutoire de la décision que pour les motifs suivants:
-     * la décision est manifestement contraire à l'ordre public du pays de
-       l'UE dans lequel elle doit être reconnue ou exécutée, en raison,
-       par exemple, de son caractère discriminatoire;
-     * elle est contraire à des décisions de justice rendues précédemment
-       dans le pays de l'UE où elle doit être reconnue ou exécutée;
-     * une des personnes participant à la procédure n'a pas eu la
-       possibilité de préparer sa défense.
-
-Avertissement
-
-   Les décisions rendues par les tribunaux au Danemark et en Irlande ne
-   bénéficient pas de ces règles simplifiées lorsqu'elles doivent être
-   reconnues ou exécutées dans un autre pays de l'UE.
-
-Certificat successoral européen
-
-   En tant qu'héritier, vous devrez peut-être prouver à une autorité ou
-   une banque établie dans un autre pays de l'UE que vous avez le droit de
-   devenir propriétaire des actifs du défunt situés dans ce pays.
-
-   En outre, l'exécuteur testamentaire et l'administrateur de la
-   succession devront peut-être prouver qu'ils sont habilités à exercer
-   leurs droits dans un autre pays de l'UE.
-
-Histoire vécue
-
-   Piotr, Polonais, décède en Allemagne alors qu'il y résidait en tant que
-   travailleur détaché pour une période d'un an.
-
-   Gosia, sa femme et héritière, vit en Pologne. Elle doit accéder au
-   compte bancaire de son mari en Allemagne pour pouvoir payer les
-   factures et le dernier mois de loyer.
-
-   Cependant, la banque lui demande un document officiel prouvant qu'elle
-   est l'héritière de Piotr et qu'elle est autorisée à accéder à son
-   compte. Les obstacles administratifs rendent le deuil encore plus
-   éprouvant.
-
-   L'autorité du pays de l'UE chargée de régler l'héritage ou la
-   succession peut vous fournir un document national certifiant votre
-   statut d'héritier, d'exécuteur testamentaire ou d'administrateur de la
-   succession.
-
-   Vous pouvez aussi demander à cette autorité de vous remettre un
-   certificat successoral européen.
-
-   L'avantage de ce certificat est qu'il produit les mêmes effets dans
-   toute l'Union européenne, quel que soit le pays qui l'a délivré. Un
-   document national produira en revanche des effets différents selon le
-   pays de délivrance, ce qui peut retarder la reconnaissance de vos
-   droits dans un autre pays de l'UE.
-
-   En outre, le certificat successoral européen est reconnu dans les
-   autres pays de l'UE sans autre procédure particulière.
-
-   Vous pouvez obtenir un certificat successoral européen auprès d'un
-   tribunal du pays ayant le pouvoir de statuer sur la succession, ou
-   d'une autre autorité compétente, par exemple un notaire, dans ce pays.
-   Vous pouvez former un recours contre le refus de délivrance d'un
-   certificat successoral européen.
-
-   L'autorité qui délivre le certificat successoral européen conservera
-   l'original et transmettra des copies certifiées à l'héritier, �
-   l'exécuteur testamentaire ou à l'administrateur de la succession. Ces
-   copies sont valables pour une période de 6 mois, qui peut être
-   prolongée.
-
-   L'autorité de délivrance peut modifier ou retirer le certificat
-   successoral européen s'il se révèle inexact.
-
-Histoire vécue
-
-   Piotr décède en Allemagne alors qu'il y réside et travaille à titre
-   temporaire. Sa vie est toutefois en Pologne, où résident son épouse
-   Gosia, sa famille et ses amis. C'est la raison pour laquelle les
-   autorités polonaises sont responsables de sa succession.
-
-   Gosia obtient un certificat successoral européen auprès des
-   juridictions polonaises. Elle peut s'en servir pour prouver à la banque
-   de Piotr en Allemagne qu'elle a le droit d'accéder au compte de son
-   mari et qu'elle peut utiliser son argent pour payer ses factures et son
-   dernier mois de loyer.
-
-Législation européenne
-
-     * Règlement relatif à la compétence, la loi applicable, la
-       reconnaissance et l'exécution des décisions, et l'acceptation et
-       l'exécution des actes authentiques en matière de successions et �
-       la création d'un certificat successoral européen
-
-Besoin de services d'assistance?
-
-   Contacter un service d'assistance spécialisé
-   (BUTTON) Obtenir de l'aide et des conseils
-
-   Se renseigner sur ses droits dans l’UE/Résoudre un problème rencontré
-   avec un organisme public
-
-   Vous pouvez également utiliser l’outil de recherche de services
-   d’assistance afin de trouver l’aide la plus appropriée.
-   Dernière vérification : 06/10/2023
-
-   Partager cette page
-     * Facebook
-     * Twitter
-     * Linkedin
-     * e-mail
-
-   (BUTTON) Commentaires sur la qualité
-
-   Merci pour ces commentaires. Si vous souhaitez nous fournir de plus
-   amples informations, veuillez compléter cette enquête. Cela ne vous
-   prendra que quelques minutes.
-
-   En raison de problèmes techniques, vos informations n’ont pas pu être
-   envoyées. Veuillez réessayer plus tard.
-
-   Avez-vous trouvé ce que vous cherchiez? *
-
-   (*) Oui
-   ( ) Non
-   ( ) En partie
-
-   Notez cette page *
-
-   (*) ( ) ( ) ( ) ( )
-
-   Que cherchiez-vous? * ____________________Aidez-nous à améliorer ce
-   site
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-
-   800 caractères restants
-   (BUTTON) Envoyer
-
-   * Champ obligatoire
-
-Your Europe
-
-   Ce site est géré par la direction générale du marché intérieur, de
-   l’industrie, de l’entrepreneuriat et des PME et est un site officiel de
-   l’Union européenne
-
-Suivez-nous sur
-
-     * Facebook
-     * twitter
-     * LinkedIn
-     * YouTube
-
-À propos de ce site
-
-     * Qu’est-ce que Your Europe ?
-     * Cookies
+   #Add PHP.net search PHP Release feed PHP: Hypertext Preprocessor
+   alternate contents index prev next alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   php
+   [ ]
+     * Downloads
+     * Documentation
+     * Get Involved
+     * Help
+     * php8.3
+
+   ____________________
+
+   Getting Started
+          Introduction
+          A simple tutorial
+
+   Language Reference
+          Basic syntax
+          Types
+          Variables
+          Constants
+          Expressions
+          Operators
+          Control Structures
+          Functions
+          Classes and Objects
+          Namespaces
+          Enumerations
+          Errors
+          Exceptions
+          Fibers
+          Generators
+          Attributes
+          References Explained
+          Predefined Variables
+          Predefined Exceptions
+          Predefined Interfaces and Classes
+          Predefined Attributes
+          Context options and parameters
+          Supported Protocols and Wrappers
+
+   Security
+          Introduction
+          General considerations
+          Installed as CGI binary
+          Installed as an Apache module
+          Session Security
+          Filesystem Security
+          Database Security
+          Error Reporting
+          User Submitted Data
+          Hiding PHP
+          Keeping Current
+
+   Features
+          HTTP authentication with PHP
+          Cookies
+          Sessions
+          Dealing with XForms
+          Handling file uploads
+          Using remote files
+          Connection handling
+          Persistent Database Connections
+          Command line usage
+          Garbage Collection
+          DTrace Dynamic Tracing
+
+   Function Reference
+          Affecting PHP's Behaviour
+          Audio Formats Manipulation
+          Authentication Services
+          Command Line Specific Extensions
+          Compression and Archive Extensions
+          Cryptography Extensions
+          Database Extensions
+          Date and Time Related Extensions
+          File System Related Extensions
+          Human Language and Character Encoding Support
+          Image Processing and Generation
+          Mail Related Extensions
+          Mathematical Extensions
+          Non-Text MIME Output
+          Process Control Extensions
+          Other Basic Extensions
+          Other Services
+          Search Engine Extensions
+          Server Specific Extensions
+          Session Extensions
+          Text Processing
+          Variable and Type Related Extensions
+          Web Services
+          Windows Only Extensions
+          XML Manipulation
+          GUI Extensions
+
+   Keyboard Shortcuts
+   ?
+          This help
+
+   j
+          Next menu item
+
+   k
+          Previous menu item
+
+   g p
+          Previous man page
+
+   g n
+          Next man page
+
+   G
+          Scroll to bottom
+
+   g g
+          Scroll to top
+
+   g h
+          Goto homepage
+
+   g s
+          Goto search
+          (current page)
+
+   /
+          Focus search box
+
+   L'opérateur de résolution de portée (::) »
+   « Visibilité
+     * Manuel PHP
+     * Référence du langage
+     * Les classes et les objets
+
+   Change language: [French______________]
+
+   Submit a Pull Request Report a Bug
+
+Héritage
+
+   L'héritage est un des grands principes de la programmation orientée
+   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
+   affecter la manière dont de nombreuses classes sont en relation les
+   unes avec les autres.
+
+   Par exemple, lorsqu'une classe est étendue, la classe enfant hérite de
+   toutes les méthodes publiques et protégées, propriétés et constantes de
+   la classe parente. Tant qu'une classe n'écrase pas ces méthodes, elles
+   conservent leur fonctionnalité d'origine.
+
+   L'héritage est très utile pour définir et abstraire certaines
+   fonctionnalités communes à plusieurs classes, tout en permettant la
+   mise en place de fonctionnalités supplémentaires dans les classes
+   enfants, sans avoir à réimplémenter en leur sein toutes les
+   fonctionnalités communes.
+
+   Les méthodes privées d'une classe parente ne sont pas accessible à la
+   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
+   une méthode privée eux-mêmes sans se soucier des règles d'héritage
+   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
+   static étaient appliquées aux méthodes privées. À partir de PHP 8.0.0,
+   l'unique restriction de méthode privée qui est imposé est private final
+   sur les constructeurs, car c'est une manière courante pour "désactiver"
+   le constructeur lors de l'utilisation de méthodes factory statique à la
+   place.
+
+   La visibilité des méthodes, propriétés et constantes peut être relaxé,
+   c.-à-d. une méthode protected peut être marqué comme public, mais elles
+   ne peuvent pas être restraint, e.g. marquer une propriété public comme
+   private. Une exception sont les constructeurs, pour lesquels la
+   visibilité peut être restraintes, par exemple un constructeur public
+   peut être annoté en tant que private dans la classe enfant.
+
+     Note:
+
+     A moins que l'autochargement ne soit utilisé, les classes doivent
+     être connues avant d'être utilisées. Les classes mères doivent être
+     définies avant l'écriture d'un héritage. Cette règle générale
+     s'applique aussi dans le cas d'héritage ou d'implémentation
+     d'interfaces.
+
+     Note:
+
+     Il n'est pas autorisé de redéfinir une propriété en lecture-écriture
+     avec une propriété en lecture seule ou vice versa.
+
+   <?php
+   class A {
+   public int $prop;
+   }
+   class B extends A {
+   // Illegal: read-write -> readonly
+   public readonly int $prop;
+   }
+   ?>
+
+   Exemple #1 Exemple d'héritage
+   <?php
+   class Foo
+   {
+   public function printItem($string)
+   {
+   echo 'Foo: ' . $string . PHP_EOL;
+   }
+   public function printPHP()
+   {
+   echo 'PHP est super' . PHP_EOL;
+   }
+   }
+   class Bar extends Foo
+   {
+   public function printItem($string)
+   {
+   echo 'Bar: ' . $string . PHP_EOL;
+   }
+   }
+   $foo = new Foo();
+   $bar = new Bar();
+   $foo->printItem('baz'); // Affiche : 'Foo: baz'
+   $foo->printPHP(); // Affiche : 'PHP est super'
+   $bar->printItem('baz'); // Affiche : 'Bar: baz'
+   $bar->printPHP(); // Affiche : 'PHP est super'
+   ?>
+
+Compatibilité des types de retour avec les classes internes
+
+   Antérieur à PHP 8.1, la plupart des classes ou méthodes internes ne
+   déclaraient pas leur type de retour, et tout type de retour était
+   autorisé lors de leur héritage.
+
+   À partir de PHP 8.1.0, la plupart des méthodes internes ont commencé �
+   déclarer "provisoirement" leur type de retour, dans ce cas, le type de
+   retour des méthodes doit être compatible avec la classe parent; Dans le
+   cas contraire, une notification de dépréciation est émise. Notez que
+   l'absence d'une déclaration de retour explicite est également
+   considérée comme une erreur de signature, et entraîne donc l'avis de
+   dépréciation.
+
+   Si le type de retour ne peut être déclaré pour une méthode de surcharge
+   en raison de problèmes de compatibilité entre versions de PHP, un
+   attribut ReturnTypeWillChange peut être ajouté pour passer sous silence
+   l'avis de dépréciation.
+
+   Exemple #2 La méthode surchargée ne déclare pas de type de retour.
+   <?php
+   class MyDateTime extends DateTime
+   {
+   public function modify(string $modifier) { return false; }
+   }
+   // "Deprecated: Return type of MyDateTime::modify(string $modifier)
+   should either be compatible with DateTime::modify(string $modifier):
+   DateTime|false, or the #[\ReturnTypeWillChange] attribute should be
+   used to temporarily suppress the notice" À partir de PHP 8.1.0
+
+   Exemple #3 La méthode surchargée déclare un mauvais type de retour.
+   <?php
+   class MyDateTime extends DateTime
+   {
+   public function modify(string $modifier): ?DateTime { return null; }
+   }
+   // "Deprecated: Return type of MyDateTime::modify(string $modifier):
+   ?DateTime should either be compatible with DateTime::modify(string
+   $modifier): DateTime|false, or the #[\ReturnTypeWillChange] attribute
+   should be used to temporarily suppress the notice" À partir de PHP
+   8.1.0
+
+   Exemple #4 La méthode surchargée déclare un mauvais type de retour sans
+   notice de dépréciation.
+   <?php
+   class MyDateTime extends DateTime
+   {
+   /**
+   * @return DateTime|false
+   */
+   #[\ReturnTypeWillChange]
+   public function modify(string $modifier) { return false; }
+   }
+   // Aucune notice n'est déclenchée
+
+   ＋add a note
+
+User Contributed Notes 8 notes
+
+   up
+   down
+   210
+   jackdracona at msn dot com ¶
+   13 years ago
+   Here is some clarification about PHP inheritance – there is a lot of
+   bad information on the net. PHP does support Multi-level inheritance.
+   (I tested it using version 5.2.9). It does not support multiple
+   inheritance.
+   This means that you cannot have one class extend 2 other classes (see
+   the extends keyword). However, you can have one class extend another,
+   which extends another, and so on.
+   Example:
+   <?php
+   class A {
+   // more code here
+   }
+   class B extends A {
+   // more code here
+   }
+   class C extends B {
+   // more code here
+   }
+   $someObj = new A(); // no problems
+   $someOtherObj = new B(); // no problems
+   $lastObj = new C(); // still no problems
+   ?>
+   up
+   down
+   100
+   Mohammad Istanbouly ¶
+   6 years ago
+   I think the best way for beginners to understand inheritance is through
+   a real example so here is a simple example I can gave to you
+   <?php
+   class Person
+   {
+   public $name;
+   protected $age;
+   private $phone;
+   public function talk(){
+   //Do stuff here
+   }
+   protected function walk(){
+   //Do stuff here
+   }
+   private function swim(){
+   //Do stuff here
+   }
+   }
+   class Tom extends Person
+   {
+   /*Since Tom class extends Person class this means
+   that class Tom is a child class and class person is
+   the parent class and child class will inherit all public
+   and protected members(properties and methods) from
+   the parent class*/
+   /*So class Tom will have these properties and methods*/
+   //public $name;
+   //protected $age;
+   //public function talk(){}
+   //protected function walk(){}
+   //but it will not inherit the private members
+   //this is all what Object inheritance means
+   }
+   up
+   down
+   23
+   strata_ranger at hotmail dot com ¶
+   13 years ago
+   I was recently extending a PEAR class when I encountered a situation
+   where I wanted to call a constructor two levels up the class hierarchy,
+   ignoring the immediate parent. In such a case, you need to explicitly
+   reference the class name using the :: operator.
+   Fortunately, just like using the 'parent' keyword PHP correctly
+   recognizes that you are calling the function from a protected context
+   inside the object's class hierarchy.
+   E.g:
+   <?php
+   class foo
+   {
+   public function something()
+   {
+   echo __CLASS__; // foo
+   var_dump($this);
+   }
+   }
+   class foo_bar extends foo
+   {
+   public function something()
+   {
+   echo __CLASS__; // foo_bar
+   var_dump($this);
+   }
+   }
+   class foo_bar_baz extends foo_bar
+   {
+   public function something()
+   {
+   echo __CLASS__; // foo_bar_baz
+   var_dump($this);
+   }
+   public function call()
+   {
+   echo self::something(); // self
+   echo parent::something(); // parent
+   echo foo::something(); // grandparent
+   }
+   }
+   error_reporting(-1);
+   $obj = new foo_bar_baz();
+   $obj->call();
+   // Output similar to:
+   // foo_bar_baz
+   // object(foo_bar_baz)[1]
+   // foo_bar
+   // object(foo_bar_baz)[1]
+   // foo
+   // object(foo_bar_baz)[1]
+   ?>
+   up
+   down
+   15
+   akashwebdev at gmail dot com ¶
+   8 years ago
+   The Idea that multiple inheritence is not supported is correct but with
+   tratits this can be reviewed.
+   for e.g.
+   <?php
+   trait custom
+   {
+   public function hello()
+   {
+   echo "hello";
+   }
+   }
+   trait custom2
+   {
+   public function hello()
+   {
+   echo "hello2";
+   }
+   }
+   class inheritsCustom
+   {
+   use custom, custom2
+   {
+   custom2::hello insteadof custom;
+   }
+   }
+   $obj = new inheritsCustom();
+   $obj->hello();
+   ?>
+   up
+   down
+   11
+   jarrod at squarecrow dot com ¶
+   14 years ago
+   You can force a class to be strictly an inheritable class by using the
+   "abstract" keyword. When you define a class with abstract, any attempt
+   to instantiate a separate instance of it will result in a fatal error.
+   This is useful for situations like a base class where it would be
+   inherited by multiple child classes yet you want to restrict the
+   ability to instantiate it by itself.
+   Example........
+   <?php
+   abstract class Cheese
+   {
+   //can ONLY be inherited by another class
+   }
+   class Cheddar extends Cheese
+   {
+   }
+   $dinner = new Cheese; //fatal error
+   $lunch = new Cheddar; //works!
+   ?>
+   up
+   down
+   -3
+   niemans at pbsolo dot nl ¶
+   3 years ago
+   Inheritance works at create time, i.e. using the keyword 'new'. Static
+   properties confused my understanding, so in order tho show the effect
+   of visibility to inherintence I've created a simple demo script along
+   with some set and get magic:
+   <?php
+   class A {
+   private $a = 'private';
+   protected $b = 'protected';
+   public $c = 'public';
+   static $d = 'static';
+   public function __construct()
+   {
+   $this->e = 'constructed';
+   }
+   public function __set($property, $value)
+   {
+   echo ' set ' . $property . '=' . $value;
+   $this->$property=$value;
+   }
+   public function __get($property)
+   {
+   echo ' get ' . $property;
+   $this->$property = 'dynamic'; // invokes __set() !!
+   return $this->$property;
+   }
+   }
+   class B extends A
+   {
+   public function constructMe()
+   {
+   $this->e = 'constructed2';
+   }
+   }
+   class C extends B
+   {
+   public function __construct()
+   {
+   parent::constructMe();
+   }
+   }
+   echo " \n";
+   $a = new A();
+   $b = new B();
+   echo " \n";
+   echo ' B:c='.$b->c;
+   echo " \n";
+   echo ' B:d=' .$b->d;
+   echo " \n";
+   $c = new C();
+   echo " \n";
+   print_r($a);
+   print_r($b);
+   print_r($c);
+   print_r(A::$d);
+   print_r(B::$d);
+   print_r(C::$d);
+   echo 'A class: ';
+   $R = new reflectionclass('A');
+   print_r($R->getdefaultproperties());
+   print_r($R->getstaticproperties());
+   echo 'B class: ';
+   $R = new reflectionclass('B');
+   print_r($R->getdefaultproperties());
+   print_r($R->getstaticproperties());
+   ?>
+   This outputs:
+   set e=constructed
+   B:c=public
+   get d set d=dynamic B:d=dynamic
+   set e=constructed2
+   A Object
+   (
+   [a:A:private] => private
+   [b:protected] => protected
+   [c] => public
+   [e] => constructed
+   )
+   B Object
+   (
+   [a:A:private] => private
+   [b:protected] => protected
+   [c] => public
+   [d] => dynamic
+   )
+   C Object
+   (
+   [a:A:private] => private
+   [b:protected] => protected
+   [c] => public
+   [e] => constructed2
+   )
+   staticstaticstaticA class: Array
+   (
+   [d] => static
+   [a] => private
+   [b] => protected
+   [c] => public
+   )
+   Array
+   (
+   [d] => static
+   )
+   B class: Array
+   (
+   [d] => static
+   [b] => protected
+   [c] => public
+   )
+   Array
+   (
+   [d] => static
+   )
+   This shows how private variables ($a) are inherited, how static
+   variables ($d) are inherited (by the class, not by the object) and that
+   changing or adding variables in the parent ($e, $d) are not inherited
+   by the child.
+   up
+   down
+   -5
+   Anonymous ¶
+   4 years ago
+   PHP7 gives you a warning if you redeclare a function in a child class
+   with different parameters. For example:
+   class foo {
+   function print($text='') {
+   print text;
+   }
+   }
+   class bar extends foo {
+   function print($text1='',$text2='') {
+   print text1.text2
+   }
+   }
+   will give a PHP Warning: Declaration of bar::print($text1 = '', $text2
+   = '') should be compatible with foo::print($text= '').
+   up
+   down
+   -4
+   sibian0218 at gmail dot com ¶
+   5 years ago
+   I've noticed one thing concerning inheritance...
+   When declaring an abstract class with a private method,
+   which is overridden by a sub-class, private takes precedence over
+   public for child class...
+   (in the case you're redeclaring a method with a different signature in
+   fact).
+   Hope this helps
+   ＋add a note
+
+     * Les classes et les objets
+          + Introduction
+          + Syntaxe de base
+          + Propriétés
+          + Constantes de classe
+          + Auto-​chargement de classes
+          + Constructeurs et destructeurs
+          + Visibilité
+          + Héritage
+          + L'opérateur de résolution de portée (::)
+          + Statique
+          + Abstraction de classes
+          + Interfaces
+          + Traits
+          + Classes anonymes
+          + Surcharge magique
+          + Parcours d'objets
+          + Méthodes magiques
+          + Mot-​clé "final"
+          + Clonage d'objets
+          + Comparaison d'objets
+          + Late Static Bindings (Résolution statique à la volée)
+          + Objets et références
+          + Sérialisation d'objets
+          + Covariance et Contravariance
+          + Modifications en POO (Programmation orientée objet)
+
+     * Copyright © 2001-2023 The PHP Group
+     * My PHP.net
      * Contact
-     * Version imprimable
+     * Other PHP.net sites
+     * Privacy policy
 
-   Drapeau de l'Union européenne Drapeau de l'Union européenne
-   En savoir plus sur europa.eu
-
-Contacter l'UE
-
-     * Appelez-nous au 00 800 6 7 8 9 10 11
-     * Utilisez d'autres options téléphoniques
-     * Écrivez-nous au moyen de notre formulaire de contact
-     * Rencontrez-nous dans un des centres de l’UE
-
-Réseaux sociaux
-
-     * Rechercher les comptes de l’UE sur les réseaux sociaux
-
-Avis juridique
-
-     * Les langues sur nos sites web
-     * Protection de la vie privée
-     * Avis juridique
-     * Politique en matière d'accessibilité du web
-
-Institutions de l’UE
-
-     * Parlement européen
-     * Conseil européen
-     * Conseil de l'Union européenne
-     * Commission européenne
-     * Cour de justice de l'Union européenne (CJUE)
-     * Banque centrale européenne (BCE)
-     * Cour des comptes européenne
-     * Service européen pour l’action extérieure (SEAE)
-     * Comité économique et social européen (CESE)
-     * Comité européen des régions (CdR)
-     * Banque européenne d'investissement (BEI)
-     * Médiateur européen
-     * Contrôleur européen de la protection des données
-     * Comité européen de la protection des données
-     * Office européen de sélection du personnel
-     * Office des publications de l’Union européenne
-     * Agences
+   To Top

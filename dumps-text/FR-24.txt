@@ -6,7 +6,6 @@
 
    Menu
    Recherche
-   ____________________ (BUTTON) OK
    Logo
    Me connecter Newsletters
 
@@ -22,7 +21,6 @@
      * +
 
      * Inscription Newsletter
-     *
      * Espace Abonnés
      * ____________________ (BUTTON) OK
      * Santé & bien-être
@@ -59,6 +57,8 @@
      * Services
        Dictionnaire Cours de langue
      * Vidéos
+
+   X
 
      * Accueil
      * Droit & argent
@@ -250,6 +250,7 @@ parents?"
    Noter l'article:
    Pseudo*: ____________________
    (BUTTON) Envoyez votre commentaire
+   Vous devez vous connecter pour déposer un commentaire
    Sur le même sujet
    Un héritier bloque la succession: que faire?
 
@@ -285,19 +286,19 @@ parents?"
 
 Droit : les dépêches
 
-   UE: la fleur de sel de l'île de Ré obtient le label convoité de l'IGP
+   Gel des loyers des logements énergivores: le parc social "oublié",
+   selon une association
 
-   Le gouvernement ouvre la voie à une évolution du financement des
-   aéroports
+   Services publics: l'Assemblée vote un texte LFI pour le maintien d'un
+   "accueil physique"
 
-   Électricité: les participants au test de réduction de puissance seront
-   indemnisés
+   L'amortisseur électricité prolongé en 2024 pour les entreprises qui ont
+   souscrit à prix d'or
 
-   Mayotte: les ressources en eau à un niveau "critique", selon la
-   préfecture
+   Energie: accord de Bruxelles pour la prolongation des aides aux
+   entreprises (Borne)
 
-   Tarifs des complémentaires santé: AG2R La Mondiale annonce "+8 à 9%" en
-   2024 (presse)
+   Assistants médicaux: la moitié du chemin reste à faire
 
    Nous suivre
    Avec la newsletter

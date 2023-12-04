@@ -33,7 +33,6 @@
 --
    demande au notaire dans un délai d’un an. Ce droit d’habitation à vie
    n’est cette fois pas gratuit, il sera déduit de la part d’héritage.
-   Mais si sa valeur est supérieure à la part reçue, il n’y aura rien �
 --
      * SUCCESSION
      * HÉRITAGE

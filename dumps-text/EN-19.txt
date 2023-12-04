@@ -1,225 +1,284 @@
-   #alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate
+   #Biodiversity Heritage Library Atom Feed Biodiversity Heritage Library
+   » Feed Biodiversity Heritage Library » Comments Feed
 
-   Skip to main content
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
+     * Home
+     * News
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
 
-   Culture and Creativity home page Culture and Creativity home page
-   enEnglish
-   (BUTTON) Close
+   Home
+   News
+   Featured Books
+       All Featured Books
+       Book of the Month Series
+   User Stories
+   Campaigns
+       Fossil Stories
+       Garden Stories
+       Monsters Are Real
+       Page Frights
+       Her Natural History
+       Earth Optimism 2020
+   Tech Blog
+   Visit BHL
+     * Home
+     * News
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
 
-Select your language
+   ____________________
 
-Official EU languages
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
 
-     * български
-     * español
-     * čeština
-     * dansk
-     * Deutsch
-     * eesti
-     * ελληνικά
-     * English
-     * français
-     * Gaeilge
-     * hrvatski
-     * italiano
+   Illuminating BHL’s Dark Data
 
-     * latviešu
-     * lietuvių
-     * magyar
-     * Maltese
-     * Nederlands
-     * polski
-     * português
-     * română
-     * slovenčina
-     * slovenščina
-     * suomi
-     * svenska
+   Citizen Scientists and AI Unlock Key Biodiversity Data in GBIF
+   Illuminating BHL’s Dark Data
 
-   (BUTTON) Menu
+   Flora, Fauna, and Photography
 
-Culture and Creativity
+   Five Years of Digitising Content for BHL in Aotearoa
+   Flora, Fauna, and Photography
 
-   (BUTTON) Close
+   Interlinking BHL Data
 
-   You are here:
-    1. Culture and Creativity
-    2. Cultural heritage
+   in the Wikimedia Project Ecosystem
+   Interlinking BHL Data
 
-Cultural heritage
+Welcome to the Biodiversity Heritage Library Blog
 
-   Enlarge
-   policies-culturalheritage-header
+   BHL News, Blog Reel
 
-   Europe’s cultural heritage is a rich and diverse mosaic of cultural and
-   creative expressions, an inheritance from previous generations of
-   Europeans and a legacy for those to come. It includes natural, built
-   and archaeological sites, museums, monuments, artworks, historic
-   cities, literary, musical and audiovisual works, and the knowledge,
-   practices and traditions of European citizens.
+BHL Bi-annual Newsletter (November 2023) Now Available!
 
-   While policy in this area is primarily the responsibility of Member
-   States, regional and local authorities, the EU is committed to
-   safeguarding and enhancing Europe's cultural heritage through a number
-   of policies and programmes.
+   Read the full blog post
 
-   Find detailed information about these policies and programmes in the
-   following sections:
+   Our latest bi-annual newsletter is now available! From flora and fauna
+   in New Zealand to new Affiliates in Belgium and the United States,
+   don’t miss the latest news from the BHL community.
 
-EU policy for cultural heritage
+   View our November 2023 Bi-annual Newsletter.
+   Continue reading
+   November 28, 2023byColleen Funkhouser
+   BHL News, Blog Reel, Featured Books
 
-   The EU is committed to safeguarding and enhancing Europe's cultural
-   heritage.
-   Learn more
+Illuminating BHL’s Dark Data: Citizen Scientists and AI Unlock Key
+Biodiversity Data in GBIF
 
-Funding opportunities for cultural heritage
+   Read the full blog post
 
-   Several EU funding programmes support cultural heritage under the
-   Multiannual Financial Framework.
-   Find out more
+   In the face of climate change and environmental challenges,
+   understanding and documenting Earth’s biodiversity is essential. The
+   Global Biodiversity Information Facility (GBIF) serves as a global
+   repository for biodiversity data, playing a pivotal role in this
+   critical mission of safeguarding our planet’s biodiversity. Species
+   occurrence data sourced from the Biodiversity Heritage Library (BHL)
+   provides insights into species distributions, behaviors, and
+   interactions much deeper into time, offering key species baseline data
+   required to effectively address the climate crisis. Without accurate
+   and comprehensive data in GBIF, our collective ability to track
+   environmental changes and make informed decisions is severely hampered.
 
-Cultural heritage in other EU policies
+   As a GBIF participant node, BHL is committed to sharing biodiversity
+   data openly, adhering to FAIR (Findable, Accessible, Interoperable,
+   Reusable) and CARE (Collective Benefit, Authority to Control,
+   Responsibility, Ethics) data principles, and collaborating with a
+   global network of biodiversity organizations to bolster and build
+   capacity to strengthen the biodiversity information infrastructure. To
+   honor our commitments, technical staff from BHL are working to
+   establish a scalable data pipeline of occurrence data currently trapped
+   in archival field notes, journals, letters, correspondence, and other
+   primary source materials. The journey has been an arduous one due to
+   poor OCR (optical character recognition) data quality for BHL’s
+   sub-corpus of handwritten materials.
+   Continue reading
+   November 9, 2023byJJ Dearborn, Joseph deVeer and Paul Flemons
+   BHL News, Blog Reel
 
-   The European Framework for Action on Cultural Heritage proposes that
-   cultural heritage should be addressed through many other EU policies
-   beyond culture.
-   Find out more
+BHL Adds Dumbarton Oaks and Meise Botanic Garden as New Affiliates
 
-European Heritage Awards
+   Read the full blog post
 
-   The European Heritage Awards put a spotlight on remarkable projects,
-   initiatives and personalities in the field of cultural heritage.
-   Find out more
+   The Biodiversity Heritage Library is pleased to welcome two new
+   Affiliates in 2023: Dumbarton Oaks in Washington, DC, and Meise Botanic
+   Garden in Meise, Belgium. The BHL Consortium now includes 19 Members
+   and 23 Affiliates.
+   Continue reading
+   October 30, 2023byColleen Funkhouser
+   Blog Reel, Featured Books
 
-European Heritage Days
+Flora, Fauna, and Photography: Five Years of Digitising Content for BHL in
+Aotearoa
 
-   The European Heritage Days is among the most widely celebrated
-   participatory cultural events in Europe.
-   Find out more
+   Read the full blog post
 
-European Heritage Label
+   Auckland Museum joined the Biodiversity Heritage Library (BHL) in 2018
+   and currently remains the only organisation in Aotearoa New Zealand
+   contributing to the consortium. During my four years working as a
+   technician and coordinator on the project, and with the help of a
+   volunteer, Brianna Vincent, we have added over 25,000 pages, increasing
+   our library of contributions from three to over 100 biodiversity
+   literature items. These items span from 1790 to 2004, covering over 200
+   years of biological knowledge, and range from field notebooks and
+   sketches to identification guides, records and proceedings, educational
+   textbooks, plant material, cyanotypes (blueprints), and hand-painted
+   illustrations.
+   Continue reading
+   October 10, 2023byKelly Hall, Brodie Jean Hoare and Phoebe Shum
+   BHL News, Blog Reel, Tech Updates
 
-   EHL sites have been selected for their symbolic value, their role in
-   European history and the activities they offer.
-   Find out more about EHL sites
+Interlinking BHL Data in the Wikimedia Project Ecosystem
 
-Main actors on cultural heritage
+   The planet is at a critical juncture, where urgent action is required
+   to combat climate change, biodiversity loss, and secure a sustainable
+   future for our planet. With the release of the recent BHL Wikimedia
+   white paper entitled Unifying Biodiversity Knowledge to Support Life on
+   a Sustainable Planet, the Biodiversity Heritage Library Secretariat
+   hopes that an expanded data vision for the BHL community presents new
+   opportunities to take bold steps forward into Wikimedia projects and
+   the emergent semantic web. The white paper sheds light on BHL’s crucial
+   role as a member of the biodiversity informatics community and reveals
+   a series of key use cases and big data challenges that, if addressed,
+   could be opportunities to enhance global biodiversity data
+   infrastructure.
+   Continue reading
+   August 25, 2023byJJ Dearborn
+   BHL News, Blog Reel
 
-   Cultural Heritage has a clear European dimension, which calls for joint
-   action at European level.
-   Learn more
+BHL Bi-annual Newsletter (June 2023) Now Available!
 
-   Want to give your feedback about this page?
-   (BUTTON) Close this message
-   Information message
-   Please don’t ask questions or put personal details in this form.
-   If you need to ask a question, please contact Europe direct.
+   Read the full blog post
 
-   1. Did you find this page useful? (mandatory)
-   (*) Yes
-   ( ) No
+   Our latest bi-annual newsletter is now available! From BHL Day 2023 in
+   Paris to releasing the new Ukrainian Українська Collection, don’t miss
+   the latest news from the BHL community.
+   Continue reading
+   June 2, 2023byColleen Funkhouser
+   BHL News, Blog Reel
 
-   What was useful about it? [- Please select one option -_]
-   What was the main issue?
-   [- Please select one option -__________________________________]
-   Please explain your choice.
+2023 BHL Annual Meeting – Together Again in Paris
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Please explain your choice.
+   Read the full blog post
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-     __________________________________________________________________
+   Originally scheduled for 2020, the BHL Annual Meeting finally made it
+   to Paris after two years of virtual meetings and a break to hold the
+   2022 BHL Annual Meeting in conjunction with the Society for the
+   Preservation of Natural History Collections (SPNHC) and the Natural
+   Sciences Collections Society (NatSCA) meetings in Edinburgh, Scotland.
 
-   2. Is there an issue with this page? (mandatory)
-   (*) Yes
-   ( ) No
+   The host for the 2023 meeting was the library of the Muséum national
+   d’Histoire naturelle (MNHN), led by Alice Lemaire, Clément Oury, and
+   Gildas Illien. The meeting took place 17-21 April 2023 and included BHL
+   business meetings, tours of library and museum sites, and a BHL
+   symposium titled “Fostering Data Driven Natural Science through Open
+   Digital Libraries”. In total, the meeting gathered 38 attendees (both
+   in-person and virtually) from 22 BHL partners from around the world.
+   Continue reading
+   May 24, 2023byMartin R. Kalfatovic
+   Page 1 of 1661234»102030...Last »
 
-   What type of problem?
-   [- Please select one option -__________________________________]
-   Please describe the problem in the box below
+Help Support BHL
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-     __________________________________________________________________
+   BHL’s existence depends on the financial support of its patrons. Help
+   us keep this free resource alive!
 
-   3. Help us improve further
-   Please tell us more about the context.
+   Donate Now
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Send feedback
+search
 
-Thanks for your feedback
+   Search for: ____________________
 
-   We are happy to see that your experience was positive.
-   Don't forget to share the pages you like with your friends and
-   colleagues.
-     __________________________________________________________________
+About BHL
 
-   If you need to ask a question, please contact Europe direct.
-   Please reply to all mandatory questions
+   The Biodiversity Heritage Library (BHL) is the world’s largest open
+   access digital library for biodiversity literature and archives.
+   Headquartered at the Smithsonian Libraries and Archives in Washington,
+   D.C., BHL operates as a worldwide consortium of natural history,
+   botanical, research, and national libraries working together to
+   digitize the natural history literature held in their collections and
+   make it freely available for open access as part of a global
+   “biodiversity community.”
 
-EAC Footer
+Follow BHL
 
-Culture in the EU
+     *
+     *
+     *
+     *
+     *
 
-     * What the EU does for culture
-     * EU support for the cultural and creative sectors
-     * Creative Europe programme
-     * Cultural heritage
-     * European Prizes and Initiatives
+Join Our Mailing List
 
-Resources
+   Sign up to receive the latest news, content highlights, and promotions.
+   Subscribe Now
 
-     * COVID-19 response
-     * Calls and funding opportunities
-     * Funding sources for cultural heritage
-     * Document library
-     * Creative Europe project results
+Subscribe to Blog via Email
 
-Contact points
+   Enter your email address to subscribe to this blog and receive
+   notifications of new posts by email.
 
-     * Creative Europe Desks
-     * European Heritage Label National Coordinators
-     * Creative Europe on Facebook
-     * Creative Europe on Instagram
-     * Creative Europe on Twitter
+   Email Address ____________________
 
-Culture and Creativity
+   (BUTTON) Subscribe
 
-   This site is managed by the European Commission, Directorate-General
-   for Education, Youth, Sport and Culture
+Subscribe to Blog Via RSS
 
-About us
+   Subscribe to the blog RSS feed to stay up-to-date on all the latest BHL
+   posts.
+   Access RSS Feed
 
-     * About the department and how to contact us
+BHL on Twitter
 
-   European Commission logo
+   Tweets by @BioDivLibrary
 
-European Commission
+   Inspiring Discovery through Free Access to Biodiversity Knowledge.
 
-     * Contact the European Commission
-     * aaaFollow the European Commission on social media
-     * Resources for partners
+   The Biodiversity Heritage Library makes it easier than ever for you to
+   access the information you need to study and explore life on Earth…for
+   free, anytime, anywhere.
 
-     * Languages on our websites
-     * Cookies
-     * Privacy policy
-     * Legal notice
+   60+ Million Pages of
+   Biodiversity Literature Online.
+
+   EXPLORE
+
+   Tools and Services
+   to Transform Research.
+
+   EXPLORE
+
+   300,000+
+   Illustrations on Flickr.
+
+   EXPLORE
+
+
+   ABOUT | BLOG AUTHORS | HARMFUL CONTENT | PRIVACY | SITE MAP | TERMS OF
+   USE
+
+   Download Adobe Acrobat Reader

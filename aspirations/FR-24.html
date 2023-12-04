@@ -6,17 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1. maximum-scale=1" />
 
   <!-- prealod css et js -->
-  <link href="/css/notretemps.css?version=0.8.26" rel="preload" as="style" />
+  <link href="/css/notretemps.css?version=0.8.47" rel="preload" as="style" />
   <link href="/vendor/bayard-admin/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
-  <link href="/css/notretemps.css?version=0.8.26" rel="preload" as="style" />
-  <link href="/js/minimal.js?version=0.8.26" rel="preload" as="script" />
-  <link href="/js/app.js?version=0.8.26" rel="preload" as="script" />
+  <link href="/css/notretemps.css?version=0.8.47" rel="preload" as="style" />
+  <link href="/js/minimal.js?version=0.8.47" rel="preload" as="script" />
+  <link href="/js/app.js?version=0.8.47" rel="preload" as="script" />
       <link href="/fonts/icomoon.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/montserrat-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/montserrat-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/opensans-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/opensans-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
-    <link href="/css/notretemps.css?version=0.8.26" rel="stylesheet" type="text/css" />
+    <link href="/css/notretemps.css?version=0.8.47" rel="stylesheet" type="text/css" />
 
   
 
@@ -109,7 +109,7 @@
 
 
 
-<script type="text/javascript">
+<script>
   var _wsq = _wsq || [];
   _wsq.push(['_setNom', 'notretemps']);
   _wsq.push(['_wysistat']);
@@ -141,7 +141,7 @@
 
 <script>
  if ('serviceWorker' in navigator) {
-   const version = '0.8.26';
+   const version = '0.8.47';
    navigator.serviceWorker.register( '/serviceworker.js?version=' + version, { scope: '/' });
    // Setup a listener to track Add to Homescreen events.
    window.addEventListener( 'beforeinstallprompt', function(e){
@@ -150,7 +150,9 @@
      });
    });
  }
-</script></head>
+</script>
+
+</head>
 <body class="page " data-id="18761" data-tagid="" data-pathstring="/1/14/18/18761/" data-contentclassid="2" >
 
   <header id="header">
@@ -158,7 +160,7 @@
     <div class="sociallinks  tiny ">
 
               <a class="facebook" href="https://www.facebook.com/notretemps" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
-                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-x"></i></a>
                     <a class="pinterest" href="https://www.pinterest.fr/notretemps/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
         </div>
     <a href="https://www.notretemps.com/notre-temps-et-vous/magazines-notre-temps"   class="nav-link " data-event="surheader" data-eventvalue="| Nos magazines et hors-séries |">| Nos magazines et hors-séries |</a>
@@ -175,16 +177,12 @@
       <div id="menuburgerlink" data-bs-toggle="collapse" data-bs-target="#mainmenu-burger" aria-controls="mainmenu-burger" aria-expanded="false" aria-label="Show Menu" class="d-inline-block mainmenu-toggler nav-link" role="button" data-event="menu" data-eventvalue="openburger">
         <i class="im-menu"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i><span class="d-lg-inline">Menu</span>
       </div>
-              <div id="searchboxlink" data-bs-toggle="collapse" data-bs-target="#searchbox" class="position-relative nav-link" data-event="menu" data-eventvalue="opensearch">
+              <a href="/recherche" class="nav-link" id="searchboxlink">
           <i class="im-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i><span class="d-lg-inline">Recherche</span>
-        </div>
-        <div class="collapse" id="searchbox">
-          <form class="form-inline" action="/recherche" method="GET" role="search">
-            <input class="form-control" value="" type="search" name="text" placeholder="Rechercher ..." aria-label="Rechercher">
-            <button class="btn" type="submit">OK</button>
-          </form>
-        </div>
-          </div>
+        </a>
+      
+      
+    </div>
 
     <a class="navbar-brand" href="https://www.notretemps.com" title="Notretemps.com">
       <img loading="lazy" src='https://www.notretemps.com/images/notretemps/logo.svg' alt="Logo" class="img-fluid" />
@@ -251,6 +249,9 @@
 </div>
 
 <nav id="mainmenu-burger" class="mainmenu-burger navbar navbar-collapse d-print-none">
+
+  
+
   <ul class="navbar-nav">
 
     <div class="abo abo-topburger" data-typeabo="topburger"></div>
@@ -258,7 +259,6 @@
     <li class="nav-item icons">
       <a href="/mes-newsletters?origin=burger" data-google-interstitial="false" class="nav-link"><i class="im-mail"><span class="path1"></span><span class="path2"></span></i><span class="d-lg-inline">Inscription Newsletter</span></a>
     </li>
-    <li class='nav-item icons autofill-header-login-burger' data-origin="NT_1_B_H_INSCRIPTION_NTCOM_MENUBURGER"></li>
 
           <li class="nav-item premium">
         <a href="/espace-abonnes" data-google-interstitial="false" class="nav-link menu-link-sub">Espace Abonnés</a>
@@ -316,7 +316,7 @@
                           <a href="https://www.notretemps.com/droit-argent/emploi"   class="nav-link " data-event="menuburger" data-eventvalue="Emploi ">Emploi </a>
                           <a href="https://www.notretemps.com/droit-argent/vie-commune"   class="nav-link " data-event="menuburger" data-eventvalue="Vie commune">Vie commune</a>
                           <a href="https://www.notretemps.com/droit-argent/demarches-administratives"   class="nav-link " data-event="menuburger" data-eventvalue="Démarches administratives ">Démarches administratives </a>
-                          <a href="https://www.notretemps.com/tag/le-droit-en-questions-2522"   class="nav-link " data-event="menuburger" data-eventvalue="Le droit en questions">Le droit en questions</a>
+                          <a href="/droit-argent/le-droit-en-questions"   class="nav-link " data-event="menuburger" data-eventvalue="Le droit en questions">Le droit en questions</a>
                           <a href="https://www.notretemps.com/droit-argent/prevoyance"   class="nav-link " data-event="menuburger" data-eventvalue="Prevoyance">Prevoyance</a>
                       </div>
               </li>
@@ -468,7 +468,7 @@
     <div class="sociallinks ">
 
               <a class="facebook" href="https://www.facebook.com/notretemps" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
-                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-x"></i></a>
                     <a class="pinterest" href="https://www.pinterest.fr/notretemps/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
         </div>
   </div>
@@ -476,6 +476,13 @@
 
 
 </header>
+
+  <div class="overlay-accountmenu" id="overlay-accountmenu">
+  <nav id="accountmenu" class="accountmenu navbar navbar-collapse d-print-none">
+    <div class="header-close"><span class="close-accountmenu">X</span></div>
+    <div id="content-accountmenu"></div>
+  </nav>
+</div>
 
 	<div id="habillage">
     <main id="main">
@@ -527,7 +534,7 @@
           
       
   
-      - <i class="im im-stopwatch"></i> Lecture en 3 min</span>
+      - <i class="im im-stopwatch"></i> Lecture en 3 min
   
  </div>
 
@@ -566,7 +573,7 @@
         <i class="im-facebook"></i>
       </a>
             <a class="twitter" href="https://twitter.com/intent/tweet?url=https://www.notretemps.com/droit-argent/succession/couple-et-argent-ma-femme-a-t-elle-des-droits-sur-l-heritage-de-mes-parents-18761" rel="noopener" target="_blank" title="Partager sur Twitter" data-event="link" data-eventvalue="item-twitter">
-        <i class="im-twitter"></i>
+        <i class="im-x"></i>
       </a>
             <a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.notretemps.com/droit-argent/succession/couple-et-argent-ma-femme-a-t-elle-des-droits-sur-l-heritage-de-mes-parents-18761" rel="noopener" target="_blank" title="Partager sur Pinterest" data-event="link" data-eventvalue="item-pinterest">
         <i class="im-pinterest"></i>
@@ -592,24 +599,30 @@
       <div class="main-content mb-3  has-sidebar  has-contenttools">
                   <div class='content-article'>
             <div class="content-attribute">
-  <aside class="summary p-4 pt-2 pb-2 mb-3"><div class="mb-2"><strong class="title-color title-font">SOMMAIRE</strong></div><ol><li><a href="#lheritage-de-mes-parents">L’héritage de mes parents </a></li><li><a href="#largent-venu-du-cote-de-ma-femme">L’argent venu du côté de ma femme</a></li><li><a href="#la-maison-sur-le-terrain-de-mes-parents">La maison sur le terrain de mes parents</a></li><li><a href="#la-volonte-dune-belle-mere"> • La volonté d'une belle-mère</a></li><li><a href="#divorce-et-caution-des-beaux-parents">Divorce et caution des beaux parents</a></li></ol></aside><div id="" class="text-color text-font block-html mb-4">
+  <aside class="summary p-4 pt-2 pb-2 mb-3"><div class="mb-2"><strong class="title-color title-font">SOMMAIRE</strong></div><ol><li><a href="#lheritage-de-mes-parents">L’héritage de mes parents </a></li><li><a href="#largent-venu-du-cote-de-ma-femme">L’argent venu du côté de ma femme</a></li><li><a href="#la-maison-sur-le-terrain-de-mes-parents">La maison sur le terrain de mes parents</a></li><li><a href="#la-volonte-dune-belle-mere"> • La volonté d'une belle-mère</a></li><li><a href="#divorce-et-caution-des-beaux-parents">Divorce et caution des beaux parents</a></li></ol></aside><div  class="text-color text-font block-html mb-4">
         <p>L'argent d'un conjoint appartient toujours à l'autre? Vous étiez nombreux à nous interroger sur ce sujet lors du <a href="argent/donation/tchat-notaires-couple-argent,i143657" title=""> tchat "Couple et argent"</a> . Retrouvez les réponses de maître Stéphanie Gaillard et maître Alexandra Rosenthal, notaires à Paris.  </p>
-  </div><div id="lheritage-de-mes-parents" class="text-color text-font block-html mb-4">
+  </div>
+<div  id="lheritage-de-mes-parents"  class="text-color text-font block-html mb-4">
             <h2 class="title-font subtitle-color">• L’héritage de mes parents </h2>
             <p><em> </em> Gigi 78. Puis-je être le seul à bénéficier de l'héritage de mes parents, si nous sommes mariés sous le régime de la communauté?Me Gaillard et Me Rosenthal. Oui, parfaitement, c'est même automatique. Les biens reçus par donation ou succession constituent des biens qui vous sont propres. Au contraire, les revenus de ces biens propres tombent dans la communauté. Il convient de bien cloisonner ce patrimoine du reste. Toutefois, en cas de décès et sauf testament mentionnant une volonté contraire, votre épouse recueillera une partie de ce patrimoine.</p>
-  </div><div class="ads mt-4 mb-4" id="div-gpt-ad-native"></div><div id="largent-venu-du-cote-de-ma-femme" class="text-color text-font block-html mb-4">
+  </div>
+<div class="ads mt-4 mb-4" id="div-gpt-ad-native"></div><div  id="largent-venu-du-cote-de-ma-femme"  class="text-color text-font block-html mb-4">
             <h2 class="title-font subtitle-color">• L’argent venu du côté de ma femme</h2>
             <p>Mamia 36. J'aimerais savoir si l'argent venu du côté de l'épouse appartient aussi à l'époux lorsqu'ils sont mariés sous le régime de la communauté. Sinon que doit-on faire pour qu'il en soit ainsi?Me Gaillard et Me Rosenthal. <em> </em> Non, tous les biens détenus avant le mariage ou provenant d'une succession ou donation restent des biens propres à l'époux ou l'épouse concerné(e). Ce ne sont pas des biens communs ayant vocation à être partagés à 50-50 en cas de décès ou de divorce. Toutefois, en cas de décès, le survivant a des droits sur ces biens propres (1/4 en pleine propriété ou 100% en usufruit sauf testament). Pour changer des biens propres en biens communs, il convient de les apporter à la communauté et donc d'adapter votre régime matrimonial. Il s'agit d'un acte devant notaire dont le coût est de l'ordre de 0,35% de la valeur des biens apportés.</p><p><em> </em></p>
-  </div><div class="ads mt-4 mb-4" id="div-gpt-ad-native-2"></div><div class="abo abo-inread" data-typeabo="inread"></div><div id="la-maison-sur-le-terrain-de-mes-parents" class="text-color text-font block-html mb-4">
+  </div>
+<div class="ads mt-4 mb-4" id="div-gpt-ad-native-2"></div><div class="abo abo-inread" data-typeabo="inread"></div><div  id="la-maison-sur-le-terrain-de-mes-parents"  class="text-color text-font block-html mb-4">
             <h2 class="title-font subtitle-color">• La maison sur le terrain de mes parents</h2>
             <p><em> </em> Chrissjo. Je dispose d'un patrimoine immobilier construit sur un terrain donné par mes parents. Je souhaite que mon mari devienne propriétaire de la moitié du bien. Nous sommes mariés sous le régime de la communauté légale. Comment rétablir l'équilibre dans le couple sans léser mon fils unique? Me Gaillard et Me Rosenthal. Ce bien immobilier vous appartient en propre car vous avez reçu le terrain par succession. La construction est donc un bien propre. Toutefois, cette construction ayant été financée par la communauté, vous avez une dette envers la communauté. Pour que votre mari devienne propriétaire de la moitié, il conviendrait que vous apportiez ce bien immobilier à la communauté en réalisant une "adaptation de votre régime matrimonial". Le coût de cet acte s'élèverait à 0,5% de la valeur du bien immobilier apporté.</p>
-  </div><div id="la-volonte-dune-belle-mere" class="text-color text-font block-html mb-4">
+  </div>
+<div  id="la-volonte-dune-belle-mere"  class="text-color text-font block-html mb-4">
             <h2 class="title-font subtitle-color"> • La volonté d&#039;une belle-mère</h2>
             <p>Mamie 29. Fille unique, j'hériterai un jour de ma mère, déjà veuve. Si je décède à mon tour, cet argent sera-t-il à mon mari ou à nos enfants? Ma maman n'aimerait pas qu'il en profite. Est il possible de faire quelque chose?Me Gaillard et Me Rosenthal. Votre mari aurait des droits sur cet argent si vous décédiez. Selon son choix, il pourrait en recueillir 1/4 de la somme en pleine propriété ou 100% en usufruit.  L'usufruit à 100%  d'une somme d'argent est ce qu'on appelle un quasi-usufruit: votre mari recueille 100% des fonds et peut en disposer comme il le souhaite, en contrepartie de quoi il aura une dette envers vos enfants payable au jour de son décès s'il reste quelque chose. Vos enfants peuvent demander qu'une garantie soit mise en place pour s'assurer que ces fonds ne soient pas dépensés mais en pratique et sauf mésentente familiale cela est rarement mis en place. Pour respecter la volonté de votre mère, vous pourriez établir un testament pour priver votre époux de tous droits sur ce patrimoine recueilli de votre mère pour que celui-ci passe directement aux enfants.</p>
-  </div><div id="divorce-et-caution-des-beaux-parents" class="text-color text-font block-html mb-4">
+  </div>
+<div  id="divorce-et-caution-des-beaux-parents"  class="text-color text-font block-html mb-4">
             <h2 class="title-font subtitle-color">• Divorce et caution des beaux parents</h2>
             <p> Mariatou. <em> </em> Mes beaux-parents s'étaient portés caution pour l'achat d'un bien immobilier. Mon mari est parti, me laissant seule payer les échéances; au bout de 3 ans, je ne pouvais plus payer, la banque s'est tournée vers les cautions qui ont payé le solde. Après le divorce, serai-je tenue de rembourser les cautions?</p><p>Me Gaillard et Me Rosenthal. La somme avancée par vos beaux-parents fera l'objet d'un rétablissement: au moment de la liquidation de votre régime matrimonial, et a priori s'imputera sur les biens de votre mari. </p><p>Lire aussi: <a href="argent/banque/compte-bancaire-joint-separe-avantage-inconvenient-consequences,i144902" title="">Compte bancaire joint ou séparé: le bon choix.</a></p>
   </div>
+
 </div>
 
           </div>
@@ -657,7 +670,7 @@
     <div class="container-fluid pe-0 ps-0 mb-3 main-content-container">
       <div class="main-content mb-3     has-sidebar ">
         <div id="taboola-below-article-thumbnails" class="taboola"></div>
-<script type="text/javascript">
+<script>
   window._taboola = window._taboola || [];
   _taboola.push({
     mode: 'alternating-thumbnails-a',
@@ -882,19 +895,14 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
     		<button class="btn showallcomments">Voir tous les commentaires</button>
     	</div>
       
-  <div data-user-status-mask="loggedin"
-       data-mask-title="Vous devez être connecté pour déposer un commentaire"
-       data-mask-button="Se connecter / S'inscrire"
-       data-mask-origin="NT_1_B_H_INSCRIPTION_NTCOM_COMMENT"
-       id="comment-answer"
-       class="comment-answer">
+  <div  id="comment-answer" class="comment-answer disabled">
     <form action="https://www.notretemps.com/content-add-comments" class="form-comment" method="post" novalidate="novalidate"  id="comments">
      <div class="container ps-0 pe-0">
        <div class="row">
          <div class="col-12">
            <div class="content">
              <label form="comment-answer-content">Votre commentaire:</label>
-             <textarea name="comment-answer-content" id="comment-answer-content" class="comment-answer-content" rows="3" cols="1" required=true></textarea>
+             <textarea name="comment-answer-content" id="comment-answer-content" class="comment-answer-content disabled-elt" rows="3" cols="1" required="required" disabled></textarea>
            </div>
          </div>
        </div>
@@ -917,18 +925,20 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
 
          <div class="col-12 col-md-6">
            <label for="comment-answer-author">Pseudo<span class="required">*</span>:</label>
-           <input id="comment-answer-author" class="comment-answer-authorname" type="text" name="comment-answer-author" value="">
+           <input id="comment-answer-author" class="comment-answer-authorname disabled-elt" type="text" name="comment-answer-author " value="" disabled>
          </div>
        </div>
 
        <div class="row">
          <div class="col-12 mt-3 text-end">
-           <button type="submit" class="btn send-comment">Envoyez votre commentaire</button>
+           <button type="submit" class="btn send-comment disabled-elt"  disabled>Envoyez votre commentaire</button>
          </div>
        </div>
      </div>
      <input type="hidden" name="comment-answer-itemid" value="18761">
      <input type="hidden" name="comment-answer-parentid" value="0" class="comment-parent-id">
+
+     <div class="alert notlogged alert-warning mt-4">Vous devez vous <a href="#" class="login-link" title="me connecter" data-target="https://www.notretemps.com/droit-argent/succession/couple-et-argent-ma-femme-a-t-elle-des-droits-sur-l-heritage-de-mes-parents-18761#comments">connecter</a> pour déposer un commentaire</div>
    </form>
   </div>
 </div>
@@ -1259,27 +1269,27 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
     
           <div class="block-item afp">
         <p class="title">
-          <a href="/depeches/ue-la-fleur-de-sel-de-l-ile-de-re-obtient-le-label-convoite-de-l-igp-81858" title="UE: la fleur de sel de l&#039;île de Ré obtient le label convoité de l&#039;IGP">UE: la fleur de sel de l&#039;île de Ré obtient le label convoité de l&#039;IGP</a>
+          <a href="/depeches/gel-des-loyers-des-logements-energivores-le-parc-social-oublie-selon-une-association-82166" title="Gel des loyers des logements énergivores: le parc social &quot;oublié&quot;, selon une association">Gel des loyers des logements énergivores: le parc social &quot;oublié&quot;, selon une association</a>
         </p>
       </div>
           <div class="block-item afp">
         <p class="title">
-          <a href="/depeches/le-gouvernement-ouvre-la-voie-a-une-evolution-du-financement-des-aeroports-81855" title="Le gouvernement ouvre la voie à une évolution du financement des aéroports">Le gouvernement ouvre la voie à une évolution du financement des aéroports</a>
+          <a href="/depeches/services-publics-l-assemblee-vote-un-texte-lfi-pour-le-maintien-d-un-accueil-physique-82136" title="Services publics: l&#039;Assemblée vote un texte LFI pour le maintien d&#039;un &quot;accueil physique&quot;">Services publics: l&#039;Assemblée vote un texte LFI pour le maintien d&#039;un &quot;accueil physique&quot;</a>
         </p>
       </div>
           <div class="block-item afp">
         <p class="title">
-          <a href="/depeches/electricite-les-participants-au-test-de-reduction-de-puissance-seront-indemnises-81851" title="Électricité: les participants au test de réduction de puissance seront indemnisés">Électricité: les participants au test de réduction de puissance seront indemnisés</a>
+          <a href="/depeches/l-amortisseur-electricite-prolonge-en-2024-pour-les-entreprises-qui-ont-souscrit-a-prix-d-or-82104" title="L&#039;amortisseur électricité prolongé en 2024 pour les entreprises qui ont souscrit à prix d&#039;or">L&#039;amortisseur électricité prolongé en 2024 pour les entreprises qui ont souscrit à prix d&#039;or</a>
         </p>
       </div>
           <div class="block-item afp">
         <p class="title">
-          <a href="/depeches/mayotte-les-ressources-en-eau-a-un-niveau-critique-selon-la-prefecture-81846" title="Mayotte: les ressources en eau à un niveau &quot;critique&quot;, selon la préfecture">Mayotte: les ressources en eau à un niveau &quot;critique&quot;, selon la préfecture</a>
+          <a href="/depeches/energie-accord-de-bruxelles-pour-la-prolongation-des-aides-aux-entreprises-borne-82105" title="Energie: accord de Bruxelles pour la prolongation des aides aux entreprises (Borne)">Energie: accord de Bruxelles pour la prolongation des aides aux entreprises (Borne)</a>
         </p>
       </div>
           <div class="block-item afp">
         <p class="title">
-          <a href="/depeches/tarifs-des-complementaires-sante-ag2r-la-mondiale-annonce-8-a-9-en-2024-presse-81844" title="Tarifs des complémentaires santé: AG2R La Mondiale annonce &quot;+8 à 9%&quot; en 2024 (presse)">Tarifs des complémentaires santé: AG2R La Mondiale annonce &quot;+8 à 9%&quot; en 2024 (presse)</a>
+          <a href="/depeches/assistants-medicaux-la-moitie-du-chemin-reste-a-faire-82106" title="Assistants médicaux: la moitié du chemin reste à faire">Assistants médicaux: la moitié du chemin reste à faire</a>
         </p>
       </div>
       </div>
@@ -1326,7 +1336,7 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
            <div class="sociallinks ">
 
               <a class="facebook" href="https://www.facebook.com/notretemps" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
-                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="twitter" href="https://twitter.com/@notretemps" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-x"></i></a>
                     <a class="pinterest" href="https://www.pinterest.fr/notretemps/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
         </div>
       </div>
@@ -1366,10 +1376,10 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
   <div class="abo abo-toaster" data-typeabo="toaster"></div>
 
   <script src="https://sso.notretemps.com/auth/js/keycloak.min.js"></script>
-  <script src="/js/minimal.js?version=0.8.26"></script>
-  <script src="/js/app.js?version=0.8.26"></script>
+  <script src="/js/minimal.js?version=0.8.47"></script>
+  <script src="/js/app.js?version=0.8.47"></script>
         
-    <script type="text/javascript">
+    <script>
     window._taboola = window._taboola || [];
     _taboola.push({flush: true});
   </script>
@@ -1395,5 +1405,13 @@ Impatiente et dans l&#039;attente d&#039;une réponse de votre part, je vous dis
     })();
   });
 </script>
+
+  <script>
+    $(document).ready(function(){
+      $("#accountmenulink").on('click',function(){
+        $("#accountmenu").hasClass('open') ? $("#accountmenu").removeClass('open') : $("#accountmenu").addClass('open');
+      });
+    });
+  </script>
 </body>
 </html>

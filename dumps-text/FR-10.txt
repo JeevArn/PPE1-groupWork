@@ -48,10 +48,7 @@ Sommaire
    (BUTTON) Afficher / masquer la sous-section Taxation
      * 2.1Critique de la taxation
 
-
-
-   3Héritage en question
-
+     3Héritage en question
    (BUTTON) Afficher / masquer la sous-section Héritage en question
      * 3.1Formule mathématique
 

@@ -14,11 +14,12 @@ lang=$(basename $URLS .txt)
 output_file="tableaux/tableau-${lang}.html"
 
 #Déterminer la valeur de la variable $mot en fonction la langue extraite précédemment
-if [[ $lang = 'FR' ]]; then mot="héritage" langfull="français"; 
-elif [[ $lang = 'EN' ]]; then mot="heritage" langfull="anglais";
-else mot="상속" langfull="coréen"; 
+if [[ $lang = 'FR' ]]; then mot="héritage" langfull="français" motif="[Hh][ée]ritages?|H[ÉE]RITAGES?";  
+elif [[ $lang = 'EN' ]]; then mot="heritage" langfull="anglais" motif="[Hh]eritage|HERITAGE";
+else mot="상속" langfull="coréen" motif="상속|상속은|상속이|상속울"; 
 fi
 echo "mot value: ${mot}" #Pour debug
+echo "motif value: ${motif}" #Pour debug
 
 #Initialiser le compteur afin de pouvoir numéroter les fichiers
 N=1
@@ -98,59 +99,100 @@ echo "<!-- Section avec le tableau -->
 #Boucle qui lit chaque ligne du fichier contenant les liens (variable $URLS) 
 while read -r line
 do
-	#Construire les chemins des fichiers en fonction de la langue et du numéro de ligne
-	html="aspirations/${lang}-${N}.html" 
-	txt="dumps-text/${lang}-${N}.txt"
-	context="contextes/${lang}-${N}.txt"
-	concord="concordances/${lang}-${N}.html"
-	
-	#Télécharger le contenu de l'URL de la ligne et l'enregistrer dans $html
-	#curl -Lo "$html" $line
-	curl -Lo "$html" -b /dev/null "$line"
-	#Extraire le texte brut de la page HTML téléchargée et l'enregistrer dans $txt
-	lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 "$html" > "$txt"
 	#Extraire le code HTTP
 	code=$(curl -o /dev/null -s -w "%{http_code}\n" -L $line) 
 	#Extraire le charset
-	charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	#Compter le nombre d'occurrences de $mot
-	compte=$(cat "$txt" | ggrep -Poi "${mot}" | wc -l)
-	#Extraire le contexte
-	#ggrep -Poi ".*${mot}.*" "$txt" > "$context"
-	#cat "$txt" | tr '^$' ' ' | ggrep -Pi "^.*$.*${mot}.*^.*$" > "$context"
-	#grep -i -A 1 -B 1 "${mot}" "$txt" > "$context"
-	cat "$txt" | grep -i -A 1 -B 1 "${mot}" > "$context"
+	#charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=[\"\']?)(.{,15})([\"\'>/ ])" | awk -F '[()]' '{print $2}')
+	charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=)([^\"\'>/ ]+)" | awk -F= '{print $2}' | tr -d '\r') #| awk -F '[()]' '{print $2}')
 	
-########## Concordancier qui ne fonctionne pas ###########################################
 
-	#left=$(cat "$context" | grep -i -B 1 "${mot}" | head -n 1)
-    #right=$(cat "$context" | grep -i -A 1 "${mot}" | tail -n 1)
-    echo "<html>
-    		<table>
-                <thead>
-                    <tr>
-                        <th>contexte gauche</th>
-                        <th>cible</th>
-                        <th>contexte droit</th>
-                    </tr>
-                </thead>
-                <tbody>" > "$concord"
-                
-    while read -r context_line; do
-        #left=$(echo "$context_line" | grep -i -B 1 "${mot}" | head -n 1)
-        #right=$(echo "$context_line" | grep -i -A 1 "${mot}" | tail -n 1)
-        left=$(egrep -i -B 1 "${mot}" | head -n 1)
-   		right=$(egrep -i -A 1 "${mot}" | tail -n 1)
-        
-        echo "<tr><td>$left</td><td>$mot</td><td>$right</td></tr>" >> "$concord"
-    done < "$context"            
-                
-    #echo "<tr><td>$left</td><td>$mot</td><td>$right</td></tr>" >> "$concord"
-    
-    echo "			</tbody>
-       		 </table>
-   		 </html>" >> "$concord" 
-   		 
+	echo "charset pre iconv : $charset" #pour debug
+	echo "num : $N" #pour debug
+	
+	if [ $code -eq 200 ]; then
+		#Construire les chemins des fichiers en fonction de la langue et du numéro de ligne
+		html="aspirations/${lang}-${N}.html" 
+		txt="dumps-text/${lang}-${N}.txt"
+		context="contextes/${lang}-${N}.txt"
+		concord="concordances/${lang}-${N}.html"
+	
+		#Télécharger le contenu de l'URL de la ligne et l'enregistrer dans $html
+		#curl -Lo "$html" $line
+		#curl -Lo "$html" -b /dev/null "$line" 
+		if [ "$charset" != "UTF-8" ] && [ "$charset" != "utf-8" ]; then 
+			curl "$line" | iconv -f "$charset" -t utf-8 > "$html";
+		else 
+			curl -Lo "$html" -b /dev/null "$line";
+		fi
+		
+		#### Les méthodes qu'on a testé mais qui ne fonctionnaient pas pour tous les liens ########
+		#encodage=$(cat "$html" | grep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+		#charset=$(curl -s -I "$line" | grep -i "Content-Type" | sed -n 's/.*charset=\([^;]*\).*/\1/p')
+		#encodage=$(cat "$html" | ggrep -oP "(?i)<[ ]?meta[ ]?charset=[ ]?[\'\"]\K[^\'\">]+" | head -1)
+		#encodage=$(ggrep -oP '(?i)<meta\s+charset\s*=\s*[\"\']?\K[^\"\'>]+' "$html" | head -1 | sed 's/^[ \t]*//;s/[ \t]*$//')
+		#encodage=$(ggrep -Po "charset=\S+" "$html"| sed -E "s/charset=[\"']?(.*)[\"']?/\1/g" | head -1)
+		
+		#Extraire l'encodage après conversion en utf-8
+		while read -r ligne; do
+    	if [[ $ligne == *charset=* ]]; then
+        	if [[ $ligne =~ (charset=)([\"\']?)(.{5})([\"\'>/ ]) ]]; then
+           	 	encodage=${BASH_REMATCH[3]}
+        	fi
+   	 	fi
+		done < "$html"
+		
+		echo "Encodage post iconv : $encodage" #pour debug
+			
+		#Extraire le texte brut de la page HTML téléchargée et l'enregistrer dans $txt
+		lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 "$html" > "$txt"
+		
+		#Compter le nombre d'occurrences de $mot
+		#grep -ci 
+		compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
+		
+		#Extraire le contexte
+		#ggrep -Poi ".*${mot}.*" "$txt" > "$context"
+		#cat "$txt" | tr '^$' ' ' | ggrep -Pi "^.*$.*${mot}.*^.*$" > "$context"
+		#grep -i -A 1 -B 1 "${mot}" "$txt" > "$context"
+		cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
+	else
+		continue
+  	fi
+	
+########## Concordancier #################################################################
+
+	# Créer un tableau pour stocker les lignes du concordancier
+	concordance=()
+
+	# Parcourir le fichier $context
+	while read -r ligne; do
+   	 	# Recherche du mot cible dans la ligne
+    	#if [[ $ligne =~ .*"$motif".* ]]; then # si la ligne contient le mot
+    		#ATTENION ne pas mettre $motif entre guillemets car la regex ne fonctionnera pas dans une condition if [[..]]
+        	if [[ $ligne =~ (.*)($motif)(.*) ]]; then #on capture les contextes avec les parenthèses 
+           	 	contexte_gauche=${BASH_REMATCH[1]} #on extrait le contexte gauche (1ere parenthèse)
+           	 	cible=${BASH_REMATCH[2]}
+            	contexte_droit=${BASH_REMATCH[3]} #on extrait le contexte droit (3eme parenthèse)
+           	 	concordance+=("$contexte_gauche;$cible;$contexte_droit") #on ajoute une nouvelle entrée au tableau séparé par des ;
+        	fi
+   	 	#fi
+	done < "$context"
+
+	# Rediriger la sortie vers le fichier html $concord
+	
+    echo "<html><head><title>Concordancier</title></head><body>" > "$concord"
+    echo "<table border='1'><tr><th>Contexte Gauche</th><th>Mot Cible</th><th>Contexte Droit</th></tr>" >> "$concord"
+
+    for ligne in "${concordance[@]}"; do #on itère sur chaque élément du tableau
+        IFS=';' read -r -a elements <<< "$ligne" #on définit le séparateur comme un ; pour la lecture
+        # -r : Disable backslashes to escape characters
+        # -a : Instead of using individual variables to store a string, the -a option saves the input in an array
+        # Retrieve the array elements with their index ${array[0]} 
+        echo "<tr><td>${elements[0]}</td><td>${elements[1]}</td><td>${elements[2]}</td></tr>" >> "$concord" #on crée une entrée du tableau html
+    done
+
+    echo "</table></body></html>" >> "$concord"
+
 ##########################################################################################
 
 	#Ecrire une ligne du tableau HTML
@@ -158,7 +200,7 @@ do
             <td>$N</td>
             <td><a href=$line>$line</a></td>
             <td>$code</td>
-            <td>$charset</td>
+            <td>$encodage</td>
             <td><a href=../$html>html</a></td>
             <td><a href=../$txt>txt</a></td>
             <td>$compte</td>

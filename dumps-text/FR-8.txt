@@ -1,9 +1,12 @@
    #alternate
+   REFRESH(500 sec):
+   file://localhost/Users/jeevyaroun/Desktop/M1_TAL_S1/PPE1/PPE1-groupWork
+   /aspirations/FR-8.html
 
    Aller au contenu
 
    (BUTTON) Menu
-   BLACK FRIDAY -70% sur votre abonnementRechercher
+   Abonnez-vous 0,99€ le premier moisRechercher
    Notre application
    Soyez alerté en temps réel
    avec l'application Le Figaro
@@ -92,7 +95,7 @@
      * Se déconnecter
 
    Lire le PDF en ligne Lire le journal
-   BLACK FRIDAY -70% sur votre abonnement
+   Abonnez-vous 0,99€ le premier mois
 
      * Vox Politique
      * Vox Société
@@ -268,6 +271,29 @@ des superproductions grand public !»
      * Les Trois Mousquetaires
 
    Publicité
+
+   Les Trois Mousquetaires : «La France doit enfin valoriser son histoire
+   par des superproductions grand public !»
+   S'ABONNER
+   (BUTTON) Fermer
+   Partager (BUTTON) 73
+
+   Partager via :
+     * Mail
+     * Facebook
+     * Twitter
+     * WhatsApp
+     * (BUTTON) Copier le lien
+       Lien copié
+     * Messenger
+
+   (BUTTON) 6 commentaires
+   (BUTTON)
+   (BUTTON)
+
+   Plus d'options
+   (BUTTON) Imprimer l'article (BUTTON) Signaler une faute d'orthographe
+   S'abonner
    6 commentaires
      * Clemy3
        le 19/04/2023 à 10:01
@@ -288,42 +314,40 @@ des superproductions grand public !»
 
    À lire aussi
 
-Joachim Murat: «Le Napoléon de Ridley Scott est bourré de défauts, mais allez
-le voir!»
+«Dans notre époque aseptisée, on aimait les Pogues et Shane MacGowan pour
+leur authenticité»
 
-   Joachim Murat: «Le Napoléon de Ridley Scott est bourré de défauts, mais
-   allez le voir!» Joachim Murat: «Le Napoléon de Ridley Scott est bourré
-   de défauts, mais allez le voir!»
+   «Dans notre époque aseptisée, on aimait les Pogues et Shane MacGowan
+   pour leur authenticité» «Dans notre époque aseptisée, on aimait les
+   Pogues et Shane MacGowan pour leur authenticité»
 
-   FIGAROVOX/TRIBUNE - Le descendant du maréchal Joachim Murat a été voir
-   le dernier film de Ridley Scott. Au lieu d’une fresque épique, le
-   réalisateur nous offre une œuvre crépusculaire qui caricature
-   l’Empereur, regrette-t-il. Toutefois, selon lui, les Français auraient
-   tort de bouder ce grand spectacle.
+   FIGAROVOX/HOMMAGE - Le journaliste et compositeur Benjamin Sire rend
+   hommage au leader des Pogues, décédé à 65 ans. Shane MacGowan viendra
+   bientôt nous narguer pour nous raconter le temps où le rock était fait
+   de chair et de sueur davantage que de plans marketing et de poses sur
+   Instagram, explique-t-il.
 
-«Le “non” au référendum 2005 n'est pas un accident, mais la réponse à un
-désamour entre le peuple et les élites»
+«Cent ans après sa mort, redécouvrons Maurice Barrès»
 
-   «Le “non” au référendum 2005 n'est pas un accident, mais la réponse �
-   un désamour entre le peuple et les élites» «Le “non” au référendum 2005
-   n'est pas un accident, mais la réponse à un désamour entre le peuple et
-   les élites»
+   «Cent ans après sa mort, redécouvrons Maurice Barrès» «Cent ans après
+   sa mort, redécouvrons Maurice Barrès»
 
-   ENTRETIEN - Dans «Le référendum impossible», l’avocat Ghislain Benhessa
-   analyse les raisons profondes pour lesquelles les Français ont voté
-   «non» en 2005 et explique pourquoi, sur fond de défiance envers le
-   peuple, nos politiques sont aujourd’hui si frileux à recourir au
-   référendum.
+   FIGAROVOX/TRIBUNE - L’écrivain Michel Guénaire regrette l’oubli dans
+   lequel est tombé Maurice Barrès, dont on commémore le centenaire de la
+   mort, ce 4 décembre. Salué par les écrivains de son temps, ce grand
+   styliste ne peut être réduit à ses mauvais combats, argumente-t-il.
 
-«Grande démission»: et si Orelsan avait tout vu ?
+Zhang Zhang: «Quand France Culture s’offusque que Radio Classique diffuse de
+la musique... classique»
 
-   «Grande démission»: et si Orelsan avait tout vu ? «Grande démission»:
-   et si Orelsan avait tout vu ?
+   Zhang Zhang: «Quand France Culture s’offusque que Radio Classique
+   diffuse de la musique... classique» Zhang Zhang: «Quand France Culture
+   s’offusque que Radio Classique diffuse de la musique... classique»
 
-   ANALYSE - Bien avant que les médias ne s'intéressent au phénomène, le
-   rappeur normand s'est fait l'écho de l'état d'abattement collectif qui
-   frappe notre société en racontant, à travers son expérience, le
-   quotidien d'une certaine jeunesse empêtrée dans l'ennui.
+   ENTRETIEN - Dans un billet d’humeur diffusé sur France Culture, une
+   chroniqueuse accuse, entre autres, Radio Classique de promouvoir la
+   «musique blanche». La violoniste Zhang Zhang, membre de l'Orchestre
+   philharmonique de Monte-Carlo, lui répond.
 
    Plus de services
    L'actualité à ne pas manquer
@@ -337,11 +361,11 @@ désamour entre le peuple et les élites»
      * Actualité et réseaux sociaux
 
    Programme TV
-     * Programme TV ce soir
+     * Ce soir TV
      * Programme TV en ce moment
      * Programme TV TNT
      * Séries Netflix, HBO, OCS et TV
-     * Election et photos Miss France
+     * Election et photos Miss France 2024
      * Programme TV Canalsat
      * Programme TV Free
      * Programme TV SFR
@@ -395,6 +419,7 @@ désamour entre le peuple et les élites»
      * Comparatif semelle gel
      * Quel épilateur électrique choisir ?
      * Bons plans
+     * Meilleurs VPN de 2023
 
    Éducation et orientation
      * Résultats Bac
@@ -572,29 +597,6 @@ désamour entre le peuple et les élites»
    À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer
    les cookies” en bas de page.
    (BUTTON) Accepter les cookiesouRefuser et s'abonner
-
-   Les Trois Mousquetaires : «La France doit enfin valoriser son histoire
-   par des superproductions grand public !»
-   S'ABONNER
-   (BUTTON) Fermer
-   Partager (BUTTON) 73
-
-   Partager via :
-     * Mail
-     * Facebook
-     * Twitter
-     * WhatsApp
-     * (BUTTON) Copier le lien
-       Lien copié
-     * Messenger
-
-   (BUTTON) 6 commentaires
-   (BUTTON)
-   (BUTTON)
-
-   Plus d'options
-   (BUTTON) Imprimer l'article (BUTTON) Signaler une faute d'orthographe
-   S'abonner
 
    Nos liens utiles
      * Nos applications mobiles

@@ -145,7 +145,6 @@
      * Placements
      * Retraite
      * Immobilier
-     * Défiscalisation immobilière
      * Epargne Moniwan
      * Galeries photos
      *
@@ -304,8 +303,8 @@ Un terme qui existe depuis le Moyen-Âge
    Réagir
    Pour réagir, veuillez vous connecter en cliquant ici
 
-     * Bourse Le 27/11 à 13H02
-     * CAC 40 7285,78 -0,10%
+     * Bourse Le 04/12 à 17H26
+     * CAC 40 7329,97 -0,22%
      * Rechercher une valeur ____________________
 
    Newsletter Challenges
@@ -316,22 +315,22 @@ Un terme qui existe depuis le Moyen-Âge
    Couverture du magazine Couverture du magazine
    Lire S’abonner
    Galeries Photo
-   Honda CR-V e:PHEV Advance
-   Nous avons essayé le CR-V, première Honda hybride rechargeable
+   BYD Han
+   BYD Han : que vaut la plus chère des voitures chinoises ?
    Les dernières galeries photo
+     * Kia EV9 Earth
+     * Honda CR-V e:PHEV Advance
      * Sélection de grands vins pour Noël
      * Dyptique
      * Sélection de champagnes de Noël
      * BYD Tang
      * Sélection de sacs bananes
      * Un loft avec jardin à Boulogne-Billancourt
-     * Mercedes-AMG EQE 53 4MATIC+
-     * Honda e:Ny1
 
    Médias
-     * Podcasts français. Podcasts : les audiences grimpent mais les
-       finances restent fragiles
-     * Pour ses 40 ans, Beaux Arts Magazine signe une « année record »
+     * Locaux groupe Le Monde Médias : le groupe Le Monde assure son
+       indépendance
+     * Les confidences de Cyril Hanouna après "Complément d’Enquête"
 
    Tous les articles Médias
    Finance et marchés
@@ -341,44 +340,21 @@ Un terme qui existe depuis le Moyen-Âge
 
    Tous les articles Finance et marchés
    Vidéos
-   Black Friday : aux origines de la célèbre journée commerciale
-
-Black Friday : aux origines de la célèbre journée commerciale
-
-   Dernières vidéos
-     * Transition démocratique au Gabon : 3 questions à la ministre
-       Laurence Ndong
-     * Sommet de l’économie : comment partager la performance au bénéfice
-       de la société ?
-     * Sommet de l'économie : L’équilibre des pouvoirs à la tête des
-       entreprises, un casse-tête français
-     * Sommet de l’économie : comment mieux partager l’organisation
-       administrative française
-     * Sommet de l’économie : Révolution de l’IA, quelles conséquences sur
-       le savoir ?
-     * Sommet de l’économie : télétravail, semaine de quatre jours…
-       comment partager le temps de travail ?
-     * Sommet de l'économie : l'introduction de Vincent Beaufils
-     * Sommet de l'économie : Michel de Rosen évoque la fraternité
-       assiégée
-     * Sommet de l’économie : comment partager des ressources finies quand
-       les besoins sont titanesques
-
    High-Tech
-     * Photo illustration intelligence artificielle La Deep Tech vaut bien
-       un podcast
-     * Qui est Laure de la Raudière, la gendarme des télécoms ?
+     * Spotify Spotify annonce une réduction de ses effectifs d'"environ
+       17%"
+     * Google lève le voile sur sa stratégie cyber
 
    Tous les articles High-Tech
    Automobile
-     * Yangwang U8 (2023) Avec la voiture électrique, les constructeurs
-       chinois reprennent l’avantage
-     * Alfa Romeo Stelvio 160 restylé : Un peu plus de chaleur, SVP !
-     * Aides à la conduite trop intrusives : pourquoi toute résistance est
-       futile
-     * Paris : 50 km/h sur le périphérique, une mesure "anti-bagnole" �
-       l'efficacité discutable
-     * Peugeot 308 électrique : une bonne voiture mais encore trop chère
+     * SIPA_sipausa30336354_000031.jpg Pourquoi un tel engouement pour le
+       Tesla Cybertruck
+     * Pourquoi Toyota croit en la voiture électrique… mais aussi
+       thermique
+     * Mitsubishi Colt : une copie de la Renault Clio… à un tarif démesuré
+     * Quelle Dacia Sandero choisir ?
+     * Pourquoi Tesla est dans le viseur des syndicats suédois et
+       américains
 
    Tous les articles Automobile
    Pratique

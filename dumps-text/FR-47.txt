@@ -1,241 +1,219 @@
-   En cliquant sur "Accepter tous les cookies", vous acceptez le stockage
-   de cookies sur votre appareil pour améliorer la navigation sur le site,
-   analyser l'utilisation du site et contribuer à nos efforts de
-   marketing. Consultez notre politique de confidentialité pour plus
-   d'informations.
-   PréférencesRefuserAccepter
-   Centre de préférences de confidentialité
-   Lorsque vous visitez des sites Web, ils peuvent stocker ou récupérer
-   des données dans votre navigateur. Ce stockage est souvent nécessaire
-   pour les fonctionnalités de base du site Web. Le stockage peut être
-   utilisé à des fins de marketing, d'analyse et de personnalisation du
-   site, telles que le stockage de vos préférences. La confidentialité est
-   importante pour nous, vous avez donc la possibilité de désactiver
-   certains types de stockage qui peuvent ne pas être nécessaires au
-   fonctionnement de base du site Web. Le blocage de catégories peut avoir
-   un impact sur votre expérience sur le site Web.
-   Refuser tous les cookiesAutoriser tous les cookies
-   Gérer les préférences de consentement par catégorie
-   Essentiels
-   Toujours actifs
-   Ces éléments sont nécessaires pour activer les fonctionnalités de base
-   du site Web.
-   Marketing
-   [ ] Essential
-   Ces éléments sont utilisés pour diffuser des publicités plus
-   pertinentes pour vous et vos intérêts. Ils peuvent également être
-   utilisés pour limiter le nombre de fois que vous voyez une publicité et
-   mesurer l'efficacité des campagnes publicitaires. Les réseaux
-   publicitaires les placent généralement avec l'autorisation de
-   l'opérateur du site Web.
-   Personnalisation
-   [ ] Essential
-   Ces éléments permettent au site Web de mémoriser les choix que vous
-   faites (tels que votre nom d'utilisateur, votre langue ou la région
-   dans laquelle vous vous trouvez) et de fournir des fonctionnalités
-   améliorées et plus personnelles. Par exemple, un site Web peut vous
-   fournir des bulletins météorologiques locaux ou des informations sur le
-   trafic en stockant des données sur votre position actuelle.
-   Analytiques
-   [ ] Essential
-   Ces éléments aident l'opérateur du site Web à comprendre comment son
-   site Web fonctionne, comment les visiteurs interagissent avec le site
-   et s'il peut y avoir des problèmes techniques. Ce type de stockage ne
-   collecte généralement pas d'informations permettant d'identifier un
-   visiteur.
-   Confirmer mes préférences et fermer
-   Submit
+   Voir la bourse sur Investir
+   (BUTTON) (BUTTON) Recherche
+     * En continu
+     * Le Journal
+     * Newsletters
+     * Mes articles
+     * Mes secteurs
+     * Podcasts
+     * Infographies
+     * Vidéos
+     * Thema
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THJ2PKM
+   (BUTTON)
+     * (BUTTON) ThèmeClair
 
-Se pré-inscrire !
+   (BUTTON) Se connecter
+   S’abonner
+   (BUTTON)
+   À la une
+   Idées
+   Économie
+   Politique
+   Entreprises
+   Finance - Marchés
+   Bourse
+   Monde
+   Tech-Médias
+   Start-up
+   Régions
+   Patrimoine
+   Le Mag W-E
+   (BUTTON)
 
-   Nom* ____________________
-   Prénom*_____________________
-   Email* ____________________
-   Téléphon______________________
-   Vous êtes ?
-   (*) Un particulier
-   ( ) Une entreprise
-   ( ) Une étude notariale ou un notaire
-   Message
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   [ ] Nous prendrons soin de vos données. Lire notre politique de
-   confidentialité.
-   Envoyer
-   Merci, nous avons bien reçu votre demande et nous vous répondrons au
-   plus vite !
-   Une erreur s'est produite lors de l'envoi du formulaire.
-   Logo de Solal Tech AccueilLe Blog
-   Les services Solal
-   Solal pour les notaires
+L’épineux problème de l’héritage à l'ère du numérique
 
-   La transmission numérique simplifiée pour vos clients
-   Solal pour les assureurs
+   L’absence de législation crée un flou juridique autour de la
+   transmission des données et des fichiers, après la mort de leur
+   utilisateur.
+   (BUTTON) Ajouter à mes articles
+   (BUTTON) Commenter
+   (BUTTON) Partager
+   (BUTTON) Partager
+   Amazon
+   Confidentialité des données
+   0204235896629_web.jpg 0204235896629_web.jpg
+   Qu’advient-il des bibliothèques virtuelles, des données... une fois
+   l’utilisateur décédé ? La loi est floue.
 
-   Une assurance numérique sur-mesure
-   Service de résiliation SOLAL
+   Par Nicolas Rauline
+   Publié le 18 mars 2015 à 17:38
 
-   Clôture des comptes numériques
-   Espace Notaire
-   Espace Notaire
-   Connexion
-   Connexion
-   Icône permettant de passer le site en anglais
-   English
-   Icône permettant de passer le site en français
-   Français
-   Blog
-   Légal
+   Encore une fois, la technologie est allée plus vite que la loi.
+   Plusieurs cas ont récemment montré le flou qui entoure la question de
+   l’héritage numérique, que ce soit dans le devenir des biens
+   numériques(chansons et vidéos téléchargées, livres numériques) ou dans
+   celui des données personnelles (adresses e-mail et autres comptes de
+   réseaux sociaux).
 
-L’héritage numérique et la Loi
+   « En droit, on ne peut transmettre qu’un bien matériel ou immatériel
+   protégé par la loi, comme les oeuvres de l’esprit, même si dans bien
+   des cas, en pratique, les conditions d’utilisation d’iTunes ou d’Amazon
+   l’empêchent, explique Luce-Hélène Capsié, avocate et auteur d’une thèse
+   sur la mort et les données personnelles. Les données ne sont pas
+   considérées comme des biens, c’est un droit de notre personnalité,
+   comme la vie privée, qui disparaît avec nous. Cela crée donc un immense
+   vide juridique. »
 
-   Flora Minaire
-   June 29, 2022
-   •
-   2 min. de lecture
+Protection de la vie privée du défunt
 
-L’héritage numérique et la loi
+   A tel point que Facebook a lancé une nouvelle fonctionnalitépermettant
+   de transformer n’importe quel profil en mémorial et de céder certaines
+   informations aux proches, lorsqu’un utilisateur vient à mourir. « Les
+   quelques initiatives viennent des plates-formes comme Facebook ou
+   Google ou bien de certaines autorités de régulation, comme la Cnil qui
+   a invité la société à ouvrir le débat », note Nicolas Capt, avocat aux
+   barreaux de Genève et de Paris spécialisé en droit des nouvelles
+   technologies et des médias.
 
-   Jusqu’en 2016 le destin des données personnelles présentes sur Internet
-   en cas de décès n’étaient protégées par aucun cadre législatif
-   particulier. La Loi Lemaire de 2016 tente d’y remédier en octroyant le
-   droit à la mort numérique. Quelles solutions sont maintenant possibles
-   pour le commun des mortels afin de transmettre son patrimoine digital
-   dans les meilleures conditions ?
+   Dans une communication du 31 octobre dernier, la Cnil souligne qu’elle
+   « veille à ce que l’informatique ne porte atteinte, ni à l’identité du
+   défunt, ni à la vie privée de ses héritiers » et rappelle que « la loi
+   ne prévoit pas la transmission des droits du défunt aux héritiers : un
+   héritier ne peut donc [...] avoir accès aux données d’un défunt. »
 
-La transmission de votre patrimoine digital
+   Ce qui peut poser de gros problèmes, les profils de réseaux sociaux
+   continuant d’exister et étant même parfois suggérés automatiquement aux
+   autres utilisateurs. Sans oublier le cas de nombreuses PME dont toute
+   l’activité repose sur le compte personnel de leurs patrons (fichiers ou
+   contacts de clients stockés dans le cloud, etc.) « La vie d’une
+   entreprise peut ainsi s’arrêter du jour au lendemain avec la mort de
+   son dirigeant », souligne Nicolas Capt.
 
-   Dans notre société moderne où les mails ont remplacé les lettres et où
-   nos photos de vacances s’affichent sur nos profils Facebook, il est
-   logique de s’interroger quant à la protection de nos données en cas de
-   décès. Il en va de même pour les dossiers que vous sauvegardez sur
-   votre Cloud. Comment être certain que ces informations seront
-   facilement accessibles à vos héritiers s’ils en ont besoin ? L’essor du
-   digital prenant une place de plus en plus importante dans nos vies
-   quotidiennes, il était devenu urgent que les autorités réagissent en
-   proposant une législation adaptée. En effet, lors d’une succession, les
-   biens du défunt sont tous répertoriés afin d’être répartis entre les
-   légataires. Il était donc logique d’encadrer légalement l’héritage
-   numérique. Grâce à la Loi du 7 octobre 2016, il est dorénavant possible
-   d’être prévoyant en préparant dès aujourd’hui la transmission de
-   l’ensemble de ses biens, y compris les biens virtuels.
+Des formulaires ignorés
 
-   👉 Transmettez votre patrimoine numérique sur Solal Tech.
+   Dans le cas de Facebook, le réseau social offre depuis peu aux
+   Etats-Unis la possibilité de désigner un « contact d’héritage ». A la
+   mort de l’utilisateur, ce légataire peut gérer le profil du défunt,
+   alerter ses contacts et répondre aux messages qu’il continue de
+   recevoir. Il peut aussi, si l’autorisation lui est donnée, télécharger
+   les photos et les statuts déjà publiés, mais il n’aura pas accès aux
+   anciens messages. Ces fonctionnalités devraient bientôt être
+   disponibles en France. Facebook peut aussi supprimer purement et
+   simplement le compte du défunt si la demande lui est faite.
 
-L’instauration d’une République numérique
+   La plupart des autres plates-formes (Google, Yahoo, Outlook, LinkedIn,
+   Twitter) proposent des formulaires spécifiques, mais ceux-ci restent
+   largement ignorés du grand public. « Nous n’en sommes qu’au début des
+   discussions, il n’y a pas d’évidence car c’est un débat de société qui
+   doit s’engager : doit-on réguler la présence post mortem, veut-on que
+   nos enfants sachent tout de notre vie numérique…? », s’interroge
+   Nicolas Capt.
 
-   Devant l’essor des réseaux sociaux et la multiplication des services en
-   ligne, l’Etat a lancé, fin 2014, une grande consultation nationale.
-   Celle-ci avait pour objectif de définir les enjeux du numérique dans
-   nos sociétés modernes. La nouvelle législation adoptée deux ans plus
-   tard s’articule autour de trois axes principaux :
+   Enfin, des sociétés spécialisées proposent des coffres forts numériques
+   où peuvent être stockés fichiers et données de connexion et il est
+   toujours possible de déposer ses données d’accès chez un notaire… Mais,
+   pour Nicolas Capt, « c’est une fausse sécurité, et il n’y a aujourd’hui
+   aucune solution miracle : d’abord, les mots de passe peuvent avoir
+   changé entre leur dépôt sécurisé et la mort de l'utilisateur, car on
+   les modifie de plus en plus souvent au cours de sa vie. Ensuite, de
+   gros problèmes peuvent apparaître si ces sociétés font faillite. »
 
-   · la circulation des données personnelles et du savoir ;
+Quelles clés pour s’adapter dans un environnement complexe ?
 
-   · la protection des droits des utilisateurs ;
+   Comment réagir face aux défis de la transition énergétique ? Comment se
+   positionner dans un environnement économique et politique instable ?
+   Comment exploiter au mieux les opportunités d’innovation dans chaque
+   secteur ? Au quotidien, à travers nos décryptages, enquêtes,
+   chroniques, revues de presses internationales et éditos, nous
+   accompagnons nos abonnés en leur donnant les clés pour s’adapter à un
+   environnement complexe.
+   Je découvre les offres
+   Particulier ou entreprise : des offres adaptées à votre besoin
+   Je m’abonne (BUTTON)
 
-   · l’accès au numérique pour l’ensemble de la population.
+Nos Vidéos
 
-   C’est dans ce cadre que la notion de mort numérique a vu le jour. Des
-   dispositions ont été prises pour la protection et la transmission des
-   données sensibles après un décès. La loi donne également la possibilité
-   de désigner de son vivant le légataire de son choix pour gérer la
-   conservation, la diffusion ou la suppression de son patrimoine digital.
+Israël - Hamas : les premiers otages franco-israéliens libérés
 
-Les solutions pour prévoir son avenir digital
+   Trois otages franco-israéliens, âgés de 12 à 16 ans, ont été libérés
+   par le Hamas. Ils étaient retenus depuis leur enlèvement le 7 octobre
+   dans le kibboutz où ils vivaient. Cinq autres Français ou binationaux
+   sont toujours portés disparus, présumés otages du Hamas.
 
-   Les conditions d’application de la Loi Lemaire restent encore assez
-   floues. Malgré tout, on commence à voir apparaître des solutions pour
-   prévoir la transmission de son héritage numérique de façon simple et
-   sécurisée. Les coffres-forts virtuels en sont une. Ils permettent de
-   regrouper tous vos identifiants, mots de passe ou clés d’identification
-   pour éviter à vos héritiers des recherches parfois fastidieuses. Cette
-   procédure doit obéir à une règlementation précise visant à protéger
-   efficacement votre vie privée après votre disparition. Les plateformes
-   régissant ces services d’un nouveau genre ont en effet l’obligation de
-   recevoir un acte officiel de la part d’un notaire en charge de votre
-   succession. La société pourra ensuite transmettre les informations que
-   vous leur aurez préalablement confiées. L’importance toujours
-   croissante d’Internet dans nos vies laisse présager une multiplication
-   de ces services testamentaires dans un avenir proche.
+Pourquoi l’Inde étouffe régulièrement sous des nuages de pollution ?
 
-   👉 En savoirs plus sur le testament.
-   Légal
-   Flora Minaire
+Israël-Hamas : Les prisonniers palestiniens libérés ont retrouvé leurs
+proches
 
-Ces articles peuvent vous intéresser :
+Guerre Israël-Hamas : les premières images des 24 otages libérés
 
-   Légal
+À la Une
 
-C’est quoi le mandat de protection future ?
+     *
 
-   Il est impossible de prévoir l’avenir. Qui pourrait dire à quel moment
-   exact il sera confronté à une perte d’autonomie ou une incapacité �
-   gérer ses affaires ? Pour répondre à cette problématique et protéger
-   les personnes, mais aussi leurs biens, le mandat de protection future a
-   été créé.
-   Flora Minaire
-   August 2, 2023
-   •
-   4 min. de lecture
-   Légal
+3008, C3, Corsa… Stellantis s'en remet à ses best-sellers pour raviver ses
+ventes
+     * Direct
 
-C’est quoi le mandat à effet posthume ?
+LE FIL INFO - Eolien en mer : lancement d'un vaste appel d'offres en 2025
+     * En chiffres
 
-   Le mandat à titre posthume est régi par la loi du 23 juin 2006 qui
-   porte sur la réforme des successions et des libéralités. Il fait partie
-   des mandats qui vous permettent d’anticiper la gestion de vos biens
-   personnels ou professionnels après votre décès. Pour des raisons très
-   précises, le mandat à titre posthume dépossède temporairement le ou les
-   héritiers de leurs droits héréditaires pour le transférer à un
-   mandataire. Nous vous expliquons dans cet article les modalités
-   particulières de ce mandat.
-   Flora Minaire
-   August 2, 2023
-   •
-   5 min. de lecture
-   Légal
+Moins inquiets sur l'inflation, les Français craignent une remontée du
+chômage
 
-En droit français, est-il possible de déshériter ses proches ?
+Mars 2015
 
-   Suite au décès d’une personne, la question de la transmission du
-   patrimoine du défunt peut parfois occasionner des questionnements voire
-   des conflits familiaux. L’une des questions les plus fréquentes est la
-   possibilité de déshériter ses proches. Afin de vous accompagner dans
-   votre planification successorale, nous allons vous en dire plus sur la
-   hiérarchie des héritiers, mais aussi la répartition de l’héritage. Cela
-   vous permettra de mieux comprendre le droit de succession français, ce
-   qu’il permet et ce qu’il interdit.
-   Flora Minaire
-   August 2, 2023
-   •
-   5 min. de lecture
-   Voir tous les articles
-   Voir tous les articles
-   Newsletter Solal Tech
-   S'informer sur les actualités de SOLAL TECH et recevoir votre dose
-   mensuelle de news sur la transmission du patrimoine numérique.
-   ____________________ Envoyer
-   En vous abonnant, vous acceptez notre politique de confidentialité et
-   consentez à recevoir des mises à jour de notre société.
-   Merci, vous pourrez désormais recevoir toute notre actu !
-   Une erreur s'est produite lors de l'envoi du formulaire.
-   À propos
-   Notre projetDéclarer un décèsPressePresseFAQNous contacterOn recrute !
-   Thématiques
-   #Réseaux sociaux#Prévoyance#Empreinte numérique#LégalLéguer mes
-   bitcoinsNotre engagement sécurité
-   Suivez-nous !
-   Facebook
-   Instagram
-   Twitter
-   LinkedIn
-   TikTok
-   YouTube
-   2023 Solal Tech. Tous droits réservés
-   Fait avec ♡ par Ouiflow
-   CGUCGVMentions légales
+Nigéria : la victoire du candidat d’opposition signe une alternance
+historique
+
+Fusillade à la NSA : la victime identifiée par le FBI
+
+Les Galeries Lafayette confirment leur plan d’économie
+
+   AppStore GooglePlay
+
+   Pratique
+   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
+   groupeCookiesMentions légalesConditions générales et
+   particulièresPolitique de confidentialitéCharte éthiqueFlux
+   RSSArchivesPlan du site
+   (BUTTON) Pratique
+   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
+   groupeCookiesMentions légalesConditions générales et
+   particulièresPolitique de confidentialitéCharte éthiqueFlux
+   RSSArchivesPlan du site
+
+   Services
+   En continuLe JournalNewslettersMes articlesMes
+   secteursPodcastsInfographiesVidéosThema
+   (BUTTON) Services
+   En continuLe JournalNewslettersMes articlesMes
+   secteursPodcastsInfographiesVidéosThema
+
+   Le Groupe
+   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
+   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
+   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
+   LégalesMarchés Publics
+   (BUTTON) Le Groupe
+   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
+   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
+   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
+   LégalesMarchés Publics
+
+   Tous droits réservés - Les Echos 2023
+     * En continu
+     * Le Journal
+     * Newsletters
+     * Mes articles
+     * Mes secteurs
+     * Podcasts
+     * Infographies
+     * Vidéos
+     * Thema
+
+   (BUTTON)
+     * (BUTTON) ThèmeClair
+
+   (BUTTON) Se connecter

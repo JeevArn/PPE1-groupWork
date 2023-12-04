@@ -6,7 +6,6 @@
    héritez et calculer votre part d'héritage ? Vous devez distinguer 2
    situations. Si le défunt n'a pas fait de testament, c'est l'ordre de
    priorité des héritiers qui détermine les parts d'héritage. Si le défunt
-   a fait un testament, il doit réserver une partie de son patrimoine �
 --
    Toutefois, la règle de la représentation permet aux descendants d'un
    héritier déjà décédé de recueillir sa part d'héritage.

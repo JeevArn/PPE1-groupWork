@@ -1,1455 +1,738 @@
-
 <!DOCTYPE html>
-<!--[if IE 8]><html lang="en" class="resp no-js ie ie8"><![endif]-->
-<!--[if IE 9]><html lang="en" class="resp no-js ie ie9"><![endif]-->
-<!--[if gt IE 9]><!-->
-<html lang="en" class='resp no-js'>
-<!--<![endif]-->
-<head>
-    <!--Use to prevent duplicate URL-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <!--The below makes sure the latest version of IE is used in versions of IE that contain multiple rendering engines but it break w3c validation. If you don't want to break validation then add it to your .htaccess file. src - https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/html.md -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GML Heritage - leading heritage consultants in Australia</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="mobile-web-app-capable" content="yes">
 
-    <link rel="canonical" href="https://www.environment.nsw.gov.au/" />
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PCKF642');</script>
+        <!-- End Google Tag Manager -->
 
-    <meta charset="utf-8">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Environment and Heritage | NSW Environment and Heritage</title>
-    <meta name="description" content="Working with the community, we care for and protects NSW’s environment and heritage, which includes the natural environment, Aboriginal country, culture and heritage, and built heritage. We support the community, business and government in protecting, strengthening and making the most of a healthy environment and economy in New South Wales.">
-    <meta name="keywords" content="">
-        <meta name="robots" content="index, follow">
-    <meta name="author" content="author">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, minimal-ui, user-scalable=0">
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Environment and Heritage" />
-    <meta property="og:site_name" content="NSW Environment and Heritage" />
-    <meta property="og:url" content="http://www.environment.nsw.gov.au/" />
-    <meta property="og:description" content=" " />
-    <meta property="og:locale" content="en_GB" />
+        <!--Icons-->
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-60x60.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/apple-touch-icon-152x152.png" />
+        <link rel="icon" type="image/png" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/favicon-196x196.png" sizes="196x196" />
+        <link rel="icon" type="image/png" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/favicon-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/images/favicons/favicon-128.png" sizes="128x128" />
+        <meta name="application-name" content="&nbsp;"/>
+        <meta name="msapplication-TileColor" content="#FFFFFF" />
+        <meta name="msapplication-TileImage" content="https://www.gml.com.au/wp-content/themes/gml/images/favicons/mstile-144x144.png" />
+        <meta name="msapplication-square70x70logo" content="https://www.gml.com.au/wp-content/themes/gml/images/favicons/mstile-70x70.png" />
+        <meta name="msapplication-square150x150logo" content="https://www.gml.com.au/wp-content/themes/gml/images/favicons/mstile-150x150.png" />
+        <meta name="msapplication-wide310x150logo" content="https://www.gml.com.au/wp-content/themes/gml/images/favicons/mstile-310x150.png" />
+        <meta name="msapplication-square310x310logo" content="https://www.gml.com.au/wp-content/themes/gml/images/favicons/mstile-310x310.png" />
 
-    <!-- Font -->
-    <link href="/Assets/Corporate/Css/_Libs/oeh-font.css" rel="stylesheet" />
-    <!-- CSS libs -->
-    <link href="/Assets/Corporate/Css/_Libs/oeh-libs.css" rel="stylesheet" />
-    <!-- styling -->
-    <link href="/Assets/Corporate/Css/_sitecore/sitecore-oeh-blessed1.min.css" rel="stylesheet" />
-    <link href="/Assets/Corporate/Css/_sitecore/sitecore-oeh.min.css?v=3a6fb032f813d58b5981d5abb58eb418" rel="stylesheet" />
-    <link href="/Assets/Corporate/Css/_sitecore/sitecore-oeh-print.css" media="print" rel="stylesheet" />
-    <script type="text/javascript" src="/Assets/Corporate/Js/libs/modernizr.2.8.3.js"></script>    
-    <meta name="google-site-verification" content="psXMKC54D5p9WzKOeeYha8pVKa-B3Qv_El078ev4UGo" />
-<!-- Google Tag Manager script-->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
-{'gtm.start': new Date().getTime(),event:'gtm.js'}
-);var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KTR8VW');</script>
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-<!-- Facebook domain verification -->
-<meta name="facebook-domain-verification" content="57jhk0cu3g069ep8z1yfurc9xj2f3m" />
+	<!-- This site is optimized with the Yoast SEO Premium plugin v21.5 (Yoast SEO v21.5) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="GML Heritage are leading heritage consultants in Australia, connecting people and place for over 30 years. Experts across heritage, archaeology, history and interpretation." />
+	<link rel="canonical" href="https://www.gml.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="GML Heritage are leading heritage consultants in Australia, connecting people and place for over 30 years. Experts across heritage, archaeology, history and interpretation." />
+	<meta property="og:url" content="https://www.gml.com.au/" />
+	<meta property="og:site_name" content="GML" />
+	<meta property="article:publisher" content="https://www.facebook.com/gmlheritage" />
+	<meta property="article:modified_time" content="2023-11-28T00:19:47+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@GmlHeritage" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.gml.com.au/","url":"https://www.gml.com.au/","name":"GML Heritage - leading heritage consultants in Australia","isPartOf":{"@id":"https://www.gml.com.au/#website"},"about":{"@id":"https://www.gml.com.au/#organization"},"datePublished":"2017-09-04T05:52:28+00:00","dateModified":"2023-11-28T00:19:47+00:00","description":"GML Heritage are leading heritage consultants in Australia, connecting people and place for over 30 years. Experts across heritage, archaeology, history and interpretation.","breadcrumb":{"@id":"https://www.gml.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.gml.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://www.gml.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.gml.com.au/#website","url":"https://www.gml.com.au/","name":"GML","description":"GML Heritage","publisher":{"@id":"https://www.gml.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.gml.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://www.gml.com.au/#organization","name":"GML Heritage","url":"https://www.gml.com.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://www.gml.com.au/#/schema/logo/image/","url":"https://www.gml.com.au/wp-content/uploads/2021/10/GML-Logo_Colour_Large-scaled.jpg","contentUrl":"https://www.gml.com.au/wp-content/uploads/2021/10/GML-Logo_Colour_Large-scaled.jpg","width":2560,"height":1921,"caption":"GML Heritage"},"image":{"@id":"https://www.gml.com.au/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/gmlheritage","https://twitter.com/GmlHeritage","https://www.instagram.com/gmlheritage/"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
 
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function()
 
-{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
-;
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '451368485840920');
-fbq('track', 'PageView');
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gml.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=451368485840920&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-    <!--[if lt IE 9]>
-        <script type="text/javascript" src="/Assets/Corporate/js/libs/selectivizr-min.js"></script>
-        <script type="text/javascript" src="/Assets/Corporate/js/libs/respond.min.js"></script>
-    <![endif]-->
-    
-    
-</head>
-
-
-<body class="homepage ">
-    <a href="#main-content" class="skip-links sr-only sr-only-focusable">Skip to main content</a>
-    <a href="#top-navigation" class="skip-links sr-only sr-only-focusable">Skip to navigation</a>
-    
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTR8VW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager -->
-
-    <!-- Libs script -->
-    <script type="text/javascript" charset="utf-8" src="/Assets/Corporate/Js/decc/jquery/jquery-1.11.3.min.js"></script>
-
-    <div class="global-header-stripe">
-        <div class="container">
-            <a class="global-header-stripe__link" href="https://www.dpie.nsw.gov.au/" title="This link opens an external website in a new browser window" rel="external" target="_blank">NSW Department of Planning and Environment</a>
-        </div>
-        
-    </div>
-
-
-    
-
-    <div class="apps">
-        
-
-
-<!-- start incDECCbanner_v2.inc -->
-<!-- Header - mobile, tablet -->
-<header class="header-xs visible-xs-block visible-sm-block topNav-mobile oeh-not-print" role="banner">
-    <nav class="navbar navbar-inverse navbar-xs oeh-not-print" role="navigation">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <div class="navbar-toggle-col">
-                    <button type="button" class="navbar-toggle toggle-btn" data-target="#bs-navbar-collapse" aria-controls="bs-navbar-collapse" aria-expanded="false">
-                        <span class="sr-only">Open navigation - further below</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <a href="/" class="brand-logo oeh-home" id="top-navigation" style="">
-                    <img class="img-responsive" src="/-/media/OEH/Corporate-Site/Logos/nsw-logo_small.png" alt="NSW Government logo" style="">
-                </a>
-                
-                <button class="btn-search oeh-not-print" type="button" data-accessibility-close="Close search overlay" data-accessibility-show="Show search overlay" data-search=".search-global">
-                    <span class="sr-only">Show search overlay</span>
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                </button>
-            </div>
-        </div>
-    </nav>
-</header>
-
-
-<div class='oeh-print'>
-    <img src='/Assets/Corporate/images/nsw-logo-print.svg' alt="NSW Government logo">
-</div>
-
-<!-- Header - >= Desktop -->
-<header class="header-sm topNav">
-    <nav class="navbar navbar-inverse navbar-static-top">
-        <div class="nsw-header__container container">
-            <div class="nsw-header__wrapper">
-                <div class="nsw-header__center">
-                    <a href="/" class="brand-logo oeh-home" id='top-navigation'><img class="img-responsive" src="/-/media/OEH/Corporate-Site/Logos/nsw-logo_small.png" alt="NSW Government logo"></a>
-                </div>
-                <div class="nsw-header__right">
-                    <button class="btn-search hidden-xs hidden-sm" type="button" data-search=".search-global" data-accessibility-close="Close search overlay" data-accessibility-show="Show search overlay">
-                        <span class="sr-only">Show search overlay</span>
-                        <i class="fa fa-search" aria-hidden="true"></i>
-                    </button>
-
-                </div>
-            </div>
-
-
-        </div>
-    
-    
-        
-    </nav>
-    <nav class="navbar navbar-inverse nav-fixed navbar-collapse" id="bs-navbar-collapse" data-menu="">
-        <div class="container">
-            
-            <div class="row">
-                <div class="nav-list-items">
-                    <ul class="nav navbar-nav mega-dropdown">
-                        <li class="hidden-md">
-                            <a class="navbar-brand navbar-home" href="/">Home</a>
-                        </li>
-
-        <li class="dropdown mega-menu-fw" aria-haspopup="true" aria-expanded="false">
-            <a href="/topics" class="dropdown-toggle" role="button" aria-expanded="false">
-                Topics
-                <svg class="menu-chevron" viewBox="0 0 20 32" id="chevron" xmlns="http://www.w3.org/2000/svg"><path d="M20 16L4 0 0 4l12 12L0 28l4 4 16-16z"></path></svg>
-            </a>
-            <ul class="dropdown-menu sub-menu" data-level="2" aria-hidden="true">
-                <li class="col-sm-12">
-                    <div class="mega-menu-content">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <!-- Nav tabs -->
-                                <ul class="nav nav-tab list-data" role="tablist">
-                                    <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-
-                                        <li data-menu-target="#Heritage" role="presentation" class="active" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Heritage" data-desktop-link="/topics/heritage" href="#Heritage" aria-controls="Heritage" role="button" data-toggle="tab">
-                                                Heritage
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Animals-and-plants" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Animals-and-plants" data-desktop-link="/topics/animals-and-plants" href="#Animals-and-plants" aria-controls="Animals-and-plants" role="button" data-toggle="tab">
-                                                Animals and plants
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Parks-reserves-and-protected-areas" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Parks-reserves-and-protected-areas" data-desktop-link="/topics/parks-reserves-and-protected-areas" href="#Parks-reserves-and-protected-areas" aria-controls="Parks-reserves-and-protected-areas" role="button" data-toggle="tab">
-                                                Parks, reserves and protected areas
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Air" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Air" data-desktop-link="/topics/air" href="#Air" aria-controls="Air" role="button" data-toggle="tab">
-                                                Air
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Water" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Water" data-desktop-link="/topics/water" href="#Water" aria-controls="Water" role="button" data-toggle="tab">
-                                                Water
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Fire" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Fire" data-desktop-link="/topics/fire" href="#Fire" aria-controls="Fire" role="button" data-toggle="tab">
-                                                Fire
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Land-and-soil" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Land-and-soil" data-desktop-link="/topics/land-and-soil" href="#Land-and-soil" aria-controls="Land-and-soil" role="button" data-toggle="tab">
-                                                Land and soil
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Energy" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Energy" data-desktop-link="/topics/energy" href="#Energy" aria-controls="Energy" role="button" data-toggle="tab">
-                                                Energy
-                                            </a>
-
-                                        </li>
-                                        <li data-menu-target="#Sustainability" role="presentation" class="" aria-haspopup="true" aria-expanded="false">
-
-                                            <a data-mobile-link="#Sustainability" data-desktop-link="/topics/sustainability" href="#Sustainability" aria-controls="Sustainability" role="button" data-toggle="tab">
-                                                Sustainability
-                                            </a>
-
-                                        </li>
-                                </ul>
-                            </div>
-                            <!-- Tab panes -->
-
-                            <div class="tab-content col-md-8">
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 active" id="Heritage" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/heritage">Heritage <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/heritage"><span>Go to </span>Heritage</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/about-heritage">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-house.jpg?h=150&amp;w=150&amp;hash=226C0E9B8542299E929025D13AEA3C49D4747FFA&amp;crop=1">
-                                                            <span>About heritage</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/request-a-heritage-listing">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spolight-temple.JPG?h=150&amp;w=150&amp;hash=4225AF239C90177FCCDE43DAD95F4BDFEA952B91&amp;crop=1">
-                                                            <span>Request a heritage listing</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/manage-heritage-items">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-wagga-wagga.JPG?h=150&amp;w=150&amp;hash=3CB8A27889BF72DC2ADBE6066F86571427DDB6DE&amp;crop=1">
-                                                            <span>Manage heritage items</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/search-heritage-databases">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-cross.jpg?h=150&amp;w=150&amp;hash=057D4D4BCB73F32A65E8987F0FF981F609DCD224&amp;crop=1">
-                                                            <span>Search heritage databases</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/apply-for-heritage-approvals-and-permits">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-trade-skills.jpg?h=150&amp;w=150&amp;hash=1EAC0F86AF1B8FEDF4F48763DC5D448A9D265D91&amp;crop=1">
-                                                            <span>Apply for heritage approvals and permits</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/heritage-grants">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-history-here.JPG?h=150&amp;w=150&amp;hash=69F2049DE7E2892DBEEB337DF4DA005FE9B1A531&amp;crop=1">
-                                                            <span>Heritage grants</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/heritage/celebrate-heritage">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spolight-parramatta.JPG?h=150&amp;w=150&amp;hash=21251FC274FB1EBE8CC64F86D0639774CD6DD907&amp;crop=1">
-                                                            <span>Celebrate heritage</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/about-us/who-we-are/advisory-committees/aboriginal-cultural-heritage-advisory-committee">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spolight-smoking-ceremony.jpg?h=150&amp;w=150&amp;hash=FBF8A52317D0DE12A5F7E0B1E062536AC223F728&amp;crop=1">
-                                                            <span>Aboriginal Cultural Heritage Advisory Committee</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/about-us/who-we-are/advisory-committees/heritage-council-of-nsw">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Heritage/heritage-spotlight-newcastle-city.jpg?h=150&amp;w=150&amp;hash=F798BC874802F9125ED6D0B7BF0DE0BF5722B212&amp;crop=1">
-                                                            <span>Heritage Council of NSW</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Animals-and-plants" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/animals-and-plants">Animals and plants <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/animals-and-plants"><span>Go to </span>Animals and plants</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/biodiversity">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Native-plants/rainwater-on-moss-nl.jpg?h=150&amp;w=150&amp;hash=931DF5AAF035908B50782E9673037C09B6A9F835&amp;crop=1">
-                                                            <span>Biodiversity conservation</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/biodiversity-offsets-scheme">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Biodiversity/trees-cattle-kangaroo-valley-129273.jpg?h=150&amp;w=150&amp;hash=71444B3BB04D9BD8CD1C30BD073C82A3FFF6D2DC&amp;crop=1">
-                                                            <span>Biodiversity Offsets Scheme</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/conservation-programs">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Habitats/voluntary-conservation-agreement-white-leeds-wildlife-refuge-nl.jpg?h=150&amp;w=150&amp;hash=8B338AC06625FCD7B134F15CD879DD66D8F19AC6&amp;crop=1">
-                                                            <span>Conservation programs</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/surveys-monitoring-and-records">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Animals/Birds/little-penguin-chick-eudyptula-minor-montague-island-nature-reserve-139055.jpg?h=150&amp;w=150&amp;hash=15C5E701F9F4A504033C8A7F4AAD64B6F37212B4&amp;crop=1">
-                                                            <span>Surveys, monitoring and records</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/native-animals">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Animals/Mammals/eastern-pygmy-possum-cercartetus-nanus-nl.jpg?h=150&amp;w=150&amp;hash=301711E832ACD5BBCD61EB1E26143517A54C99F5&amp;crop=1">
-                                                            <span>Native animals</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/threatened-species">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Animals/Birds/scarlet-robin-petroica-boodang-nl.jpg?h=150&amp;w=150&amp;hash=7A8690BF518A776380EB5F918FA55C22902CBF13&amp;crop=1">
-                                                            <span>Threatened species</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/wildlife-management">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Native-animals/Mammals/kangaroo-beach-153056.jpg?h=150&amp;w=150&amp;hash=AC74461F5AC78534F06BEDA4A204ED676074ECA1&amp;crop=1">
-                                                            <span>Wildlife management</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/licences-and-permits/wildlife-licences">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Native-animals/Birds/king-parrot-alisterus-scapularis-102594.jpg?h=150&amp;w=150&amp;hash=C69B02D6CFD611DDBD4D351A600B747DC479C756&amp;crop=1">
-                                                            <span>Wildlife licences</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/native-vegetation">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Plants/bog-grevillea-grevillea-acanthifolia-subsp-stenomera-135548.jpg?h=150&amp;w=150&amp;hash=5D28DE3B1E0685133ADC7EAFF611A6AC5237FA74&amp;crop=1">
-                                                            <span>Native vegetation</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/animals-and-plants/pest-animals-and-weeds">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Pests-weeds/lantana-camara-weed-132856.jpg?h=150&amp;w=150&amp;hash=72E71DB825112B8F9F40BFFC7A3BCEAA5213DF25&amp;crop=1">
-                                                            <span>Pest animals and weeds</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Parks-reserves-and-protected-areas" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/parks-reserves-and-protected-areas">Parks, reserves and protected areas <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/parks-reserves-and-protected-areas"><span>Go to </span>Parks, reserves and protected areas</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="http://www.nationalparks.nsw.gov.au/visit-a-park">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/G-L/ku-ring-gai-chase-national-park-view-over-pittwater-141742.jpg?h=150&amp;w=150&amp;hash=62D771BD9DB39369F846ACA00006DF23F7CA6ED8&amp;crop=1">
-                                                            <span>Visit a national park</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/types-of-protected-areas">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/M-R/nadgee-nature-reserve-130129.jpg?h=150&amp;w=150&amp;hash=B61D0EF227896B5BFCBDDBB790E95127A51976D7&amp;crop=1">
-                                                            <span>Types of protected areas</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/establishing-new-parks-and-protected-areas">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/G-L/ku-ring-gai-chase-national-park-koolewong-track-140834.jpg?h=150&amp;w=150&amp;hash=8E285F6C2B4DE4E60F4F6E15CE25D63C1FAC82B8&amp;crop=1">
-                                                            <span>Establishing new parks and protected areas</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/park-management">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/national-parks-staff-planning-for-fire-132530.jpg?h=150&amp;w=150&amp;hash=0B7FC71566C0CF2E9832B7A63838748F1583621C&amp;crop=1">
-                                                            <span>Park management</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/park-policies">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/S-Z/yanununbeyan-state-conservation-area-apple-box-flat-picnic-area-130805.jpg?h=150&amp;w=150&amp;hash=BACEC6F1A25BBCD13F62E795B0DE5594556B4C71&amp;crop=1">
-                                                            <span>Park policies</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/commercial-activities-in-parks">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Threatened-species/Animals/Mammals/humpback-whale-megaptera-novaeangliae-breaching-135134.jpg?h=150&amp;w=150&amp;hash=C82D8E525B40234D14D170C17AB71235701D9053&amp;crop=1">
-                                                            <span>Commercial activities in parks</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/parks-reserves-and-protected-areas/development-guidelines">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/M-R/myall-lakes-national-park-paperbark-tree-forest-139282.jpg?h=150&amp;w=150&amp;hash=95587D411774331DC7D6B71B345FA6945F817E5A&amp;crop=1">
-                                                            <span>Development guidelines</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="http://www.nationalparks.nsw.gov.au/alerts/alerts-list">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/fire-danger-rating-sign-132258.jpg?h=150&amp;w=150&amp;hash=28CF581D27B0F8D6F5E6014857752D7B1258DDC9&amp;crop=1">
-                                                            <span>Current park closures, fire and safety alerts</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Air" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/air">Air <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/air"><span>Go to </span>Air</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/clean-air-strategy">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/newcastle-memorial-walk-jogging-nl.jpg?h=150&amp;w=150&amp;hash=EFE8935A6BDFF897108512F834CE51A65D2CF767&amp;crop=1">
-                                                            <span>NSW Clean Air Strategy</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/about-the-air-program">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/air-quality-program-logic-map-nl-spotlight.png?h=150&amp;w=150&amp;hash=60BEA0BA5B9159D096499B7A792954A3C4324A18&amp;crop=1">
-                                                            <span>About the Air program</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/current-air-quality">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/clouds-weather-patterns-129393.jpg?h=150&amp;w=150&amp;hash=3CE15BDCF2D207682CF5C47CFCB6E3676282FC19&amp;crop=1">
-                                                            <span>Current air quality</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="https://www.dpie.nsw.gov.au/air-quality/sydney-forecast">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/sunrise-at-south-head-sydney-harbour-national-park-116214.jpg?h=150&amp;w=150&amp;hash=B1D0A5E1361F29CC5CD6F28CDA6ECA92257ADE4D&amp;crop=1">
-                                                            <span>Sydney forecast</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="https://www.dpie.nsw.gov.au/air-quality/air-quality-data-services">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/dust-watch-monitoring-station-gunnedah-137328.jpg?h=150&amp;w=150&amp;hash=597C33D49B0AB9742271811B555A83325251469D&amp;crop=1">
-                                                            <span>Air quality data services</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/air-pollution-episodes">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/smoke-fire-126942.jpg?h=150&amp;w=150&amp;hash=BC4953181338F701DB492AE9016357112143108A&amp;crop=1">
-                                                            <span>Air pollution episodes</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/monitoring-air-quality">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/air-monitoring-site-chullora-128137.jpg?h=150&amp;w=150&amp;hash=6BE4053B8E9C3FBA220849166521359A010001F8&amp;crop=1">
-                                                            <span>Air quality monitoring network</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/understanding-air-quality-data">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/staff-monitoring-particulate-matter-chullora-128128.jpg?h=150&amp;w=150&amp;hash=5FF57F8C8CA5E8E1BBE64FD091C474EF5BDCA6A5&amp;crop=1">
-                                                            <span>Understanding air quality data</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/air-quality-basics">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/smoke-at-dawn-over-denison-providence-hazard-reduction-burn-127070.jpg?h=150&amp;w=150&amp;hash=79ECB12CA9072E65553611A12886D09EDA7D4E8E&amp;crop=1">
-                                                            <span>Air quality basics</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/research">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/mountain-view-golden-sunset-over-the-plains-siding-springs-astronomical-observatory-126755.jpg?h=150&amp;w=150&amp;hash=DFE49001A885D245D4DC788F519FD231F856C1B8&amp;crop=1">
-                                                            <span>Research</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/air/nsw-air-quality-statements">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/smoke-sunrise-denison-providence-127072.jpg?h=150&amp;w=150&amp;hash=32C018F717F821F62E1C4939DED057BA5952294C&amp;crop=1">
-                                                            <span>NSW air quality statements</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="http://www.environment.nsw.gov.au/topics/air/air-publications">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Air/oeh-scientist-checking-a-dust-watch-monitoring-station-gunnedah-137318.jpg?h=150&amp;w=150&amp;hash=DC1523A556CB575C20CE291663B32C111ED18FA5&amp;crop=1">
-                                                            <span>Publications</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Water" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/water">Water <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/water"><span>Go to </span>Water</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/coasts">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Coasts/coastline-royal-national-park-137135.jpg?h=150&amp;w=150&amp;hash=6049AC85D57A2566E17976646166A44A8CCDD28B&amp;crop=1">
-                                                            <span>Coasts</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/estuaries">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Estuaries/hawkesbury-nepean-estuary-downstream-wisemans-ferry-116822.jpg?h=150&amp;w=150&amp;hash=FC4EC1E86C682BBF1277F1D7EA1DE825561677CD&amp;crop=1">
-                                                            <span>Estuaries</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/floodplains">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Floodplains/nepean-river-penrith-lakes-floodplain-135076.jpg?h=150&amp;w=150&amp;hash=30044EDD923DA130BF64195E21FEAEEEA3EA9A32&amp;crop=1">
-                                                            <span>Floodplains</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/wetlands">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Wetlands/narran-lake-nature-reserve-wetland-149179.jpg?h=150&amp;w=150&amp;hash=1760A40AEF7B65A4AF99791FEFE44AFDB18C307D&amp;crop=1">
-                                                            <span>Wetlands</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/water-for-the-environment">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Water-for-the-environment/murrumbidgee-tala-lake-106815.jpg?h=150&amp;w=150&amp;hash=83A614D52E24DB4635259BE9925AF1E09C2EA889&amp;crop=1">
-                                                            <span>Water for the environment</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/water-quality">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Estuaries/parramatta-river-nl.jpg?h=150&amp;w=150&amp;hash=86FC416382DAA28EF1AC31EE1EFE7698E87EA058&amp;crop=1">
-                                                            <span>Water quality</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/water/beachwatch">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Water/Beaches/beach-closed-sign-nl.jpg?h=150&amp;w=150&amp;hash=AE53C50AE7519A1FC97B9AA4BECCF263344CE460&amp;crop=1">
-                                                            <span>Beaches</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Fire" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/fire">Fire <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/fire"><span>Go to </span>Fire</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/fire-facts">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/large-active-fire-high-flames-vehicle-patrol-126906.jpg?h=150&amp;w=150&amp;hash=921E0A6C0509F31BA2E8411CBD987B670B1443D1&amp;crop=1">
-                                                            <span>Fire facts</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/managing-fire">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/bouddi-national-park-hazard-reduction-burn-nl.jpg?h=150&amp;w=150&amp;hash=F3DD2E861DC0A05126153713A452718AC9918017&amp;crop=1">
-                                                            <span>Managing fire</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/fire-management-strategies">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/hazard-reduction-burn-fire-personnel-126865.jpg?h=150&amp;w=150&amp;hash=8CDCFA7A1E50CC7ABC228E9A7FED91C64ED0A699&amp;crop=1">
-                                                            <span>Fire management strategies</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/fire-safety-in-parks">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/fire-danger-rating-sign-lane-cove-national-park.jpg?h=150&amp;w=150&amp;hash=E06D12E6B20088C2383CC4FC5C7EAFACA2845BDD&amp;crop=1">
-                                                            <span>Fire safety in parks</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/plants-animals-fire">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/grass-recovering-after-fire-127068.jpg?h=150&amp;w=150&amp;hash=6665F955BDF9F487084A26894F9608F75802210D&amp;crop=1">
-                                                            <span>Plants, animals and fire</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/park-recovery-and-rehabilitation">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/A-F/dorrigo-national-park-122345.jpg?h=150&amp;w=150&amp;hash=CCADDF683E7DD844B00B8B6539D8CAA32A1B47B5&amp;crop=1">
-                                                            <span>Park recovery and rehabilitation</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/research">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Fire/warrumbungle-national-park-monitoring-fire-recovery-126978.jpg?h=150&amp;w=150&amp;hash=7DD0662611585EB8E783B440A553A81126D7B4A8&amp;crop=1">
-                                                            <span>Research</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/fire/news">
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Land-and-soil" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/land-and-soil">Land and soil <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/land-and-soil"><span>Go to </span>Land and soil</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/land-and-soil/managing-land-and-soil">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Land-and-soil/mulga-landscape-mutawintji-historic-site-125064.jpg?h=150&amp;w=150&amp;hash=F55F8A607165D564705E50885CF9F34E56790209&amp;crop=1">
-                                                            <span>Managing land and soil</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/land-and-soil/soil-news">
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/land-and-soil/soil-degradation">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Land-and-soil/cracked-earth-soil-conservation-program-137289.jpg?h=150&amp;w=150&amp;hash=8708D115E3823C3CD4E5C4A494804CCF13635FE7&amp;crop=1">
-                                                            <span>Soil degradation</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/land-and-soil/information">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Land-and-soil/land-soil-capability-class-1-land-116126.jpg?h=150&amp;w=150&amp;hash=401697FDBFE37C0D06D456F1F08EBBE5E165A0A4&amp;crop=1">
-                                                            <span>Land and soil information</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="http://www.environment.nsw.gov.au/topics/land-and-soil/land-and-soil-publications">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Land-and-soil/desert-landscape-mutawintji-national-park-124830.jpg?h=150&amp;w=150&amp;hash=96B231A18E03FFB35738D34E31244D32252DF694&amp;crop=1">
-                                                            <span>Soil publications</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/land-and-soil/geodiversity">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Land-and-soil/breadknife-and-grand-high-tops-warrumbungle-national-park-135846.jpg?h=150&amp;w=150&amp;hash=669F3A022390F6F3514ABDA0331DDCA688C24091&amp;crop=1">
-                                                            <span>Geodiversity</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Energy" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/energy">Energy <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/energy"><span>Go to </span>Energy</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="https://www.energy.nsw.gov.au/households">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Sustainability/goulburn-group-kentgrove-climate-change-garden-nl.jpg?h=150&amp;w=150&amp;hash=BDFD63B0E338288A891A4F65BFBA80D85223B19E&amp;crop=1">
-                                                            <span>Households</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="https://www.energy.nsw.gov.au/business-and-industry">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Sustainability/battery-storage-business-premises-nl.jpg?h=150&amp;w=150&amp;hash=606C386E2DB45F0BECBB0B7E3114EF4B07EA25AB&amp;crop=1">
-                                                            <span>Business</span>
-                                                    </a>
-                                                </li>
-                                                <li class="col-md-4">
-                                                    <a href="https://www.energy.nsw.gov.au/government-and-local-organisations">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Sustainability/moree-solar-farm-22020446.jpg?h=150&amp;w=150&amp;hash=6712C86D0F8E083D0F48688F166143DB9993782F&amp;crop=1">
-                                                            <span>Government and regulation</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                                    <div role="tabpanel" data-level="3" class="tab-pane sub-menu sub-menu-2 " id="Sustainability" aria-hidden="true">
-                                        <h4><a class="topic" href="/topics/sustainability">Sustainability <span class="fa fa-angle-right" aria-hidden="true"></span></a></h4>
-                                        <ul class="row">
-                                            <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                                            <li class="go-to"><a class="topic" href="/topics/sustainability"><span>Go to </span>Sustainability</a></li>
-                                                <li class="col-md-4">
-                                                    <a href="/topics/sustainability/sustainability-advantage">
-                                                            <img class="img-circle lazy-topic" style="width: 66px; height: 64px;" alt="" role="presentation" data-original="/-/media/OEH/Corporate-Site/Topics/Sustainability/Sustainability-Advantage/park-central-22013190.jpg?h=150&amp;w=150&amp;hash=BE9D1CCB151DDAAEAA179D2B0D548F56943EFFE1&amp;crop=1">
-                                                            <span>Sustainability Advantage</span>
-                                                    </a>
-                                                </li>
-                                        </ul>
-                                    </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-        </li>
-        <li class="dropdown" aria-haspopup="true" aria-expanded="false">
-            <a href="/research-and-publications" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Research &amp; publications
-                <svg class="menu-chevron" viewBox="0 0 20 32" id="chevron" xmlns="http://www.w3.org/2000/svg"><path d="M20 16L4 0 0 4l12 12L0 28l4 4 16-16z"></path></svg>
-            </a>
-            <ul class="dropdown-menu sub-menu" data-level="2" aria-hidden="true">
-                <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                    <li><a href="/research-and-publications/your-research">Your research </a></li>
-                    <li><a href="/research-and-publications/our-science-and-research">Our science and research </a></li>
-                    <li><a href="/research-and-publications/seed-data-portal">SEED data portal </a></li>
-                    <li><a href="http://www.bionet.nsw.gov.au/">BioNet biodiversity data </a></li>
-                    <li><a href="/research-and-publications/publications-search">Publications </a></li>
-                    <li><a href="/research-and-publications/image-library">Image library </a></li>
-            </ul>
-        </li>
-        <li class="dropdown" aria-haspopup="true" aria-expanded="false">
-            <a href="/funding-and-support" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Funding &amp; support
-                <svg class="menu-chevron" viewBox="0 0 20 32" id="chevron" xmlns="http://www.w3.org/2000/svg"><path d="M20 16L4 0 0 4l12 12L0 28l4 4 16-16z"></path></svg>
-            </a>
-            <ul class="dropdown-menu sub-menu" data-level="2" aria-hidden="true">
-                <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                    <li><a href="/funding-and-support/grants">Grants </a></li>
-                    <li><a href="/funding-and-support/nsw-environmental-trust">NSW Environmental Trust </a></li>
-                    <li><a href="/funding-and-support/sponsorship">Sponsorship </a></li>
-            </ul>
-        </li>
-        <li class="dropdown" aria-haspopup="true" aria-expanded="false">
-            <a href="/licences-and-permits" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Licences &amp; permits
-                <svg class="menu-chevron" viewBox="0 0 20 32" id="chevron" xmlns="http://www.w3.org/2000/svg"><path d="M20 16L4 0 0 4l12 12L0 28l4 4 16-16z"></path></svg>
-            </a>
-            <ul class="dropdown-menu sub-menu" data-level="2" aria-hidden="true">
-                <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                    <li><a href="/licences-and-permits/wildlife-licences">Wildlife licences </a></li>
-                    <li><a href="/licences-and-permits/scientific-licences">Scientific licences </a></li>
-                    <li><a href="/licences-and-permits/protected-native-plant-licences">Protected native plant licences </a></li>
-                    <li><a href="/topics/animals-and-plants/threatened-species/programs-legislation-and-framework/licences">Threatened species impact licences </a></li>
-                    <li><a href="http://www.environment.nsw.gov.au/licences/ahips.htm">Aboriginal heritage impact permit </a></li>
-                    <li><a href="http://www.environment.nsw.gov.au/Heritage/publications/permitapps.htm">Heritage permits and applications </a></li>
-                    <li><a href="/topics/animals-and-plants/native-vegetation/historic-native-vegetation-legislation/native-vegetation-act-2003-public-registers/approved-clearing-pvps-under-the-repealed-native-vegetation-act-2003">Native vegetation clearing approvals </a></li>
-                    <li><a href="http://www.nationalparks.nsw.gov.au/passes-and-fees">National parks passes and permits  </a></li>
-                    <li><a href="/topics/parks-reserves-and-protected-areas/commercial-activities-in-parks">Commercial activities in parks </a></li>
-            </ul>
-        </li>
-        <li class="dropdown" aria-haspopup="true" aria-expanded="false">
-            <a href="/about-us" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            About us
-                <svg class="menu-chevron" viewBox="0 0 20 32" id="chevron" xmlns="http://www.w3.org/2000/svg"><path d="M20 16L4 0 0 4l12 12L0 28l4 4 16-16z"></path></svg>
-            </a>
-            <ul class="dropdown-menu sub-menu" data-level="2" aria-hidden="true">
-                <li class="back-btn"><a href="javascript:;" tabindex="0"> Back </a></li>
-                    <li><a href="/about-us/who-we-are">Who we are </a></li>
-                    <li><a href="/about-us/careers-with-us">Careers </a></li>
-                    <li><a href="/topics/parks-reserves-and-protected-areas/commercial-activities-in-parks">Commercial activities in parks </a></li>
-                    <li><a href="/about-us/find-information">Find information </a></li>
-                    <li><a href="/about-us/report-a-problem-or-incident">Report a problem or incident </a></li>
-                    <li><a href="/about-us/access-to-information">Access to information </a></li>
-                    <li><a href="/news">News  </a></li>
-                    <li><a href="/about-us/videos-of-us-at-work">Videos of us at work </a></li>
-                    <li><a href="/about-us/contact-us">Contact us </a></li>
-                    <li><a href="/about-us/our-website">Our website </a></li>
-                    <li><a href="/about-us/privacy-and-security">Privacy and security </a></li>
-                    <li><a href="/about-us/copyright-and-disclaimer">Copyright and disclaimer </a></li>
-            </ul>
-        </li>
-                    
-                    </ul>
-                    <ul class="nav navbar-nav mega-dropdown media-link-list">
-                        <li>
-                            <a href="/newsroom">
-                                News &amp; media
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <nav class="visible-xs-block visible-sm-block">
-                    <ul class="navbar-nav nav nav-utilities">
-                        
-                        <li><a href="/newsroom">News &amp; media</a></li>
-                    </ul>
-                </nav>
-
-            </div>
-
-        </div>
-    </nav><!-- /.nav-collapse -->
-
-    <div class="search-global" data-autocomplete=".typeahead" data-api-key="AIzaSyDl-32zqIT-vzfWQp61qd7dKw1kyYXc4MI" data-search-key="013828583255245889455:z0s_q_layae">
-        <div class="container">
-            <div class="inner">
-                <span id="ds" tabindex="-1" class="sr-only">Dialog start</span>
-                <form action="/search" method="GET" name="frm-global-search" id="frm-global-search">
-                    <div class="form-group search-form">
-                        <label for="search-input" class="sr-only">What are you looking for? Start typing, then use the up and down arrows to select an option from the list</label>
-                        <div class="input-wrap">
-                            <input type="text" name="q" id="search-input" placeholder="What are you looking for?" autocomplete="off" value="" class="form-control">
-                        </div>
-                        <ul class="typeahead list-unstyled"></ul>
-                        <button type="submit" class="btn-search">
-                            <span class="sr-only">"Search"</span>
-                            <i class="fa fa-search" aria-hidden="true"></i>
-                        </button>
-                    </div>
-                </form>
-                <span class="sr-only">Dialog end</span>
-            </div>
-        </div>
-    </div>
-
-</header>
-
-
-
-
-
-
-<!-- end incDECCbanner.inc -->
-
-
-
-<div class="comp_HomepageBanner banner-main" data-scroll-down=".banner-main" data-jumbotron="">
-    <div class="banner-img" data-image-resize="img">
-            <img alt="" src="/-/media/OEH/Corporate-Site/Banners-homepage/Satinbird-stroll-Dorrigo-National-Park-122366.jpg?h=1240&amp;w=1620&amp;hash=8F5415EAC10B6F6BA3B5ED3F1BBE68AA5DD0DCB1&amp;crop=1" class="img" />
-    </div>
-        <div class="description-banner" data-type="homepage" data-description-hover data-description-content="Satinbird Stroll area, Gondwana Rainforests of Australia World Heritage Area, Dorrigo National Park &lt;strong&gt;Credit: &lt;/strong&gt;Robert Cleary/DPE">
-            <div class="container">
-                <div class="description-tag">
-                    <a href="javascript:void(0);" class="default-icon" description-open>
-                        <i class="fa fa-camera"></i>
-                        <span class="sr-only">open description</span>
-                    </a>
-
-                    <div class="active" description-detail>
-                        <div class="wrapper">
-                            <a href="javascript:void(0);" class="camera-icon">
-                                <i class="fa fa-camera"></i>
-                                <span class="sr-only">icon camera</span>
-                            </a>
-                            <p class="content" description-content>
-
-                            </p>
-                            <a href="javascript:void(0);" class="close-icon desktop" description-close>
-                                <i class="icon icon-cancel"></i>
-                                <span class="sr-only">close description</span>
-                            </a>
-                        </div>
-                        <a href="javascript:void(0);" class="close-icon tablet" description-close>
-                            <i class="icon icon-cancel"></i>
-                            <span class="sr-only">close description</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    <div class="wrap">
-        <div class="container">
-            <div class="highlight">
-                <div class="description">
-                    <p style="line-height: 1.1em; font-size: 1.1em;">Environment and Heritage</p>
-<p style="line-height: 0.8em; font-size: 0.8em;">Thriving, sustainable and resilient NSW</p>
-                </div>
-            </div>
-        </div>
-        <nav class="task-base">
-            <div class="container">
-                <h3 class="title-3">What would you like to do today?</h3>
-            </div>
-            <div class="task-base-outer">
-                <div class="container">
-                    <ul class="list-unstyled list-tasks" data-equalizer=".task-item">
-
-                            <li class="task-item"><a class="task-item-link" id="Apply-for-a-licence" href="/licences-and-permits">Apply for a licence</a></li>
-                            <li class="task-item"><a class="task-item-link" id="Get-involved" href="/get-involved">Get involved</a></li>
-                            <li class="task-item"><a class="task-item-link" id="Find-information" href="/about-us/find-information">Find information</a></li>
-                            <li class="task-item"><a class="task-item-link" id="Report-a-problem" href="/about-us/report-a-problem-or-incident">Report a problem</a></li>
-                            <li class="task-item"><a class="task-item-link" id="Teach-and-learn" href="/education-resources">Teach and learn</a></li>
-                            <li class="task-item"><a class="task-item-link" id="Explore-local-resources-" href="/regions">Explore local resources </a></li>
-                    </ul>
-
-                </div>
-                <a class="btn btn-more"><span class="fa fa-angle-down" aria-hidden="true"></span><span class="sr-only">Scroll for more</span></a>
-            </div>
-        </nav>
-    </div>
-</div>
-
-<div class="container" style="min-height: 100px">
-    
-
-        <article class="component rich-text-editor article" data-external-link="" data-link-icon="" style="width: 100%">
-            <h2 class="text-center h1" style="margin-top: 30px; margin-bottom: 5px;">Stay up to date</h2>
-        </article>
-
-
-
-
-<div class="comp-stay-up-to-date">
-
-
-
-
-
-
-
-<div class="grid schema-column-4" data-isotope>
-    <div class="grid-sizer"></div>
-    <div class="gutter-sizer"></div>
-        <div class="grid-item grid-item-x2 ">
-            <div class="uptodate-item  TwoByTwo">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Climate-change/bowen-sharpe-with-solar-panels-nl.jpg?h=610&amp;w=720&amp;hash=7E01060A896B14FB14BC6FCA6874F0C22E1B66F4&amp;crop=1 " alt="Chris Bowen and Penny Sharpe on Parliament House roof with solar panels.">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/capacity-investment-scheme-supports-nsw-to-deliver-cleaner-energy">Capacity Investment Scheme supports NSW to deliver 1 GW of cleaner, cheaper, more reliable energy</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item grid-item-x2 ">
-            <div class="uptodate-item   TwoByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/G-L/gardens-of-stone-state-conservation-area-glow-worm-tunnel-path-construction-nl.jpg?h=610&amp;w=720&amp;hash=205D77AF7CCC48A237C784E2B4755D3C59AC2B84&amp;crop=1 " alt="The dark arch of the Glow Worm Tunnel surrounded by green fronds, with workmen dimly visible just inside.">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/construction-underway-on-lost-city-walking-track-and-glow-worm-tunnel-pathway">Construction underway on Lost City Walking Track and Glow Worm Tunnel pathway</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-            <div class="grid-item ">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/A-F/beowa-national-park-name-change-celebration-nl.jpg?h=610&amp;w=720&amp;hash=EAB41B81612769AAEA130CF81FD874CD040EF7F9&amp;crop=1 " alt="Two young dancers in ceremonial dress photographed at a moment when they are both about a foot off the ground, their own noontime shadows directly beneath, with ceremonial smoke in the background">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/beowa-name-change-celebrated-1-year-on">Beowa name change celebrated one year on</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-            <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Heritage/caroline-chisholm-plaque-installed-nl.jpg?h=610&amp;w=720&amp;hash=65D7E1068A5E2754DD904B77E9A4E400306EE74E&amp;crop=1 " alt="Caroline Chisholm plaque installed">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/new-round-of-blue-plaques-recognises-the-stories-of-nsw">New round of Blue Plaques recognises the stories of NSW</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-            <div class="grid-item grid-item-x2 hidden-xs">
-            <div class="uptodate-item  TwoByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Animals-and-plants/Pests-weeds/weed-biocontrol-cabomba-weevil-nl.jpg?h=610&amp;w=720&amp;hash=6D4E7861EDCFC538A12A7DECE2F2EE824CA3D83C&amp;crop=1 " alt="An enlarged shot of a cabomba weevil caught in the act, perched on a sprig of the bright green aquatic cabomba plant">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/new-south-wales-uses-natural-enemies-to-target-weeds">New South Wales uses natural enemies to target weeds</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/A-F/biamanga-national-park-rebuilt-infrastructure-nl.jpeg?h=610&amp;w=720&amp;hash=C6C884FE24419E95FF3EC73010E3EABCCD9A83C1&amp;crop=1 " alt="Woman walking along elevated boardwalk path through bush">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/biamanga-cultural-area-beckons-back-visitors">Biamanga Cultural Area beckons back visitors</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByTwo" >
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/M-R/mooball-national-park-baranbali-road-update-08-nl.jpg?h=610&amp;w=720&amp;hash=04BC9B4A25B03080A0458519E87A8F8D29698811&amp;crop=1 " alt="Major slip on Baranbali Road, Mooball National Park">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/dangerous-excursion-into-national-park-flood-recovery-works-zone-costs-four-wheel-driver-almost-5000">Dangerous excursion into national park flood recovery works zone costs four-wheel driver almost $5,000</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/compass-and-map-nl.jpg?h=610&amp;w=720&amp;hash=858088EA1B4E6DE49A4C8DD5CC5E176D4799E162&amp;crop=1 " alt="Woman bushwalking holding a map and compass">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/news/digital-safety-upgrades-for-nsw-national-parks-bushwalkers">Digital safety upgrades for NSW national parks bushwalkers</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Parks-reserves-and-protected-areas/A-F/border-ranges-national-park-palm-forest-walking-track-172428.jpg?h=610&amp;w=720&amp;hash=650A1F7C7A24F0D23B1EEBB288A77A040A6CDB9A&amp;crop=1 " alt="Palm forest walking track, Border Ranges National Park">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="https://www.nationalparks.nsw.gov.au/alerts/alerts-list">Current park closures, fire and safety alerts</a></h3>
-
-
-
-                    <div class="type">
-                            <span class="fa fa-link"></span>
-
-                    </div>
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="grid-item hidden-xs">
-            <div class="uptodate-item  OneByOne">
-                <div class="group">
-                                <figure>
-
-                            <img class="img-responsive no-height" src="/-/media/OEH/Corporate-Site/Topics/Air/clouds-weather-patterns-129393.jpg?h=610&amp;w=720&amp;hash=62D10B76B0139A3FCCF2E97DEEEFE23DCAE4827C&amp;crop=1 " alt="Clouds, weather pattern">
-            </figure>
-            <div class="caption">
-                <h3 class="uptodate-heading"><a href="/topics/air/current-air-quality">Current air quality</a></h3>
-
-
-
-
-
-            </div>
-
-                </div>
-            </div>
-        </div>
-</div>
-
-
-
-
-
-    <div class="text-center wrap-btn">
-        <a href="https://www.environment.nsw.gov.au/news" class="btn btn-secondary">See all</a>
-    </div>
-
-</div>
-
-</div>
-
-
-
-<div class="comp-connect-with-us bgd-dots-green" style="" data-ds="{8C4F75B9-51B8-4444-A1BB-9A50D499C6C3}">
-    <h2 class="text-center">Connect with us</h2>
-    <a href="#end-connect-with-us" class="sr-only">Skip Connect with us</a>
-    <span id="end-connect-with-us"></span>
-</div>
-
-<div class="container" style="min-height: 100px">
-    
-
-        <article class="component rich-text-editor article" data-external-link="" data-link-icon="" style="width: 100%">
-            <h2 class="h1" style="text-align: center;"><strong>Your local environment</strong></h2>
-        </article>
-<div class="row">
-        <div class="col-xlg-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 column ">
-            
-
-
-<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyC_X8s10zPclRBhLnFevdQFTnUx75uCXbE&libraries=places"></script>
-
-
-
-<div class="comp-region-finder">
-    <div class="title-box">
-        <h2>Explore your region</h2>
-        <span class="info">Choose one of the options below to learn more about your region.</span>
-    </div>
-
-    <div class="map-box">
-        <h3 class="title-sup">Select a region from the map:</h3>
-        <div class="regions-map" id="regions-map" data-region-finder=""></div>
-    </div>
-    <div class="table-list">
-        <h3 class="title-sup">Choose from the list:</h3>
-        <div class="inner">
-            <div class="row">
-                <div class="col-sm-6">
-                    <ul class="list-unstyled list-link">
-                            <li data-region-key="ms">
-                                <a href="/regions/metropolitan-sydney">
-                                    Metropolitan Sydney
-                                </a>
-                            </li>
-                            <li data-region-key="cwo">
-                                <a href="/regions/central-west-and-orana">
-                                    Central West and Orana
-                                </a>
-                            </li>
-                            <li data-region-key="ht">
-                                <a href="/regions/hunter">
-                                    Hunter
-                                </a>
-                            </li>
-                            <li data-region-key="mm">
-                                <a href="/regions/murray-murrumbidgee">
-                                    Murray-Murrumbidgee
-                                </a>
-                            </li>
-                            <li data-region-key="nc">
-                                <a href="/regions/north-coast">
-                                    North Coast
-                                </a>
-                            </li>
-
-                        
-                    </ul>
-                </div>
-                <div class="col-sm-6">
-                    <ul class="list-unstyled list-link">
-                            <li data-region-key="cc">
-                                <a href="/regions/central-coast">
-                                    Central Coast
-                                </a>
-                            </li>
-                            <li data-region-key="fw">
-                                <a href="/regions/far-west">
-                                    Far West
-                                </a>
-                            </li>
-                            <li data-region-key="ill">
-                                <a href="/regions/illawarra">
-                                    Illawarra
-                                </a>
-                            </li>
-                            <li data-region-key="nenw">
-                                <a href="/regions/new-england-north-west">
-                                    New England-North West
-                                </a>
-                            </li>
-                            <li data-region-key="set">
-                                <a href="/regions/south-east-and-tablelands">
-                                    South East and Tablelands
-                                </a>
-                            </li>
-
-                        
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="search-address">
-        <h3 class="title-sup">Enter your address:</h3>
-        <div class="inner">
-            <div class="row">
-                <div class="col-sm-8">
-                    <form method="POST" name="frm-address-search" id="frm-address-search">
-                        <div class="form-group search-form">
-                            <label for="search-address-input" class="sr-only">search</label>
-                            <div class="input-wrap">
-                                <input class="form-control" id="search-address-input" name="search-address-input" placeholder="Address / Suburb / Postcode" type="text" value="">
-                            </div>
-                            <button type="submit" class="btn-search">
-                                <span class="sr-only">Search for my region</span>
-                                <i class="fa fa-search" aria-hidden="true"></i>
-                            </button>
-                        </div>
-                        <p class="error-message hidden"> Unable to find matching region in New South Wales. Please choose a region from the list. </p>
-                    </form>
-                </div>
-
-                <div class="col-sm-4">
-                    <button class="btn btn-secondary btn-block locate-btn">
-                        <span class="fa fa-crosshairs" aria-hidden="true"></span>
-                        Locate me
-                    </button>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-        </div>
-        <div class="col-xlg-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 column ">
-            
-
-
-
-<div class="comp-air-quality row" data-ds="{9160EFF8-3492-41FA-8B13-9A0948D2A8DD}">
-    <div class="col-md-12">
-        <h2>Air quality</h2>
-        <div class="air-content">
-
-        </div>
-    </div>
-</div>
-
-        </div>
-
-
-</div>
-
-</div>
-
-
-
-<!-- start incDECCfooter_v2.inc-->
-<footer class="comp-footer">
-    <div class="container">
-        <div class="footer row" data-equalizer=".footer-content" data-media="(min-width: 991px)">
-            <div class="col-md-3 footer-col footer-col-collapse">
-                <div class="footer-content">
-                    <!-- TODO link the heading as per spec --><h3><a href="/regions">Regional information</a> <span class="fa fa-angle-up hidden-md hidden-lg" aria-hidden="true"></span></h3>
-                    <ul class="list-unstyled collapse" id="regional-information">
-                            <li> <a href="/regions/metropolitan-sydney">Metropolitan Sydney</a> </li>
-                            <li> <a href="/regions/central-coast">Central Coast</a> </li>
-                            <li> <a href="/regions/central-west-and-orana">Central West and Orana</a> </li>
-                            <li> <a href="/regions/far-west">Far West</a> </li>
-                            <li> <a href="/regions/hunter">Hunter</a> </li>
-                            <li> <a href="/regions/illawarra">Illawarra</a> </li>
-                            <li> <a href="/regions/murray-murrumbidgee">Murray-Murrumbidgee</a> </li>
-                            <li> <a href="/regions/new-england-north-west">New England-North West</a> </li>
-                            <li> <a href="/regions/north-coast">North Coast</a> </li>
-                            <li> <a href="/regions/south-east-and-tablelands">South East and Tablelands</a> </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 footer-col footer-col-collapse">
-                <div class="footer-content">
-                    <h3><a href="/policy-and-law">Policy and law</a> <span class="fa fa-angle-up hidden-md hidden-lg" aria-hidden="true"></span></h3>
-                    <ul class="list-unstyled collapse" id="legislation">
-                            <li> <a href="/policy-and-law/legislation">Legislation</a> </li>
-                            <li> <a href="/policy-and-law/policies">Policies</a> </li>
-                            <li> <a href="/policy-and-law/public-registers">Public registers</a> </li>
-                            <li> <a href="/policy-and-law/litigation">Litigation</a> </li>
-                            <li> <a href="/policy-and-law/compliance-and-enforcement">Compliance and enforcement</a> </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 footer-col footer-col-collapse">
-                <div class="footer-content">
-                    <h3><a href="/about-us">About this website</a> <span class="fa fa-angle-up hidden-md hidden-lg" aria-hidden="true"></span></h3>
-                    <ul class="list-unstyled collapse" id="about">
-                            <li> <a href="/about-us/who-we-are">Who we are</a> </li>
-                            <li> <a href="/about-us/our-website">Our website</a> </li>
-                            <li> <a href="/about-us/privacy-and-security">Privacy and security</a> </li>
-                            <li> <a href="/about-us/copyright-and-disclaimer">Copyright and disclaimer</a> </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-12 footer-col">
-                <div class="footer-content">
-                    <h3>Contact us</h3>
-                        <ul class="list-contact">
-                                                            <li>
-                                    <a href="mailto:info@environment.nsw.gov.au">
-                                        <i class="fa icon fa-envelope" aria-hidden="true">
-                                        </i>Email
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.environment.nsw.gov.au/contact/locations.htm">
-                                        <i class="fa icon icon-home" aria-hidden="true">
-                                        </i>Office
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="/get-involved/have-your-say">
-                                        <i class="fa icon fa-user-circle" aria-hidden="true">
-                                        </i>Have your say
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="/about-us/contact-us/feedback-or-complaint">
-                                        <i class="fa icon icon-online" aria-hidden="true">
-                                        </i>Feedback or complaint
-                                    </a>
-                                </li>
-                        </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row" role="contentinfo">
-                <div class="footer-bottom-info">We pay respect to the Traditional Custodians and the First people of NSW, and acknowledge their continued connection to their Country and culture.</div>
-                
-            </div>
-        </div>
-        <button data-back-to-top="" class="back-to-top"><span class="fa fa-angle-up"></span>Top</button>
-    </div>
-</footer>
-<small class='oeh-print'>Please consider the environment before printing.</small>
-<!-- end incDECCfooter.inc-->
-        
-    </div>
-
-
-    <!--script required for WFFM-->
-    <!-- <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script> -->
-    <script src="/Assets/Corporate/Js/Libs/jquery-ui.min.js"></script>
-
-    <script src="/Assets/Corporate/Js/libs/angular.min.js"></script>
-    <script src="/Assets/Corporate/Js/libs/oeh-libs.js"></script>
-
-    
-    <script src="/Assets/Corporate/Js/libs/loader.js"></script>
-
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script> -->
-    <script src="/Assets/Corporate/Js/libs/jquery.cookie.min.js"></script>
-
-    <!-- <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> -->
-    
-
-    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.9/angular-sanitize.min.js"></script> -->
-    <script src="/Assets/Corporate/Js/libs/angular-sanitize.min.js"></script>
-
-    <!-- <script src="https://cdn.jsdelivr.net/jquery.xml2json/1.2/jquery.xml2json.js" type="text/javascript"></script> -->
-    <script src="/Assets/Corporate/Js/libs/jquery.xml2json.js"></script>
-    <script src="/Assets/Corporate/Js/_sitecore/oeh-scripts.js"></script>
-    <script src="/Assets/Corporate/Js/Libs/iframeResizer.js"></script> 
-
-    <!--script required for WFFM-->
-    <!-- <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script> -->
-    <script src="/Assets/Corporate/Js/Libs/jquery-ui.min.js"></script>
-
-    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> -->
-    <script src="/Assets/Corporate/Js/Libs/bootstrap.min.js"></script>
-
-    
-
-    <!--end script required for WFFM-->
-    
-    <script>
-<!-- Track publicaton pdf titles for download buttons -->  
-	var downloadBtns = $('a.btn');
-	
-	var btns = $(downloadBtns).filter( function () {
-		var filteredDownloadBtns = $(this).text().toLowerCase().indexOf('download') >= 0;		
-		return filteredDownloadBtns			
-	})
-	
-	btns.each(function(){
-		$(this).addClass('publication-pdf').prepend('<span class="sr-only"></span>');
-		
-		var pdfTitlesComponent = $(this).parent().parent().parent().find('h3.small-title').text().trim();
-		$(this).find('span').html(pdfTitlesComponent);
-		
-		var pdfTitlePage = $(this).parent().parent().parent().parent().find('h1.title').html();
-		$(this).find('span').html(pdfTitlePage);
-	});
-
- 
-<!-- to initialise resizer -->	
-
-	iFrameResize({}); 
-
-<!-- To add 20px padding in the iframe buttons -->
-	 $(window).load(function(){
-
- $('.comp_iframe_iframe').css("height","+=20");
-
- }); 
-
-</script>
-    
-    <meta name="google-site-verification" content="psXMKC54D5p9WzKOeeYha8pVKa-B3Qv_El078ev4UGo" />
-
-<script src="https://www.onegov.nsw.gov.au/CDN/feedbackassist/feedbackassist.v1.min.js" async defer onload="caBoootstrap.init('https://feedbackassist.onegov.nsw.gov.au/feedbackassist');"></script>
-
-
-<style>
-body {-ms-overflow-style: scrollbar;}
-.search-address {
-  display: none;
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
 </style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://gmlaustralia.wpenginepowered.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='search-filter-plugin-styles-css' href='https://gmlaustralia.wpenginepowered.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css' href='https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/style.css?ver=1696978257' type='text/css' media='all' />
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='search-filter-plugin-build-js-extra'>
+/* <![CDATA[ */
+var SF_LDATA = {"ajax_url":"https:\/\/www.gml.com.au\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.gml.com.au\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.4.0' id='search-filter-plugin-build-js'></script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.4.0' id='search-filter-plugin-chosen-js'></script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/js/modernizr.js?ver=6.3.2' id='modernizr-script-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-10386657-1' id='google_gtagjs-js' async></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.gml.com.au"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-10386657-1", {"anonymize_ip":true});
+gtag("config", "GT-KV59VHB");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.gml.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.gml.com.au/wp-json/wp/v2/pages/20" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gml.com.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.gml.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.gml.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gml.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.gml.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gml.com.au%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.114.0" />    </head>
+    <body class="home page-template-default page page-id-20">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCKF642"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <header>
+            <div class="block__container logo-block">
+                <div class="block--is-fluid">
+                    <div class="block__inner">
+
+                        <div class="logo__container">
+                            <a href="https://www.gml.com.au" title="Back to home">
+                                <svg width="86" height="55" viewBox="0 0 86 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.6878 49.329H3.81575V44.8027H3.0437V54.7621H3.81575V49.9905H9.6878V54.7621H10.4599V44.8027H9.6878V49.329Z" fill="white"/>
+<path d="M16.5918 49.9905H21.521V49.3216H16.5918V45.4567H21.7586V44.8027H15.8197V54.7621H21.8625V54.1081H16.5918V49.9905Z" fill="white"/>
+<path d="M33.1537 49.2993C33.5249 48.8013 33.7105 48.2216 33.7105 47.5675C33.7105 46.7723 33.473 46.1108 32.9978 45.5905C32.5227 45.0702 31.7136 44.8027 30.5703 44.8027H27.1481V54.7696H27.9201V50.3621H30.5406L33.1315 54.7696H34.0149L31.3647 50.2655C32.1887 50.1169 32.7826 49.7973 33.1537 49.2993ZM30.5109 49.7006H27.9127V45.4642H30.5035C31.3424 45.4642 31.9511 45.6574 32.3223 46.0365C32.6935 46.4155 32.8865 46.9284 32.8865 47.575C32.8865 48.2216 32.6935 48.7419 32.3075 49.1283C31.9214 49.5 31.3201 49.7006 30.5109 49.7006Z" fill="white"/>
+<path d="M40.2209 44.8027H39.4489V54.7696H40.2209V44.8027Z" fill="white"/>
+<path d="M44.5414 45.4567H47.8671V54.7621H48.6318V45.4567H51.9724V44.8027H44.5414V45.4567Z" fill="white"/>
+<path d="M57.7778 44.8027L53.9769 54.7696H54.7787L55.8699 51.8189H60.4503L61.5416 54.7696H62.3581L58.5424 44.8027H57.7778ZM60.2127 51.1574H56.1075L57.7036 46.8243C57.8446 46.4675 57.9931 46.0513 58.149 45.5608H58.1787C58.29 45.9324 58.4385 46.3561 58.6167 46.8243L60.2127 51.1574Z" fill="white"/>
+<path d="M70.0267 50.3325H73.3451V50.9048C73.3451 51.3507 73.256 51.8413 73.0704 52.3541C72.8848 52.8744 72.5507 53.3352 72.0682 53.7291C71.5857 54.1305 70.9175 54.3237 70.0787 54.3237C69.3066 54.3237 68.6459 54.123 68.1189 53.7291C67.5844 53.3278 67.1835 52.7852 66.9237 52.1014C66.6638 51.4176 66.5228 50.6447 66.5228 49.7899C66.5228 48.8832 66.6638 48.0805 66.9385 47.3967C67.2132 46.7055 67.6215 46.1703 68.156 45.7913C68.6905 45.4048 69.3289 45.219 70.0713 45.219C71.0437 45.219 71.7638 45.4643 72.2315 45.9622C72.6992 46.4602 72.9887 47.0325 73.1001 47.6866L73.8721 47.6048C73.8053 47.1588 73.642 46.698 73.3896 46.2372C73.1298 45.7764 72.7363 45.3751 72.1944 45.048C71.6525 44.721 70.9621 44.5575 70.1232 44.5575C69.2101 44.5575 68.4158 44.7805 67.7625 45.2264C67.1018 45.6724 66.6044 46.2893 66.263 47.0697C65.9215 47.8575 65.7507 48.7568 65.7507 49.7676C65.7507 50.771 65.914 51.6629 66.2481 52.4582C66.5822 53.246 67.0647 53.8703 67.6957 54.3237C68.3193 54.7771 69.0765 55.0001 69.9599 55.0001C70.7913 55.0001 71.5114 54.792 72.1127 54.3757C72.7141 53.9595 73.1372 53.3947 73.3822 52.6811L73.4787 54.7622H74.0651V49.6636H70.0267V50.3325Z" fill="white"/>
+<path d="M79.9965 49.9905H84.9258V49.3216H79.9965V45.4567H85.1708V44.8027H79.2245V54.7621H85.2673V54.1081H79.9965V49.9905Z" fill="white"/>
+<path d="M27.2965 27.0169C24.3122 27.0095 19.5314 27.0095 19.0118 27.002C15.0327 26.727 11.9148 23.3973 11.9148 19.4284C11.9148 15.4818 14.9882 12.1595 18.8782 11.8622C19.2642 11.8473 24.4384 11.8324 24.4384 11.8324V0C24.4384 0 19.1677 0 18.8707 0.0148649C8.28471 0.379054 0 8.91149 0 19.4209C0 29.6851 8.07685 38.2027 18.3808 38.8122C18.7148 38.8345 24.2083 38.7973 27.1406 38.7973H39.1222V27.2027V27.0095V18.923H27.2965V27.0169Z" fill="white"/>
+<path d="M57.7703 23.4939L41.5646 0.00744629H27.2965L50.5471 33.9142L57.7703 23.4939Z" fill="white"/>
+<path d="M73.4563 27.0095H73.2633V0.00744629H61.4449V27.0095V27.2027V38.7973H73.2633H73.4563H85.8537V27.0095H73.4563Z" fill="white"/>
+</svg>
+                            </a>
+                        </div>
+
+                        <div class="menu-button__container">
+                            <div class="menu-button menu-button-trigger">
+                                <span class="top-bar"></span>
+                                <span class="middle-bar">Toggle menu</span>
+                                <span class="bottom-bar"></span>
+                            </div>
+                            <div class="menu-button search-icon ">
+                              <a  href="/search/">
+                                <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 500.00001 500.00001"
+   id="svg4162"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Search_Icon.svg">
+  <defs
+     id="defs4164" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.954"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4167">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36216)">
+    <g
+       id="g1400"
+       transform="translate(-4.3609793,-7.6704785)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4714"
+         d="M 232.83952,614.96702 A 154.04816,154.04794 0 0 0 78.79153,769.01382 154.04816,154.04794 0 0 0 232.83952,923.06184 154.04816,154.04794 0 0 0 386.88751,769.01382 154.04816,154.04794 0 0 0 232.83952,614.96702 Z m 0,26.77613 A 129.95832,127.2707 0 0 1 362.79832,769.01382 129.95832,127.2707 0 0 1 232.83952,896.28449 129.95832,127.2707 0 0 1 102.88194,769.01382 129.95832,127.2707 0 0 1 232.83952,641.74315 Z"
+         style="opacity:1;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         ry="18.08342"
+         rx="33.249443"
+         transform="matrix(0.65316768,0.7572133,-0.60689051,0.79478545,0,0)"
+         y="319.55432"
+         x="794.8775"
+         height="36.16684"
+         width="173.02675"
+         id="rect4721"
+         style="opacity:1;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
+                              </a>
+                            </div>                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="block__container menu__container is-first-state">
+    <div class="block--is-fluid">
+        <div class="block__inner">
+
+            <div class="menus">
+                <div class="inner">
+                    <nav class="menu__primary">
+                        <ul class="has-no-bullets">
+                            <li class="h1">
+                                <a href="https://www.gml.com.au/projects/">Projects</a>
+                                <div class="projects"></div>
+                            </li>
+                            <li class="h1">
+                                <a href="https://www.gml.com.au/people/">People</a>
+                                <div class="people"></div>
+                            </li>
+                            <li class="h1">
+                                <a href="https://www.gml.com.au/news/">News</a>
+                                <div class="perspectives"></div>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <nav class="menu__secondary">
+                        <ul id="menu-menu-1" class="menu"><li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1683"><a href="https://www.gml.com.au/about-us/">About Us</a></li>
+<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1685"><a href="https://www.gml.com.au/careers/">Careers</a></li>
+<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="https://www.gml.com.au/contact/">Contact Us</a></li>
+<li id="menu-item-1691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1691"><a href="https://www.gml.com.au/services/">Services</a></li>
+<li id="menu-item-1689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1689"><a href="https://www.gml.com.au/search/">Search</a></li>
+</ul>                    </nav>
+                </div>
+            </div>
+
+            <div class="locations">
+
+                                    <ul class="has-no-bullets">
+                                                        <li class="h6">
+                                    Sydney—<a href="tel:+61 2 9319 4811">+61 2 9319 4811</a>
+                                </li>
+                                                            <li class="h6">
+                                    Canberra—<a href="tel:+61 2 6273 7540">+61 2 6273 7540</a>
+                                </li>
+                                                            <li class="h6">
+                                    Melbourne—<a href="tel:+61 3 9380 6933">+61 3 9380 6933</a>
+                                </li>
+                                                </ul>
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+        </header>
+<main id="main">
+  <article>
+    
+
+  <aside class="block__container m__page-transition hidden m_home_acknowledgement"
+         style="background-color: #000">
+    <div class="block--is-fluid">
+      <div class="block__inner">
+          <a class="closeAckButton" onclick=closeAck()>Close</a>
+          <div class="col quote">
+            <p class="h1" style="color:white;">We respect and acknowledge the First Nations people of the lands and waters on which we live and work and we acknowledge their Elders past and present.</p>
+          </div>
+      </div>
+    </div>
+  </aside>
+    <div class="block__container m__hero-frontpage">
+    <div class="video-holder" style="background-image: url( 'https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2018/01/gml-hdr-defaultvideo-2.jpg' );">
+        <video autoplay loop muted>
+            <source src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/11/Homepage.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <div class="block--is-fluid">
+        <div class="block__inner">
+          <div class="logo__container">
+            <a href="https://www.gml.com.au" title="Back to home">
+              <svg width="86" height="55" viewBox="0 0 86 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.6878 49.329H3.81575V44.8027H3.0437V54.7621H3.81575V49.9905H9.6878V54.7621H10.4599V44.8027H9.6878V49.329Z" fill="white"/>
+<path d="M16.5918 49.9905H21.521V49.3216H16.5918V45.4567H21.7586V44.8027H15.8197V54.7621H21.8625V54.1081H16.5918V49.9905Z" fill="white"/>
+<path d="M33.1537 49.2993C33.5249 48.8013 33.7105 48.2216 33.7105 47.5675C33.7105 46.7723 33.473 46.1108 32.9978 45.5905C32.5227 45.0702 31.7136 44.8027 30.5703 44.8027H27.1481V54.7696H27.9201V50.3621H30.5406L33.1315 54.7696H34.0149L31.3647 50.2655C32.1887 50.1169 32.7826 49.7973 33.1537 49.2993ZM30.5109 49.7006H27.9127V45.4642H30.5035C31.3424 45.4642 31.9511 45.6574 32.3223 46.0365C32.6935 46.4155 32.8865 46.9284 32.8865 47.575C32.8865 48.2216 32.6935 48.7419 32.3075 49.1283C31.9214 49.5 31.3201 49.7006 30.5109 49.7006Z" fill="white"/>
+<path d="M40.2209 44.8027H39.4489V54.7696H40.2209V44.8027Z" fill="white"/>
+<path d="M44.5414 45.4567H47.8671V54.7621H48.6318V45.4567H51.9724V44.8027H44.5414V45.4567Z" fill="white"/>
+<path d="M57.7778 44.8027L53.9769 54.7696H54.7787L55.8699 51.8189H60.4503L61.5416 54.7696H62.3581L58.5424 44.8027H57.7778ZM60.2127 51.1574H56.1075L57.7036 46.8243C57.8446 46.4675 57.9931 46.0513 58.149 45.5608H58.1787C58.29 45.9324 58.4385 46.3561 58.6167 46.8243L60.2127 51.1574Z" fill="white"/>
+<path d="M70.0267 50.3325H73.3451V50.9048C73.3451 51.3507 73.256 51.8413 73.0704 52.3541C72.8848 52.8744 72.5507 53.3352 72.0682 53.7291C71.5857 54.1305 70.9175 54.3237 70.0787 54.3237C69.3066 54.3237 68.6459 54.123 68.1189 53.7291C67.5844 53.3278 67.1835 52.7852 66.9237 52.1014C66.6638 51.4176 66.5228 50.6447 66.5228 49.7899C66.5228 48.8832 66.6638 48.0805 66.9385 47.3967C67.2132 46.7055 67.6215 46.1703 68.156 45.7913C68.6905 45.4048 69.3289 45.219 70.0713 45.219C71.0437 45.219 71.7638 45.4643 72.2315 45.9622C72.6992 46.4602 72.9887 47.0325 73.1001 47.6866L73.8721 47.6048C73.8053 47.1588 73.642 46.698 73.3896 46.2372C73.1298 45.7764 72.7363 45.3751 72.1944 45.048C71.6525 44.721 70.9621 44.5575 70.1232 44.5575C69.2101 44.5575 68.4158 44.7805 67.7625 45.2264C67.1018 45.6724 66.6044 46.2893 66.263 47.0697C65.9215 47.8575 65.7507 48.7568 65.7507 49.7676C65.7507 50.771 65.914 51.6629 66.2481 52.4582C66.5822 53.246 67.0647 53.8703 67.6957 54.3237C68.3193 54.7771 69.0765 55.0001 69.9599 55.0001C70.7913 55.0001 71.5114 54.792 72.1127 54.3757C72.7141 53.9595 73.1372 53.3947 73.3822 52.6811L73.4787 54.7622H74.0651V49.6636H70.0267V50.3325Z" fill="white"/>
+<path d="M79.9965 49.9905H84.9258V49.3216H79.9965V45.4567H85.1708V44.8027H79.2245V54.7621H85.2673V54.1081H79.9965V49.9905Z" fill="white"/>
+<path d="M27.2965 27.0169C24.3122 27.0095 19.5314 27.0095 19.0118 27.002C15.0327 26.727 11.9148 23.3973 11.9148 19.4284C11.9148 15.4818 14.9882 12.1595 18.8782 11.8622C19.2642 11.8473 24.4384 11.8324 24.4384 11.8324V0C24.4384 0 19.1677 0 18.8707 0.0148649C8.28471 0.379054 0 8.91149 0 19.4209C0 29.6851 8.07685 38.2027 18.3808 38.8122C18.7148 38.8345 24.2083 38.7973 27.1406 38.7973H39.1222V27.2027V27.0095V18.923H27.2965V27.0169Z" fill="white"/>
+<path d="M57.7703 23.4939L41.5646 0.00744629H27.2965L50.5471 33.9142L57.7703 23.4939Z" fill="white"/>
+<path d="M73.4563 27.0095H73.2633V0.00744629H61.4449V27.0095V27.2027V38.7973H73.2633H73.4563H85.8537V27.0095H73.4563Z" fill="white"/>
+</svg>
+            </a>
+          </div>
+
+          <div class="inset_block__container">
+            <h1 class="hero__title">
+              Shaping the Future of Heritage
+            </h1>
+          </div>
+        </div>
+    </div>
+</div>
+        <div class="e__layered-content white">
+              <section class="inset_block__container white"
+                 style="background-color:#ffffff">
+          <div class="block--is-fluid">
+            <div class="block__inner">
+              <div class="front-page-introduction  white">
+                <p class="h3 front-page-introduction__text">GML Heritage is at the forefront of Australian heritage and archaeological consulting, connecting people and place for over 30 years. <br />
+<br />
+Find us in Sydney, Canberra and Melbourne. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      
+            <section class="block__container m__front-page-posts">
+        <div class="block--is-fluid">
+                      <div class="block__inner">
+              
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/royal-exhibition-building-and-carlton-gardens/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/11/DSCN8864-web-1024x687.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Royal Exhibition Building and Carlton Gardens</p>
+      </a>
+    </div>
+
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/gml-wins-two-interpretation-australia-awards/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/11/DSC_2355-1-1024x683.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">GML wins two Interpretation Australia awards</p>
+      </a>
+    </div>
+
+
+    <div class="post-preview jobs">
+      <a class="post-preview__inner" href="https://www.gml.com.au/jobs/archaeologist-heritage-consultant-melbourne/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2021/10/Image-5-1024x693.png">
+          </div>
+        
+        <p class="post-preview__type">Jobs</p>
+        <p class="post-preview__title">Join our Melbourne team: Archaeologist/Heritage Consultant</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/chinatown-thematic-history/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/09/SLNSW_FL9545722-e1701130567596.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Chinatown Thematic History</p>
+      </a>
+    </div>
+
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/sydney-heritage-walking-tour/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/08/04-Website-Fairfax-FXB47153--1024x690.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">Walking tour—Sydney&#8217;s ever changing heritage</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/referendum-statement/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/10/20090909000204774594-original-e1701130634394-1024x533.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">A statement on the Referendum</p>
+      </a>
+    </div>
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/mlc-north-sydney/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/09/MLC-2-e1695620934648.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">MLC North Sydney</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/darlington-public-school-redevelopment/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/09/Darling-PS-image-AW-Edwards-e1695096128772-1024x600.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Darlington Public School Redevelopment</p>
+      </a>
+    </div>
+
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/braidwood-heritage-management/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2022/05/Photograph-of-Braidwood-for-community-engagement-program.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">Braidwood and its Setting: State Heritage Register Listing Management Review</p>
+      </a>
+    </div>
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/regatta-park-interpretation-plan/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/09/Regatta-Park-Aerial-Webslider-1-1024x347.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Regatta Park Interpretation Plan</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/sydney-metro-parramatta-station/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/06/IMG_9031-1024x768.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Sydney Metro Parramatta Station</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/protecting-balwyns-interwar-heritage-homes/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/06/20220409_153523-1024x768.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Balwyn&#8217;s Interwar Heritage Homes</p>
+      </a>
+    </div>
+
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/gml-reconciliation-action-plan/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/05/TA2020-136_Tony-Albert_You-Wreck-Me-9_2020-cropped-internal-use-only-e1684289135897-1024x647.webp">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">GML launches first Reconciliation Action Plan</p>
+      </a>
+    </div>
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/macquarie-street-east-precinct/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/03/msep.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Macquarie Street East Precinct</p>
+      </a>
+    </div>
+
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/canberra-theatre-centre/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/05/FACADE-new-2000-seat-theatre-render-1024x660.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">Transforming Canberra Theatre</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/new-head-of-gml-heritage-melbourne/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/05/Edwina-Jans-pic-crop-1024x849.jpg">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">New Head of GML Heritage, Melbourne</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview news">
+      <a class="post-preview__inner" href="https://www.gml.com.au/news/winner-best-heritage-consulting-firm/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/04/GML-057-1024x723.webp">
+          </div>
+        
+        <p class="post-preview__type">News</p>
+        <p class="post-preview__title">Winner &#8211; Best Heritage Consulting Firm</p>
+      </a>
+    </div>
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/parramatta-square-heritage-interpretation/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2022/01/DSC_4663_2-1024x684.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Parramatta Square, Heritage Interpretation</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/heritage-and-climate-change-project/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/03/Mooramong-storm-damage-Oct-2021-1024x633.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Heritage and Climate Change Project</p>
+      </a>
+    </div>
+
+
+
+    <div class="post-preview projects">
+      <a class="post-preview__inner" href="https://www.gml.com.au/projects/ku-ring-gai-chase-national-park-interpretation/">
+        
+          <div class="thumbnail__holder">
+            <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/03/DSC_6249-1024x684.jpg">
+          </div>
+        
+        <p class="post-preview__type">Projects</p>
+        <p class="post-preview__title">Ku-ring-gai Chase National Park Interpretation</p>
+      </a>
+    </div>
+
+
+            </div>
+                  </div>
+    </div>
+    </section>
+  
+    <aside class="block__container call-out-block__container">
+    <div class="block--is-fluid">
+        <div class="block__inner">
+            <div class="call-out-block">
+                <p class="h2">Let's work together&#8212;<a href="https://www.gml.com.au/contact/">get in
+                        touch</a></p>
+            </div>
+        </div>
+    </div>
+</aside>    </div>
+  </article>
+
+  </main>
+
+<div class="block__container footer__container addresses call-out-block__container">
+    <div class="block--is-fluid">
+        <div class="block__inner">
+
+            
+                                        <aside class="col contact__location">
+                            <h4 class="p"><a href= "/sydney">Sydney</a></h4>                            <p>Level 17, 323 Castlereagh Street<br />
+Haymarket NSW 2000<br />
+                                                            <a href="tel:+61 2 9319 4811">+61 2 9319 4811</a><br/>
+                            
+                            
+                            </p>                        </aside>
+                                            <aside class="col contact__location">
+                            <h4 class="p"><a href= "/canberra">Canberra</a></h4>                            <p>PO Box 3171<br />
+Manuka ACT 2603<br />
+                                                            <a href="tel:+61 2 6273 7540">+61 2 6273 7540</a><br/>
+                            
+                            
+                            </p>                        </aside>
+                                            <aside class="col contact__location">
+                            <h4 class="p"><a href= "/melbourne">Melbourne</a></h4>                            <p>17 Drummond Street <br />
+Carlton VIC 3053<br />
+                                                            <a href="tel:+61 3 9380 6933">+61 3 9380 6933</a><br/>
+                            
+                            
+                            </p>                        </aside>
+                    
+                <aside class="col">
+                    
+                                            <p><a href="mailto:heritage@gml.com.au">heritage@gml.com.au</a></p>
+                    
+                    <ul class="has-no-bullets">
+                                                    <li>
+                                <a href="https://www.instagram.com/gmlheritage/" rel="noreferrer nofollow noopener" target="_blank">Instagram</a>
+                            </li>
+                        
+                                                    <li>
+                                <a href="https://www.linkedin.com/company/godden-mackay-logan-pty-ltd" rel="noreferrer nofollow noopener" target="_blank">LinkedIn</a>
+                            </li>
+                                            </ul>
+                </aside>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+<footer class="block__container footer__container small-print">
+    <div class="block--is-fluid">
+        <div class="block__inner">
+            <div class="col abn bottom-margin">
+                <p>We respect and acknowledge the First Nations Peoples of the lands and waters on which we live and work, their rich cultural heritage and deep connection to Country, and we acknowledge their Elders past and present. We are committed to truth-telling and to engaging with First Nations Peoples to support the protection of their culture and heritage. We strongly advocate social, cultural and political justice and support the Uluru Statement from the Heart.</p>
+            </div>
+        </div>
+    </div>
+    <div class="block--is-fluid">
+        <div class="block__inner">
+            <div class="col abn" style="text-align:bottom;">
+                <img src="https://gmlaustralia.wpenginepowered.com/wp-content/uploads/2023/10/logo_iso.png" height="150">
+                <p>GML Heritage<span class="is-grey">—ABN 60 001 179 362</span><br />
+                GML Heritage Victoria P/L<span class="is-grey">—ABN 31 620 754 761</span></p>
+            </div>
+            <div class="col copyright is-grey">
+                <p>© All rights reserved—<a href="http://pollen.com.au/" rel="noreferrer nofollow noopener" target="_blank">Site by Pollen</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script id="jquery-ui-datepicker-js-after" type="text/javascript">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/js/vendor.js?ver=1553662238' id='vendor-script-js'></script>
+<script type='text/javascript' src='https://gmlaustralia.wpenginepowered.com/wp-content/themes/gml/js/custom.js?ver=1653458817' id='custom-script-js'></script>
 </body>
 </html>
