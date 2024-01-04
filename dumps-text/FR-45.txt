@@ -1,241 +1,305 @@
-   En cliquant sur "Accepter tous les cookies", vous acceptez le stockage
-   de cookies sur votre appareil pour améliorer la navigation sur le site,
-   analyser l'utilisation du site et contribuer à nos efforts de
-   marketing. Consultez notre politique de confidentialité pour plus
-   d'informations.
-   PréférencesRefuserAccepter
-   Centre de préférences de confidentialité
-   Lorsque vous visitez des sites Web, ils peuvent stocker ou récupérer
-   des données dans votre navigateur. Ce stockage est souvent nécessaire
-   pour les fonctionnalités de base du site Web. Le stockage peut être
-   utilisé à des fins de marketing, d'analyse et de personnalisation du
-   site, telles que le stockage de vos préférences. La confidentialité est
-   importante pour nous, vous avez donc la possibilité de désactiver
-   certains types de stockage qui peuvent ne pas être nécessaires au
-   fonctionnement de base du site Web. Le blocage de catégories peut avoir
-   un impact sur votre expérience sur le site Web.
-   Refuser tous les cookiesAutoriser tous les cookies
-   Gérer les préférences de consentement par catégorie
-   Essentiels
-   Toujours actifs
-   Ces éléments sont nécessaires pour activer les fonctionnalités de base
-   du site Web.
-   Marketing
-   [ ] Essential
-   Ces éléments sont utilisés pour diffuser des publicités plus
-   pertinentes pour vous et vos intérêts. Ils peuvent également être
-   utilisés pour limiter le nombre de fois que vous voyez une publicité et
-   mesurer l'efficacité des campagnes publicitaires. Les réseaux
-   publicitaires les placent généralement avec l'autorisation de
-   l'opérateur du site Web.
-   Personnalisation
-   [ ] Essential
-   Ces éléments permettent au site Web de mémoriser les choix que vous
-   faites (tels que votre nom d'utilisateur, votre langue ou la région
-   dans laquelle vous vous trouvez) et de fournir des fonctionnalités
-   améliorées et plus personnelles. Par exemple, un site Web peut vous
-   fournir des bulletins météorologiques locaux ou des informations sur le
-   trafic en stockant des données sur votre position actuelle.
-   Analytiques
-   [ ] Essential
-   Ces éléments aident l'opérateur du site Web à comprendre comment son
-   site Web fonctionne, comment les visiteurs interagissent avec le site
-   et s'il peut y avoir des problèmes techniques. Ce type de stockage ne
-   collecte généralement pas d'informations permettant d'identifier un
-   visiteur.
-   Confirmer mes préférences et fermer
-   Submit
+   #À la Une de 20minutes.fr «Héritage numérique»: La justice allemande
+   déverrouille l’accès aux données numériques personnelles d’un défunt
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THJ2PKM
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
-Se pré-inscrire !
+   Retour à l’accueil
+     * Journal
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Nom* ____________________
-   Prénom*_____________________
-   Email* ____________________
-   Téléphon______________________
-   Vous êtes ?
-   (*) Un particulier
-   ( ) Une entreprise
-   ( ) Une étude notariale ou un notaire
-   Message
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   [ ] Nous prendrons soin de vos données. Lire notre politique de
-   confidentialité.
-   Envoyer
-   Merci, nous avons bien reçu votre demande et nous vous répondrons au
-   plus vite !
-   Une erreur s'est produite lors de l'envoi du formulaire.
-   Logo de Solal Tech AccueilLe Blog
-   Les services Solal
-   Solal pour les notaires
+   Recherche ____________________ (BUTTON) Ok
 
-   La transmission numérique simplifiée pour vos clients
-   Solal pour les assureurs
+     * Actualité
+     * Régions
+     * Sport
+     * Divertissement
+     * Planète
+     * Tempo
+     * High-Tech
+     * Vie Pro
+     * JO 2024
+     * Vidéos
+     * Podcasts
+     * En Images
+     * Guide d'achat
+     * Le direct
+     * Jeux
+     * Services
 
-   Une assurance numérique sur-mesure
-   Service de résiliation SOLAL
+   (BUTTON) Menu complet
+   Retour à l’accueil
 
-   Clôture des comptes numériques
-   Espace Notaire
-   Espace Notaire
-   Connexion
-   Connexion
-   Icône permettant de passer le site en anglais
-   English
-   Icône permettant de passer le site en français
-   Français
-   Blog
-   Légal
+   By the Web L’Allemagne fait un pas en avant sur la question de
+   «l’héritage numérique»
+     * Partager sur Messenger
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Flipboard
+     * Partager sur Linkedin
+     * (BUTTON) Sauvegarder l'article
 
-L’héritage numérique et la Loi
+   (BUTTON) Menu complet
 
-   Flora Minaire
-   June 29, 2022
-   •
-   2 min. de lecture
+   (BUTTON) Fermer
 
-L’héritage numérique et la loi
+     * Sciences
+     * Espace
+     * Jeux vidéo
+     * Réseaux sociaux
+     * By the Web
+     * Amazon
+     * Google
+     * Méta
+     * Apple
+     * 20 Mint
 
-   Jusqu’en 2016 le destin des données personnelles présentes sur Internet
-   en cas de décès n’étaient protégées par aucun cadre législatif
-   particulier. La Loi Lemaire de 2016 tente d’y remédier en octroyant le
-   droit à la mort numérique. Quelles solutions sont maintenant possibles
-   pour le commun des mortels afin de transmettre son patrimoine digital
-   dans les meilleures conditions ?
+   (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
+   sous-sections suivantes
 
-La transmission de votre patrimoine digital
+   Dans l’actu
+     * Inondations en France
+     * Guerre Hamas-Israël
+     * Guerre en Ukraine
+     * JO Paris 2024
 
-   Dans notre société moderne où les mails ont remplacé les lettres et où
-   nos photos de vacances s’affichent sur nos profils Facebook, il est
-   logique de s’interroger quant à la protection de nos données en cas de
-   décès. Il en va de même pour les dossiers que vous sauvegardez sur
-   votre Cloud. Comment être certain que ces informations seront
-   facilement accessibles à vos héritiers s’ils en ont besoin ? L’essor du
-   digital prenant une place de plus en plus importante dans nos vies
-   quotidiennes, il était devenu urgent que les autorités réagissent en
-   proposant une législation adaptée. En effet, lors d’une succession, les
-   biens du défunt sont tous répertoriés afin d’être répartis entre les
-   légataires. Il était donc logique d’encadrer légalement l’héritage
-   numérique. Grâce à la Loi du 7 octobre 2016, il est dorénavant possible
-   d’être prévoyant en préparant dès aujourd’hui la transmission de
-   l’ensemble de ses biens, y compris les biens virtuels.
+   (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
-   👉 Transmettez votre patrimoine numérique sur Solal Tech.
+    1. Accueil
+    2. High-Tech
 
-L’instauration d’une République numérique
+«Héritage numérique»: La justice allemande déverrouille l’accès aux données
+numériques personnelles d’un défunt
 
-   Devant l’essor des réseaux sociaux et la multiplication des services en
-   ligne, l’Etat a lancé, fin 2014, une grande consultation nationale.
-   Celle-ci avait pour objectif de définir les enjeux du numérique dans
-   nos sociétés modernes. La nouvelle législation adoptée deux ans plus
-   tard s’articule autour de trois axes principaux :
+   LOI NUMERIQUE Ce jeudi, la plus haute juridiction allemande a accordé
+   aux parents d’une jeune fille mineure décédée, l’accès aux contenus et
+   aux conversations privées de son compte Facebook…
 
-   · la circulation des données personnelles et du savoir ;
 
-   · la protection des droits des utilisateurs ;
+    Marie De Fournas
 
-   · l’accès au numérique pour l’ensemble de la population.
+   Publié le 12/07/18 à 17h25
+   2 commentaires 12 partages
+     * Partager sur Messenger
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Flipboard
+     * Partager sur Pinterest
+     * Partager sur Linkedin
+     * Imprimer
+     * Envoyer par Mail
+     * (BUTTON) Sauvegarder l'article
 
-   C’est dans ce cadre que la notion de mort numérique a vu le jour. Des
-   dispositions ont été prises pour la protection et la transmission des
-   données sensibles après un décès. La loi donne également la possibilité
-   de désigner de son vivant le légataire de son choix pour gérer la
-   conservation, la diffusion ou la suppression de son patrimoine digital.
+   La question de l'héritage numérique pose notamment problème sur les
+   réseaux sociaux.
+   La question de l'héritage numérique pose notamment problème sur les
+   réseaux sociaux. — geralt / Pixabay
 
-Les solutions pour prévoir son avenir digital
+   L’Allemagne a fait un pas en avant, le reste de l’Europe suivra-t-il ?
+   Ce jeudi, la Cour fédérale de justice de Karlsruhe a donné raison à des
+   parents qui se battaient depuis 2012 contre Facebook afin d’obtenir
+   l’accès au compte de leur fille, tuée par une rame de métro à l’âge de
+   15 ans. Ne sachant pas s’il s’agissait d’un suicide, ces derniers
+   espéraient trouver dans les conversations de l’adolescente des éléments
+   sur les circonstances de sa mort. De son côté, Facebook affirmait que
+   l’accès aux données de l’adolescente pourrait violer les contenus
+   privés d’autres utilisateurs qui communiquaient avec elle.
 
-   Les conditions d’application de la Loi Lemaire restent encore assez
-   floues. Malgré tout, on commence à voir apparaître des solutions pour
-   prévoir la transmission de son héritage numérique de façon simple et
-   sécurisée. Les coffres-forts virtuels en sont une. Ils permettent de
-   regrouper tous vos identifiants, mots de passe ou clés d’identification
-   pour éviter à vos héritiers des recherches parfois fastidieuses. Cette
-   procédure doit obéir à une règlementation précise visant à protéger
-   efficacement votre vie privée après votre disparition. Les plateformes
-   régissant ces services d’un nouveau genre ont en effet l’obligation de
-   recevoir un acte officiel de la part d’un notaire en charge de votre
-   succession. La société pourra ensuite transmettre les informations que
-   vous leur aurez préalablement confiées. L’importance toujours
-   croissante d’Internet dans nos vies laisse présager une multiplication
-   de ces services testamentaires dans un avenir proche.
+   « La justice allemande s’est basée sur le droit de succession et l’a
+   considéré dans cette affaire comme supérieur aux autres considérations
+   », explique à 20 Minutes, Bianca Schulz, responsable du Centre Européen
+   des Consommateurs France. Dans ce cas précis, la question de l’héritage
+   numérique a notamment posé problème parce qu’il s’agissait de données
+   personnelles présentes sur un réseau social.
 
-   👉 En savoirs plus sur le testament.
-   Légal
-   Flora Minaire
+   « Les comptes sont liés, la transmission des informations du compte de
+   la personne comme des conversations par exemple, impacte d’autres
+   utilisateurs », explique l’experte. Selon elle, cette décision de
+   justice prise par la plus haute juridiction allemande sera cependant
+   sûrement suivie dans le pays, dans des affaires similaires de parents
+   souhaitant accéder aux données de leur enfant mineur.
 
-Ces articles peuvent vous intéresser :
+Organiser son héritage numérique en amont
 
-   Légal
+   Si cette décision a été prise en Allemagne rien n’assure qu’il en
+   serait de même en France. « Un juge pourrait éventuellement s’en
+   inspirer, mais dans cette affaire, le jugement s’est basé sur le droit
+   allemand ». En France, la question de l’accès aux données numériques
+   personnelles d’un défunt est soulevée depuis quelques années déjà.
+   Contrairement aux biens matériels, la succession des données et biens
+   numériques d’un défunt à ses héritiers n’est pas fixée par le Code
+   civil.
 
-C’est quoi le mandat de protection future ?
+   Il existe cependant diverses solutions pour décider de ce que
+   deviendront ces données après notre mort. Depuis 2016, l’article 40-1
+   de la loi Informatique et liberté permet aux internautes de donner �
+   une personne des directives relatives à la conservation, à l’effacement
+   et à la communication de leurs données numériques après leur décès. En
+   l’absence de directives, les héritiers peuvent exercer un droit
+   d’accès, s’il est nécessaire pour le règlement de la succession du
+   défunt ou un droit d’opposition pour procéder à la clôture des comptes
+   utilisateurs du défunt et s’opposer au traitement de leurs données.
 
-   Il est impossible de prévoir l’avenir. Qui pourrait dire à quel moment
-   exact il sera confronté à une perte d’autonomie ou une incapacité �
-   gérer ses affaires ? Pour répondre à cette problématique et protéger
-   les personnes, mais aussi leurs biens, le mandat de protection future a
-   été créé.
-   Flora Minaire
-   August 2, 2023
-   •
-   4 min. de lecture
-   Légal
+   « Des entreprises proposent aussi d’organiser votre héritage numérique
+   », indique Bianca Schulz. Les prestations vont du message post mortem
+   envoyé à votre liste de contacts au mail contenant vos codes d’accès
+   transmis à un proche choisi avant votre mort. Sur son site, le Centre
+   Européen des Consommateurs France suggère également de préciser ses
+   volontés en matière d’héritage numérique dans son testament ou tout
+   simplement de sauvegarder ses mots de passe sur une clef USB cryptée �
+   laquelle seuls des proches de confiance auront accès en cas de décès.
+   Culture
+   «"Parler aux morts" sera, dans le futur, aussi naturel qu’ouvrir
+   Facebook»
 
-C’est quoi le mandat à effet posthume ?
 
-   Le mandat à titre posthume est régi par la loi du 23 juin 2006 qui
-   porte sur la réforme des successions et des libéralités. Il fait partie
-   des mandats qui vous permettent d’anticiper la gestion de vos biens
-   personnels ou professionnels après votre décès. Pour des raisons très
-   précises, le mandat à titre posthume dépossède temporairement le ou les
-   héritiers de leurs droits héréditaires pour le transférer à un
-   mandataire. Nous vous expliquons dans cet article les modalités
-   particulières de ce mandat.
-   Flora Minaire
-   August 2, 2023
-   •
-   5 min. de lecture
-   Légal
+     * By the Web
+     * Réseaux sociaux
+     * Facebook
+     * Données personnelles
+     * Succession
+     * Numérique
+     * Justice
+     * Droit
 
-En droit français, est-il possible de déshériter ses proches ?
+   (BUTTON) Une faute ? 2 commentaires 12 partages
+     * Partager sur Messenger
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur Flipboard
+     * Partager sur Linkedin
+     * (BUTTON) Sauvegarder l'article
 
-   Suite au décès d’une personne, la question de la transmission du
-   patrimoine du défunt peut parfois occasionner des questionnements voire
-   des conflits familiaux. L’une des questions les plus fréquentes est la
-   possibilité de déshériter ses proches. Afin de vous accompagner dans
-   votre planification successorale, nous allons vous en dire plus sur la
-   hiérarchie des héritiers, mais aussi la répartition de l’héritage. Cela
-   vous permettra de mieux comprendre le droit de succession français, ce
-   qu’il permet et ce qu’il interdit.
-   Flora Minaire
-   August 2, 2023
-   •
-   5 min. de lecture
-   Voir tous les articles
-   Voir tous les articles
-   Newsletter Solal Tech
-   S'informer sur les actualités de SOLAL TECH et recevoir votre dose
-   mensuelle de news sur la transmission du patrimoine numérique.
-   ____________________ Envoyer
-   En vous abonnant, vous acceptez notre politique de confidentialité et
-   consentez à recevoir des mises à jour de notre société.
-   Merci, vous pourrez désormais recevoir toute notre actu !
-   Une erreur s'est produite lors de l'envoi du formulaire.
-   À propos
-   Notre projetDéclarer un décèsPressePresseFAQNous contacterOn recrute !
-   Thématiques
-   #Réseaux sociaux#Prévoyance#Empreinte numérique#LégalLéguer mes
-   bitcoinsNotre engagement sécurité
-   Suivez-nous !
-   Facebook
-   Instagram
-   Twitter
-   LinkedIn
-   TikTok
-   YouTube
-   2023 Solal Tech. Tous droits réservés
-   Fait avec ♡ par Ouiflow
-   CGUCGVMentions légales
+     * (BUTTON) 2 commentaires
+     * (BUTTON) 12 partages
+          + Partager sur Messenger
+          + Partager sur Facebook
+          + Partager sur Twitter
+          + Partager sur Flipboard
+          + Partager sur Pinterest
+          + Partager sur Linkedin
+          + Envoyer par Mail
+     *
+     * (BUTTON) Sauvegarder
+     * (BUTTON) Une faute ?
+     * (BUTTON) Imprimer
+
+   À lire aussi
+     * Le logo Facebook à New York's Times Square en mars 2018. 03/07/18 |
+       BUG
+       VIDEO. Facebook: Les contacts indésirables de 800.000 comptes
+       «débloqués»
+     * Près de 8 PME françaises du 10 ont déjà été victimes d'une
+       cyberattaque.
+       14/06/18 | CYBERATTAQUE
+       Vol de données personnelles, piratages, virus… Le gouvernement
+       lance un…
+     * Le blockchain, un concept abstrait aux applications concrètes
+       (illustration).
+       21/06/18 | FUTUR.E.S (1/3)
+       VIDEO. Données, donnez moi: La blockchain veut sauver nos
+       identités…
+
+   Plus d’actu
+
+   Retourner en haut de la page
+
+   Annonces Légales
+     * Annonces légales
+     * Allier
+     * Alpes Maritimes
+     * Bas Rhin
+     * Bouches du Rhône
+     * Côtes d'Armor
+     * Finistère
+     * Haut Rhin
+     * Hauts de Seine
+     * Loire
+     * Loire Atlantique
+     * Loiret
+     * Maine et Loire
+     * Marne
+     * Paris
+     * Seine Maritime
+     * Val d'Oise
+     * Val de Marne
+     * Var
+     * Vaucluse
+     * Yvelines
+
+   Services
+     * Distribution
+     * Horoscope
+     * Horoscope chinois
+     * Conjugaison
+     * Recette de cuisine
+     * Résultats des élections
+     * Maison
+     * Le Journal des Seniors
+     * Bébés et Mamans
+     * Infolocale
+     * Sportune
+     * Mes Notices
+
+   Codes promo
+     * Code Promo
+     * Code Promo Printemps
+     * Code Promo Norauto
+     * Code Promo Dell
+     * Code Promo Calvin Klein
+     * Code Promo AVIS
+
+   20 Minutes
+     * Recrutement
+     * La 21^e Minute
+     * 20 Minutes Média
+     * Panel des lecteurs
+     * 20 Minutes Livres
+     * Charte
+
+   Jeux
+     * Jeux gratuits
+     * Mots fléchés
+     * Solitaire
+     * Puzzle
+     * Mots croisés
+     * Sudoku
+
+   Réseaux sociaux
+     * Facebook 2,9M
+     * Twitter 2.4M
+     * Instagram 320K
+     * Youtube 27K
+     * Dailymotion 9,8K
+     * Flipboard 114K
+
+   Newsletters
+   Votre résumé de l'actualité à lire tous les matins
+
+   Applications mobiles
+   Découvrez nos applications
+
+   20 Minutes est certifiée par le label Silver d’Ecovadis La politique
+   RSE de 20 Minutes est certifiée par le label Silver d’Ecovadis
+
+     * Plan du site
+     * Notre charte
+     * Journal PDF
+     * Archives
+     * Publicité
+     * Mentions légales
+     * CGU
+     * Protection des données personnelles
+     * Gestion des cookies
+     * Supprimer les cookies publicitaires éditeur
+     * Nous contacter
+
+   Choix de consentement © Copyright 20 Minutes - La fréquentation de
+   20 Minutes est certifiée par l’ACPM
+
+   (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)

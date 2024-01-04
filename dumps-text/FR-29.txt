@@ -1,467 +1,182 @@
-   #RSS 2.0 Atom 1.0
+     * Aller au contenu
+     * Aller en bas de la page
 
-   crhi
-   Centre de Recherches en Histoire des Idées
-     * Accueil
-     * Le CRHI
-     * Membres
-     * Activités
-     * Agenda
-     * Chaire Mattéi
-     * Revue Noesis
-     * Publications
-     * Formations
+   Assemblée nationale
+     *
 
-Activités générales
+   Basculer vers le site en anglais
+   Basculer vers le site en allemand
+     *
+     *
+     *
+     *
 
-     * Séminaire interne
-     * Séminaire Histoire des idées
-     * Journées d'études et colloques
-     * Les mardis de la SAPHI
-     * Les rencontres philo du CUM
+   Accèder à la page d'accueil
+     * Accueil Accèder à la page d'accueil
+     * Vos députés
+     * Travaux parlementaires
+     * Recherche
+     * Connaître l'Assemblée
+     * Découvrir les lieux
+     * Mon compte
 
-Les séminaires du CRHI
+   Accèder à la page d'accueil
+   Vos députés
+   Présidence 577 députés Groupes politiques Élections législatives
+   Travaux parlementaires
+   Séance publique Commissions et autres organes Europe et International
+   Contrôle et évaluation Congrès Pétitions
+   Documents parlementaires
+     * Projets de loi
+     * Propositions de loi
+     * Amendements
+     * Textes adoptés
 
-     * 1. Penser l'héritage
-     * 2. Histoire et philosophie des sciences
-     * 3. Philosophie médiévale
-     * 4. Avec les Amis de la liberté
-     * 5. Séminaire Jeunes chercheurs
-     * 6. Les activités du Philia
-     * 7. Séminaire ARPHI
-     * 8. Les activités du CEPHEN
-     * 9. Atelier NumerÉthique
+     * Rapports d'information
+     * Rapports d'enquête
+     * Rapports législatifs
+     * Rapports sur l'application des lois
+     * Baromètre de l’application des lois
 
-Axes interdisciplinaires
+     * Dossiers législatifs
+     * Budget et sécurité sociale
+     * Questions écrites et orales
+     * Comptes rendus des débats
 
-     * Axe 3 de la MSHS Sud-Est
-     * Axe Histoire des idées
+   ____________________
+   Connaître l'Assemblée
+   Rôle et pouvoirs de l'Assemblée
+     * Fiches « Connaissance de l’Assemblée »
 
-   Vous êtes ici : Home 1. Penser l'héritage
+   Organisation de l'Assemblée
+     * Présidence
+     * Conférence des Présidents
+     * Bureau
+     * Collège des Questeurs
+     * Services
 
+   Statistiques et chiffres clés Transparence et déontologie Documents de
+   référence( Constitution | Règlement de l'Assemblée ... )
+   Histoire Juniors Anciennes législatures Liens vers les sites publics
+   Découvrir les lieux
+   Visiter l'Assemblée Visite virtuelle du palais Bourbon Assister à une
+   séance Accès des chercheurs à l’Assemblée
+   Patrimoine Bibliothèque et archives Contacts et plan d'accès Photos
+   libres de droit
+   Connexion & inscription
+   S'identifier S'identifier
+   Mot de passe oublié
+   Vous n'avez pas encore de compte ?
+   Enregistrez-vous S'inscrire
+   Accèder à la page d'accueil
+   Assemblée nationale
+     * Documents parlementaires
+     * Proposition de loi n°5095
 
+Proposition de loi n°5095
 
-                         Workshops Penser l'héritage
-
-
-
-                         [Logo%20Idex%20UCAjedi.png]
-
-                      [RECONSIDERING%20INHERITANCE.jpg]
-
-
-   Présentation
-
-   Comme Anthony B. Atkinson l’a montré pour le Royaume-Uni (Atkinson
-   2018), Joseph Stiglitz pour les États-Unis (Stiglitz 2019), Thomas
-   Piketty pour la France (Piketty 2011 et 2013) et pour les différents
-   pays européens (Alvaredo, Garbinti & Piketty 2017), on assiste, depuis
-   les années 1970, dans les pays développés, à « un retour de
-   l’héritage » : après avoir décru dans la première moitié du XXe siècle,
-   la part du patrimoine hérité dans les ressources totales des ménages a
-   retrouvé aujourd’hui un niveau comparable à celui qu’il détenait au
-   XIXe siècle. Et ce « retour de l’héritage », loin de bénéficier à tous,
-   est au contraire fortement discriminant dans la mesure où il est très
-   concentré.
-
-   Si, jusqu’à la parution et la très large diffusion du Capital au XXIe
-   siècle de Thomas Piketty (Piketty 2013), le retour contemporain de
-   l’héritage est resté peu visible et peu questionné, un nombre croissant
-   d’économistes en appellent aujourd’hui à une réforme de la fiscalité
-   successorale, qui permettrait d’obtenir un équilibre entre équité et
-   efficacité, que ce soit en faisant varier le taux d’imposition selon
-   qu’il s’agit d’héritages, de transferts entre vifs ou de dons
-   caritatifs (Kaplow 2001 ; Bernheim & alii 2004 ; Arrondel & Masson
-   2011 ; Masson 2015), selon que le patrimoine transmis provient d’un
-   héritage antérieur ou du produit du travail (Halliday 2018), selon
-   l’âge du défunt (Pestieau & Ponthière 2018), selon l’âge de l’héritier
-   (Dherbécourt), ou que ce soit en élargissant l’assiette de l’imposition
-   par la prise en compte des revenus non visibles du patrimoine (Allègre,
-   Plane & Timbeau 2012) ou encore par celle de l’ensemble du patrimoine
-   hérité au cours de la vie (Frémeaux 2018). D’autres pointent la
-   nécessité de compléter la taxation sur les transmissions par une
-   taxation accrue sur le patrimoine (Piketty 2019).
-
-   Mais si la question de l’héritage revêt une importance croissante en
-   économie, elle demeure singulièrement absente en philosophie, quand
-   bien même elle articule des concepts philosophiques cardinaux tels que
-   ceux de propriété, de famille, de mort, de justice sociale, de justice
-   fiscale, d’égalité des chances ou des opportunités. Plus surprenant
-   encore, à l’exception des libertariens de droite (Nozick 2016, Rothbard
-   2002) et de gauche (Steiner 1994, Vallentyne 2001, Van Parijs 1991 et
-   1995, Otsuka 2003), l’institution de l’héritage reste très peu
-   questionnée au sein même des théories de la justice, cette partie de la
-   philosophie sociale et politique qui, dans le sillage de John Rawls, se
-   saisit de la ligne de partage entre inégalités sociales justes et
-   injustes.
-
-   Les workshops Penser l’héritage, organisé dans le cadre de la chaire
-   d'excellence UCAjedi Reconsidering Inheritance, entendent combler ce
-   manque en se saisissant philosophiquement de l’institution de
-   l’héritage.
-
-   Bibliographie
-   Allègre G., Plane M. & Timbeau X. (2012), « Réformer la fiscalité du
-   patrimoine ? », Revue de l’OFCE, 122, p. 231-261.
-   Arrondel L. & Masson A. (2011), « Taxer les héritages pour accroître la
-   mobilité du patrimoine entre générations », Revue française d'économie,
-   Volume XXVI, 2011/2, p. 23-72.
-   Atkinson A. (2018), "Wealth and inheritance in Britain from 1896 to the
-   present", The Journal of Economic Inequality, 16/2, p. 137-169.
-   Bernheim B. D., Lemke R. J. & Scholz J. K. (2004), "Do Estate and Gift
-   Taxes Affect The Timing of Private Transferts?", Journal of Public
-   Economics, 88/12, p. 2617-2634.
-   Dherbécourt C. (2017), « Peut-on éviter une société d’héritiers ? »,
-   Note d’analyse, n°51, France Stratégie.
-   Frémeaux N. (2018), Les Nouveaux Héritiers, Paris, Seuil.
-   Halliday D. (2018), The Inheritance of Wealth: Justice, Equality and
-   The Right to Bequeath, Oxford University Press.
-   Kaplow L. (2001), “A Framework for Assessing Estate and Gift Taxation”,
-   in Gale W., Hines J., and Slemrod J. (ed.), Rethinking Estate and Gift
-   Taxation, Washington, Brookings Institution Press.
-   Masson A. (2015), « Comment justifier une augmentation impopulaire des
-   droits de succession », Revue de l’OFCE, 139, p. 267-326.
-   Otsuka M. (2003), Libertarianism without Inequality, Oxford, Oxford
-   University Press.
-   Pestieau P. & Ponthière G. (2018), "An age-differentiated tax on
-   bequests", Centre for operations Research and Econometrics, 2018/06, p.
-   1-11.
-   Piketty Th. (2011), « On the Long-Run Evolution of Inheritance: France
-   1820–2050 », The Quarterly Journal of Economics, 126/3, p. 1071–1131;
-   (2013), Le Capital au XXI^e siècle, Paris, Seuil; (2019), Capital et
-   Idéologie, Paris, Le Seuil.
-   Nozick R. (2016), Anarchie, État et utopie, Paris, PUF.
-   Rothbard M. N. (2002), For a New Liberty - The Libertarian Manifesto,
-   New York, Collier Books, 2002.
-   Steiner H. (1994), An Essay on Rights, Cambridge MA, Balsckwell.
-   Stiglitz J. (2019), People, Power and Profits: Progressive Capitalism
-   for an Age of Discontent, New-York, Norton & Company.
-   Vallentyne P. (2001), “Left-Libertarianism: A Primer”, in Vallentyne P.
-   & Steiner H. (dir.), Left-Libertarianism and Its Critics. The
-   Contemporary Debate, New York, Palgrave Macmillan, 2001, p. 1-21.
-   Van Parijs Ph. (1991), Qu’est-ce qu’une société juste ?, Paris, Seuil ;
-   (1995), Real Freedom for All. What (If Anything) Can Justify
-   Capitalism?, Oxford, Oxford University Press.
-
-
-Organisation
-
-   Mélanie PLOUVIEZ
-   maîtresse de conférences en philosophie à UCA
-   lauréate de la Chaire d'excellence Idex UCAjedi Reconsidering
-   Inheritance
-
-     [Affiche%20Penser%20lheritage.png]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   [workshop-penser-l-heritage-4-5-6.png]
-
-Lundi 4 décembre 2023 - Workshop REFORM-HERIT #1 - André Masson
-
-     * Imprimer
-     * E-mail
-
-   Le lundi 4 décembre 2023, de 9h à 13h, le Centre de Recherches en
-   Histoire des Idées d’Université Côte d’Azur organise, dans le cadre de
-   l’ANR JCJC Philosophie de l’héritage, la première séance du workshop
-   REFORM-HERIT Réformer l'héritage aujourd’hui.
-
-   Ce premier workshop sera consacré aux travaux de l’économiste André
-   Masson (directeur de recherches au CNRS et directeur d’études �
-   l’EHESS) sur l’héritage. Ses propositions de réforme des pratiques
-   successorales seront discutées, en présence de l’auteur, à partir de
-   son dernier livre Chronique d’un impôt sur l’héritage en perdition.
-   Pourquoi et comment le sauver (PUF, 2023) par Marie Bastin (ATER
-   Université Côte d’Azur et doctorante en philosophie Paris 1
-   Panthéon-Sorbonne), Nicolas Brisset (Maître de conférences en sciences
-   économiques, Université Côte d’Azur), Éric Fabri (Post-doctorant en
-   philosophie, Université libre de Bruxelles), Philippe Luppi (Maître de
-   conférences en droit public, Directeur adjoint de l’École doctorale
-   DESPEG, Université Côte d’Azur) et Mélanie Plouviez (Maîtresse de
-   conférences en philosophie et porteuse du projet ANR PHILHERIT,
-   Université Côte d’Azur).
+   15^e législature
      __________________________________________________________________
 
-Du 28 novembre au 2 décembre 2022 - Séjour de recherches d'Eric Fabri au CRHI
-(2)
+   Proposition de loi n°5095 pour un héritage juste et populaire
+   Proposition de loi n°5095 (Sommaire)
+   (BUTTON)
 
-     * Imprimer
-     * E-mail
+   IFRAME: /dyn/docs/PIONANR5L15B5095.raw
 
-   Le CRHI a le plaisir d'accueillir Eric Fabri pour un séjour de
-   recherches du lundi 28 novembre au vendredi 2 décembre 2022, dans le
-   cadre du projet ANR PHILHERIT et du Partenariat Hubert Curien obtenu et
-   établi entre le CRHI et le Centre de Théorie Politique de l'Université
-   Libre de Bruxelles.
+   Plus d’informations
+   (BUTTON)
+   Accéder au dossier législatif
+   Commission des finances, de l'économie générale et du contrôle
+   budgétaire
+   Accéder à la page de la commission
+   Accéder aux amendements
+   Autres formats :
+   Version PDF
+   Version HTML
+   Notice XML
+   Notice JSON
+   Veuillez basculer en mode paysage pour une meilleure lisibilité.
+   (BUTTON) D'accord!
+   LCP
+   Accédez à toute
+   l'actualité de
+   la Chaine Parlementaire
+   OPEN DATA
+   Accédez à toutes
+   les données de
+   l'Assemblée nationale
+     *
+
+     *
+     *
+     *
+     *
+
+   BOUTIQUE DE L'ASSEMBLEE
+   UNE SEMAINE À L'ASSEMBLÉE
+   Une semaine à l'Assemblée
+
+   Inscrivez-vous à notre lettre Une semaine à l'Assemblée et recevez tous
+   les vendredis dans votre messagerie les temps forts de l'actualité de
+   la semaine à venir !
+
+   Votre adresse de messagerie est uniquement utilisée pour vous envoyer
+   les lettres de l'Assemblée nationale. Vous pouvez à tout moment
+   utiliser le lien de désabonnement intégré dans la lettre. En savoir
+   plus sur la gestion de vos données et de vos droits
+   ____________________
+   ____________________
+   OK
+   S'ABONNER À UN SERVICE
+   OUTIL D'ÉVALUATION LEXIMPACT
+   ©Tous droits réservés Assemblée nationale 2019 | Mentions légales |
+   Accessibilité : partiellement conforme | Contacter le webmestre | Fils
+   RSS
+   Assemblée nationale - 126 Rue de l'Université, 75355 Paris 07 SP -
+   Standard 01 40 63 60 00
+   Connexion & inscription
+   S'identifier
+   Mot de passe oublié
+   Vous n'avez pas encore de compte ?
+   Enregistrez-vous
+     *
+     *
+     *
+     *
+
+   Accueil
+   Vos députés
+   Présidence 577 députés Groupes politiques Élections législatives
+   Travaux parlementaires
+   Séance publique Commissions et autres organes Europe et International
+   Congrès Pétitions
+   Documents parlementaires
+   Projets de loi Propositions de loi Amendements Textes adoptés
+   Rapports d'information Rapports d'enquête Rapports législatifs Rapports
+   sur l'application des lois Baromètre de l’application des lois
+   Dossiers législatifs Budget et sécurité sociale Questions écrites et
+   orales Comptes rendus des débats
+   Connaître l'Assemblée
+   Rôle et pouvoirs de l'Assemblée
+     * Fiches « Connaissance de l’Assemblée »
+
+   Organisation de l'Assemblée
+     * Présidence
+     * Conférence des Présidents
+     * Bureau
+     * Collège des Questeurs
+     * Services
      __________________________________________________________________
 
-Mardi 27 juin 2023 - Workshop Penser l'héritage 11 - La Révolution française
-et l'héritage
-
-     * Imprimer
-     * E-mail
-
-   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
-   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
-   activités de l’Idex UCAJedi, le mardi 27 juin 2023 de 9h à 13h, un
-   onzième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
-   workshop, intitulé « La Révolution française et l’héritage »,
-   comprendra les interventions de Morgan MORCEL (doctorant contractuel,
-   Université Côte d’Azur – ENS Ulm), Mélanie PLOUVIEZ (Maîtresse de
-   conférences en philosophie, Université Côte d’Azur) et Dana PORTALEONE
-   (docteure EHESS LIER-FYT).
+   Statistiques et chiffres clés Transparence et déontologie Documents de
+   référence
+   ( Constitution | Règlement de l'Assemblée ... )
      __________________________________________________________________
 
-Mardi 19 septembre 2023 - Workshop Penser l'héritage 12 - Droit successoral
-et démographie
-
-     * Imprimer
-     * E-mail
-
-   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
-   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
-   mardi 19 septembre 2023 de 10h à 13h, un douzième workshop "Penser
-   l'héritage" qui aura lieu en hybride. Ce workshop, intitulé « Droit
-   successoral et démographie », sera centré sur les travaux de recherche
-   de Paula GOBBI  (Associate Professor in Demographic Economics,
-   Université Libre de Bruxelles, ERC Starting Grant "Inheritance,
-   Demographics, and Economic Development").
-     __________________________________________________________________
-
-Vendredi 9 juin 2023 - Workshop Penser l'héritage 10 - L’héritage chez Comte
-et les positivistes
-
-     * Imprimer
-     * E-mail
-
-   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
-   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
-   activités de l’Idex UCAJedi, le jeudi 9 juin 2023 de 10h à 13h, un
-   dixième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
-   workshop, intitulé « L’héritage chez Comte et les positivistes »,
-   comprendra deux interventions, l’une de Giovanni MINOZZI (docteur
-   Université de Padoue et EHESS LIER-FYT), l’autre de Mélanie PLOUVIEZ
-   (Maîtresse de conférences en philosophie, Université Côte d’Azur).
-     __________________________________________________________________
-
-Jeudi 4 mai 2023 - Workshop Penser l'héritage 9 - L'école leplaysienne et
-l'héritage
-
-     * Imprimer
-     * E-mail
-
-   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
-   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
-   jeudi 4 mai 2023 de 13h à 16h, un neuvième workshop "Penser l'héritage"
-   qui aura lieu en hybride. Ce workshop, intitulé « L'école leplaysienne
-   et l'héritage », comprendra deux interventions : l’une de Mélanie
-   PLOUVIEZ (Maîtresse de conférences en philosophie, Université Côte
-   d’Azur), intitulée « Le Play, les Leplaysiens et l’héritage : de la
-   liberté testamentaire au Homestead » ; l’autre de Stefania FERRANDO
-   (post-doctorante en philosophie, Projet ANR PHILHERIT, Université Côte
-   d’Azur), intitulée « La maison et la nation. La réception de Le Play en
-   Italie à la fin du XIX^e siècle ».
-     __________________________________________________________________
-
-Jeudi 9 mars 2023 - Workshop Penser l'héritage 8 - Codifier le droit
-coutumier de l'héritage en Inde Britannique
-
-     * Imprimer
-     * E-mail
-
-   En raison du mouvement actuel contre le projet de réforme des
-   retraites, la prochaine séance du workshop "Penser l'héritage", qui
-   était programmée le jeudi 16 février, est reportée au jeudi 9 mars
-   2023, de 13h à 16h.
-
-   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
-   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
-   jeudi 9 mars 2023 de 13h à 16h, un huitième workshop "Penser
-   l'héritage" qui aura lieu en hybride. Ce workshop est intitulé
-   « Codifier le droit coutumier de l'héritage en Inde Britannique. Entre
-   retour réflexif et cristallisation de l'exclusion des femmes ». Amanjit
-   Kaur Sharanjit (Centre de Théorie et d'Analyse du Droit, Université
-   Paris Nanterre) y présentera une intervention intitulée « La succession
-   agnatique et l’exclusion des femmes dans l’héritage des propriétés
-   ancestrales : l’exemple des femmes veuves dans le Punjab britannique
-   (1849-1947) ». Marc Goëtzmann (Maître de conférences au Département
-   Droit-Langues de l’Université de Tours) y présentera une intervention
-   intitulée « John Stuart Mill (1806-1873) et Henry Sumner Maine
-   (1822-1888) : le droit coutumier Indien comme inspiration d’une réforme
-   libérale de l’héritage ».
-     __________________________________________________________________
-
-Du 28 novembre au 2 décembre 2022 - Séjour de recherches d'Eric Fabri au CRHI
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI a le plaisir d'accueillir Eric Fabri pour un séjour de
-   recherches du lundi 28 novembre au vendredi 2 décembre 2022, dans le
-   cadre du projet ANR PHILHERIT et du Partenariat Hubert Curien obtenu et
-   établi entre le CRHI et le Centre de Théorie Politique de l'Université
-   Libre de Bruxelles.
-     __________________________________________________________________
-
-Vendredi 2 décembre 2022 - Workshop Penser l'héritage 7 - Héritage et
-littérature au XIXe siècle
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de
-   l'héritage, le vendredi 2 décembre 2022, de 9h à 12h, un septième
-   workshop "Penser l'héritage" qui aura lieu en hybride. Intitulé
-   "Héritage et littérature au XIX^e siècle", ce workshop portera sur les
-   représentations littéraires de la transmission patrimoniale au XIX^e
-   siècle. Mélanie PLOUVIEZ (Maîtresse de conférences en philosophie �
-   Université Côte d'Azur) proposera, depuis La Comédie humaine de Balzac,
-   une galerie de portraits littéraires d’héritiers et de testateurs,
-   donnant à voir la manière dont l'héritage pouvait affecter les
-   trajectoires individuelles au XIX^e siècle. Martin RUEFF (Professeur de
-   littérature française et d'histoire des idées à l'Université de Genève)
-   étudiera dans une perspective comparative la manière dont les
-   entreprises romanesques configurent les législations nationales sur
-   l’héritage au XIX^e siècle. Il prendra ses exemples dans le roman
-   européen et américain. La séance aura lieu sur le Campus Carlone, �
-   Nice, en salle Extension 314. Elle sera également accessible en
-   distanciel (lien zoom ci-dessous).
-     __________________________________________________________________
-
-Vendredi 30 septembre 2022 - Atelier Philosophie du droit successoral : "Les
-dernières volontés" - Congrès de la SFPJ - Toulouse (2)
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de l'héritage
-   et avec le soutien de l'équipe Interactions Culturelles et Discursives
-   de l’Université de Tours et l'UMR Savoirs, Textes, Langage de
-   l’Université de Lille, un atelier de Philosophie du droit successoral
-   au sein des deuxièmes rencontres de la Société française pour la
-   philosophie et la théorie juridiques et politiques (SFPJ) qui se
-   dérouleront à Toulouse les jeudi 29 et vendredi 30 septembre 2022. Cet
-   atelier, intitulé "Les dernières volontés", aura lieu le vendredi 30
-   septembre 2022 de 14h à 17h.
-     __________________________________________________________________
-
-Lundi 6 décembre 2021 - Workshop Penser l'héritage 6
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organisele lundi 6 décembre 2021, de 9h à 12h, un sixième
-   workshop "Penser l'héritage" qui aura lieu en distanciel. Intitulé
-   "Héritage et féminisme au XIXe siècle", ce workshop déploiera comment
-   la question de l'héritage a été, au XIXe siècle, un lieu d'élaboration
-   des premières théories féministes. Anne VERJUS (Directrice de recherche
-   au CNRS, laboratoire Triangle Lyon) y présentera une intervention
-   intitulée "Transmission des biens et filiation par les femmes �
-   l’époque des Révolutions : l’œuvre oubliée de James Henry Lawrence
-   (1773-1840)". Stefania FERRANDO (post-doctorante en philosophie, EHESS)
-   y présentera une intervention intitulée  "De l’abolition de la place du
-   père à l’abolition de l’héritage : Ma loi d’avenir de Claire Démar
-   (1833)".
-
-     __________________________________________________________________
-
-Lundi 29 novembre 2021 - Workshop Penser l'héritage 5
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organise un cinquième workshop international "Penser
-   l'héritage". Ce workshop aura lieu le lundi 29 novembre 2021, de 15h �
-   18h, en distanciel. Intitulé "Le principe Rignano : arguments
-   philosophiques et usages contemporains", ce workshop étudiera la
-   proposition émise par Eugenio Rignano au début du XXe siècle
-   d'appliquer une taxe progressive sur les successions et donations en
-   fonction de l'âge des portions de patrimoine transmis, ainsi que les
-   usages contemporains qui ont pu en être proposés. Mélanie PLOUVIEZ
-   (Maîtresse de conférences en philosophie à Université Côte d'Azur) y
-   présentera une intervention intitulée "Le principe Rignano, ou comment
-   transformer la propriété par la taxation de l'héritage". Marie BASTIN
-   (doctorante en philosophie, Université Paris 1 Panthéon-Sorbonne) y
-   présentera une intervention intitulée "Les usages contemporains du
-   principe Rignano : quelles justifications normatives ?".
-
-     __________________________________________________________________
-
-Lundi 27 septembre 2021 - Workshop Penser l'héritage 4
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organise, dans le cadre de la chaire Idex Reconsidering
-   Inheritance, un quatrième workshop international "Penser l'héritage".
-   Ce quatrième workshop aura lieu le lundi 27 septembre 2021, de 15h �
-   18h, en distanciel. Intitulé « Mill et l’héritage », ce workshop
-   étudiera la proposition émise par John Stuart Mill de plafonner
-   l’héritage et les justifications normatives qui la sous-tendent.
-   Philippe LÉGÉ (Maître de conférences en économie à l'Université de
-   Picardie) y présentera une intervention intitulée "John Stuart Mill et
-   la taxation des héritages : une réforme « radicale » ?". Éric FABRI
-   (post-doctorant au Centre de Théorie Politique de l’Université Libre de
-   Bruxelles, BAEF Postdoctoral Fellow, Harvard University) y présentera
-   une intervention intitulée "Taxation des héritages, legs et dons: et si
-   John Stuart Mill avait raison?".
-     __________________________________________________________________
-
-Lundi 8 mars 2021 - Workshop Penser l'héritage 3
-
-     * Imprimer
-     * E-mail
-
-   Le CRHI organise, dans le cadre de la chaire d'excellence
-   UCAjedi Reconsidering Inheritance, un troisième workshop "Penser
-   l'héritage". Ce workshop aura lieu le lundi 8 mars 2021, de 9h à 12h,
-   en distanciel, et est intitulé "Justice et fiscalité successorale".
-   Constantin BRISSAUD (docteur en science politique de l'Université de
-   Strasbourg, laboratoire SAGE ; post-doctorant à l'Université
-   Paris-Dauphine, IRISSO) y présentera une intervention intitulée
-   "L'héritage au concret : le poids des intermédiaires dans la taxation
-   de l'héritage et des successions en France et aux États-Unis
-   (1980-2020)" et Nicolas FRÉMEAUX (Maître de conférence en économie �
-   l'Université Paris 2 Panthéon-Assas) une intervention intitulée "La
-   fiscalité successorale en France : constat et proposition de réforme".
-
-     __________________________________________________________________
-
-Plus d'articles...
-
-    1. Lundi 11 janvier 2021 - Workshop Penser l'héritage 2
-    2. Mercredi 16 décembre 2020 - Workshop Penser l'héritage 1
-
-   CRHI
-   Université Nice Sophia Antipolis
-   MSHS Sud-Est
-   ©2023 CRHI | Site conçu par Mélanie Plouviez
+   Histoire Juniors Anciennes législatures Liens vers les sites publics
+   Découvrir les lieux
+   Visiter l'Assemblée Visite virtuelle du palais Bourbon Assister à une
+   séance Accès des chercheurs à l’Assemblée
+   Patrimoine Bibliothèque et archives Contacts et plan d'accès Photos
+   libres de droit

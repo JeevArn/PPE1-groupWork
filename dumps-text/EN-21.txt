@@ -1,277 +1,111 @@
-   #alternate alternate alternate alternate
-
-   Interpol Logo Interpol Logo
-
-   (BUTTON)
-     * Who we are
-          +
-               o What is INTERPOL?
-               o INTERPOL – Five actions for a safer world
-          +
-               o General Secretariat
-               o Secretary General
-               o Official visitors to the General Secretariat
-               o Jürgen Stock biography
-               o Values and ethics
-          +
-               o Governance
-               o General Assembly
-               o Executive Committee
-               o President
-          +
-               o Member countries
-               o National Central Bureaus (NCBs)
-          +
-               o Strategy
-               o Strategic Framework 2022-2025
-               o Global Policing Goals
-          +
-               o Legal framework
-               o Data protection
-               o Legal documents
-               o Cooperation agreements
-               o Membership of INTERPOL
-               o Name and logo
-               o Information, communications and technology (ICT) law
-                 projects
-          +
-               o Our funding
-          +
-               o INTERPOL 100
-               o 1923 – how our history started
-               o Key dates
-               o INTERPOL then and now
-          +
-               o Commission for the Control of INTERPOL’s Files
-               o About the CCF
-               o How to submit a request
-               o CCF sessions and decisions
-               o Frequently Asked Questions
-     * Crimes
-          +
-               o Corruption
-          +
-               o Counterfeit currency and documents
-          +
-               o Crimes against children
-          +
-               o Cultural heritage crime
-          +
-               o Cybercrime
-          +
-               o Drug Trafficking
-          +
-               o Environmental crime
-          +
-               o Financial crime
-          +
-               o Firearms trafficking
-          +
-               o Human trafficking and migrant smuggling
-          +
-               o Illicit goods
-          +
-               o Maritime crime
-          +
-               o Organized crime
-          +
-               o Terrorism
-          +
-               o Vehicle crime
-          +
-               o War crimes
-     * How we work
-          +
-               o COVID-19
-          +
-               o Border management
-          +
-               o Capacity building
-          +
-               o Command and coordination centre
-          +
-               o Criminal intelligence analysis
-          +
-               o Databases
-          +
-               o Forensics
-          +
-               o Fugitive investigative support
-          +
-               o I-CORE: our vision for change
-          +
-               o Innovation
-          +
-               o INTERPOL response teams
-          +
-               o Major event security
-          +
-               o Notices
-          +
-               o The Dialogue
-     * Our partners
-          +
-               o Government partners
-          +
-               o International organization partners
-               o INTERPOL and the European Union
-               o INTERPOL and the African Union
-               o INTERPOL and the United Nations
-          +
-               o Our partnerships with regional policing bodies
-               o Support for AFRIPOL
-          +
-               o INTERPOL Foundation for a Safer World
-          +
-               o Private sector partners
-          +
-               o General Assembly Exhibition
-          +
-               o How to become a partner
-     * What you can do
-          +
-               o Stay safe
-               o Beware of scams using INTERPOL’s name
-          +
-               o Help us find
-          +
-               o If you need help
-          +
-               o Honouring the world's police
-          +
-               o Work for us
-     * News
-     * Wanted persons
-
-   en
-     * en
-     * fr
-     * es
-     * ar
-
-What are you searching for ?
-
-   ____________________ (BUTTON) icon-loupe
-
-Cultural heritage crime
-
-   Home
-   >
-   Crimes
-   >
-   Cultural heritage crime
-   Print this page Facebook INTERPOL Twitter INTERPOL Scroll to top
-   [SELECT A PAGE___________________________________________________]
-     *
-          + The issues – cultural property
-     *
-          + How we fight cultural heritage crime
-     *
-          + ID-Art mobile app
-          +
-               o ID-Art: success stories
-               o Privacy Policy - ID-Art Application
-               o Cookie Policy - ID-Art Application
-               o ID Art application - Terms of Use
-     *
-          + Stolen Works of Art Database
-          +
-               o Application form to access INTERPOL’s Works of Art
-                 Database
-     *
-          + Object ID
-     *
-          + Partnerships
-     *
-          + Protecting cultural heritage
-
-   Cultural property is part of our heritage, history and identity. It
-   needs protecting from criminals.
-
-   Trafficking in cultural property is a low-risk, high-profit business
-   for criminals with links to organized crime.
-
-   From stolen artwork to historical artefacts, this crime can affect all
-   countries, either as origin, transit or destinations.
-
-Activities
-
-   CrimesThe issues – cultural property
-
-   There is a lucrative black market in cultural property with strong
-   links to organized crime.
-   CrimesHow we fight cultural heritage crime
-
-   Our specialized officers share their expertise and passion for
-   protecting cultural heritage.
-   CrimesID-Art mobile app
-
-   Capture the art, capture the criminals
-   CrimesStolen Works of Art Database
-
-   The Stolen Works of Art database is our main tool to tackle the traffic
-   in cultural property.
-   What you can doProtecting cultural heritage
-
-   Individuals and countries can all do more to protect cultural heritage.
-   CrimesObject ID
-   Our partnersPartnerships
-
-   Combined action with partners strengthens our efforts to protect
-   cultural heritage.
-
-Related news
-
-International art trafficking operation leads to 60 arrests and over 11,000
-objects recovered
-
-   4 May 2023
-
-ID-Art, INTERPOL’s first App, turns one year old
-
-   12 July 2022
-
-Cultural heritage crime: INTERPOL’s ID-Art app in the news
-
-   14 April 2022
-
-52 arrests in operation across 28 countries targeting trafficking in cultural
-goods
-
-   9 March 2022
-
-Cultural property crime thrives throughout pandemic says new INTERPOL survey
-
-   18 October 2021
-
-   Interpol Logo
-   Connect with us
-     * Contact INTERPOL
-     * Careers
-     * Procurement
-     * About the CCF
-
-   Resources
+   [header-logo.png]
+   (BUTTON) NAVIGATION
+     * Home
+     * About PNHP
+          + About PNHP
+          + How We Work
+          + Mission
+          + Our Staff
+          + Contact Us
      * News and Events
-     * Information for journalists
-     * Multimedia
-     * Documents
+     * Resources
+          + Environmental Review Lists
+          + Species & Natural Features
+          + Plant Communities
+          + Rank and Status Definitions
+          + PNHP Projects Story Map
+          + Vernal Pools
+          + Aquatic Communities
+          + Publications
+          + Links
+     * Tools
+          + PA Community Prediction Tool
+          + County Natural Heritage Inventories
+          + Conservation Opportunity Area Tool
+          + Plant Factsheets
+          + iMapInvasives
+          + Climate Change Vulnerability Index
+          + Natural Heritage Area Story Maps
+          + Submit and Request Data
+     * Conservation Explorer
+     *  Search
 
-   Policies
-     * Cookie policy
-     * Privacy policy
-     * Terms of use
-     * Name and logo
+   View the Pennsylvania Natural Heritage Program's 2022 Annual Report.
+   Visit our Story Map to discover plant and wildlife research projects
+   PNHP is working on across Pennsylvania.
+   Conservation Explorer provides access to conservation information,
+   leading to better planning and reduced project impacts.
+   PNHP inventories and maintains a list of plant and wildlife species,
+   communities and rare features of conservation concern.
+   Find instructions and forms for submitting data to or requesting data
+   from PNHP.
+   Learn about the appearance, habitat, distribution, and conservation
+   management of important plant species in Pennsylvania.
+   Read the Fall 2023 issue of Wild Heritage News.
 
-   Social media
-     * Facebook INTERPOL
-     * Twitter INTERPOL
-     * Youtube INTERPOL
-     * Instagram INTERPOL
-     * LinkedIn INTERPOL
+Welcome
 
-   Site Map INTERPOL 2023. All Rights Reserved.
+   The Pennsylvania Natural Heritage Program (PNHP) is a partnership
+   between the Pennsylvania Department of Conservation and Natural
+   Resources (DCNR), the Pennsylvania Fish and Boat Commission (PFBC), the
+   Pennsylvania Game Commission (PGC), and the Western Pennsylvania
+   Conservancy (WPC) in cooperation with the U.S. Fish and Wildlife
+   Service. PNHP is a member of NatureServe, an international network of
+   natural heritage programs that gather and provide information on the
+   location and status of important ecological resources (plants,
+   vertebrates, invertebrates, ecological communities and geologic
+   features). Our purpose is to provide current, reliable, objective
+   ecological data and analysis to help guide conservation work and
+   land-use planning.
+   ...
 
-   Our site uses cookies to ensure technical functionality, gather
-   statistics and enable sharing on social media platforms.
-   OK Tell me more
+About PNHP
+
+   Learn about our mission, how we work, and how to contact our staff.
+   ...
+
+Species and Natural Features
+
+   Find species and features subject to environmental review by PNHP
+   jurisdictional partner agencies. View other species of interest, rare
+   natural communities, or geologic features.
+   ...
+
+Ecological Communities
+
+   Find tools to identify terrestrial, palustrine and aquatic ecological
+   communities found in Pennsylvania and learn about their importance.
+   ...
+
+Conservation Tools
+
+   Explore interactive maps and conservation tools including the County
+   Natural Heritage Inventory, Conservation Opportunity Area tool, Plant
+   Factsheets, iMap Invasives, Conservation Case Studies and more.
+   ...
+
+Research and Initiatives
+
+   Access PNHP scientific publications and explore projects our staff are
+   working on to address climate change, protect vernal pools, and study
+   plants and wildlife across Pennsylvania.
+   ...
+
+Conservation Explorer
+
+   Visit the Conservation Explorer for conservation planning purposes and
+   Pennsylvania Natural Diversity Inventory (PNDI) environmental review.
+
+
+   PNHP is a partnership between The Department of Conservation and
+   Natural Resources,
+   the Pennsylvania Game Commission, the Pennsylvania Fish and Boat
+   Commission,
+   and the Western Pennsylvania Conservancy.
+   DCNR Home Page
+   PA Game Commission Home Page
+   PA Fish and Boat Commission Home Page
+   Western PA Conservancy Home Page
+   DCNR Home Page PNHP | Forestry Home | Contact Us | Search This Site
+   © 2019 PA Department of Conservation and Natural Resources DCNR Home
+   Page

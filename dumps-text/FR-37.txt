@@ -1,508 +1,707 @@
-   REFRESH(600 sec):
-   file://localhost/Users/jeevyaroun/Desktop/M1_TAL_S1/PPE1/PPE1-groupWork
-   /aspirations/FR-37.html
-   #Recherche sur Boursorama
+   Your Europe
 
-   Aller au contenu principal Activer le contraste adaptéDésactiver le
-   contraste adapté
+   (BUTTON) frfrançais
+   Available languages
+   (BUTTON) Fermer le menu
+     * bgбългарски
+     * csčeština
+     * daDansk
+     * deDeutsch
+     * etEesti
+     * elΕλληνικά
+     * enEnglish
+     * esespañol
+     * frfrançais
+     * hrhrvatski
+     * ititaliano
+     * lvLatviešu
+     * ltLietuvių
+     * humagyar
+     * mtMalti
+     * nlNederlands
+     * plpolski
+     * ptportuguês
+     * roromână
+     * skSlovenčina
+     * slSlovenščina
+     * fisuomi
+     * svsvenska
 
-   Bourse
+   (BUTTON) Recherche
+   Search terms ____________________
+     * Allemagne
+     * Autriche
+     * Belgique
+     * Bulgarie
+     * Chypre
+     * Croatie
+     * Danemark
+     * Espagne
+     * Estonie
+     * Finlande
+     * France
+     * Grèce
+     * Hongrie
+     * Irlande
+     * Italie
+     * Lettonie
+     * Lituanie
+     * Luxembourg
+     * Malte
+     * Pays-Bas
+     * Pologne
+     * Portugal
+     * Roumanie
+     * Slovaquie
+     * Slovénie
+     * Suède
+     * Tchéquie
 
-   Boursomarkets
-   Plus de 40 000 produits accessibles à 0€ de frais de courtage
-   Découvrir Boursomarkets
+   (BUTTON) Recherche
 
-   ____________________
-   (BUTTON)
    (BUTTON) Menu
-    1. (BUTTON)
-       Rechercher
-    2. Aide
-    3.
-         1. (BUTTON) Espace Membre
-         2. Espace Client
-         3. (BUTTON) Connexion
-            (BUTTON)
-               o Sur quel site souhaitez-vous vous connecter ?
-               o Accès Espace Client BoursoBank
-               o (BUTTON) Espace Membre Boursorama.com
-
-   (BUTTON) Menu
-
-    1. (BUTTON)
-       Rechercher
-    2. Aide
-    3.
-         1. (BUTTON) Espace Membre
-         2. Espace Client
-         3. (BUTTON) Connexion
-            (BUTTON)
-               o Sur quel site souhaitez-vous vous connecter ?
-               o Accès Espace Client BoursoBank
-               o (BUTTON) Espace Membre Boursorama.com
-
-   (BUTTON)
-
-   (BUTTON) Menu
-
-     * Actu & Éco
-     * Bourse
-     * Patrimoine
-          + Patrimoine
-          + Immobilier
-               o Immobilier
-               o Toute la rubrique Immobilier
-               o Actualités
-               o Prix de l'immobilier
-               o Crédit immobilier
-               o Crowdfunding Immobilier N!
-               o Propriétaires / locataires
-               o Défiscalisation locatif
-               o Investissement locatif
-               o SCPI-OPCI-SC
-                    # SCPI-OPCI-SC
-                    # Accueil SCPI-OPCI-SC
-                    # Actualités
-                    # Recherche
-                    # Le marché des SCPI
-               o Partenaires
-                    # Partenaires
-                    # Accueil Partenaires
-                    # Sofidy
-                    # Swiss Life Asset Managers
-               o Outils et simulateurs
-                    # Outils et simulateurs
-                    # Accueil Outils et simulateurs
-                    # Calcul mensualité
-                    # Capacité d'emprunt
-                    # Montant Crédit
-                    # Rachat Crédit
-                    # Prêt Relais
-                    # Frais de notaire
-                    # Pinel
-                    # Censi-Bouvard
-          + Assurance Vie
-               o Assurance Vie
-               o Toute la rubrique Assurance Vie
-               o Actualités
-               o Fiscalité de l'assurance vie
-               o Outils et simulateurs
-          + Epargne
-               o Epargne
-               o Toute la rubrique Epargne
-               o Actualités
-               o Placements bancaires
-               o Placements boursiers
-               o Placements plaisir
-               o Outils et simulateurs
-                    # Outils et simulateurs
-                    # Accueil Outils et simulateurs
-                    # CSL
-                    # Livret A
-                    # LDD
-          + Argent au quotidien
-               o Argent au quotidien
-               o Toute la rubrique Argent au quotidien
-               o Actualités
-               o Banque
-               o Crédit
-               o Assurance et prévoyance
-               o Famille
-               o Outils et simulateurs
-                    # Outils et simulateurs
-                    # Accueil Outils et simulateurs
-                    # Prêt perso
-                    # Crédit auto
-                    # Prêt travaux
-                    # Frais bancaires
-                    # Salaire Brut / Net
-                    # Frais kilométriques
-                    # Prévoyance
-                    # Convertisseur inflation
-                    # Taux d'endettement
-          + Impôts
-               o Impôts
-               o Toute la rubrique Impôts
-               o Actualités
-               o Impôts sur le revenu
-               o Impôts fonciers
-               o IFI-ISF
-               o Déductions / réductions d'impôts
-               o Défiscalisation
-               o Outils et simulateurs
-                    # Outils et simulateurs
-                    # Accueil Outils et simulateurs
-                    # IR
-                    # Prélévement à la source
-                    # IFI
-          + Retraite
-               o Retraite
-               o Toute la rubrique Retraite
-               o Actualités
-               o Placements retraite
-               o Outils et simulateurs
-                    # Outils et simulateurs
-                    # Accueil Outils et simulateurs
-                    # Simulateur retraite
-                    # Plan épargne retraite (PER)
-                    # Réforme Retraite simulation et calcul retraite
-          + Succession
-               o Succession
-               o Actualités
-               o Transmission
-          + Dossiers spéciaux
-          + Forum
-     * Conso
-     * Vidéos
-     * BoursoBank
-
-   Espace Membre Boursorama
-   (BUTTON)
-   Message d'erreur
-
-   Erreur d'authentification
-   Message d'erreur
-
-   Votre compte a été clôturé.
-   Message de confirmation
-
-   Vous êtes authentifié. Nous chargeons votre espace membre.
-   Message d'information
-
-   Message d'alerte
-
-   Pour des raisons de sécurité et pour continuer à accéder à votre espace
-   membre, nous vous remercions de bien vouloir valider votre compte
-   membre en cliquant sur le lien suivant : Je valide mon compte membre
-   Vous allez recevoir un email à l'adresse indiquée lorsque vous aviez
-   créé votre compte.
-   Cliquez ensuite sur le lien présent dans le mail. Vous pourrez alors de
-   nouveau accéder à votre compte membre.
-   Si vous n'avez pas reçu cet email, contactez-nous
-   Message d'erreur
-
-   Message de confirmation
-
-   Un email de confirmation vient de vous être adressé.
-   ____________________
-   ____________________ (BUTTON) Votre mot de passe est caché.
-     * 8 caractères minimum
-     * 1 majuscule
-     * 1 minuscule
-
-     * 1 chiffre
-     * 1 caractère spécial
-     * Différent de votre pseudo
-     * Les deux mots de passe sont identiques
-
-   [ ] Se souvenir de moi
-   (BUTTON) Mot de passe oublié ?
-     __________________________________________________________________
-
-   (BUTTON) Se connecter
-
-   Bénéficiez gratuitement de fonctionnalités et de services additionnels.
-   Devenez membre
-
-   Identifiant/Mot de passe oublié
-   (BUTTON)
-   Si vous êtes Membre de la Communauté Boursorama, veuillez indiquer
-   l'adresse email que vous avez fournie lors de votre enregistrement pour
-   recevoir votre identifiant et/ou ré-initialiser votre mot de passe :
-   ____________________
-     __________________________________________________________________
-
-   (BUTTON) Réinitialiser mon mot de passe
-
-   Nouveau sur Boursorama ? Devenez membre
-
-   Fermer
-   Message d'erreur
-
-     * Accéder à l'accueil
-
-
-
-     Patrimoine
-
-
-
-     Succession Transmission
-
-
-
-     Transmission
-
-
-
-     Succession et héritage: qui hérite s’il n’y a ni enfant ni conjoint?
-
-     *
-     *
-     *
-     * [ ]
-     *
-
-   Connectez-vous pour conserver cet article et le lire plus tard.
-   (BUTTON) Connexion membre Connexion client
-   Nouveau sur Boursorama ? Devenez membre gratuitement
-
-Succession et héritage: qui hérite s’il n’y a ni enfant ni conjoint?
-
-   Dernière mise à jour le : 23/09/2022
-     *
-     *
-     *
-     * [ ]
-     *
-
-   Il est possible de rédiger un testament pour choisir librement ses
-   héritiers et orienter sa succession. crédit photo : Gettyimages
-
-   Il est possible de rédiger un testament pour choisir librement ses
-   héritiers et orienter sa succession. crédit photo : Gettyimages
-
-En cas de décès d'une personne sans conjoint ni enfant, l'ordre de succession
-est déterminé par le Code civil parmi les membres de la famille. Il est
-également possible de rédiger un testament pour choisir librement ses
-héritiers. Cependant, le montant des droits de succession diffère selon le
-lien de parenté avec les personnes désignées pour recevoir l'héritage.
-
-   Sommaire:
-     * Sommaire
-     * Un ordre de succession déterminé par le Code civil
-     * Organiser sa succession grâce à un testament
-     * Sœur, frère, parent, neveu… quel montant pour les droits de
-       succession?
-     * Comment alléger la fiscalité d'une succession sans enfant et sans
-       conjoint?
-
-Sommaire
-
-   Un ordre de succession déterminé par le Code civil
-
-   Organiser sa succession grâce à un testament
-
-   Sœur, frère, parent, neveu… quel montant pour les droits de succession?
-
-   Comment alléger la fiscalité d'une succession sans enfant et sans
-   conjoint?
-
-Un ordre de succession déterminé par le Code civil
-
-   Quand une personne célibataire décède sans enfant et sans avoir établi
-   de testament , la loi désigne ses héritiers et la quote-part réservée �
-   chacun. Le Code civil définit précisément la liste des héritiers ,
-   classés par ordre, du plus proche au plus éloigné. La présence d'un
-   seul membre dans un ordre conduit à évincer les personnes des ordres
-   inférieurs. Si plusieurs personnes sont dans le même ordre, la
-   succession revient à la/les personne(s) dont le degré de parenté est le
-   plus proche.
-     * Le premier ordre désigne les enfants et leurs descendants
-       (petits-enfants, arrière-petits-enfants).
-     * Le deuxième ordre regroupe les parents (les ascendants
-       privilégiés), les frères et sœurs (les collatéraux privilégiés) et
-       les descendants de ces derniers (neveux et nièces).
-     * Le troisième ordre rassemble les grands-parents et les
-       arrière-grands-parents (les ascendants ordinaires).
-     * Le quatrième ordre comprend les oncles, les tantes, les cousins et
-       les cousines (les collatéraux ordinaires).
-
-   Selon le Code civil, les père et mère, les frères et sœurs et les
-   descendants de ces derniers sont appelés à hériter (il s'agit des
-   héritiers du deuxième ordre). Chaque parent vivant reçoit un quart de
-   la succession, la moitié restante étant répartie à parts égales entre
-   les frères et sœurs. Si l'un des parents est déjà décédé, sa part
-   revient aux frères et sœurs.
-
-   Quand la personne décédée avait un enfant, disparu avant lui, et si cet
-   enfant avait lui-même des enfants, ces derniers se partagent sa part de
-   succession légitime. Cela se passe de la même manière, pour les frères
-   et sœurs et leurs enfants. Ce principe est appelé la règle de la
-   représentation: une personne décédée est représentée par ses enfants ou
-   ses petits-enfants. Sans frères et sœurs, les parents reçoivent la
-   totalité de l'héritage.
-
-   En l'absence de père et mère ou de frère et sœur, la succession est
-   divisée en deux entre la famille maternelle et la famille paternelle.
-   Dès lors, les héritiers les plus proches selon le degré de parenté
-   héritent: un oncle ou une tante, puis les cousins germains… Si la
-   personne n'a plus de famille proche, c'est au notaire d'effectuer des
-   recherches jusqu'au quatrième ordre et au sixième degré de parenté,
-   correspondant aux cousins issus de germains (c'est-à-dire les enfants
-   des cousins des parents).
-
-Qu'est-ce qu'une succession vacante?
-
-   Selon le Code civil, une succession est déclarée «vacante» quand elle
-   n'est acceptée ou réclamée par aucun héritier à l'expiration d'un délai
-   de 6 mois à compter de l'ouverture de la succession. Un notaire, le
-   ministère public, les personnes assurant la gestion du patrimoine du
-   défunt ou ses créanciers peuvent saisir le tribunal judiciaire pour
-   faire prononcer la déclaration de vacance par ordonnance. L'État est
-   alors désigné comme curateur de la succession. En France, 13.000
-   successions sont concernées chaque année, pour des actifs dépassant 200
-   millions d'euros. La Direction Nationale d'Interventions Domaniales
-   (DNID), rattachée à la Direction Générale des Finances Publiques
-   (DGFiP), a lancé le 15 mars 2022 un nouveau service permettant de
-   rechercher une succession vacante via un moteur de recherche hébergé
-   sur le site impots.gouv.fr.
-
-Organiser sa succession grâce à un testament
-
-   L'absence d'héritiers réservataires permet d'organiser sa succession
-   avec une grande souplesse et de pouvoir désigner les bénéficiaires en
-   toute liberté. Le partenaire de Pacs ou le concubin n'est pas considéré
-   par l'administration fiscale comme un héritier. Par conséquent, il est
-   nécessaire d'établir un testament pour lui permettre de bénéficier de
-   tout ou partie de la succession.
-
-   Certains biens peuvent être considérés comme indivis entre les deux
-   partenaires de Pacs. Cependant, les règles de succession sont
-   strictement encadrées par le droit français. Aussi, la rédaction d'un
-   testament permet d'anticiper la transmission de ses biens et de
-   répartir son héritage selon ses souhaits, en contournant l'ordre de
-   priorité défini par la loi.
-
-Sœur, frère, parent, neveu… quel montant pour les droits de succession?
-
-   Plus les liens de parenté avec les héritiers sont éloignés, plus le
-   montant des droits de succession est élevé. Les parents bénéficient
-   d'un abattement de 100.000 euros avant d'être taxés selon un barème
-   progressif allant de 5% à 45%. L'abattement est de 15.932 euros pour
-   les frères et sœurs, de 7.967 euros pour les oncles, tantes et neveux
-   (jusqu'au quatrième degré de parenté) et de 1.594 euros pour les autres
-   héritiers. Le taux des droits de succession applicable pour un frère ou
-   une sœur est de 35% jusqu'à 24.430 euros, puis de 45%. Il s'élève à 55%
-   pour les parents jusqu'au quatrième degré et à 60% au-delà. De ce fait,
-   plus de la moitié du patrimoine du défunt peut revenir à l'État.
-
-Comment alléger la fiscalité d'une succession sans enfant et sans conjoint?
-
-   Les personnes n'ayant pas d'enfant peuvent donner jusqu'à 31.865 euros
-   à chacun de leurs neveux et nièces tous les quinze ans. Cette donation
-   n'est pas taxée lorsque ces derniers sont majeurs et lorsque le
-   donateur a moins de 80 ans.
-
-   La meilleure option pour avantager un parent éloigné ou une personne
-   sans lien de parenté consiste à le désigner comme bénéficiaire d'un
-   contrat d'assurance-vie . Le capital transmis au titre des versements
-   effectués avant le 70e anniversaire bénéficie d'un abattement fiscal de
-   152.500 euros par bénéficiaire. Il est ensuite imposé à 20% jusqu'�
-   700.000 euros, puis à 31,25% au-delà.
-
-   Il est également possible de faire un legs avec charge à une fondation.
-   Dans ce cas, la personne désigne un organisme reconnu d'utilité
-   publique ou d'intérêt général comme légataire universel, en le
-   chargeant de reverser une somme, nette de droits de succession, à un
-   héritier préalablement désigné. La fondation s'acquitte des droits de
-   succession pour le compte du légataire, mais elle n'est pas soumise �
-   impôt. Ce dispositif permet d'apporter son soutien financier à une
-   cause, tout en réduisant le montant des droits de succession pour ses
-   héritiers.
-     *
-     *
-     *
-     * [ ]
-     *
-
-   © Le Particulier.
-
-   Fiches pratiques Succession Transmission
-     * Renoncer à une succession: pour aider ses enfants ou protéger son
-       patrimoine
-     * Comment rédiger un testament (authentique, olographe ou mystique)
-     * Le paiement des droits de succession
-     * Les intérêts de vos héritiers doivent être préservés au moment de
-       la succession
-
-   Voir toutes les Fiches pratiques Succession Transmission
-
-   Actualité bourse
-     * 04.12.2023•17:40
-       Hausse de l’or : comment investir et trader le métal jaune ?
-     * 04.12.2023•16:38
-       •1
-       Strike Magazine Décembre 2023 : Produits de Bourse, quel est le
-       rôle d'un market maker ?
-     * 04.12.2023•16:20
-       ADP: accord avec le PNF sur des investigations
-
-   Actualité patrimoine
-     * 04.12.2023•17:06
-       •1
-       Investissement locatif : les dépenses des propriétaires augmentent
-       bien plus vite que les loyers
-     * 04.12.2023•16:50
-       •2
-       Le fisc demande à une mère de rembourser les dettes de son ex-mari,
-       elle doit encore 76 000 euros
-     * 04.12.2023•16:15
-       •4
-       Le prix de la carte grise en hausse dans plusieurs régions en 2024
-
-   Pages les plus populaires
-     * Convertisseur de devises
-     * Convertisseur dollar / euro
-     * Convertisseur euro / dollar
-
-     * Convertisseur livres / euro
-     * Convertisseur euro / livre sterling
-     * Convertisseur franc suisse / euro
-
-     * Convertisseur euro / franc suisse
-     * Convertisseur euro / dinar
-     * Convertisseur euro / dirham
-
-   L'offre BoursoBank
-     * Ouvrir un compte bancaire en ligne
-     * Carte bancaire gratuite
-     * Virement instantané
-
-     * Crédit immobilier en ligne
-     * Mini crédit rapide
-     * Crédit auto
-
-     * Plan Epargne Retraite
-     * PEL
-     * Assurance habitation
-
-   Aide & Contact
-     * Accessibilité
-     * Contactez-nous
-     * Foire aux Questions
-     * Plan du site
-
-   Documentation Contractuelle
-     * CGU Membres
-     * Conditions générales
-     * Mentions Légales
-     * Politique d'exécution
-     * Rapport de meilleure sélection 2022
-
-   Sécurité et données personnelles
-     * Gérer mes cookies
-     * Politique de cookies
-     * Politique de protection des données membres et visiteurs
-     * Politique de protection des données prospects
-
-   Guides et brochures
-     * Solutions pour la Clientèle Fragile
-
-   Nos sites
-     * Affiliation
-     * BoursoBank
-     * Publicité
-     * Site Groupe & Recrutement
-     __________________________________________________________________
-
-   Copyright © 2023
-
-   Boursorama, SA au capital de 51 171 597,60 € – RCS Nanterre 351 058 151
-   – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE
-   BILLANCOURT CEDEX
-   Label B Corp
-
-     *
-     *
-     *
+
+   Menu
+   (BUTTON) Fermer le menu
+
+     * Recherche
+     * Séjourner, voyager
+          + Voyager
+               o Documents requis pour voyager en Europe
+                    # Documents de voyage – Citoyens de l'UE
+                    # Documents de voyage pour les membres de la famille
+                      n’ayant pas la citoyenneté de l’UE
+                    # Documents de voyage – Ressortissants de pays non
+                      membres de l'UE
+                    # Travel documents for EU nationals and their non-EU
+                      family members residing in the UK
+                    # Travel documents for UK nationals and their family
+                      members residing in an EU country
+                    # Passeports expirés ou perdus
+                    # Documents pour les mineurs voyageant dans l'UE
+               o Droits des passagers
+                    # Droits des passagers aériens
+                    # Droits des passagers ferroviaires
+                    # Droits des passagers voyageant en autobus ou autocar
+                    # Droits des passagers voyageant sur un navire
+               o Transport et handicap
+                    # Droits des voyageurs handicapés ou à mobilité
+                      réduite
+                    # Carte européenne de stationnement pour personnes
+                      handicapées
+               o Conduire à l'étranger
+                    # Louer une voiture
+                    # Permis de conduire et assurance automobile
+                    # Code de la route et sécurité routière
+               o Que pouvez-vous emporter avec vous?
+                    # Alcool, tabac et droits d’accises
+                    # Règles applicables au transport d'argent liquide
+                      lorsqu'on voyage dans l'UE, qu'on y entre ou qu'on
+                      en sort
+                    # Voyager avec des animaux de compagnie et d'autres
+                      animaux dans l'UE
+                    # Restrictions applicables aux bagages
+                    # Transporter des produits animaux, des denrées
+                      alimentaires ou des plantes
+                    # Utilisation de l'euro
+               o Sécurité et urgences
+                    # Sûreté des aéroports et des compagnies aériennes
+                    # Urgences
+                    # eCall: le système embarqué fondé sur le 112
+               o Voyages à forfait et multipropriété
+                    # Voyages à forfait et prestations de voyage liées
+                    # Multipropriété et autres contrats de vacances à long
+                      terme dans l'UE
+          + Travail et retraite
+               o Travailler à l'étranger
+                    # Égalité de traitement au travail
+                    # Travailleurs détachés
+                    # Travailleurs frontaliers
+                    # Travailler dans la fonction publique à l'étranger
+                    # Permis de travail
+                    # Règles de l’UE relatives au transport routier
+               o Qualifications professionnelles
+                    # Qu'est-ce qu'une profession réglementée?
+                    # Demande de prestation permanente de services
+                    # Demande de prestation temporaire de services
+                    # Documents et formalités
+                    # Carte professionnelle européenne (EPC)
+                    # UE-Royaume-Uni: qualifications professionnelles
+               o Chômage et allocations
+                    # Régimes de sécurité sociale dans l'UE
+                    # Couverture sociale à l'étranger
+                    # Perdre son emploi à l'étranger
+                    # Allocations familiales
+                    # Pensions de survie/de réversion et allocations de
+                      décès
+                    # Transfert des allocations de chômage
+                    # Si vous ne trouvez pas de travail
+                    # Formulaires normalisés en matière de sécurité
+                      sociale
+               o Prendre sa retraite à l'étranger
+                    # Pensions d'État à l'étranger
+                    # Pensions complémentaires à l'étranger
+               o Fiscalité
+                    # Impôts sur le revenu à l'étranger
+                    # Double imposition
+          + Véhicules
+               o Voitures
+                    # Achat et leasing d'une voiture
+                    # TVA lors de l’achat ou de la vente d'une voiture
+                    # Voitures de société
+               o Permis de conduire
+                    # Échange et reconnaissance des permis de conduire
+                      dans l'UE
+                    # Renouveler un permis de conduire dans un autre pays
+                      de l'UE
+                    # Obtenir un permis de conduire dans l'UE
+               o Assurances
+                    # Assurance automobile à l'étranger
+                    # Validité de l'assurance automobile dans l'UE
+               o Immatriculation
+                    # Immatriculation – Formalités et documents
+                    # Faire immatriculer sa voiture dans un autre pays de
+                      l'UE
+                    # Taxes automobiles dans un autre pays de l'UE
+          + Formalités de séjour
+               o Droits de séjour
+                    # Citoyens de l'UE économiquement non actifs
+                    # Demandeurs d'emploi – Droits de séjour
+                    # Droits de séjour des retraités
+                    # Étudiants – Droits de séjour
+                    # Travailleurs – Droits de séjour
+               o Droit de séjour pour les familles
+                    # Conjoints et enfants ressortissants de l'UE
+                    # Conjoints et enfants non ressortissants de l'UE
+                    # Partenaires civils et enregistrés
+                    # Parents
+                    # Proches
+                    # Demandeurs d'emploi – Membres de la famille
+               o Documents et formalités
+                    # S'enregistrer en cas de séjour inférieur à trois
+                      mois
+                    # S'enregistrer à l'étranger après trois mois de
+                      séjour
+                    # S'enregistrer en tant que membre de la famille
+                      ressortissant de l’UE
+                    # Titres de séjour pour les membres de la famille non
+                      ressortissants de l'UE
+                    # Séjour permanent des ressortissants de l’UE après
+                      cinq ans
+                    # Séjour permanent des membres de la famille non
+                      ressortissants de l'UE
+               o Élections à l'étranger
+                    # Élections municipales
+                    # Élections européennes
+                    # Élections nationales
+               o Residence rights for EU nationals in the UK and UK
+                 nationals in the EU
+                    # Brexit: how UK nationals and their family members
+                      resident in an EU country can stay there after 31
+                      December 2020
+                    # Brexit: how EU nationals and their family members
+                      resident in the UK can stay there after 31 December
+                      2020
+          + Éducation & jeunesse
+               o École
+                    # Aller à l'école dans un autre pays de l'UE
+                    # Partenariats avec des écoles à l'étranger
+               o Université
+                    # Université – Admission et conditions d'entrée
+                    # Université – Droits d'inscription et aide financière
+                    # Reconnaissance des diplômes universitaires
+                    # Étudier à l'étranger et bourses d'études
+                    # Travailler pendant ses études
+               o Stages
+                    # Stages – Aide financière
+               o Volontariat dans l’UE et au-del�
+                    # Volontariat — Par où commencer?
+                    # Volontariat – Se préparer
+               o Chercheurs
+                    # Chercheurs – Bourses et emplois
+                    # Chercheurs – Fiscalité
+          + Santé
+               o Soins de santé non programmés
+                    # Aller chez le médecin/à l'hôpital à l'étranger
+                    # Soins de santé non programmés: paiement et
+                      remboursement
+                    # Couverture médicale lors de séjours temporaires
+                    # Carte européenne d’assurance maladie (CEAM)
+               o Soins médicaux programmés à l'étranger
+                    # Programmer des soins médicaux à l'étranger
+                    # Dépenses et remboursements: soins programmés �
+                      l'étranger
+                    # Points d’information pour les soins de santé
+                      transfrontaliers
+               o Acheter des médicaments dans un autre pays de l’UE
+                    # Présenter une ordonnance dans un autre pays de l’UE
+                    # Ordonnances à l'étranger: coûts et remboursements
+                    # Acheter des médicaments en ligne
+               o Couverture maladie en cas de résidence à l'étranger
+                    # Votre couverture médicale
+          + Famille
+               o Enfants
+                    # Responsabilité parentale
+                    # Adoption
+                    # Enlèvement d'enfants
+               o Couples
+                    # Mariage
+                    # Unions civiles et partenariats enregistrés
+                    # Couples non mariés
+                    # Divorce et séparation légale
+                    # Pension alimentaire (aide versée à des membres de la
+                      famille)
+                    # Régimes patrimoniaux des couples internationaux
+                    # Faire reconnaître des documents publics dans l'UE
+               o Successions transfrontalières
+                    # Planifier sa succession transfrontalière
+                    # Gérer une succession transfrontalière
+          + Consommateurs
+               o Achats
+                    # Informations sur les contrats
+                    # Prix et paiements
+                    # TVA – Taxe sur la valeur ajoutée
+                    # Expédition et livraison
+                    # Garanties et retours
+                    # Achats: connaître ses droits
+               o Internet et télécommunications
+                    # Itinérance: utiliser un téléphone portable dans l’UE
+                    # Accéder à du contenu en ligne à l'étranger
+                    # Services de télécommunication
+                    # Internet: accès et utilisation
+                    # Protection des données et respect de la vie privée
+                      en ligne
+               o Produits et services financiers
+                    # Comptes bancaires dans l'UE
+                    # Prêts et crédits à la consommation
+                    # Produits d'assurance
+                    # Produits d'investissement
+                    # Prêts immobiliers
+                    # Paiements, virements et chèques
+                    # Investir dans un autre pays de l’UE
+               o Traitement inéquitable
+                    # Pratiques commerciales déloyales
+                    # Pratiques tarifaires déloyales
+                    # Clauses contractuelles abusives
+               o Fourniture d'énergie
+                    # Services énergétiques: accès et utilisation
+                    # Plaintes et règlement des litiges
+                    # Contrats et consommation d'énergie
+               o Règlement des litiges de consommation
+                    # Règlement informel des litiges pour les
+                      consommateurs
+                    # Procédures extrajudiciaires pour les consommateurs
+                    # Action en justice pour les consommateurs
+     * Faire des affaires
+          + Gérer une entreprise
+               o Développer une entreprise
+                    # Enregistrement EMAS
+                    # Fusions d'entreprises
+                    # Créer une société européenne (SE)
+                    # Libre flux des données à caractère non personnel
+                    # Comprendre les investissements transfrontières dans
+                      l’UE
+                    # Gérer une entreprise dans le secteur du tourisme
+               o Entreprise: réussir sa transition numérique
+                    # Créer un site web pour son entreprise
+                    # Vendre en ligne sur des plateformes tierces
+                    # Créer une boutique en ligne
+                    # Sécurisation d'un site web
+                    # Livraisons et réalisation de ventes en ligne
+                    # Service à la clientèle pour les entreprises en ligne
+                    # Promouvoir une entreprise en ligne
+               o Propriété intellectuelle
+                    # Droits de propriété intellectuelle
+                    # Brevets
+                    # Marques
+                    # Droits d'auteur
+                    # Secrets d'affaires
+                    # Protection des dessins ou modèles
+                    # Noms de domaine
+                    # Protection des bases de données
+                    # Indications géographiques
+                    # Commercialisation de la propriété intellectuelle
+                    # Atteinte aux droits de la propriété intellectuelle
+               o Création d’entreprise
+                    # Créer une entreprise
+                    # Erasmus pour les jeunes entrepreneurs
+               o Outils de soutien de l’UE aux PME
+          + Fiscalité
+               o Droits d'accise
+                    # Paiement des droits d'accises
+                    # Produits soumis à accise
+               o TVA
+                    # Règles et taux en matière de TVA: taux normaux,
+                      spéciaux et réduits
+                    # Facturer et déduire la TVA
+                    # Exonérations de la TVA
+                    # Remboursements de TVA: demande en ligne
+                    # TVA transfrontière
+                    # Vérifier un numéro de TVA (système VIES)
+                    # Perception de la TVA sur les services électroniques
+                      (mini-guichet unique)
+               o Impôt sur les sociétés
+                    # L'impôt sur les sociétés dans l'UE
+                    # Impôts sur les sociétés mères et les filiales
+          + Vendre dans l'UE
+               o Marchés publics
+                    # Règles en matière de passation de marchés publics
+                    # Demander le réexamen d'une procédure de passation de
+                      marché public
+                    # Rechercher un marché public et soumettre une offre
+               o Vente de biens et de services
+                    # Vendre des produits dans l'UE
+                    # Fournir des services dans un autre pays de l'UE
+                    # Commerce électronique, vente à distance et hors
+                      établissement
+                    # Voyages à forfait et prestations de voyage liées
+                    # Services de livraison de colis
+               o Concurrence entre entreprises
+                    # Signaler des pratiques anticoncurrentielle
+                    # Règles de concurrence de l'UE
+          + Ressources humaines
+               o Contrats de travail
+                    # Conditions d'emploi
+                    # Modification des contrats de travail
+                    # Information et consultation du personnel
+                    # Travail à durée déterminée
+                    # Travail à temps partiel
+                    # Travail intérimaire
+                    # Licenciements
+                    # Travailleurs adolescents
+               o Temps de travail, congés et vacances
+                    # Congés et formules souples de travail
+                    # Temps de travail
+               o Travailleurs du secteur des transports
+                    # Employer des travailleurs dans le transport routier:
+                      temps de conduite et périodes de repos
+                    # Personnel de l'aviation civile
+                    # Personnel ferroviaire
+                    # Gens de mer et travailleurs du secteur de la
+                      navigation intérieure
+               o Travailleurs détachés
+                    # Détachement de personnel à l'étranger
+                    # Conducteurs détachés
+               o Sécurité sociale et santé
+                    # Sécurité sociale
+                    # Santé et sécurité au travail
+               o Égalité de traitement et qualifications
+                    # Égalité de traitement du personnel
+                    # Aménagements raisonnables
+                    # Reconnaissance des qualifications
+          + Produits
+               o Normes
+                    # Les normes en Europe
+               o Conformité des produits
+                    # Connaître les exigences applicables aux produits
+                    # Évaluation de la conformité
+                    # Documentation technique et déclaration de conformité
+                    # Exigences en matière d'écoconception
+                    # Déclaration de reconnaissance mutuelle
+               o Étiquettes et marquages
+                    # Marquage CE
+                    # Étiquettes énergétiques
+                    # Marquage des DEEE
+                    # Étiquetage des chaussures
+                    # Étiquetage des produits textiles
+                    # Symbole «℮»
+                    # Label écologique de l'UE
+               o Substances chimiques
+                    # Classification, étiquetage et emballage de produits
+                      chimiques
+                    # Enregistrement des substances chimiques dans l’UE
+                      (règlement REACH)
+               o Recyclage et gestion des déchets
+                    # Responsabilités en matière de DEEE
+               o Étiquetage des denrées alimentaires
+                    # Règles d'étiquetage des denrées alimentaires
+                    # Déclaration nutritionnelle
+                    # Étiquetage des compléments alimentaires
+                    # Additifs alimentaires
+                    # Allégations nutritionnelles et de santé
+          + Financement et aide financière
+               o Comptabilité
+                    # Comptabilité des PME et des micro-entreprises
+               o Obtenir un financement
+                    # Accès au financement
+                    # Programmes de financement de l’UE
+               o Effectuer et recevoir des paiements
+                    # Recouvrement transfrontière de créances
+                    # Paiements électroniques et en espèces
+                    # Retard de paiement
+          + Relations avec les clients
+               o Contrats conclus avec les consommateurs et garanties
+                    # Garanties pour les consommateurs
+                    # Produits défectueux
+                    # Contrats conclus avec les consommateurs
+               o Protection des données
+                    # Protection des données en vertu du RGPD
+                    # Respect de la vie privée en ligne
+               o Résoudre un litige avec un client
+                    # Procédure européenne de règlement des petits litiges
+                    # Règlement extrajudiciaire/en ligne des litiges
+     * Contacter les services d’assistance
+     * Signaler un problème
+
+    1. Your Europe
+    2. (BUTTON) …
+    3. Citoyens
+    4. Famille
+    5. Successions transfrontalières
+    6. Gérer une succession transfrontalière
+
+                     Gérer une succession transfrontalière
+
+   Sur cette page
+
+   En cas de décès d'un membre de la famille ou d'un proche, l'héritier
+   peut en principe régler la succession:
+     * auprès des tribunaux du pays de l'UE où le défunt a vécu en dernier
+       lieu;
+     * auprès d'un notaire de n'importe quel pays de l'UE.
+
+   En règle générale, l'autorité chargée de la succession appliquera la
+   loi nationale du pays de l'UE dans lequel le défunt a vécu en dernier
+   lieu, sauf si celui-ci avait choisi la loi de son pays de nationalité.
+
+Possibilité pour les héritiers de choisir la juridiction
+
+   Si un problème de succession doit être tranché par un tribunal,
+   l'héritier doit en principe s'adresser aux tribunaux du pays de l'UE où
+   le défunt a vécu en dernier lieu.
+
+   Toutefois, si le défunt a choisi la loi de son pays de nationalité pour
+   régler sa succession et qu'il s'agit d'un pays de l'UE, les héritiers
+   et les autres parties concernées peuvent convenir de porter l'affaire
+   devant les tribunaux de ce pays.
+
+   Toutes les parties concernées doivent s'accorder sur le choix de la
+   juridiction.
+
+Accepter une succession ou un héritage ou y renoncer
+
+   La loi nationale qui s'applique à la succession peut vous autoriser �
+   déclarer devant un tribunal si vous acceptez la succession ou si vous y
+   renoncez.
+
+   Selon la réglementation de l'UE, vous pouvez faire cette déclaration
+   devant un tribunal du pays de l'UE dans lequel vous résidez, même si le
+   tribunal chargé de régler la succession est établi dans un autre pays
+   de l'UE.
+
+Effets des décisions de justice rendues dans un autre pays de l'UE
+
+   En matière de succession, une décision de justice rendue dans un pays
+   de l'UE est reconnue dans les autres pays de l'UE, sans autre procédure
+   particulière.
+
+   Toutefois, si une partie établie dans un autre pays de l'UE ne se
+   conforme pas de son plein gré à la décision de justice, vous pouvez
+   demander que la décision soit déclarée exécutoire, afin que la police
+   ou un huissier puisse intervenir.
+
+   L'autre partie ne peut introduire un recours contre la reconnaissance
+   ou le caractère exécutoire de la décision que pour les motifs suivants:
+     * la décision est manifestement contraire à l'ordre public du pays de
+       l'UE dans lequel elle doit être reconnue ou exécutée, en raison,
+       par exemple, de son caractère discriminatoire;
+     * elle est contraire à des décisions de justice rendues précédemment
+       dans le pays de l'UE où elle doit être reconnue ou exécutée;
+     * une des personnes participant à la procédure n'a pas eu la
+       possibilité de préparer sa défense.
+
+Avertissement
+
+   Les décisions rendues par les tribunaux au Danemark et en Irlande ne
+   bénéficient pas de ces règles simplifiées lorsqu'elles doivent être
+   reconnues ou exécutées dans un autre pays de l'UE.
+
+Certificat successoral européen
+
+   En tant qu'héritier, vous devrez peut-être prouver à une autorité ou
+   une banque établie dans un autre pays de l'UE que vous avez le droit de
+   devenir propriétaire des actifs du défunt situés dans ce pays.
+
+   En outre, l'exécuteur testamentaire et l'administrateur de la
+   succession devront peut-être prouver qu'ils sont habilités à exercer
+   leurs droits dans un autre pays de l'UE.
+
+Histoire vécue
+
+   Piotr, Polonais, décède en Allemagne alors qu'il y résidait en tant que
+   travailleur détaché pour une période d'un an.
+
+   Gosia, sa femme et héritière, vit en Pologne. Elle doit accéder au
+   compte bancaire de son mari en Allemagne pour pouvoir payer les
+   factures et le dernier mois de loyer.
+
+   Cependant, la banque lui demande un document officiel prouvant qu'elle
+   est l'héritière de Piotr et qu'elle est autorisée à accéder à son
+   compte. Les obstacles administratifs rendent le deuil encore plus
+   éprouvant.
+
+   L'autorité du pays de l'UE chargée de régler l'héritage ou la
+   succession peut vous fournir un document national certifiant votre
+   statut d'héritier, d'exécuteur testamentaire ou d'administrateur de la
+   succession.
+
+   Vous pouvez aussi demander à cette autorité de vous remettre un
+   certificat successoral européen.
+
+   L'avantage de ce certificat est qu'il produit les mêmes effets dans
+   toute l'Union européenne, quel que soit le pays qui l'a délivré. Un
+   document national produira en revanche des effets différents selon le
+   pays de délivrance, ce qui peut retarder la reconnaissance de vos
+   droits dans un autre pays de l'UE.
+
+   En outre, le certificat successoral européen est reconnu dans les
+   autres pays de l'UE sans autre procédure particulière.
+
+   Vous pouvez obtenir un certificat successoral européen auprès d'un
+   tribunal du pays ayant le pouvoir de statuer sur la succession, ou
+   d'une autre autorité compétente, par exemple un notaire, dans ce pays.
+   Vous pouvez former un recours contre le refus de délivrance d'un
+   certificat successoral européen.
+
+   L'autorité qui délivre le certificat successoral européen conservera
+   l'original et transmettra des copies certifiées à l'héritier, �
+   l'exécuteur testamentaire ou à l'administrateur de la succession. Ces
+   copies sont valables pour une période de 6 mois, qui peut être
+   prolongée.
+
+   L'autorité de délivrance peut modifier ou retirer le certificat
+   successoral européen s'il se révèle inexact.
+
+Histoire vécue
+
+   Piotr décède en Allemagne alors qu'il y réside et travaille à titre
+   temporaire. Sa vie est toutefois en Pologne, où résident son épouse
+   Gosia, sa famille et ses amis. C'est la raison pour laquelle les
+   autorités polonaises sont responsables de sa succession.
+
+   Gosia obtient un certificat successoral européen auprès des
+   juridictions polonaises. Elle peut s'en servir pour prouver à la banque
+   de Piotr en Allemagne qu'elle a le droit d'accéder au compte de son
+   mari et qu'elle peut utiliser son argent pour payer ses factures et son
+   dernier mois de loyer.
+
+Législation européenne
+
+     * Règlement relatif à la compétence, la loi applicable, la
+       reconnaissance et l'exécution des décisions, et l'acceptation et
+       l'exécution des actes authentiques en matière de successions et �
+       la création d'un certificat successoral européen
+
+Besoin de services d'assistance?
+
+   Contacter un service d'assistance spécialisé
+   (BUTTON) Obtenir de l'aide et des conseils
+
+   Se renseigner sur ses droits dans l’UE/Résoudre un problème rencontré
+   avec un organisme public
+
+   Vous pouvez également utiliser l’outil de recherche de services
+   d’assistance afin de trouver l’aide la plus appropriée.
+   Dernière vérification : 06/10/2023
+
+   Partager cette page
+     * Facebook
+     * Twitter
+     * Linkedin
+     * e-mail
+
+   (BUTTON) Commentaires sur la qualité
+
+   Merci pour ces commentaires. Si vous souhaitez nous fournir de plus
+   amples informations, veuillez compléter cette enquête. Cela ne vous
+   prendra que quelques minutes.
+
+   En raison de problèmes techniques, vos informations n’ont pas pu être
+   envoyées. Veuillez réessayer plus tard.
+
+   Avez-vous trouvé ce que vous cherchiez? *
+
+   (*) Oui
+   ( ) Non
+   ( ) En partie
+
+   Notez cette page *
+
+   (*) ( ) ( ) ( ) ( )
+
+   Que cherchiez-vous? * ____________________Aidez-nous à améliorer ce
+   site
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   800 caractères restants
+   (BUTTON) Envoyer
+
+   * Champ obligatoire
+
+Your Europe
+
+   Ce site est géré par la direction générale du marché intérieur, de
+   l’industrie, de l’entrepreneuriat et des PME et est un site officiel de
+   l’Union européenne
+
+Suivez-nous sur
+
+     * Facebook
+     * twitter
+     * LinkedIn
+     * YouTube
+
+À propos de ce site
+
+     * Qu’est-ce que Your Europe ?
+     * Cookies
+     * Contact
+     * Version imprimable
+
+   Drapeau de l'Union européenne Drapeau de l'Union européenne
+   En savoir plus sur europa.eu
+
+Contacter l'UE
+
+     * Appelez-nous au 00 800 6 7 8 9 10 11
+     * Utilisez d'autres options téléphoniques
+     * Écrivez-nous au moyen de notre formulaire de contact
+     * Rencontrez-nous dans un des centres de l’UE
+
+Réseaux sociaux
+
+     * Rechercher les comptes de l’UE sur les réseaux sociaux
+
+Avis juridique
+
+     * Les langues sur nos sites web
+     * Protection de la vie privée
+     * Avis juridique
+     * Politique en matière d'accessibilité du web
+
+Institutions de l’UE
+
+     * Parlement européen
+     * Conseil européen
+     * Conseil de l'Union européenne
+     * Commission européenne
+     * Cour de justice de l'Union européenne (CJUE)
+     * Banque centrale européenne (BCE)
+     * Cour des comptes européenne
+     * Service européen pour l’action extérieure (SEAE)
+     * Comité économique et social européen (CESE)
+     * Comité européen des régions (CdR)
+     * Banque européenne d'investissement (BEI)
+     * Médiateur européen
+     * Contrôleur européen de la protection des données
+     * Comité européen de la protection des données
+     * Office européen de sélection du personnel
+     * Office des publications de l’Union européenne
+     * Agences

@@ -136,6 +136,33 @@ Provenant de l'émission
 
    Plus de séries
    (BUTTON)
+     * Sur les traces du Front de Libération de la Bretagne : une histoire
+       du terrorisme breton
+       FLB - Histoire du terrorisme breton
+       Pour LSD, Kristel Le Pollotec a parcouru la Bretagne afin
+       d’enquêter sur le FLB, le Front de Libération de la Bretagne,
+       responsable de centaines d’attentats dans les années 60 et 70 et
+       qui a ressurgi ces derniers mois en revendiquant les incendies de
+       plusieurs résidences secondaire
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
+     * La vie rêvée des oiseaux
+       La vie rêvée des oiseaux
+       Dans cette série, nous partons à l’exploration des oiseaux.
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
+     * Et le son fut !
+       Et le son fut
+       Pour LSD Juliette Boutillier sonde l'enregistrement sonore - son
+       histoire, son geste, ses usages de propagande ou intimes - et
+       déroule l'histoire de l’archivage et de l'écoute contemporaine. Du
+       cylindre jusqu’aux voix synthétiques : depuis quand, quoi, comment,
+       pourquoi enregistre-t-on du son ?
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
      * La marche de 83 : histoire d’une égalité manquée
        La marche de 83, histoire d'une égalité manquée
        Pour LSD, 40 ans après la marche pour l’égalité et contre le
@@ -225,36 +252,6 @@ Provenant de l'émission
        Pour LSD, Nicolas Champeaux revient sur l’éclosion de la techno �
        Détroit et l’accompagne jusqu’à sa maturité. Un voyage
        transatlantique émaillé d’imprévus, de turbulences, et de récits.
-       (BUTTON)
-       Découvrir
-       (BUTTON) suivre
-     * La Vélo-Révolution : histoire d’un objet en pièces détachées
-       La Vélo-Révolution : Histoire d’un objet en pièces détachées. Une
-       série documentaire de Julie Navarre réalisée par Jean-Philippe
-       Navarre.
-       Pour LSD, Julie Navarre propose un voyage à bicyclette de 1817 �
-       nos jours. Tour à tour, moyen de transport, loisir ou sport mais
-       aussi art de vivre, le vélo est devenu aujourd’hui, le symbole
-       d’une transition nécessaire face à l’urgence climatique.
-       (BUTTON)
-       Découvrir
-       (BUTTON) suivre
-     * Cancer : la nouvelle ère
-       Cancer, la nouvelle ère
-       Pour LSD, Rémi Dybowski Douat s’attaque au cancer. La relation
-       patients/soignants est au cœur de cette série sur l’accès aux soins
-       supports et la prise en compte de la douleur. Avec l'apparition de
-       nouveaux traitements, la question est là : Et si un jour, on ne
-       mourrait plus du cancer ?
-       (BUTTON)
-       Découvrir
-       (BUTTON) suivre
-     * Se souvenir de Sam
-       Se souvenir de Sam
-       Pour LSD, Antoine Tricot enquête sur un ami de sa grand-mère, Sam
-       Mandelbaum. Peintre d’origine juive polonaise, il est un survivant
-       d’Auschwitz. Mais sa vie rocambolesque nous réserve bien des
-       surprises et interroge nos représentations du XXe siècle.
        (BUTTON)
        Découvrir
        (BUTTON) suivre

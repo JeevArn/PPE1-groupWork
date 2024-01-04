@@ -1,1278 +1,613 @@
 <!DOCTYPE html>
-<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#" class="production content_news">
-  <head>
-    <meta charset="utf-8" />
-<meta name="description" content="Patrimoine " />
-<meta property="og:site_name" content="UMR" />
-<meta property="og:title" content="Patrimoine, les Français face à la question de l’héritage et de la donation" />
-<meta property="og:description" content="Patrimoine " />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Patrimoine " />
-<meta name="twitter:title" content="Patrimoine, les Français face à la question de l’héritage et de la donation" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="/themes/umr/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://umr-retraite.fr/preparer-sa-retraite/lactualite-de-la-retraite/patrimoine-les-francais-face-la-question-de" />
-<link rel="shortlink" href="http://umr-retraite.fr/node/310" />
-<link rel="revision" href="http://umr-retraite.fr/preparer-sa-retraite/lactualite-de-la-retraite/patrimoine-les-francais-face-la-question-de" />
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+<head>
 
-    <title>Patrimoine, les Français face à la question de l’héritage et de la donation | UMR</title>
-    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?s53ww1" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?s53ww1" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?s53ww1" />
-<link rel="stylesheet" media="all" href="/modules/contrib/lmwr_tools/tac_services/assets/css/tac.css?s53ww1" />
-<link rel="stylesheet" media="all" href="/themes/umr/assets/css/screen.min.css?s53ww1" />
-<link rel="stylesheet" media="print" href="/themes/umr/assets/css/print.min.css?s53ww1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    
-<!--[if lte IE 8]>
-<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
-<![endif]-->
+  <title>PHP: H&eacute;ritage - Manual </title>
 
-    <meta name="theme-color" content="#048092">
-  </head>
-  <body>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-    <header class="Header">
-    <div class="Header-wrapper Container-large">
-        <a href="/" class="Header-logo-wrapper">
-            <img id='umr-top-logo' title="UMR" alt="UMR" src="/themes/umr/assets/img/logo/logo.png"/>
+ <link rel="icon" type="image/svg+xml" sizes="any" href="https://www.php.net/favicon.svg?v=2">
+ <link rel="icon" type="image/png" sizes="196x196" href="https://www.php.net/favicon-196x196.png?v=2">
+ <link rel="icon" type="image/png" sizes="32x32" href="https://www.php.net/favicon-32x32.png?v=2">
+ <link rel="icon" type="image/png" sizes="16x16" href="https://www.php.net/favicon-16x16.png?v=2">
+ <link rel="shortcut icon" href="https://www.php.net/favicon.ico?v=2">
+
+ <link rel="search" type="application/opensearchdescription+xml" href="http://php.net/phpnetimprovedsearch.src" title="Add PHP.net search">
+ <link rel="alternate" type="application/atom+xml" href="https://www.php.net/releases/feed.php" title="PHP Release feed">
+ <link rel="alternate" type="application/atom+xml" href="https://www.php.net/feed.atom" title="PHP: Hypertext Preprocessor">
+
+ <link rel="canonical" href="https://www.php.net/manual/fr/language.oop5.inheritance.php">
+ <link rel="shorturl" href="https://www.php.net/oop5.inheritance">
+ <link rel="alternate" href="https://www.php.net/oop5.inheritance" hreflang="x-default">
+
+ <link rel="contents" href="https://www.php.net/manual/fr/index.php">
+ <link rel="index" href="https://www.php.net/manual/fr/language.oop5.php">
+ <link rel="prev" href="https://www.php.net/manual/fr/language.oop5.visibility.php">
+ <link rel="next" href="https://www.php.net/manual/fr/language.oop5.paamayim-nekudotayim.php">
+
+ <link rel="alternate" href="https://www.php.net/manual/en/language.oop5.inheritance.php" hreflang="en">
+ <link rel="alternate" href="https://www.php.net/manual/pt_BR/language.oop5.inheritance.php" hreflang="pt_BR">
+ <link rel="alternate" href="https://www.php.net/manual/zh/language.oop5.inheritance.php" hreflang="zh">
+ <link rel="alternate" href="https://www.php.net/manual/fr/language.oop5.inheritance.php" hreflang="fr">
+ <link rel="alternate" href="https://www.php.net/manual/de/language.oop5.inheritance.php" hreflang="de">
+ <link rel="alternate" href="https://www.php.net/manual/ja/language.oop5.inheritance.php" hreflang="ja">
+ <link rel="alternate" href="https://www.php.net/manual/ru/language.oop5.inheritance.php" hreflang="ru">
+ <link rel="alternate" href="https://www.php.net/manual/es/language.oop5.inheritance.php" hreflang="es">
+ <link rel="alternate" href="https://www.php.net/manual/tr/language.oop5.inheritance.php" hreflang="tr">
+
+<link rel="stylesheet" type="text/css" href="/cached.php?t=1689765002&amp;f=/fonts/Fira/fira.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/cached.php?t=1700771401&amp;f=/fonts/Font-Awesome/css/fontello.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/cached.php?t=1701958202&amp;f=/styles/theme-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/cached.php?t=1701958202&amp;f=/styles/theme-medium.css" media="screen">
+
+ <base href="https://www.php.net/manual/fr/language.oop5.inheritance.php">
+
+
+</head>
+<body class="docs ">
+
+<nav id="head-nav" class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <a href="/" class="brand"><img src="/images/logos/php-logo.svg" width="48" height="24" alt="php"></a>
+    <div id="mainmenu-toggle-overlay"></div>
+    <input type="checkbox" id="mainmenu-toggle">
+    <ul class="nav">
+      <li class=""><a href="/downloads">Downloads</a></li>
+      <li class="active"><a href="/docs.php">Documentation</a></li>
+      <li class=""><a href="/get-involved" >Get Involved</a></li>
+      <li class=""><a href="/support">Help</a></li>
+      <li class="">
+        <a href="/releases/8.3/index.php">
+          <img src="/images/php8/logo_php8_3.svg" alt="php8.3" height="22" width="60">
         </a>
-        <div class="Header-menu-wrapper" >
-            <div class="Header-top-menu">
-        <nav role="navigation"  id="block-topmenu" class="block-topmenu-menu">
-                
-                        <ul class="menu">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/demander-la-documentation.html" data-drupal-link-system-path="node/187">Recevoir la documentation</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/nos-offres-solutions/demander-une-etude-gratuite.html" data-drupal-link-system-path="node/186">Demander une étude gratuite</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/contactez-nous.html" data-drupal-link-system-path="node/185">Nous contacter</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-
-    </nav>
-<div class="Header-search">
-    <form class="search-form search-page-form" data-drupal-selector="umr-searchcustom-search-form" action="/preparer-sa-retraite/lactualite-de-la-retraite/patrimoine-les-francais-face-la-question-de" method="post" id="umr-searchcustom-search-form" accept-charset="UTF-8">
-  <div class="container-inline js-form-wrapper form-wrapper" data-drupal-selector="edit-basic" id="edit-basic"><div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys">
-                                            <label for="edit-keys--2" class="js-form-required form-required">Rechercher</label>
-                    
-
-
-        
-            <input class="form-search required" placeholder="Rechercher" size="30" data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128" required="required" aria-required="true" />
-
-        
-    
-            
-</div>
-<input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Rechercher" class="button js-form-submit form-submit" />
-</div>
-<input autocomplete="off" data-drupal-selector="form-fh856nvirpwe-j6rrii5eilxehit6-l-t82b9-qxwf4" type="hidden" name="form_build_id" value="form-FH856nvIrpwE_J6rrii5EiLXeHit6-L_T82B9_qxWf4" />
-<input data-drupal-selector="edit-umr-searchcustom-search-form" type="hidden" name="form_id" value="umr_search.custom_search_form" />
-
-</form>
-
-    <span class="action">
-        <i class="icon icon-search"></i>
-        Rechercher    </span>
-</div>
-
-</div>            <div class="Header-nav-menu">
-        <nav role="navigation"  id="block-navigationprincipale" class="block-navigationprincipale-menu">
-                
-                                            <ul class="menu">
-                    
-            <li class="menu-item menu-item--expanded no-link">
-
-                                        <span>
-                            <a href="Javascript:void();" class="no-link">Mieux connaître l&#039;umr</a>
-            </span>
-
-
-                
-                                                                                <div class="sub-menu-container menu-level1">
-                <div class="sub-menu-wrapper">
-                    <ul>
-                                                    
-                            <li  class="menu-item first-child-redirect">
-
-                                                                        <span>
-                            <a href="/qui-sommes-nous/notre-metier.html">Qui sommes-nous ?</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/actualite-de-umr" target="" data-drupal-link-system-path="node/94">Nos actualités</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/mieux-connaitre-umr/rapports-activite" data-drupal-link-system-path="node/105">Nos rapports d&#039;activité</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/mieux-connaitre-umr/barometre-de-satisfaction" data-drupal-link-system-path="node/200">Notre baromètre de satisfaction</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="https://careers.werecruit.io/fr/umr-retraite">Carrières</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/mieux-connaitre-lumr/notre-politique-de-protection-des-donnees.html" data-drupal-link-system-path="node/245">Notre politique de protection des données</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/mieux-connaitre-lumr/reclamations-mediation.html" data-drupal-link-system-path="node/201">Réclamations - Médiation</a>
-            </span>
-
-
-                                                            </li>
-                                            </ul>
-                </div>
-            </div>
-            
-                                                </li>
-                    
-            <li class="menu-item menu-item--expanded no-link two-columns">
-
-                                        <span>
-                            <a href="Javascript:void();" class="no-link">Préparer sa retraite</a>
-            </span>
-
-
-                
-                                                                                <div class="sub-menu-container menu-level1">
-                <div class="sub-menu-wrapper">
-                    <ul>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/preparer-sa-retraite/comprendre-le-systeme-de-la-retraite.html" target="" data-drupal-link-system-path="node/72">Comprendre le système de la retraite</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/preparer-sa-retraite/actualite-retraite" target="" data-drupal-link-system-path="node/10">L&#039;actualité de la retraite</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/lexique-retraite" data-drupal-link-system-path="node/130">Le lexique de la retraite</a>
-            </span>
-
-
-                                                            </li>
-                                                    
-                            <li  class="menu-item">
-
-                                                                        <span>
-                            <a href="/preparer-sa-retraite/lumr-vous-informe" target="" data-drupal-link-system-path="node/48">L&#039;UMR vous informe</a>
-            </span>
-
-
-                                                            </li>
-                                            </ul>
-                </div>
-            </div>
-            
-                                                </li>
-                    
-            <li class="menu-item menu-item--expanded no-link offers-macro">
-
-                                        <span>
-                            <a href="Javascript:void();" class="no-link">Nos offres &amp; solutions</a>
-            </span>
-
-
-                
-                                                            
-                    <div class="sub-menu-container menu-level1">
-                <div class="sub-menu-wrapper">
-                    <ul>
-                        
-                                                                                                                                                <li class="menu-item menu-item--expanded">
-
-
-                                                                                <span>
-                            <a href="Javascript:void();" class="no-link">Nos offres</a>
-            </span>
-
-
-
-                                                                                                                        <ul class="sub-menu-container menu-level2">
-                    
-            <li class="menu-item">
-
-                                        <span>
-                            <a href="/nos-offres-solutions-nos-offres/perivie.html" data-drupal-link-system-path="node/480">Périvie</a>
-            </span>
-
-
-                            </li>
-                    
-            <li class="menu-item">
-
-                                        <span>
-                            <a href="/nos-offres-solutions-nos-offres/corem.html" data-drupal-link-system-path="node/473">COREM</a>
-            </span>
-
-
-                            </li>
-                    
-            <li class="menu-item">
-
-                                        <span>
-                            <a href="/nos-offres-solutions-nos-offres/corem-serenite.html" data-drupal-link-system-path="node/134">COREM Sérénité</a>
-            </span>
-
-
-                            </li>
-            </ul>
-
-            
-                                                                    </li>
-
-                            
-                                                                                                                <li class="menu-item menu-item--expanded last-link">
-
-                                    <span class="icon icon-free-request"></span>
-
-                                    <div>
-                                        <span class="offers-label">
-                                            <span class="green">Bénéficier </span>
-                                            <span class="blue">d'une étude gratuite </span>
-                                        </span>
-
-
-                                                                                <span class="btn btn--orange btn--empty">
-                                             <a href="/nos-offres-solutions/demander-une-etude-gratuite.html" class="btn-content">Demandez</a>
-                                        </span>
-                                    </div>
-                                </li>
-                            
-                                            </ul>
-                </div>
-            </div>
-            
-                                                </li>
-            </ul>
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-    </nav>
-
-
-</div>        </div>
-        <div class="Header-shortcut">
-        <nav role="navigation"  id="block-enteteraccourcis" class="block-enteteraccourcis-menu">
-                
-                        <ul class="menu">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="https://www.mon-complement-retraite.fr/" target="_blank">Espace adhérent</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="https://moments-de-vie.umr.fr" target="_blank">Vos moments de vie</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-
-    </nav>
-
-
-</div>    </div>
-
-    <div class="Header-TouchMenu-wrapper">
-        <div class="Container-large">
-            <a href="/" title="UMR" class="Header-logo-wrapper">
-                <img id='umr-top-logo-mini' src="/themes/umr/assets/img/logo/logo_mini.png" alt="logo UMR"/>
-            </a>
-            <div class="Header-sticky-wrapper">
-                    <nav role="navigation"  id="block-entetesticky" class="block-entetesticky-menu">
-                
-                        <ul class="menu">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/demander-la-documentation.html" data-drupal-link-system-path="node/187">Demander la documentation</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/nos-offres-solutions/demander-une-etude-gratuite.html" data-drupal-link-system-path="node/186">Etude gratuite</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/contactez-nous.html" data-drupal-link-system-path="node/185">Contactez-nous</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-
-    </nav>
-
-
-            </div>
-            <button class="toggle-touch-menu js-toggle-nav-deploy">
-                <span id="nav-icon">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </span>
-            </button>
-            <div class="Header-TouchMenu">
-                            </div>
-        </div>
-    </div>
-</header>
-
-
-
-
-    <main>
-                    <div class="Breadcrumb-wrapper Container-large">
-        <span class="Breadcrumb-label">Vous êtes ici :</span>
-        <nav>
-            <ul class="Breadcrumb">
-                                                            <li>
-
-                                                            <span>Préparer sa retraite</span>
-                                                    </li>
-                                                                                <li>
-
-                                                            <a href="/preparer-sa-retraite/actualite-retraite">L&#039;actualité de la retraite</a>
-                                                    </li>
-                                                                                <li>
-
-                                                            <span>Patrimoine, les Français face à la question de l’héritage et de la donation</span>
-                                                    </li>
-                                                </ul>
-        </nav>
-    </div>
-
-
-
-
-
-        <div class="ScrollBack-topButton">
-            <i class="icon icon-bottomArrow"></i>
-        </div>
-
-                        <div data-drupal-messages-fallback class="hidden"></div><article class="News">
-
-    <div class="NewsHeader ArticleHeader">
-
-        <div class="ArticleHeader-wrapper Container-large">
-                        <div class="News-navigation">
-                
-                                    <a href="/preparer-sa-retraite/lactualite-de-la-retraite/la-pierre-dans-tous-ses-etats.html" class="News-navigation-prev">
-                        <i class="icon icon-sliderArrow icon--inverted"></i>
-                        <span class="label">Précédent </span>
-                    </a>
-                
-                                    <a href="/preparer-sa-retraite/lactualite-de-la-retraite/agirc-et-arrco-les-complementaires-refondues.html" class="News-navigation-next">
-                        <span class="label">Suivant </span>
-                        <i class="icon icon-sliderArrow"></i>
-                    </a>
-                            </div>
-
-            
-
-
-<div class="title-wrapper">
-            <span class="NewsHeader-date">17.12.2018</span>
-    
-    <div class="NewsHeader-categories">
-                    
-            <span data-label="Enquête" class="category">
-                <label for="">Enquête</label>
-            </span>
-                    
-            <span data-label="Revenus et patrimoine en France" class="category">
-                <label for="">Revenus et patrimoine en France</label>
-            </span>
-                    
-            <span data-label="Société" class="category">
-                <label for="">Société</label>
-            </span>
-            </div>
-
-    <h1 class="NewsHeader-title"> 
-                                                                                                                                                                                                                
-            <p><span><strong>Les Français face à la question de l’héritage et de la donation</strong></span></p>
-     </h1>
-
-            <div class="subtitle">
-            
-                                                                                                                                                                                                                
-            <p><strong>Patrimoine </strong></p>
-    
-        </div>
-    </div>        </div>
-    </div>
-
-
-
-    <div class="News-content-wrapper Container">
-        <section class="News-content">
-            
-                                                                                                                                                                                                                
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Selon l’INSEE, l’âge moyen de la transmission du patrimoine entre générations a augmenté de huit ans entre 1980 et 2015. Il se situe désormais bien au-delà de 50 ans. Il est de plus en plus habituel d’hériter de ses parents quand on est à la retraite. Cette situation est la conséquence du vieillissement de la population et contribue à la concentration du capital. </strong></span></p>
-
-<p> </p>
-
-<p>La France est un des pays qui impose le plus fortement les successions. Depuis quelques années, les pouvoirs publics semblent hésiter sur le chemin à suivre sur ce sujet. Sous la présidence de Nicolas Sarkozy, un allègement des droits de succession et des droits de donation avait été mené mais ces mesures ont été, en grande partie, annulées par François Hollande. Ce dernier avait, par ailleurs, décidé de relever le taux marginal de taxation pour les successions en ligne directe.</p>
-
-<p> </p>
-
-<p>Les Français sont, dans leur grande majorité, favorables à l’adoption de mesures de réduction des droits de donation. Ils demandent tout à la fois un accroissement de l’abattement, une diminution des droits et la possibilité de réaliser, en franchise de droits, des donations plus fréquemment. Le Président de la République, Emmanuel Macron, ne souhaite pas, pour le moment, ouvrir ce chantier même si plus des trois quarts des Français souhaitent une amélioration du régime des donations (76 % - sondage 2017 Cercle de l’Épargne).</p>
-
-<p> </p>
-
-<p>Deux thèses s’affrontent depuis des lustres :</p>
-
-<p> </p>
-
-<ul><li>D’un côté, les tenants de droits de succession élevés mettent en avant leur efficacité pour réduire des inégalités. Ces droits limiteraient la concentration naturelle du capital et permettraient sa mobilité. Les tenants de la taxation élevée des successions se retrouvent essentiellement à gauche de l’échiquier. Des libéraux peuvent également épouser la thèse des droits élevés. L’individu doit se réaliser par lui-même et non à travers le bénéfice d’un capital transmis. Par ailleurs, des successions importantes conduisent à une mauvaise allocation des actifs et à des gaspillages. Le financement par le marché est plus efficient du fait de la meilleure intégration dans la chaîne de production du prix de l’argent.</li>
-</ul><p> </p>
-
-<ul><li>De l’autre côté, les partisans d’une taxation mesurée sont, en règle générale, plutôt à droite. Ils mettent en avant la transmission des fruits d’une vie aux enfants ou aux petits-enfants. Ils soulignent que les entreprises familiales sont plus pérennes et plus respectueuses de leur environnement social que les entreprises capitalistiques. </li>
-</ul><p> </p>
-
-<p>L’héritage a changé de fonction avec l’allongement de l’espérance de vie. Les successions interviennent de plus en plus tard. Les enfants héritent de leurs parents quand ils sont eux-mêmes à la retraite.</p>
-
-<p> </p>
-
-<p>Autrefois, si l’héritage pouvait servir d’apport pour acheter sa résidence principale ou créer son entreprise, il entre avant tout aujourd’hui dans une logique de gestion patrimoniale de la retraite.</p>
-
-<p> </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>La France, championne d’Europe pour la taxation des successions et des donations</strong></span></p>
-
-<p>Si l’héritage constitue un sujet sensible en France, cela n’a pas empêché le législateur, au fil des décennies, d’adopter des taux d’imposition très élevés. Mais, France oblige, le régime des droits de succession se caractérise par l’existence de plusieurs niches fiscales permettant d’alléger la facture. Le système est, de ce fait, complexe et peu compréhensible par le commun des mortels.</p>
-
-<p> </p>
-
-<p>En France, l'impôt sur les successions comporte plusieurs barèmes progressifs selon la somme héritée, avec des tranches allant jusqu'à 60 % en cas de lien de parenté éloigné. Selon les liens de parenté, des abattements atténuent le montant des prélèvements.</p>
-
-<p> </p>
-
-<p>Le taux en ligne directe s'élève lui à 45 % pour une part nette supérieure à 1,8 million d'euros. En ligne directe, ce taux est un des plus élevés d’Europe. Les ascendants et enfants disposent d'un abattement maximum de 100 000 euros, soit l'un des plus faibles d'Europe.</p>
-
-<p> </p>
-
-<p>Au niveau mondial, seuls le Japon avec un taux d'imposition en ligne directe de 55 % et la Corée du Sud, avec 50 %, taxent plus lourdement les successions que la France.</p>
-
-<p> </p>
-
-<p>Quinze des trente-six pays de l'OCDE n'imposent pas les successions :</p>
-
-<ul><li>le Portugal a abandonné la taxation des successions en 2004,</li>
-	<li>la Russie en 2005,</li>
-	<li>l'Autriche en 2008,</li>
-	<li>la République Tchèque et la Norvège en 2014,</li>
-	<li>la Suède a également mis un terme à la taxation des transmissions.</li>
-</ul><p> </p>
-
-<p>L’objectif de ces pays est d’éviter l’expatriation des entrepreneurs.</p>
-
-<p> </p>
-
-<p>En Allemagne, le taux marginal d'imposition en ligne directe s'élève à 30 % lorsque la valeur de l'héritage dépasse les 26 millions d'euros. L'abattement s'élève à 500 000 euros pour le conjoint et 400 000 euros pour les enfants.</p>
-
-<p> </p>
-
-<p>En Italie, les successions en ligne directe sont taxées à hauteur de 4 % et l'abattement atteint un million d'euros.</p>
-
-<p> </p>
-
-<p>En Suisse, la fiscalité peut varier d'un canton à un autre, mais ne dépasse pas 10 %.</p>
-
-<p> </p>
-
-<p><img alt=" ​ligne directe" data-entity-type="file" data-entity-uuid="079f671d-1535-4014-9670-d0ed7ecb95e4" height="363" src="/sites/default/files/inline-images/Tarifs-des-droits-france-enlignedirecte.JPG" width="639" /></p>
-
-<p><br /><img alt="autre donation" data-entity-type="file" data-entity-uuid="c5768649-d782-4a3a-ada7-0b9fd0932e76" src="/sites/default/files/inline-images/Tarifs-des-droits-france-autresdonations.JPG" /></p>
-
-<p> </p>
-
-<p><img alt="Tarifs fratrie" data-entity-type="file" data-entity-uuid="154505961232.file.1760" src="/sites/default/files/inline-images/Tarifs-des-droits-france-freresetsoeurs.JPG" /></p>
-
-<p> </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Le régime des donations</strong></span></p>
-
-<p> </p>
-
-<p>Les donations correspondent à des transmissions de biens et sont naturellement soumises à des droits de mutation, qu’elles prennent la forme de don manuel ou d’acte notarié. Seuls les présents d’usage sont exonérés.</p>
-
-<p> </p>
-
-<p>Les donations peuvent, sous certaines conditions, bénéficier d’abattements. Sous réserve qu’aucune donation à la même personne n’ait été réalisée durant les quinze années qui précèdent l’abattement est de :</p>
-
-<ul><li>100 000 euros si le donataire est un enfant, un père ou une mère,</li>
-	<li>80 724 euros si le donataire est le conjoint du donateur ou son partenaire pacsé, </li>
-	<li>31 865 euros si le donataire est un de ses petits-enfants, de 15 932 euros si le donataire est un frère ou une sœur, vivant(e) ou représenté(e), </li>
-	<li>7 967 euros si le donataire est un neveu ou une nièce, </li>
-	<li>5 310 euros si le donataire est un de ses arrière-petits-enfants. </li>
-</ul><p> </p>
-
-<p>Un abattement de 159 325 euros bénéficie à tout donataire handicapé sous certaines conditions. Il se cumule avec l’abattement personnel. </p>
-
-<p> </p>
-
-<p>Au-delà des abattements applicables, l’imposition est celle des droits de succession. <br />
- </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Le régime dérogatoire de l’assurance vie en matière de transmission</strong></span></p>
-
-<p> </p>
-
-<p>L’assurance vie offre un double avantage en matière de succession. Elle permet dans certaines limites de déroger à l’ordre successoral et de bénéficier d’une moindre taxation des sommes transmises. </p>
-
-<p> </p>
-
-<p>Pour les versements réalisés par le souscripteur avant 70 ans, les sommes reçues par les héritiers sont exonérées de droits de succession à hauteur de 152 000 euros. Elles sont taxées à 20 % pour la fraction comprise entre 152 000 et 700 000 euros. Au-delà, elles sont taxées à 31,25 %.</p>
-
-<p> </p>
-
-<p>En cas de versements effectués après 70 ans par le souscripteur, les produits capitalisés sont exonérés, mais le montant qui correspond aux primes est soumis aux droits de succession dans les conditions normales après application d’un abattement de 30 500 euros.</p>
-
-<p> </p>
-
-<p>En cas de versements des primes avant et après 70 ans, les deux régimes s’appliquent au prorata des sommes concernées.</p>
-
-<p> </p>
-
-<p>À souligner que ce régime ne vaut que pour les versements effectués après le 12 octobre 1998.</p>
-
-<p> </p>
-
-<p>Pour les versements antérieurs, l’exonération était de mise avec une condition établie en 1991 concernant l’âge du souscripteur.</p>
-
-<p> </p>
-
-<p><img alt="Tableau-Assurance-Vie" data-entity-type="file" data-entity-uuid="fb8c816e-674e-4a4c-aba2-c4b175e572a3" height="509" src="/sites/default/files/inline-images/Tableau4-AV.JPG" width="670" /><br />
- </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Les Français convaincus qu’ils bénéficieront d’un héritage </strong></span></p>
-
-<p> </p>
-
-<p>Selon une étude du CRÉDOC, 28 % des Français auraient déjà bénéficié d’un héritage et 16 % d’une donation du vivant. Un tiers des Français auraient donc profité soit d’un don soit d’un héritage.</p>
-
-<p> </p>
-
-<p>Il est à souligner que les deux tiers de ceux qui n’ont pas bénéficié de dons ou d’héritages pensent un jour ou l’autre en recevoir un.</p>
-
-<p> </p>
-
-<p>Ce niveau élevé explique la grande sensibilité des Français en matière de droits de succession. Ceux qui pensent ne jamais recevoir un héritage ou un don sont avant tout les non-diplômés (59 %), les titulaires de bas revenus (54 %), les ouvriers (49 %) et les personnes au foyer (49 %) ou encore les locataires (49 %).<br />
- </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Les Français attachés à transmission d’un capital</strong></span></p>
-
-<p> </p>
-
-<p>Les Français ont une vision optimiste de la transmission. Deux Français sur trois espèrent transmettre un patrimoine. Ce taux est évidemment fonction du niveau de revenu et de patrimoine. 88 % de ceux qui disposent de valeurs mobilières pensent ainsi transmettre un capital ; 87 % des propriétaires, 86 % des hauts revenus. Néanmoins, une majorité des détenteurs de revenus modestes pensent de même.  </p>
-
-<p> </p>
-
-<p>La transmission d’un ou plusieurs biens à ses proches (à son conjoint ou ses enfants notamment) est une valeur ancrée au plus profond de la société française. Ce geste traduit la volonté de marquer de son empreinte son passage sur terre, de mettre à l’abri du besoin ses enfants, ses héritiers. Les dons ou les transmissions lors des successions s’inscrivent dans le cadre des solidarités familiales. L’héritage appartient à la sphère privée. Il est à l’opposé du concept d’État-providence. C’est une partie de nous que nous ne souhaitons pas voir socialiser. Même ceux qui n’ont jamais bénéficié d’héritages pensent en transmettre un jour.  </p>
-
-<p> </p>
-
-<p>Si 80 % des Français pensent que les inégalités sociales ont augmenté depuis cinq ans (+7 points par rapport à 2014 - DREES), seules 9 % des personnes interrogées considèrent qu’il faudrait relever les droits de succession pour réduire ces inégalités. 87 % jugent au contraire qu’il faut diminuer l’impôt sur l’héritage, car il faut permettre aux parents de transmettre le plus de patrimoine possible à leurs enfants. Cette proportion est en augmentation de 9 points par rapport à 2011.</p>
-
-<p> </p>
-
-<p>La progression de la valeur du patrimoine, ces dernières années, n’a pas infléchi ce sentiment. Par ailleurs, les Français souhaitent une législation favorable aux donations. Selon une étude du Cercle de l’Épargne de 2017, 78 % sont favorables à une diminution des impôts sur les donations. </p>
-
-<p> </p>
-
-<p>Au niveau des droits à acquitter, les Français souhaitent que le conjoint survivant, les enfants et les petits enfants soient favorisés. Ils sont également partisans d’un régime allégé de droits de succession ou de donation pour la résidence principale quand une taxation accrue des biens professionnels ou des biens de valeur les choque moins.<br />
- </p>
-
-    
-    </div>
-
-                <div class="SimpleText-text">
-        
-        
-                                                                                                                                                                                                                
-            <p><span class="color_blue"><strong>Des héritages plus faibles en France que chez nos voisins</strong></span></p>
-
-<p> </p>
-
-<p>Le transfert moyen au moment des successions est de 135 400 euros par héritier (chiffre INSEE 2015). Il est plus faible que les montants transmis en moyenne au sein de l’Union européenne. </p>
-
-<p>Le montant médian des successions est beaucoup plus faible, 41 100 euros.</p>
-
-<p> </p>
-
-<p>Concrètement, cela signifie que parmi les bénéficiaires, un ménage sur deux a reçu moins de 41 100 euros. La moyenne est tirée vers le haut par les transmissions importantes.</p>
-
-<p> </p>
-
-<p>En moyenne, les biens reçus représentent en France 20 % du patrimoine total des bénéficiaires.</p>
-
-<p> </p>
-
-<p>Du fait d’une proportion plus importante de propriétaires en Italie et en Espagne, le logement représente respectivement 86 % et 63 % des transmissions dans ces pays quand, en France, il ne pèse que 37 %. </p>
-
-<p> </p>
-
-<p>Les Français connaissent peu le montant réel des droits de succession. Cette méconnaissance résulte de la fréquence, par nature faible, à laquelle ils sont confrontés à ce problème. De nombreux Français surestiment les montants versés à l’État. Par exemple, seuls 14 % savent que les transmissions entre conjoints mariés ou pacsés ne sont pas imposées. Trois Français sur quatre surestiment le taux d’imposition sur les donations et héritages aux enfants ou petits-enfants.</p>
-
-<p> </p>
-
-<p>Près de 13 % des Français bénéficient d’un héritage dépassant 100 000 euros quand 40 % reçoivent moins de 8 000 euros. Plus les héritiers ont des revenus élevés, plus la probabilité qu’ils soient bénéficiaires d’héritages importants augmente. <br />
- </p>
-
-<p><img alt="Répartition héritage 1" data-entity-type="file" data-entity-uuid="489de4cc-bd36-4ae3-8657-1e87881e0dcc" height="398" src="/sites/default/files/inline-images/Repartition-heritage.JPG" width="703" /></p>
-
-<p> </p>
-
-<p>Le montant de l’héritage est d’autant plus élevé que l’âge de l’héritier l’est également. Hériter jeune est synonyme bien souvent de décès précoce de la personne qui transmet. </p>
-
-<p> </p>
-
-<p><img alt="Répartition héritage 2" data-entity-type="file" data-entity-uuid="95e42344-9756-4f3b-bb3f-cacfd53b0c0f" height="394" src="/sites/default/files/inline-images/Repartition-heritage2.JPG" width="704" /></p>
-
-<p> </p>
-
-<p><img alt="Répartition héritage 3" data-entity-type="file" data-entity-uuid="8edcdf32-e8ea-4a0f-9c1d-bcee88a07a61" height="454" src="/sites/default/files/inline-images/Repartition-heritage3.JPG" width="704" /></p>
-
-<p> </p>
-
-<p>Du fait du prix de l’immobilier sur Paris et d’une proportion importante de ménages aisés, il est assez logique que le montant des transmissions y soit bien plus important qu’ailleurs. </p>
-
-<p> </p>
-
-<p><img alt="Répartition héritage 4" data-entity-type="file" data-entity-uuid="34a1fc57-cd5e-45b9-85fe-3962b5830ff1" height="417" src="/sites/default/files/inline-images/Repartition-heritage4.JPG" width="702" /></p>
-
-<p> </p>
-
-<p>Plus l’âge des héritiers est élevé, moins le poids de l’immobilier est important.</p>
-
-<p> </p>
-
-<p>Cette situation s’explique par le fait que les défunts sont plus âgés et disposent donc d’un patrimoine diversifié. Pour les jeunes héritiers de moins de 30 ans, la part de l’immobilier est faible dans les héritages par le fait que les défunts, souvent jeunes également n’ont pas eu le temps d’acquérir leur résidence principale.</p>
-
-<p> </p>
-
-<p>Les héritages peuvent également concerner des petits-enfants et sont donc d’un montant plus modeste que ceux réalisés entre parents et enfants.</p>
-
-<p> </p>
-
-<p><img alt="Types-d-heritage-selon-age" data-entity-type="file" data-entity-uuid="9fb475c6-3400-4f3f-8aff-0dca3303313e" height="405" src="/sites/default/files/inline-images/Repartition-typeheritage5.JPG" width="706" /></p>
-
-<p> </p>
-
-<p>L’idée d’assurer une plus grande mobilité du patrimoine et d’une meilleure répartition est admise par tous. Elle passe notamment par une réforme des droits de donation. La simplification du régime des plus-values faciliterait les ventes de biens.</p>
-
-<p> </p>
-
-<p>Aujourd’hui, du fait des règles d’abattement, les contribuables ont intérêt à conserver plus de 20 ans leurs biens immobiliers. Le recours à la <span class="glossary-word" data-glossary-id="311">fiducie</span> serait une autre voie qui permettrait de faciliter la transmission. </p>
-
-<p> </p>
-
-    
-    </div>
-
-    
-            <div class="ShareSocialMedia">
-    <p>Partager cet article :</p>
-    <ul class="ShareSocialMedia-menu">
-        <li class="ShareSocialMedia-menu-item">
-            <a href="https://www.facebook.com/sharer/sharer.php?u=http://umr-retraite.fr/preparer-sa-retraite/lactualite-de-la-retraite/patrimoine-les-francais-face-la-question-de" title="Facebook"
-               target="_blank">
-            </a>
-        </li>
-        <li class="ShareSocialMedia-menu-item">
-            <a href="https://twitter.com/intent/tweet?text=Patrimoine, les Français face à la question de l’héritage et de la donation&url=http://umr-retraite.fr/preparer-sa-retraite/lactualite-de-la-retraite/patrimoine-les-francais-face-la-question-de"
-               title="Twitter" target="_blank">
-            </a>
-        </li>
+      </li>
     </ul>
-</div>        </section>
+    <form class="navbar-search" id="topsearch" action="/search.php">
+      <input type="hidden" name="show" value="quickref">
+      <input type="search" name="pattern" class="search-query" placeholder="Search" accesskey="s">
+    </form>
+  </div>
+  <div id="flash-message"></div>
+</nav>
+<div class="headsup"><a href='/conferences/index.php#2024-01-01-1'>PHP Conference Kansai 2024</a></div>
+<nav id="trick"><div><dl>
+<dt><a href='/manual/en/getting-started.php'>Getting Started</a></dt>
+	<dd><a href='/manual/en/introduction.php'>Introduction</a></dd>
+	<dd><a href='/manual/en/tutorial.php'>A simple tutorial</a></dd>
+<dt><a href='/manual/en/langref.php'>Language Reference</a></dt>
+	<dd><a href='/manual/en/language.basic-syntax.php'>Basic syntax</a></dd>
+	<dd><a href='/manual/en/language.types.php'>Types</a></dd>
+	<dd><a href='/manual/en/language.variables.php'>Variables</a></dd>
+	<dd><a href='/manual/en/language.constants.php'>Constants</a></dd>
+	<dd><a href='/manual/en/language.expressions.php'>Expressions</a></dd>
+	<dd><a href='/manual/en/language.operators.php'>Operators</a></dd>
+	<dd><a href='/manual/en/language.control-structures.php'>Control Structures</a></dd>
+	<dd><a href='/manual/en/language.functions.php'>Functions</a></dd>
+	<dd><a href='/manual/en/language.oop5.php'>Classes and Objects</a></dd>
+	<dd><a href='/manual/en/language.namespaces.php'>Namespaces</a></dd>
+	<dd><a href='/manual/en/language.enumerations.php'>Enumerations</a></dd>
+	<dd><a href='/manual/en/language.errors.php'>Errors</a></dd>
+	<dd><a href='/manual/en/language.exceptions.php'>Exceptions</a></dd>
+	<dd><a href='/manual/en/language.fibers.php'>Fibers</a></dd>
+	<dd><a href='/manual/en/language.generators.php'>Generators</a></dd>
+	<dd><a href='/manual/en/language.attributes.php'>Attributes</a></dd>
+	<dd><a href='/manual/en/language.references.php'>References Explained</a></dd>
+	<dd><a href='/manual/en/reserved.variables.php'>Predefined Variables</a></dd>
+	<dd><a href='/manual/en/reserved.exceptions.php'>Predefined Exceptions</a></dd>
+	<dd><a href='/manual/en/reserved.interfaces.php'>Predefined Interfaces and Classes</a></dd>
+	<dd><a href='/manual/en/reserved.attributes.php'>Predefined Attributes</a></dd>
+	<dd><a href='/manual/en/context.php'>Context options and parameters</a></dd>
+	<dd><a href='/manual/en/wrappers.php'>Supported Protocols and Wrappers</a></dd>
+</dl>
+<dl>
+<dt><a href='/manual/en/security.php'>Security</a></dt>
+	<dd><a href='/manual/en/security.intro.php'>Introduction</a></dd>
+	<dd><a href='/manual/en/security.general.php'>General considerations</a></dd>
+	<dd><a href='/manual/en/security.cgi-bin.php'>Installed as CGI binary</a></dd>
+	<dd><a href='/manual/en/security.apache.php'>Installed as an Apache module</a></dd>
+	<dd><a href='/manual/en/security.sessions.php'>Session Security</a></dd>
+	<dd><a href='/manual/en/security.filesystem.php'>Filesystem Security</a></dd>
+	<dd><a href='/manual/en/security.database.php'>Database Security</a></dd>
+	<dd><a href='/manual/en/security.errors.php'>Error Reporting</a></dd>
+	<dd><a href='/manual/en/security.variables.php'>User Submitted Data</a></dd>
+	<dd><a href='/manual/en/security.hiding.php'>Hiding PHP</a></dd>
+	<dd><a href='/manual/en/security.current.php'>Keeping Current</a></dd>
+<dt><a href='/manual/en/features.php'>Features</a></dt>
+	<dd><a href='/manual/en/features.http-auth.php'>HTTP authentication with PHP</a></dd>
+	<dd><a href='/manual/en/features.cookies.php'>Cookies</a></dd>
+	<dd><a href='/manual/en/features.sessions.php'>Sessions</a></dd>
+	<dd><a href='/manual/en/features.xforms.php'>Dealing with XForms</a></dd>
+	<dd><a href='/manual/en/features.file-upload.php'>Handling file uploads</a></dd>
+	<dd><a href='/manual/en/features.remote-files.php'>Using remote files</a></dd>
+	<dd><a href='/manual/en/features.connection-handling.php'>Connection handling</a></dd>
+	<dd><a href='/manual/en/features.persistent-connections.php'>Persistent Database Connections</a></dd>
+	<dd><a href='/manual/en/features.commandline.php'>Command line usage</a></dd>
+	<dd><a href='/manual/en/features.gc.php'>Garbage Collection</a></dd>
+	<dd><a href='/manual/en/features.dtrace.php'>DTrace Dynamic Tracing</a></dd>
+</dl>
+<dl>
+<dt><a href='/manual/en/funcref.php'>Function Reference</a></dt>
+	<dd><a href='/manual/en/refs.basic.php.php'>Affecting PHP's Behaviour</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.audio.php'>Audio Formats Manipulation</a></dd>
+	<dd><a href='/manual/en/refs.remote.auth.php'>Authentication Services</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.cmdline.php'>Command Line Specific Extensions</a></dd>
+	<dd><a href='/manual/en/refs.compression.php'>Compression and Archive Extensions</a></dd>
+	<dd><a href='/manual/en/refs.crypto.php'>Cryptography Extensions</a></dd>
+	<dd><a href='/manual/en/refs.database.php'>Database Extensions</a></dd>
+	<dd><a href='/manual/en/refs.calendar.php'>Date and Time Related Extensions</a></dd>
+	<dd><a href='/manual/en/refs.fileprocess.file.php'>File System Related Extensions</a></dd>
+	<dd><a href='/manual/en/refs.international.php'>Human Language and Character Encoding Support</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.image.php'>Image Processing and Generation</a></dd>
+	<dd><a href='/manual/en/refs.remote.mail.php'>Mail Related Extensions</a></dd>
+	<dd><a href='/manual/en/refs.math.php'>Mathematical Extensions</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.nontext.php'>Non-Text MIME Output</a></dd>
+	<dd><a href='/manual/en/refs.fileprocess.process.php'>Process Control Extensions</a></dd>
+	<dd><a href='/manual/en/refs.basic.other.php'>Other Basic Extensions</a></dd>
+	<dd><a href='/manual/en/refs.remote.other.php'>Other Services</a></dd>
+	<dd><a href='/manual/en/refs.search.php'>Search Engine Extensions</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.server.php'>Server Specific Extensions</a></dd>
+	<dd><a href='/manual/en/refs.basic.session.php'>Session Extensions</a></dd>
+	<dd><a href='/manual/en/refs.basic.text.php'>Text Processing</a></dd>
+	<dd><a href='/manual/en/refs.basic.vartype.php'>Variable and Type Related Extensions</a></dd>
+	<dd><a href='/manual/en/refs.webservice.php'>Web Services</a></dd>
+	<dd><a href='/manual/en/refs.utilspec.windows.php'>Windows Only Extensions</a></dd>
+	<dd><a href='/manual/en/refs.xml.php'>XML Manipulation</a></dd>
+	<dd><a href='/manual/en/refs.ui.php'>GUI Extensions</a></dd>
+</dl>
+<dl>
+<dt>Keyboard Shortcuts</dt><dt>?</dt>
+<dd>This help</dd>
+<dt>j</dt>
+<dd>Next menu item</dd>
+<dt>k</dt>
+<dd>Previous menu item</dd>
+<dt>g p</dt>
+<dd>Previous man page</dd>
+<dt>g n</dt>
+<dd>Next man page</dd>
+<dt>G</dt>
+<dd>Scroll to bottom</dd>
+<dt>g g</dt>
+<dd>Scroll to top</dd>
+<dt>g h</dt>
+<dd>Goto homepage</dd>
+<dt>g s</dt>
+<dd>Goto search<br>(current page)</dd>
+<dt>/</dt>
+<dd>Focus search box</dd>
+</dl></div></nav>
+<div id="goto">
+    <div class="search">
+         <div class="text"></div>
+         <div class="results"><ul></ul></div>
+   </div>
+</div>
+
+  <div id="breadcrumbs" class="clearfix">
+    <div id="breadcrumbs-inner">
+          <div class="next">
+        <a href="language.oop5.paamayim-nekudotayim.php">
+          L'op&eacute;rateur de r&eacute;solution de port&eacute;e (::) &raquo;
+        </a>
+      </div>
+              <div class="prev">
+        <a href="language.oop5.visibility.php">
+          &laquo; Visibilit&eacute;        </a>
+      </div>
+          <ul>
+            <li><a href='index.php'>Manuel PHP</a></li>      <li><a href='langref.php'>R&eacute;f&eacute;rence du langage</a></li>      <li><a href='language.oop5.php'>Les classes et les objets</a></li>      </ul>
+    </div>
+  </div>
 
 
-        <aside class="News-aside">
-                        
-                                </aside>
+
+
+<div id="layout" class="clearfix">
+  <section id="layout-content">
+  <div class="page-tools">
+    <div class="change-language">
+      <form action="/manual/change.php" method="get" id="changelang" name="changelang">
+        <fieldset>
+          <label for="changelang-langs">Change language:</label>
+          <select onchange="document.changelang.submit()" name="page" id="changelang-langs">
+            <option value='en/language.oop5.inheritance.php'>English</option>
+            <option value='pt_BR/language.oop5.inheritance.php'>Brazilian Portuguese</option>
+            <option value='zh/language.oop5.inheritance.php'>Chinese (Simplified)</option>
+            <option value='fr/language.oop5.inheritance.php' selected="selected">French</option>
+            <option value='de/language.oop5.inheritance.php'>German</option>
+            <option value='ja/language.oop5.inheritance.php'>Japanese</option>
+            <option value='ru/language.oop5.inheritance.php'>Russian</option>
+            <option value='es/language.oop5.inheritance.php'>Spanish</option>
+            <option value='tr/language.oop5.inheritance.php'>Turkish</option>
+            <option value='help-translate.php'>Other</option>
+          </select>
+        </fieldset>
+      </form>
+    </div>
+    <div class="edit-bug">
+      <a href="https://github.com/php/doc-fr/blob/master/language/oop5/inheritance.xml">Submit a Pull Request</a>
+      <a href="https://github.com/php/doc-fr/issues/new?body=From%20manual%20page:%20https:%2F%2Fphp.net%2Flanguage.oop5.inheritance%0A%0A---">Report a Bug</a>
+    </div>
+  </div><div id="language.oop5.inheritance" class="sect1">
+ <h2 class="title">Héritage</h2>
+ <p class="para">
+  L&#039;héritage est un des grands principes de la programmation orientée objet (POO), et
+  PHP l&#039;implémente dans son modèle objet. Ce principe va affecter la manière dont
+  de nombreuses classes sont en relation les unes avec les autres.
+ </p>
+ <p class="para">
+  Par exemple, lorsqu&#039;une classe est étendue, la classe enfant hérite de toutes
+  les méthodes publiques et protégées, propriétés et constantes de la classe parente.
+  Tant qu&#039;une classe n&#039;écrase
+  pas ces méthodes, elles conservent leur fonctionnalité d&#039;origine.
+ </p>
+ <p class="para">
+  L&#039;héritage est très utile pour définir et abstraire certaines fonctionnalités
+  communes à plusieurs classes, tout en permettant la mise en place de
+  fonctionnalités supplémentaires dans les classes enfants, sans avoir à réimplémenter
+  en leur sein toutes les fonctionnalités communes.
+ </p>
+ <p class="para">
+  Les méthodes privées d&#039;une classe parente ne sont pas accessible à la classe enfant.
+  Par conséquent, les classes enfant peuvent réimplémenter une méthode privée eux-mêmes
+  sans se soucier des règles d&#039;héritage normales.
+  Antérieur à PHP 8.0.0, cependant, les restrictions <code class="literal">final</code>
+  et <code class="literal">static</code> étaient appliquées aux méthodes privées.
+  À partir de PHP 8.0.0, l&#039;unique restriction de méthode privée qui est imposé
+  est <code class="literal">private final</code> sur les constructeurs, car c&#039;est une
+  manière courante pour &quot;désactiver&quot; le constructeur lors de l&#039;utilisation
+  de méthodes factory statique à la place.
+ </p>
+ <p class="para">
+  La <a href="language.oop5.visibility.php" class="link">visibilité</a>
+  des méthodes, propriétés et constantes peut être relaxé, c.-à-d. une
+  méthode <code class="literal">protected</code> peut être marqué comme
+  <code class="literal">public</code>, mais elles ne peuvent pas être restraint, e.g.
+  marquer une propriété <code class="literal">public</code> comme <code class="literal">private</code>.
+  Une exception sont les constructeurs, pour lesquels la visibilité peut être restraintes,
+  par exemple un constructeur <code class="literal">public</code> peut être annoté
+  en tant que <code class="literal">private</code> dans la classe enfant.
+ </p>
+
+ <blockquote class="note"><p><strong class="note">Note</strong>: 
+  <p class="para">
+   A moins que l&#039;autochargement ne soit utilisé, les classes doivent être connues avant d&#039;être
+   utilisées. Les classes mères doivent être définies avant l&#039;écriture d&#039;un héritage. Cette
+   règle générale s&#039;applique aussi dans le cas d&#039;héritage ou d&#039;implémentation d&#039;interfaces.
+  </p>
+ </p></blockquote>
+
+ <blockquote class="note"><p><strong class="note">Note</strong>: 
+  <p class="para">
+   Il n&#039;est pas autorisé de redéfinir une propriété en lecture-écriture avec une
+   <a href="language.oop5.properties.php#language.oop5.properties.readonly-properties" class="link">propriété en lecture seule</a> ou vice versa.
+   <div class="example" id="example-736">
+    <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000"><span style="color: #0000BB">&lt;?php<br /><br /></span><span style="color: #007700">class </span><span style="color: #0000BB">A </span><span style="color: #007700">{<br />    public </span><span style="color: #0000BB">int $prop</span><span style="color: #007700">;<br />}<br />class </span><span style="color: #0000BB">B </span><span style="color: #007700">extends </span><span style="color: #0000BB">A </span><span style="color: #007700">{<br />    </span><span style="color: #FF8000">// Illegal: read-write -&gt; readonly<br />    </span><span style="color: #007700">public readonly </span><span style="color: #0000BB">int $prop</span><span style="color: #007700">;<br />}<br /></span><span style="color: #0000BB">?&gt;</span></span></code></div>
     </div>
 
-
-        
-</article>
-
-            </main>
-
-
-    <footer>
-        
-
-        <section class="Footer-info">
-
-        <div class="Container-large">
-                        <div class="Footer-info-info">
-                <img id='umr-top-logo'  title="UMR"
-                     alt="UMR" src="/themes/umr/assets/img/logo/logo.png"/>
-
-
-                <div class="umr-description">
-                            
-                                                                                                                                                                                                                
-            <p><strong>Une mutuelle pour votre retraite</strong></p>
-
-<p>L'UMR est une Société anonyme à Conseil d’administration et à mission spécialisée dans l'épargne retraite. Elle gère près de 9,3 Mds d'Euros au seul bénéfice de ses adhérents.<br />
- </p>
-
-<p><img alt="vyv" data-entity-type="file" data-entity-uuid="7d52c4e1-0091-4d5f-93e4-144323a405f4" height="39" src="/sites/default/files/inline-images/vyv.png" width="67" /></p>
-
-    
-
-
-                </div>
-            </div>
-
-
-                        <div class="Footer-info-sitemap">
-
-                <div class="Footer-main">
-                    <nav>
-                        
-                        <ul class="menu">
-                            
-                <li class="menu-item menu-item--expanded">
-
-                                                <span>
-                            <a href="Javascript:void();" class="no-link">Mieux connaître l&#039;umr</a>
-            </span>
-
-
-                                                                    <ul class="sub-menu-container menu-level1">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/qui-sommes-nous/notre-metier.html">Qui sommes-nous ?</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/actualite-de-umr" target="" data-drupal-link-system-path="node/94">Nos actualités</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/mieux-connaitre-umr/rapports-activite" data-drupal-link-system-path="node/105">Nos rapports d&#039;activité</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/mieux-connaitre-umr/barometre-de-satisfaction" data-drupal-link-system-path="node/200">Notre baromètre de satisfaction</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="https://careers.werecruit.io/fr/umr-retraite">Carrières</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/mieux-connaitre-lumr/reclamations-mediation.html" data-drupal-link-system-path="node/201">Réclamations - Médiation</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/mieux-connaitre-lumr/notre-politique-de-protection-des-donnees.html" data-drupal-link-system-path="node/245">Notre politique de protection des données</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-                                    </li>
-                            
-                <li class="menu-item menu-item--expanded">
-
-                                                <span>
-                            <a href="Javascript:void();" class="no-link">Préparer sa retraite</a>
-            </span>
-
-
-                                                                    <ul class="sub-menu-container menu-level1">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/preparer-sa-retraite/comprendre-le-systeme-de-la-retraite.html" target="" data-drupal-link-system-path="node/72">Comprendre le système de la retraite</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/lexique-retraite" data-drupal-link-system-path="node/130">Le lexique de la retraite</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/preparer-sa-retraite/actualite-retraite" target="" data-drupal-link-system-path="node/10">L&#039;actualité de la retraite</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/preparer-sa-retraite/lumr-vous-informe" target="" data-drupal-link-system-path="node/48">L&#039;UMR vous informe</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-                                    </li>
-                            
-                <li class="menu-item menu-item--expanded">
-
-                                                <span>
-                            <a href="Javascript:void();" class="no-link">Nos offres &amp; solutions</a>
-            </span>
-
-
-                                                                    <ul class="sub-menu-container menu-level1">
-                            
-                <li class="menu-item menu-item--expanded">
-
-                                                <span>
-                            <a href="Javascript:void();" class="no-footer">Nos offres</a>
-            </span>
-
-
-                                                                    <ul class="sub-menu-container menu-level2">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/nos-offres-solutions-nos-offres/corem.html" data-drupal-link-system-path="node/473">COREM</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/nos-offres-solutions-nos-offres/corem-serenite.html" data-drupal-link-system-path="node/134">COREM Sérénité</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/nos-offres-solutions-nos-offres/perivie.html" data-drupal-link-system-path="node/480">Périvie</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="Javascript:void();" class="no-footer">Demandez</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-                    </nav>
-                </div>
-
-                <div class="Footer-secondary">
-                    <div class="Footer-bottom">
-        <nav role="navigation"  id="block-pieddepage" class="block-pieddepage-menu">
-                
-                        <ul class="menu">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/espace-presse" data-drupal-link-system-path="node/109">Espace presse</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/contactez-nous.html" data-drupal-link-system-path="node/185">Nous contacter</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-
-    </nav>
-
-
-</div>                    <div class="Footer-buttons">
-        <nav role="navigation"  id="block-pieddepageespacesexternes" class="block-pieddepageespacesexternes-menu">
-                
-                        <ul class="menu">
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="https://www.mon-complement-retraite.fr/login">Espace adhérent</a>
-            </span>
-
-
-                                    </li>
-                            
-                <li class="menu-item">
-
-                                                <span>
-                            <a href="/devenir-partenaire.html" data-drupal-link-system-path="node/132">Devenir partenaire</a>
-            </span>
-
-
-                                    </li>
-                    </ul>
-    
-
-
-
-
-
-
-
-
-    </nav>
-
-
-</div>                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="Footer-mobile">
-        <div class="Container-large">
-            <span class="Footer-mobile-cta">Plan du site </span>
-                    </div>
-    </section>
-
-    <section class="Footer-mobile-buttons">
-        <div class="Container-large">
-                    </div>
-    </section>
-
-
-                <section class="Footer-pieddepageraccourcis">
-            <div class="Container-large">
-                <nav role="navigation"  id="block-pieddepageraccourcis" class="block-pieddepageraccourcis-menu">
-                
-                
-        
-
-                                                                                    
-                    <ul class="menu-level2" >
-        
-
-                                                <li class="menu-item">
-                        <span>
-                                                            <a href="/groupe-1/mentions-legales-umr.html" data-drupal-link-system-path="node/136">Mentions légales UMR</a>
-                                                    </span>
-                                    </li>
-                                                            <li class="menu-item">
-                        <span>
-                                                            <a href="/sites/default/files/usefull_files/REG2023_003_Statuts_UMR.pdf" target="_blank">Statuts UMR</a>
-                                                    </span>
-                                    </li>
-                                                            <li class="menu-item">
-                        <span>
-                                                            <a href="/" class="js-tac-panel-opener" data-drupal-link-system-path="&lt;front&gt;">Gestion des cookies</a>
-                                                    </span>
-                                    </li>
-                    
-                    </ul>
-            
-                                                                                                                
-                    <ul class="menu-level2" >
-        
-
-                                                <li class="menu-item">
-                        <span>
-                                                            © Copyright 2017
-                                                    </span>
-                                    </li>
-                                                            <li class="menu-item">
-                        <span>
-                                                            <a href="/groupe-2/credits.html" data-drupal-link-system-path="node/135">Crédits</a>
-                                                    </span>
-                                    </li>
-                    
-                    </ul>
-            
-                                    
-            
-
-
-    </nav>
-
-            </div>
-        </section>
-            <section class="Footer-umrmentionslegales">
-            <div class="Container-large">
-                    
-                                                                                                                                                                                                                
-            <p><span>UMR, Société anonyme à Conseil d’administration et à mission au capital de 247 668 709 €. Immatriculée au RCS de Nantes sous le numéro 828 952 796. Siège social : 12 Rue de Cornulier – 44 000 NANTES</span></p>
-
-<p><span>Entreprise régie par le Code des assurances et soumise à l’Autorité de Contrôle Prudentiel et de Résolution (ACPR), 4 place de Budapest – CS 92459 – 75436 Paris Cedex 09.</span></p>
-    
-
-            </div>
-        </section>
-    
-
-        
-</footer>
+   </div>
+  </p>
+ </p></blockquote>
+
+ <div class="sect2" id="language.oop5.inheritance.examples">
+  <div class="example" id="example-739">
+   <p><strong>Exemple #1 Exemple d&#039;héritage</strong></p>
+    <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000"><span style="color: #0000BB">&lt;?php<br /><br /></span><span style="color: #007700">class </span><span style="color: #0000BB">Foo<br /></span><span style="color: #007700">{<br />    public function </span><span style="color: #0000BB">printItem</span><span style="color: #007700">(</span><span style="color: #0000BB">$string</span><span style="color: #007700">)<br />    {<br />        echo </span><span style="color: #DD0000">'Foo: ' </span><span style="color: #007700">. </span><span style="color: #0000BB">$string </span><span style="color: #007700">. </span><span style="color: #0000BB">PHP_EOL</span><span style="color: #007700">;<br />    }<br />    <br />    public function </span><span style="color: #0000BB">printPHP</span><span style="color: #007700">()<br />    {<br />        echo </span><span style="color: #DD0000">'PHP est super' </span><span style="color: #007700">. </span><span style="color: #0000BB">PHP_EOL</span><span style="color: #007700">;<br />    }<br />}<br /><br />class </span><span style="color: #0000BB">Bar </span><span style="color: #007700">extends </span><span style="color: #0000BB">Foo<br /></span><span style="color: #007700">{<br />    public function </span><span style="color: #0000BB">printItem</span><span style="color: #007700">(</span><span style="color: #0000BB">$string</span><span style="color: #007700">)<br />    {<br />        echo </span><span style="color: #DD0000">'Bar: ' </span><span style="color: #007700">. </span><span style="color: #0000BB">$string </span><span style="color: #007700">. </span><span style="color: #0000BB">PHP_EOL</span><span style="color: #007700">;<br />    }<br />}<br /><br /></span><span style="color: #0000BB">$foo </span><span style="color: #007700">= new </span><span style="color: #0000BB">Foo</span><span style="color: #007700">();<br /></span><span style="color: #0000BB">$bar </span><span style="color: #007700">= new </span><span style="color: #0000BB">Bar</span><span style="color: #007700">();<br /></span><span style="color: #0000BB">$foo</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">printItem</span><span style="color: #007700">(</span><span style="color: #DD0000">'baz'</span><span style="color: #007700">); </span><span style="color: #FF8000">// Affiche : 'Foo: baz'<br /></span><span style="color: #0000BB">$foo</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">printPHP</span><span style="color: #007700">();       </span><span style="color: #FF8000">// Affiche : 'PHP est super'<br /></span><span style="color: #0000BB">$bar</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">printItem</span><span style="color: #007700">(</span><span style="color: #DD0000">'baz'</span><span style="color: #007700">); </span><span style="color: #FF8000">// Affiche : 'Bar: baz'<br /></span><span style="color: #0000BB">$bar</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">printPHP</span><span style="color: #007700">();       </span><span style="color: #FF8000">// Affiche : 'PHP est super'<br /><br /></span><span style="color: #0000BB">?&gt;</span></span></code></div>
+   </div>
+
+  </div>
+ </div>
+ <div class="sect2" id="language.oop5.inheritance.internal-classes">
+  <h3 class="title">Compatibilité des types de retour avec les classes internes</h3>
+
+  <p class="para">
+   Antérieur à PHP 8.1, la plupart des classes ou méthodes internes ne déclaraient pas leur
+   type de retour, et tout type de retour était autorisé lors de leur héritage.
+  </p>
+
+  <p class="para">
+   À partir de PHP 8.1.0, la plupart des méthodes internes ont commencé à déclarer &quot;provisoirement&quot;
+   leur type de retour, dans ce cas, le type de retour des méthodes doit être compatible avec la classe
+   parent; Dans le cas contraire, une notification de dépréciation est émise.
+   Notez que l&#039;absence d&#039;une déclaration de retour explicite est également considérée comme une
+   erreur de signature, et entraîne donc l&#039;avis de dépréciation.
+  </p>
+
+  <p class="para">
+   Si le type de retour ne peut être déclaré pour une méthode de surcharge en raison de problèmes de
+   compatibilité entre versions de PHP, un attribut <span class="classname"><a href="class.returntypewillchange.php" class="classname">ReturnTypeWillChange</a></span> peut être
+   ajouté pour passer sous silence l&#039;avis de dépréciation.
+  </p>
+
+  <div class="example" id="example-742">
+   <p><strong>Exemple #2 La méthode surchargée ne déclare pas de type de retour.</strong></p>
+   <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000"><span style="color: #0000BB">&lt;?php<br /><br /></span><span style="color: #007700">class </span><span style="color: #0000BB">MyDateTime </span><span style="color: #007700">extends </span><span style="color: #0000BB">DateTime<br /></span><span style="color: #007700">{<br />    public function </span><span style="color: #0000BB">modify</span><span style="color: #007700">(</span><span style="color: #0000BB">string $modifier</span><span style="color: #007700">) { return </span><span style="color: #0000BB">false</span><span style="color: #007700">; }<br />}<br /><br /></span><span style="color: #FF8000">// "Deprecated: Return type of MyDateTime::modify(string $modifier) should either be compatible with DateTime::modify(string $modifier): DateTime|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice" À partir de PHP 8.1.0</span></span></code></div>
+   </div>
 
   </div>
 
-    
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/310","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"tacServices":{"cdn":"\/modules\/contrib\/lmwr_tools\/tac_services\/libraries\/tarteaucitron\/","globalSettings":{"high_privacy":true,"deny_all_cta":true,"cookie_list":true,"show_alert_small":false,"adblocker":false,"orientation":"bottom","threshold":"0.5","use_custom_integration":1,"mandatory_cookies":1,"use_toggle_buttons":false,"allow_continue_without_accept":true,"add_own_description":0,"privacyPolicy":{"label":"Notre politique de protection des donn\u00e9es","url":"\/mieux-connaitre-lumr\/notre-politique-de-protection-des-donnees.html"}},"matomo_tac_service":{"matomo_site_id":"4","matomo_site_host":"https:\/\/umrretraite.matomo.cloud","matomo_description_cookie":""}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"115c65c6bf6fe0996faa1084814b5fa5123feadabe6d6cf660b6adc8a6565255"}}</script>
-<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
-<script src="/core/misc/drupalSettingsLoader.js?v=8.9.20"></script>
-<script src="/sites/default/files/languages/fr_3U7rgEC4LXfHzdZDQIsQHJW9oRoPUbdl0mdCtIUPIac.js?s53ww1"></script>
-<script src="/core/misc/drupal.js?v=8.9.20"></script>
-<script src="/core/misc/drupal.init.js?v=8.9.20"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tac_additions/polyfill/CustomEvent.js?v=1.1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tarteaucitron/tarteaucitron.js?v=1.1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tarteaucitron/tarteaucitron.services.js?v=1.1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tac_additions/tac_init.js?v=1.1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tac_additions/tac_helpers.js?v=1.1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/libraries/tac_matomo/tac_matomo.js?v=1"></script>
-<script src="/modules/contrib/lmwr_tools/tac_services/assets/js/tac.js?v=1"></script>
-<script src="/modules/custom/umr/modules/umr_glossary/js/library/glossary.js?s53ww1"></script>
-<script src="/themes/umr/assets/js/footer.min.js?s53ww1"></script>
+  <div class="example" id="example-745">
+   <p><strong>Exemple #3 La méthode surchargée déclare un mauvais type de retour.</strong></p>
+   <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000"><span style="color: #0000BB">&lt;?php<br /><br /></span><span style="color: #007700">class </span><span style="color: #0000BB">MyDateTime </span><span style="color: #007700">extends </span><span style="color: #0000BB">DateTime<br /></span><span style="color: #007700">{<br />    public function </span><span style="color: #0000BB">modify</span><span style="color: #007700">(</span><span style="color: #0000BB">string $modifier</span><span style="color: #007700">): ?</span><span style="color: #0000BB">DateTime </span><span style="color: #007700">{ return </span><span style="color: #0000BB">null</span><span style="color: #007700">; }<br />}<br /><br /></span><span style="color: #FF8000">// "Deprecated: Return type of MyDateTime::modify(string $modifier): ?DateTime should either be compatible with DateTime::modify(string $modifier): DateTime|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice" À partir de PHP 8.1.0</span></span></code></div>
+   </div>
 
-  </body>
+  </div>
+
+  <div class="example" id="example-748">
+   <p><strong>Exemple #4 La méthode surchargée déclare un mauvais type de retour sans notice de dépréciation.</strong></p>
+   <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000"><span style="color: #0000BB">&lt;?php<br /><br /></span><span style="color: #007700">class </span><span style="color: #0000BB">MyDateTime </span><span style="color: #007700">extends </span><span style="color: #0000BB">DateTime<br /></span><span style="color: #007700">{<br />    </span><span style="color: #FF8000">/**<br />     * @return DateTime|false<br />     */<br />    </span><span style="color: #007700">#[</span><span style="color: #0000BB">\ReturnTypeWillChange</span><span style="color: #007700">]<br />    public function </span><span style="color: #0000BB">modify</span><span style="color: #007700">(</span><span style="color: #0000BB">string $modifier</span><span style="color: #007700">) { return </span><span style="color: #0000BB">false</span><span style="color: #007700">; }<br />}<br /><br /></span><span style="color: #FF8000">// Aucune notice n'est déclenchée</span></span></code></div>
+   </div>
+
+  </div>
+ </div>
+</div><section id="usernotes">
+ <div class="head">
+  <span class="action"><a href="/manual/add-note.php?sect=language.oop5.inheritance&amp;redirect=https://www.php.net/manual/fr/language.oop5.inheritance.php">＋<small>add a note</small></a></span>
+  <h3 class="title">User Contributed Notes <span class="count">8 notes</span></h3>
+ </div><div id="allnotes">
+  <div class="note" id="97333">  <div class="votes">
+    <div id="Vu97333">
+    <a href="/manual/vote-note.php?id=97333&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd97333">
+    <a href="/manual/vote-note.php?id=97333&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V97333" title="67% like this...">
+    210
+    </div>
+  </div>
+  <a href="#97333" class="name">
+  <strong class="user"><em>jackdracona at msn dot com</em></strong></a><a class="genanchor" href="#97333"> &para;</a><div class="date" title="2010-04-14 08:53"><strong>13 years ago</strong></div>
+  <div class="text" id="Hcom97333">
+<div class="phpcode"><code><span class="html">Here is some clarification about PHP inheritance – there is a lot of bad information on the net.  PHP does support Multi-level inheritance.  (I tested it using version 5.2.9).  It does not support multiple inheritance.<br /> <br />This means that you cannot have one class extend 2 other classes (see the extends keyword).  However, you can have one class extend another, which extends another, and so on. <br /> <br />Example:<br /> <br /><span class="default">&lt;?php<br /></span><span class="keyword">class </span><span class="default">A </span><span class="keyword">{<br />        </span><span class="comment">// more code here<br /></span><span class="keyword">}<br /> <br />class </span><span class="default">B </span><span class="keyword">extends </span><span class="default">A </span><span class="keyword">{<br />        </span><span class="comment">// more code here<br /></span><span class="keyword">}<br /> <br />class </span><span class="default">C </span><span class="keyword">extends </span><span class="default">B </span><span class="keyword">{<br />        </span><span class="comment">// more code here<br /></span><span class="keyword">}<br /> <br /> <br /></span><span class="default">$someObj </span><span class="keyword">= new </span><span class="default">A</span><span class="keyword">();  </span><span class="comment">// no problems<br /></span><span class="default">$someOtherObj </span><span class="keyword">= new </span><span class="default">B</span><span class="keyword">(); </span><span class="comment">// no problems<br /></span><span class="default">$lastObj </span><span class="keyword">= new </span><span class="default">C</span><span class="keyword">(); </span><span class="comment">// still no problems<br /> <br /></span><span class="default">?&gt;</span></span></code></div>
+  </div>
+ </div>
+  <div class="note" id="121211">  <div class="votes">
+    <div id="Vu121211">
+    <a href="/manual/vote-note.php?id=121211&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd121211">
+    <a href="/manual/vote-note.php?id=121211&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V121211" title="64% like this...">
+    100
+    </div>
+  </div>
+  <a href="#121211" class="name">
+  <strong class="user"><em>Mohammad Istanbouly</em></strong></a><a class="genanchor" href="#121211"> &para;</a><div class="date" title="2017-06-11 10:50"><strong>6 years ago</strong></div>
+  <div class="text" id="Hcom121211">
+<div class="phpcode"><code><span class="html">I think the best way for beginners to understand inheritance is through a real example so here is a simple example I can gave to you <br /><br /><span class="default">&lt;?php<br /><br /></span><span class="keyword">class </span><span class="default">Person<br /></span><span class="keyword">{<br />    public </span><span class="default">$name</span><span class="keyword">;<br />    protected </span><span class="default">$age</span><span class="keyword">;<br />    private </span><span class="default">$phone</span><span class="keyword">;<br /><br />    public function </span><span class="default">talk</span><span class="keyword">(){<br />        </span><span class="comment">//Do stuff here<br />    </span><span class="keyword">}<br /><br />    protected function </span><span class="default">walk</span><span class="keyword">(){<br />        </span><span class="comment">//Do stuff here<br />    </span><span class="keyword">}<br /><br />    private function </span><span class="default">swim</span><span class="keyword">(){<br />        </span><span class="comment">//Do stuff here<br />    </span><span class="keyword">}<br />}<br /><br />class </span><span class="default">Tom </span><span class="keyword">extends </span><span class="default">Person<br /></span><span class="keyword">{<br />    </span><span class="comment">/*Since Tom class extends Person class this means <br />        that class Tom is a child class and class person is <br />        the parent class and child class will inherit all public <br />        and protected members(properties and methods) from<br />        the parent class*/<br /><br />     /*So class Tom will have these properties and methods*/<br /><br />     //public $name;<br />     //protected $age;<br />     //public function talk(){}<br />     //protected function walk(){}<br /><br />     //but it will not inherit the private members <br />     //this is all what Object inheritance means<br /></span><span class="keyword">}</span></span></code></div>
+  </div>
+ </div>
+  <div class="note" id="100005">  <div class="votes">
+    <div id="Vu100005">
+    <a href="/manual/vote-note.php?id=100005&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd100005">
+    <a href="/manual/vote-note.php?id=100005&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V100005" title="54% like this...">
+    23
+    </div>
+  </div>
+  <a href="#100005" class="name">
+  <strong class="user"><em>strata_ranger at hotmail dot com</em></strong></a><a class="genanchor" href="#100005"> &para;</a><div class="date" title="2010-09-19 09:37"><strong>13 years ago</strong></div>
+  <div class="text" id="Hcom100005">
+<div class="phpcode"><code><span class="html">I was recently extending a PEAR class when I encountered a situation where I wanted to call a constructor two levels up the class hierarchy, ignoring the immediate parent.  In such a case, you need to explicitly reference the class name using the :: operator.<br /><br />Fortunately, just like using the 'parent' keyword PHP correctly recognizes that you are calling the function from a protected context inside the object's class hierarchy.<br /><br />E.g:<br /><br /><span class="default">&lt;?php<br /></span><span class="keyword">class </span><span class="default">foo<br /></span><span class="keyword">{<br />  public function </span><span class="default">something</span><span class="keyword">()<br />  {<br />    echo </span><span class="default">__CLASS__</span><span class="keyword">; </span><span class="comment">// foo<br />    </span><span class="default">var_dump</span><span class="keyword">(</span><span class="default">$this</span><span class="keyword">);<br />  }<br />}<br /><br />class </span><span class="default">foo_bar </span><span class="keyword">extends </span><span class="default">foo<br /></span><span class="keyword">{<br />  public function </span><span class="default">something</span><span class="keyword">()<br />  {<br />    echo </span><span class="default">__CLASS__</span><span class="keyword">; </span><span class="comment">// foo_bar<br />    </span><span class="default">var_dump</span><span class="keyword">(</span><span class="default">$this</span><span class="keyword">);<br />  }<br />}<br /><br />class </span><span class="default">foo_bar_baz </span><span class="keyword">extends </span><span class="default">foo_bar<br /></span><span class="keyword">{<br />  public function </span><span class="default">something</span><span class="keyword">()<br />  {<br />    echo </span><span class="default">__CLASS__</span><span class="keyword">; </span><span class="comment">// foo_bar_baz<br />    </span><span class="default">var_dump</span><span class="keyword">(</span><span class="default">$this</span><span class="keyword">);<br />  }<br /><br />  public function </span><span class="default">call</span><span class="keyword">()<br />  {<br />    echo </span><span class="default">self</span><span class="keyword">::</span><span class="default">something</span><span class="keyword">(); </span><span class="comment">// self<br />    </span><span class="keyword">echo </span><span class="default">parent</span><span class="keyword">::</span><span class="default">something</span><span class="keyword">(); </span><span class="comment">// parent<br />    </span><span class="keyword">echo </span><span class="default">foo</span><span class="keyword">::</span><span class="default">something</span><span class="keyword">(); </span><span class="comment">// grandparent<br />  </span><span class="keyword">}<br />}<br /><br /></span><span class="default">error_reporting</span><span class="keyword">(-</span><span class="default">1</span><span class="keyword">);<br /><br /></span><span class="default">$obj </span><span class="keyword">= new </span><span class="default">foo_bar_baz</span><span class="keyword">();<br /></span><span class="default">$obj</span><span class="keyword">-&gt;</span><span class="default">call</span><span class="keyword">();<br /><br /></span><span class="comment">// Output similar to:<br />// foo_bar_baz<br />// object(foo_bar_baz)[1]<br />// foo_bar<br />// object(foo_bar_baz)[1]<br />// foo<br />// object(foo_bar_baz)[1]<br /><br /></span><span class="default">?&gt;</span></span></code></div>
+  </div>
+ </div>
+  <div class="note" id="117570">  <div class="votes">
+    <div id="Vu117570">
+    <a href="/manual/vote-note.php?id=117570&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd117570">
+    <a href="/manual/vote-note.php?id=117570&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V117570" title="53% like this...">
+    15
+    </div>
+  </div>
+  <a href="#117570" class="name">
+  <strong class="user"><em>akashwebdev at gmail dot com</em></strong></a><a class="genanchor" href="#117570"> &para;</a><div class="date" title="2015-07-01 05:59"><strong>8 years ago</strong></div>
+  <div class="text" id="Hcom117570">
+<div class="phpcode"><code><span class="html">The Idea that multiple inheritence is not supported is correct but with tratits this can be reviewed.<br /><br />for e.g.<br /> <br /><span class="default">&lt;?php<br /></span><span class="keyword">trait  </span><span class="default">custom<br /></span><span class="keyword">{<br />     public function </span><span class="default">hello</span><span class="keyword">()<br />     {<br />          echo </span><span class="string">"hello"</span><span class="keyword">;<br />     }<br />}<br /><br />trait </span><span class="default">custom2<br /></span><span class="keyword">{<br />       public function </span><span class="default">hello</span><span class="keyword">()<br />       {<br />            echo </span><span class="string">"hello2"</span><span class="keyword">;<br />       }<br />}<br /><br />class </span><span class="default">inheritsCustom<br /></span><span class="keyword">{<br />        use </span><span class="default">custom</span><span class="keyword">, </span><span class="default">custom2<br />        </span><span class="keyword">{<br />              </span><span class="default">custom2</span><span class="keyword">::</span><span class="default">hello </span><span class="keyword">insteadof </span><span class="default">custom</span><span class="keyword">;<br />        }<br />}<br /><br /></span><span class="default">$obj </span><span class="keyword">= new </span><span class="default">inheritsCustom</span><span class="keyword">();<br /></span><span class="default">$obj</span><span class="keyword">-&gt;</span><span class="default">hello</span><span class="keyword">();<br /></span><span class="default">?&gt;</span></span></code></div>
+  </div>
+ </div>
+  <div class="note" id="94288">  <div class="votes">
+    <div id="Vu94288">
+    <a href="/manual/vote-note.php?id=94288&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd94288">
+    <a href="/manual/vote-note.php?id=94288&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V94288" title="53% like this...">
+    11
+    </div>
+  </div>
+  <a href="#94288" class="name">
+  <strong class="user"><em>jarrod at squarecrow dot com</em></strong></a><a class="genanchor" href="#94288"> &para;</a><div class="date" title="2009-10-27 06:01"><strong>14 years ago</strong></div>
+  <div class="text" id="Hcom94288">
+<div class="phpcode"><code><span class="html">You can force a class to be strictly an inheritable class by using the "abstract" keyword. When you define a class with abstract, any attempt to instantiate a separate instance of it will result in a fatal error. This is useful for situations like a base class where it would be inherited by multiple child classes yet you want to restrict the ability to instantiate it by itself.<br /><br />Example........<br /><br /><span class="default">&lt;?php<br /><br /></span><span class="keyword">abstract class </span><span class="default">Cheese<br /></span><span class="keyword">{<br />      </span><span class="comment">//can ONLY be inherited by another class<br /></span><span class="keyword">}<br /><br />class </span><span class="default">Cheddar </span><span class="keyword">extends </span><span class="default">Cheese<br /></span><span class="keyword">{<br />}<br /><br /></span><span class="default">$dinner </span><span class="keyword">= new </span><span class="default">Cheese</span><span class="keyword">; </span><span class="comment">//fatal error<br /></span><span class="default">$lunch </span><span class="keyword">= new </span><span class="default">Cheddar</span><span class="keyword">; </span><span class="comment">//works!<br /><br /></span><span class="default">?&gt;</span></span></code></div>
+  </div>
+ </div>
+  <div class="note" id="124565">  <div class="votes">
+    <div id="Vu124565">
+    <a href="/manual/vote-note.php?id=124565&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd124565">
+    <a href="/manual/vote-note.php?id=124565&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V124565" title="45% like this...">
+    -3
+    </div>
+  </div>
+  <a href="#124565" class="name">
+  <strong class="user"><em>niemans at pbsolo dot nl</em></strong></a><a class="genanchor" href="#124565"> &para;</a><div class="date" title="2020-01-04 01:39"><strong>3 years ago</strong></div>
+  <div class="text" id="Hcom124565">
+<div class="phpcode"><code><span class="html">Inheritance works at create time, i.e. using the keyword 'new'. Static properties confused my understanding, so in order tho show the effect of visibility to inherintence I've created a simple demo script along with some set and get magic:<br /><br /><span class="default">&lt;?php<br /></span><span class="keyword">class </span><span class="default">A </span><span class="keyword">{<br />private </span><span class="default">$a   </span><span class="keyword">= </span><span class="string">'private'</span><span class="keyword">;<br />protected </span><span class="default">$b </span><span class="keyword">= </span><span class="string">'protected'</span><span class="keyword">;<br />public </span><span class="default">$c    </span><span class="keyword">= </span><span class="string">'public'</span><span class="keyword">;<br />static </span><span class="default">$d    </span><span class="keyword">= </span><span class="string">'static'</span><span class="keyword">;<br />public function </span><span class="default">__construct</span><span class="keyword">()<br />{<br />    </span><span class="default">$this</span><span class="keyword">-&gt;</span><span class="default">e </span><span class="keyword">= </span><span class="string">'constructed'</span><span class="keyword">;<br />}<br />public function </span><span class="default">__set</span><span class="keyword">(</span><span class="default">$property</span><span class="keyword">, </span><span class="default">$value</span><span class="keyword">)<br />{<br />    echo </span><span class="string">' set ' </span><span class="keyword">. </span><span class="default">$property </span><span class="keyword">. </span><span class="string">'=' </span><span class="keyword">. </span><span class="default">$value</span><span class="keyword">;<br />    </span><span class="default">$this</span><span class="keyword">-&gt;</span><span class="default">$property</span><span class="keyword">=</span><span class="default">$value</span><span class="keyword">;<br />}<br />public function </span><span class="default">__get</span><span class="keyword">(</span><span class="default">$property</span><span class="keyword">)<br />{<br />    echo </span><span class="string">' get ' </span><span class="keyword">. </span><span class="default">$property</span><span class="keyword">;<br />    </span><span class="default">$this</span><span class="keyword">-&gt;</span><span class="default">$property </span><span class="keyword">= </span><span class="string">'dynamic'</span><span class="keyword">;  </span><span class="comment">// invokes __set() !!<br />    </span><span class="keyword">return </span><span class="default">$this</span><span class="keyword">-&gt;</span><span class="default">$property</span><span class="keyword">;<br />}<br />}<br /><br />class </span><span class="default">B </span><span class="keyword">extends </span><span class="default">A<br /></span><span class="keyword">{<br />public function </span><span class="default">constructMe</span><span class="keyword">()<br />{<br />    </span><span class="default">$this</span><span class="keyword">-&gt;</span><span class="default">e </span><span class="keyword">= </span><span class="string">'constructed2'</span><span class="keyword">;<br />}<br />}<br /><br />class </span><span class="default">C </span><span class="keyword">extends </span><span class="default">B<br /></span><span class="keyword">{<br />public function </span><span class="default">__construct</span><span class="keyword">()<br />{<br />    </span><span class="default">parent</span><span class="keyword">::</span><span class="default">constructMe</span><span class="keyword">();<br />}<br />}<br /><br />echo </span><span class="string">" \n"</span><span class="keyword">;<br /></span><span class="default">$a </span><span class="keyword">= new </span><span class="default">A</span><span class="keyword">();<br /></span><span class="default">$b </span><span class="keyword">= new </span><span class="default">B</span><span class="keyword">();<br />echo </span><span class="string">" \n"</span><span class="keyword">;<br />echo </span><span class="string">' B:c='</span><span class="keyword">.</span><span class="default">$b</span><span class="keyword">-&gt;</span><span class="default">c</span><span class="keyword">;<br />echo </span><span class="string">" \n"</span><span class="keyword">;<br />echo </span><span class="string">' B:d=' </span><span class="keyword">.</span><span class="default">$b</span><span class="keyword">-&gt;</span><span class="default">d</span><span class="keyword">;<br />echo </span><span class="string">" \n"</span><span class="keyword">;<br /><br /></span><span class="default">$c </span><span class="keyword">= new </span><span class="default">C</span><span class="keyword">();<br />echo </span><span class="string">" \n"</span><span class="keyword">;<br /><br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$a</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$b</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$c</span><span class="keyword">);<br /><br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">A</span><span class="keyword">::</span><span class="default">$d</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">B</span><span class="keyword">::</span><span class="default">$d</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">C</span><span class="keyword">::</span><span class="default">$d</span><span class="keyword">);<br /><br />echo </span><span class="string">'A class: '</span><span class="keyword">;<br /></span><span class="default">$R </span><span class="keyword">= new </span><span class="default">reflectionclass</span><span class="keyword">(</span><span class="string">'A'</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$R</span><span class="keyword">-&gt;</span><span class="default">getdefaultproperties</span><span class="keyword">());<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$R</span><span class="keyword">-&gt;</span><span class="default">getstaticproperties</span><span class="keyword">());<br />echo </span><span class="string">'B class: '</span><span class="keyword">;<br /></span><span class="default">$R </span><span class="keyword">= new </span><span class="default">reflectionclass</span><span class="keyword">(</span><span class="string">'B'</span><span class="keyword">);<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$R</span><span class="keyword">-&gt;</span><span class="default">getdefaultproperties</span><span class="keyword">());<br /></span><span class="default">print_r</span><span class="keyword">(</span><span class="default">$R</span><span class="keyword">-&gt;</span><span class="default">getstaticproperties</span><span class="keyword">());<br /><br /></span><span class="default">?&gt;<br /></span><br />This outputs:<br /><br /> set e=constructed <br /> B:c=public <br /> get d set d=dynamic B:d=dynamic <br /> set e=constructed2 <br />A Object<br />(<br />    [a:A:private] =&gt; private<br />    [b:protected] =&gt; protected<br />    [c] =&gt; public<br />    [e] =&gt; constructed<br />)<br />B Object<br />(<br />    [a:A:private] =&gt; private<br />    [b:protected] =&gt; protected<br />    [c] =&gt; public<br />    [d] =&gt; dynamic<br />)<br />C Object<br />(<br />    [a:A:private] =&gt; private<br />    [b:protected] =&gt; protected<br />    [c] =&gt; public<br />    [e] =&gt; constructed2<br />)<br />staticstaticstaticA class: Array<br />(<br />    [d] =&gt; static<br />    [a] =&gt; private<br />    [b] =&gt; protected<br />    [c] =&gt; public<br />)<br />Array<br />(<br />    [d] =&gt; static<br />)<br />B class: Array<br />(<br />    [d] =&gt; static<br />    [b] =&gt; protected<br />    [c] =&gt; public<br />)<br />Array<br />(<br />    [d] =&gt; static<br />)<br /><br />This shows how private variables ($a) are inherited, how static variables ($d) are inherited (by the class, not by the object) and that changing or adding variables in the parent ($e, $d) are not inherited by the child.</span></code></div>
+  </div>
+ </div>
+  <div class="note" id="123544">  <div class="votes">
+    <div id="Vu123544">
+    <a href="/manual/vote-note.php?id=123544&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd123544">
+    <a href="/manual/vote-note.php?id=123544&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V123544" title="44% like this...">
+    -5
+    </div>
+  </div>
+  <a href="#123544" class="name">
+  <strong class="user"><em>Anonymous</em></strong></a><a class="genanchor" href="#123544"> &para;</a><div class="date" title="2019-01-25 07:21"><strong>4 years ago</strong></div>
+  <div class="text" id="Hcom123544">
+<div class="phpcode"><code><span class="html">PHP7 gives you a warning if you redeclare a function in a child class with different parameters. For example:<br /><br />class foo {<br />     function print($text='') {<br />          print text;<br />     }<br />}<br /><br />class bar extends foo {<br />      function print($text1='',$text2='') {<br />           print text1.text2<br />      }<br />}<br /><br />will give a PHP Warning:  Declaration of bar::print($text1 = '', $text2 = '') should be compatible with foo::print($text= '').</span></code></div>
+  </div>
+ </div>
+  <div class="note" id="123116">  <div class="votes">
+    <div id="Vu123116">
+    <a href="/manual/vote-note.php?id=123116&amp;page=language.oop5.inheritance&amp;vote=up" title="Vote up!" class="usernotes-voteu">up</a>
+    </div>
+    <div id="Vd123116">
+    <a href="/manual/vote-note.php?id=123116&amp;page=language.oop5.inheritance&amp;vote=down" title="Vote down!" class="usernotes-voted">down</a>
+    </div>
+    <div class="tally" id="V123116" title="37% like this...">
+    -4
+    </div>
+  </div>
+  <a href="#123116" class="name">
+  <strong class="user"><em>sibian0218 at gmail dot com</em></strong></a><a class="genanchor" href="#123116"> &para;</a><div class="date" title="2018-09-06 07:58"><strong>5 years ago</strong></div>
+  <div class="text" id="Hcom123116">
+<div class="phpcode"><code><span class="html">I've noticed one thing concerning inheritance...<br />When declaring an abstract class with a private method,<br />which is overridden by a sub-class, private takes precedence over public for child class...<br />(in the case you're redeclaring a method with a different signature in fact).<br /><br />Hope this helps</span></code></div>
+  </div>
+ </div></div>
+<div class="foot"><a href="/manual/add-note.php?sect=language.oop5.inheritance&amp;redirect=https://www.php.net/manual/fr/language.oop5.inheritance.php">＋<small>add a note</small></a></div>
+</section>    </section><!-- layout-content -->
+        <aside class='layout-menu'>
+
+        <ul class='parent-menu-list'>
+                                    <li>
+                <a href="language.oop5.php">Les classes et les objets</a>
+
+                                    <ul class='child-menu-list'>
+
+                                                <li class="">
+                            <a href="oop5.intro.php" title="Introduction">Introduction</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.basic.php" title="Syntaxe de base">Syntaxe de base</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.properties.php" title="Propri&eacute;t&eacute;s">Propri&eacute;t&eacute;s</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.constants.php" title="Constantes de classe">Constantes de classe</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.autoload.php" title="Auto-&#8203;chargement de classes">Auto-&#8203;chargement de classes</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.decon.php" title="Constructeurs et destructeurs">Constructeurs et destructeurs</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.visibility.php" title="Visibilit&eacute;">Visibilit&eacute;</a>
+                        </li>
+                                                <li class="current">
+                            <a href="language.oop5.inheritance.php" title="H&eacute;ritage">H&eacute;ritage</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.paamayim-nekudotayim.php" title="L'op&eacute;rateur de r&eacute;solution de port&eacute;e (::)">L'op&eacute;rateur de r&eacute;solution de port&eacute;e (::)</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.static.php" title="Statique">Statique</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.abstract.php" title="Abstraction de classes">Abstraction de classes</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.interfaces.php" title="Interfaces">Interfaces</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.traits.php" title="Traits">Traits</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.anonymous.php" title="Classes anonymes">Classes anonymes</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.overloading.php" title="Surcharge magique">Surcharge magique</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.iterations.php" title="Parcours d'objets">Parcours d'objets</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.magic.php" title="M&eacute;thodes magiques">M&eacute;thodes magiques</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.final.php" title="Mot-&#8203;cl&eacute; &quot;final&quot;">Mot-&#8203;cl&eacute; &quot;final&quot;</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.cloning.php" title="Clonage d'objets">Clonage d'objets</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.object-comparison.php" title="Comparaison d'objets">Comparaison d'objets</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.late-static-bindings.php" title="Late Static Bindings (R&eacute;solution statique &agrave; la vol&eacute;e)">Late Static Bindings (R&eacute;solution statique &agrave; la vol&eacute;e)</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.references.php" title="Objets et r&eacute;f&eacute;rences">Objets et r&eacute;f&eacute;rences</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.serialization.php" title="S&eacute;rialisation d'objets">S&eacute;rialisation d'objets</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.variance.php" title="Covariance et Contravariance">Covariance et Contravariance</a>
+                        </li>
+                                                <li class="">
+                            <a href="language.oop5.changelog.php" title="Modifications en POO (Programmation orient&eacute;e objet)">Modifications en POO (Programmation orient&eacute;e objet)</a>
+                        </li>
+                        
+                    </ul>
+                
+            </li>
+                        
+                    </ul>
+    </aside>
+
+
+  </div><!-- layout -->
+
+  <footer>
+    <div class="container footer-content">
+      <div class="row-fluid">
+      <ul class="footmenu">
+        <li><a href="/copyright.php">Copyright &copy; 2001-2024 The PHP Group</a></li>
+        <li><a href="/my.php">My PHP.net</a></li>
+        <li><a href="/contact.php">Contact</a></li>
+        <li><a href="/sites.php">Other PHP.net sites</a></li>
+        <li><a href="/privacy.php">Privacy policy</a></li>
+      </ul>
+      </div>
+    </div>
+  </footer>
+
+    
+ <!-- External and third party libraries. -->
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="/cached.php?t=1657730402&amp;f=/js/ext/hogan-3.0.2.min.js"></script>
+<script src="/cached.php?t=1421837618&amp;f=/js/ext/typeahead.min.js"></script>
+<script src="/cached.php?t=1657876202&amp;f=/js/ext/mousetrap.min.js"></script>
+<script src="/cached.php?t=1657730402&amp;f=/js/ext/jquery.scrollTo.min.js"></script>
+<script src="/cached.php?t=1701958202&amp;f=/js/search.js"></script>
+<script src="/cached.php?t=1701958202&amp;f=/js/common.js"></script>
+
+<a id="toTop" href="javascript:;"><span id="toTopHover"></span><img width="40" height="40" alt="To Top" src="/images/to-top@2x.png"></a>
+
+</body>
 </html>

@@ -18,7 +18,7 @@
      * Accéder au site pour les entreprises
 
    (BUTTON) Fermer
-   Recherche ____________________ (BUTTON) Rechercher
+   Recherche ____________________ (BUTTON) Rechercher sur le site
    (BUTTON) Fermer
      * Accueil
      * Actualité
@@ -71,9 +71,10 @@
      * (BUTTON) (BUTTON)
      * (BUTTON) Focus
 
-   La sélection d'une langue déclenchera automatiquement la traduction du
-   contenu de la page.
-   [Françaiss]
+   (BUTTON) FR - Français
+     * FR - Français
+     * EN - English
+
    (BUTTON)
 
    Partager la page
@@ -485,13 +486,16 @@ Qui peut m'aider ?
 
 (BUTTON) Textes de loi et références
 
-     * Code civil : article 733Droits des parents en l'absence d'époux
-       successible
-     * Code civil : articles 751 à 755Représentation
-     * Code civil : articles 725 à 729-1Qualités requises pour succéder
-     * Code civil : articles 734 à 740Ordre des héritiers
-     * Code civil : articles 756 à 758-6Article 756 (droits de la personne
-       successible)
+     * Code civil : article 733
+       Droits des parents en l'absence d'époux successible
+     * Code civil : articles 751 à 755
+       Représentation
+     * Code civil : articles 725 à 729-1
+       Qualités requises pour succéder
+     * Code civil : articles 734 à 740
+       Ordre des héritiers
+     * Code civil : articles 756 à 758-6
+       Article 756 (droits de la personne successible)
 
 Questions ? Réponses !
 
@@ -503,13 +507,18 @@ Questions ? Réponses !
 
 (BUTTON) Voir aussi
 
-     * Héritage : ordre et droits des héritiersService-Public.fr
-     * TestamentService-Public.fr
-     * Préparer sa succession : donationService-Public.fr
-     * Règlement d’une successionService-Public.fr
-     * Mariage sans contrat : régime de la communauté réduite aux
-       acquêtsService-Public.fr
-     * Contrat de mariageService-Public.fr
+     * Héritage : ordre et droits des héritiers
+       Service-Public.fr
+     * Testament
+       Service-Public.fr
+     * Préparer sa succession : donation
+       Service-Public.fr
+     * Règlement d’une succession
+       Service-Public.fr
+     * Mariage sans contrat : régime de la communauté réduite aux acquêts
+       Service-Public.fr
+     * Contrat de mariage
+       Service-Public.fr
 
 Cette page vous a-t-elle été utile ?
 
@@ -582,45 +591,10 @@ Avez-vous rencontré une difficulté ?
    (*) Non
    (*) Je ne suis  pas satisfait(e)  de cette réglementation
    (*) Cette page  ne correspond pas  à ma situation
-   (*) Il  manque des informations  (préciser lesquelles)
-   (*) Les informations ne sont  pas claires  (préciser lesquelles)
-   (*) Il y'a une  erreur  dans la page  (préciser lesquelles)
+   [ ] Il  manque des informations
+   [ ] Les informations ne sont  pas claires
+   [ ] Il y'a une  erreur  dans la page
 
-Avez-vous des suggestions pour améliorer la page ?
-
-   [ ] Je suggère une modification à une rédactrice ou un rédacteur
-   Service-Public.fr Saisie complémentaire requise – affichage automatique
-
-   Les informations demandées sont obligatoires
-
-   Des exemples nous permettent d’améliorer les pages plus facilement : «
-   Je n’ai pas compris la partie sur... », « Je cherchais des informations
-   plus précises/plus claires sur... ».
-   Votre suggestion Ne mentionnez pas de données personnelles (nom,
-   adresse, numéros de téléphone, numéro de sécurité sociale, numéro
-   fiscal, lieu et date de naissance...) à l'exception, bien sûr, de votre
-   adresse de messagerie.
-   ______________________________
-   ______________________________
-   ______________________________
-   ______________________________
-   ______________________________
-   ______________________________
-   ______________________________
-   ______________________________
-
-   1000 caractères restants
-
-Comment pouvons-nous vous répondre ?
-
-   Votre adresse email Exemple : nom@exemple.com ____________________
-
-Protection des données personnelles
-
-   Les informations recueillies à partir de ce formulaire sont traitées
-   par la DILA pour répondre à votre demande. Pour connaitre et exercer
-   vos droits, veuillez consulter la rubrique données personnelles et
-   sécurité.
    (BUTTON) Envoyer vos remarques
 
 Recevoir la lettre de Service-Public.fr
@@ -698,16 +672,3 @@ sur les réseaux sociaux
 
    Sauf mention contraire, tous les contenus de ce site sont sous licence
    etalab-2.0
-
-   (BUTTON) Fermer
-
-Baromètre
-
-Votre avis nous intéresse !
-
-   Quelle est votre expérience du site service-public.fr ?
-
-   Aidez-nous à concevoir un site adapté à vos besoins en répondant �
-   notre questionnaire.
-     * (BUTTON) Fermer
-     * Je donne mon avis

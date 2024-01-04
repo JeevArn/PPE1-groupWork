@@ -32,7 +32,8 @@
           + TV5MONDE Maghreb-Orient
             FR, EN, AR
 
-   Info
+Info
+
    Recherche
    Rechercher ______________________________
    Période de publication_______________________________
@@ -44,51 +45,52 @@
      * Afrique
        Accueil Afrique
        CONGO, Rép. démocratique du
-       GUINÉE-BISSAU
-       AFRIQUE DU SUD
-       NIGER
-       SIERRA LEONE
-       MADAGASCAR
+       SÉNÉGAL
        CÔTE D'IVOIRE
-       CAMEROUN
+       ÉTHIOPIE
+       NIGER
+       TCHAD
+       NIGERIA
+       AFRIQUE DU SUD
 
 Nos dossiers du moment
-       L'actualité en Guinée-Bissau
-       L'actualité au Cameroun
-       L'actualité au Niger
+       RDC : Election présidentielle 2023
        RDC les défis d'un géant africain
+       L'actualité en Éthiopie
+       L'actualité au Niger
        Sénégal
      * International
        Accueil International
 
 Nos dossiers du moment
        Israël contre Hamas
-       Proche-Orient : Israël et Palestine, quelle paix ?
        Ukraine-Russie : la guerre
+       L'actualité au Japon
        Migrants : comment mettre fin à ces tragédies ?
-       L'actualité dans la Russie de Vladimir Poutine
+       Proche-Orient : Israël et Palestine, quelle paix ?
      * Environnement
        Accueil Environnement
-
-Nos dossiers du moment
-       COP 28
      * Terriennes
        Accueil Terriennes
 
 Nos dossiers du moment
-       Le droit à l'avortement
        Violences faites aux femmes
-       Femmes violentes, tabou et désordre social
-       Femmes, artistes, défricheuses
-       La maternité dans tous ses états
+       Sport au féminin
+       Les métiers ont-ils un sexe ?
+       Santé des femmes
+       Femmes en politique
      * Sport
        Accueil Sports
+
+Nos dossiers du moment
+       La CAN 2023 de football en Côte d'Ivoire
      * Culture
        Accueil Culture
 
 Nos dossiers du moment
        La musique sur TV5MONDE
-       L'Humeur de Linda
+       [Culture à domicile]
+       Un livre, délivre
      * Science
        Accueil Sciences
      * Société
@@ -142,8 +144,15 @@ Culture : L'héritage culturel de Senghor exposé au Quai Branly
 Afrique Culture
 
    TV5 JWPlayer Field
-   jtchapter: "African Empires", retrace les grands empires africains
-   avant la colonisation
+   jtchapter: Mauritanie : à la découverte de la cité de Oualata
+   patrimoine mondial
+
+Mauritanie : à la découverte de la cité de Oualata
+
+   Afrique
+
+Musique : Roselyne Belinga, artiste pluridisciplinaire
+
    Afrique
 
 "African Empires", retrace les grands empires africains avant la colonisation
@@ -156,55 +165,43 @@ Exposition : "Mandela est mort", quel héritage ?
 
 Mode : le styliste Alphadi nous charme depuis 40 ans
 
-   Exposition
-
-Rétrospective du peintre congolais Chéri Samba à Paris
-
-   Culture Amazigh
-
-"Raconter le Maroc" : la nouvelle mission culturelle des "Arabengers"
-
    Voir plus
 
 À la une
 
-   Israël-Palestine
+   ISRAËL-HAMAS
 
-DIRECT - Guerre à Gaza : le ministère de la Santé du Hamas annonce un nouveau
-bilan de 15 899 morts
+DIRECT : les craintes d'extension du conflit se renforcent après un attentat
+en Iran
 
-   International
+   Ukraine-Russie
 
-Israël-Hamas : à Gaza, la situation humanitaire est "indescriptible"
+DIRECT : Moscou et Kiev échangent plus de 230 prisonniers de guerre
 
-   Territoire disputé
+   Contestation
 
-Référendum au Venezuela : victoire écrasante du "oui" au rattachement de
-l'Essequibo
+Israël : que signifie la décision de la Cour suprême à propos de la réforme
+judiciaire ?
 
-   Guerre en Ukraine
+   Ça grince
 
-DIRECT : les troupes russes accentuent leurs attaques sur Avdiïvka, selon
-Kiev
+Entre l'Éthiopie et le Somaliland, un accord qui exaspère la Somalie
 
-   LUTTE CONTRE LE DJIHADISME
+   post-référendum
 
-Après le Mali, le Burkina et le Niger quittent la force antijihadiste G5
-Sahel
+Tchad : qui est Succès Masra, nouveau Premier ministre de transition ?
 
-   climat
+   Politique
 
-COP 28 : les engagements volontaires pleuvent, avant le dur des négociations
-sur les fossiles
-
-   Suspect radicalisé
-
-Attentat près de la tour Eiffel : l'assaillant a fait allégeance à l'EI
+Présidentielle en RDC : quelles options de contestation pour les candidats
+d'opposition ?
 
    Plan du site
 
 Archives
 
+     * 2024
+          + janvier 2024
      * 2023
           + décembre 2023
           + novembre 2023

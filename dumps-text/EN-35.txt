@@ -1,349 +1,232 @@
-   #alternate alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TKZ2B4M
-
-     * FR
-     * EN
-
-   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
-     * Columns
-     * Braincamps
-
-     * FR
-     * EN
-
-   (BUTTON) Sign up for the newsletter
-   Subscribe to our weekly newsletter
-   ____________________
-   [ ]
-   I have read and accepted the privacy policy.
-   Sign up
-     * π Planet
-     * π Energy
-     * π Health and biotech
-     * π Digital
-     * π Space
-     * π Economics
-     * π Industry
-     * π Science and technology
-     * π Society
-     * π Geopolitics
-     * π Videos
-
-   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
-   ____________________ Submit
-
-   Share twitter linkedin facebook
-   Copié !
-   Subscribe to our weekly newsletter Newsletter
-   Subscribe to our weekly newsletter
-   ____________________ Valider
-   [ ]
-   I have read and accepted the privacy policy.
-   Sign up
-   (BUTTON) (BUTTON)
-   Home / Chroniques / Collagen: a key to preserving historical parchments
-   Blank parchment
-   On the same topic:
-     * Digital twins to predict disease
-     * How digital technology will personalise healthcare
-     * AI, a weapon against tax fraud
-
-   π Science and technology
-
-Collagen: a key to preserving historical parchments
-
-   On September 8th, 2021
-   5 min reading time
-   Marie-Claire Schanne-Klein
-   Marie-Claire Schanne-Klein
-   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
-   IP Paris
-   Gael Latour
-   Gaël Latour
-   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
-   and Biosciences Laboratory (LOB*), IP Paris
-
-   Whilst we may associate it more with aesthetics than antiquity,
-   collagen is central in some cultural heritage objects. Indeed, this
-   vital protein is a key structural molecule holding bodily tissues
-   together to support cells. And since animal skin was used in centuries
-   gone by to make parchments, the pages of many historical documents are
-   full of collagen, too.
-
-Collagen, collagen everywhere…
-
-   “There are around 26 different types of collagen, that are found in
-   many organs – tendons, skin, cornea, arteries, lungs and so on,” says
-   Marie-Claire Schanne-Klein a physicist at École polytechnique. She
-   specialises in biophotonics, which essentially means that she uses
-   techniques from physics to study living tissues. In her case, she works
-   with advanced optical imaging, known as multi-photon microscopy.
-
-   She explains, “we use fluorescent markers in biological samples to
-   label different cellular components so we can see them under a
-   microscope. But collagen doesn’t need a marker as it naturally
-   generates harmonics detected in multi-photon microscopy which makes it
-   glow without further intervention on our behalf.” Hence, this protein,
-   which creates a ‘fibrillary matrix’ supporting cells, can be observed
-   thanks to its harmonic signal. “These intrinsic imaging modalities,
-   without any labelling are a speciality of our lab.”
-   Analysis using the multiphoton microscope from the Laboratoire
-   d’Optique et Biosciences with a medieval manuscript on parchment from
-   the Chartres’ library (Photo credit: M. Schmeltz, LOB).
-
-   “Collagen forms fibrils that are arranged differently depending on the
-   tissue we are studying,” she clarifies. “In skin, for example, we would
-   expect to see tangled bundles of large fibrils, which are responsible
-   for its supple texture. Whereas in the cornea collagen fibrils are very
-   thin and highly ordered, arranged in layers (or lamellae) that make it
-   rigid, giving it the property of focusing light correctly onto the
-   retina.” However, collagen may degrade, losing its fibrillar structure
-   ultimately, forming a gelatine that no longer generates a harmonic
-   signature, but still fluorescence.
-
-   Marie-Claire Schanne-Klein and her colleagues study the collagen
-   principally for biomedical purposes. “Collagen structure plays an
-   important role in many diseases. It can change in certain extreme
-   situations like skin burns or scarring, which leave visible traces. But
-   also, in certain cancers because tumours seem to form around structures
-   of collagen as a scaffold. We tend to study them for that reason, to
-   better understand the pathologies associated to collagen.”
-
-Collagen in cultural heritage
-
-   Interestingly, collagen is found in other places too, including many
-   historical manuscripts written on parchments that are made from animal
-   skin. Gaël Latour from Université Paris-Saclay studies these materials.
-   “Parchments can degrade over time due to storage conditions, and as
-   they do so they become increasingly transparent and rigid, leading to
-   the loss of the readability of the writing,” he outlines. This
-   transparent material is, in fact, degraded collagen, often referred to
-   as gelatine.
-
-   “It is common knowledge in the world of cultural heritage that objects
-   or documents made from skin will ‘gelatinise’ in this way. And now we
-   know that this happens because the collagen fibres in the parchment
-   unwind as it degrades, progressively transforming the material into
-   gelatine. In doing so, the parchment gradually becomes more
-   homogeneous, letting more light through.” Moreover, the process is
-   irreversible: once the collagen-to-gelatine process has occurred the
-   document is lost forever.
-
-   With his colleagues they have been studying documents used in Western
-   Europe in the 13^th Century, at a time before paper, when parchments
-   were commonly used. But they have analysed documents that go as far
-   back at the 8^th Century. “Remarkably, some of the documents are still
-   very well preserved, with just damage at the borders of the pages where
-   they have been handled over the hundreds of years since they
-   were made.”
-
-   Due to the collagen content of parchment, the team realised that they
-   could use multi-photon microscopy to study it. “Currently, the main
-   method for testing degradation of parchments is called differential
-   scanning calorimetry; it’s a method that requires taking a sample from
-   the page that is crushed into a pulp to be tested destroying a part –
-   however small – of the document,” he explains. “But if we use
-   multi-photon microscopy to study the collagen, we can do this in a
-   non-invasive way.” In 2016
-   ^1, Latour, Schanne-Klein and colleagues, published a report showing
-   that it was possible to see whether a parchment was degraded using
-   their technique.
-
-     The researchers show that this method can be used to analyse the
-     level of degradation – or ‘gelatinisation’ – of parchments.
-
-   Copié !
-   (Left) Picture of a medieval manuscript on parchment from the Chartres’
-   library (photo credit: CNRS–IRHT). (Right) Multiphoton microscopy
-   images with well-preserved collagen in the center (Second harmonic
-   signals in green) and degraded collagen on the periphery (two-photon
-   excited fluorescence in red).
-
-Preserving history
-
-   “Initially the idea was to show that we could see degraded collagen in
-   the parchments. So, in the beginning the idea was a simple ‘yes’ or
-   ‘no’,” he says. “But now, we are seeking to look at how we can quantify
-   the amount of degradation. It could help us keep an eye on which
-   documents need to be taken care of more effectively or help towards
-   restoration efforts.”
-
-   Going further, they recently published another study
-   ^2 in which they show that the technique can be used to analyse the
-   amount of degradation – or gelatinisation – of parchments. They used
-   these techniques to analyse custom documents, then historical ones
-   preserved since the 13^th Century from the archives of the Library of
-   Chartres, France. In this particular case, over 200 of the documents
-   had been exposed to heat from a fire during a bomb raid during World
-   War II, resulting in extensive damage and gelatinisation. Gaël Latour
-   and his colleagues used these invaluable pages to provide evidence that
-   it is possible to quantify the amount degradation using multi-photon
-   microscopy, whilst causing them no further harm.
-
-   “Now we want to also understand how the degradation happens,” Gaël
-   Latour adds. We have been starting from modern parchments that we have
-   artificially degraded. The team expose them to dry conditions and
-   temperatures above 100°C as if they were ‘aging’ and then analyse them
-   using microscopy to quantify the degradation. Marie-Claire
-   Schanne-Klein adds, “normally, gelatine is formed from exposing
-   collagenous animal tissue to high temperatures – that’s how gelatine
-   used for candy is made, for example, and in the case of these
-   documents. But we know that in most cases, the parchments haven’t been
-   exposed to such heat. So, in other cases, it is likely the result of
-   acidification due to bacterial activity on the documents, which can
-   produce an acidic fluid due to humid conditions during storage.” The
-   team are setting about studying how this happens in more detail and to
-   challenge this hypothesis.
-
-   And they don’t plan on stopping at parchments. “There are many other
-   historical objects that contain collagen, too.” Indeed, in museums skin
-   can be found in range of materials including rawhide or leather that
-   was used to make clothes or in natural history specimens. There are
-   other biomolecules that exhibit harmonics, notably cellulosis in
-   plants, so that we can analyse old fabrics and musical instruments made
-   of wood and more generally a range of other objects – each with their
-   own story to tell for years to come.
-
-   For further reading
-     * https://​por​tail​.poly​tech​nique​.edu/​l​o​b​/​f​r​/​r​e​c​h​e​r​
-       c​h​e​/​m​i​c​r​o​s​c​o​p​i​e​s​-​a​v​a​n​c​e​e​s​/​m​u​l​t​i​p​h​o
-       ​t​o​n​-​c​h​a​r​a​c​t​e​r​i​z​a​t​i​o​n​-​c​u​l​t​u​r​a​l​-​h​e​r​
-       i​t​a​g​e​-​a​r​t​e​facts
-     * https://​hal​.archives​-ouvertes​.fr/​h​a​l​-​0​3​0​2​8​0​9​1​/​d​o
-       ​c​ument
-
-Interview by James Bowers
-
-   1https://​www​.nature​.com/​a​r​t​i​c​l​e​s​/​s​r​e​p​26344↑
-   2https://​advances​.sci​encemag​.org/​c​o​n​t​e​n​t​/​7​/​2​9​/​e​a​b​g
-   ​1​0​9​0​.​a​b​s​tract↑
-
-Contributors
-
-   Marie-Claire Schanne-Klein
-
-Marie-Claire Schanne-Klein
-
-   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
-   IP Paris
-
-   After studying at the Ecole Polytechnique and completing a thesis in
-   physics, Marie-Claire Schanne-Klein teaches in the physics department
-   of the Ecole Polytechnique and is responsible for physics at the
-   Doctoral School of IP Paris. She was awarded the CNRS silver medal in
-   2019. *LOB: a joint research unit CNRS, École Polytechnique - Institut
-   Polytechnique de Paris, Inserm
-   Gael Latour
-
-Gaël Latour
-
-   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
-   and Biosciences Laboratory (LOB*), IP Paris
-
-   Gaël Latour is a physicist specialising in optics, and a lecturer at
-   the science department of the University of Paris-Saclay. He teaches
-   physics, and more particularly optics, from bachelors to masters level.
-   His research activities at the Optics and Biosciences Laboratory are
-   focused on the development of new imaging modalities, in particular
-   non-linear optical microscopy, and on their applications in the
-   biomedical field (cornea, skin) and for the study of heritage objects.
-   *LOB: a joint research unit CNRS, École Polytechnique - Institut
-   Polytechnique de Paris, Inserm
-
-More on this topic
-
-   Précédent
-   Suivant
-   Thomas Grandin
-   π Energy π Industry π Planet π Science and technology
-
-What should be done with the millions of used tyres?
-
-   Thomas Grandin,
-
-   In charge of the tyre and ELV sector at ADEME
-   On November 14th, 2023
-   4 min reading time
-   Eric Moulines
-   π Videos π Science and technology π Digital π Society
-
-ChatGPT, Midjourney: everything you need to know about generative AI
-
-   Éric Moulines,
-
-   Professor of Statistical Learning at École Polytechnique (IP Paris)
-   On November 21st, 2023
-   5 min reading time
-   Kalina Raskin
-   π Health and biotech π Science and technology π Society π Planet
-
-Drawing inspiration from living things: a method as much as a philosophy
-
-   Kalina Raskin,
-
-   Physico-chemical engineer, PhD in neuroscience from Sorbonne University
-   and Managing Director of Ceebios, (Centre for studies and expertise in
-   biomimicry)
-   On October 25th, 2023
-   3 min reading time
-   Gerard Creuzet
-   π Energy π Science and technology
-
-Photovoltaics: what future can we expect for Europe?
-
-   Gérard Creuzet,
-   President of Institut Photovoltaïque d’Île-de-France
-   On February 21st, 2023
-   4 min reading time
-   Erika Brunet
-   π Health and biotech π Science and technology
-
-CRISPR gene editing: revolution or evolution?
-
-   Erika Brunet,
-
-   Inserm Research Director at Institut Imagine
-   On March 11th, 2021
-   4 min reading time
-
-   Subscribe to our weekly newsletter Subscribe to our weekly newsletter
-   ____________________ Sign up
-   [ ]
-   I have read and accepted the privacy policy.
-
-Our selection of braincamps
-
-   0_BIOMIMETISME
-   π Science and technology π Health and biotech π Planet
-
-Biomimicry: when science draws inspiration from nature
-
-   3 episodes
-   0_transition‑énergétique
-   π Energy π Planet π Science and technology
-
-Energy transition: there is still a lot of unexploited potential
-
-   3 episodes
-   0_oceanClimat
-   π Planet π Science and technology π Energy
-
-Is the ocean the last bastion against climate change?
-
-   3 episodes
-
-   facebook twitter linkedin instagram
-     * About us
-     * Sponsors
-     * Contributors
-     * Legal notices
-     * Contact
-     * (BUTTON) Cookie Settings
-
-   Logo Institut Polytechnique de Paris
-
-   (BUTTON)
-
-   Our world explained with science. Every week, in your inbox.
-   Get the newsletter
+   #Compare the Difference Between Similar Terms » Feed Compare the
+   Difference Between Similar Terms » Comments Feed Compare the Difference
+   Between Similar Terms » Difference Between Ancestry and Heritage
+   Comments Feed alternate alternate
+
+   Compare the Difference Between Similar Terms
+
+   Difference Between
+
+   [INS: :INS]
+
+   Home / People / History / Difference Between Ancestry and Heritage
+
+Difference Between Ancestry and Heritage
+
+   July 22, 2015 Posted by Admin
+
+                                 [INS: :INS]
+
+Key Difference – Ancestry vs Heritage
+
+
+   Ancestry can simply be defined as the decent or the lineage of a
+   person. All  beings on this earth have their own ancestry. When we
+   trace back the history, we can think of our ancestors who are great
+   grandparents, and we are descendants of their ancestry. On the other
+   hand, heritage is the inherited customs, traditions, beliefs,
+   monuments, and artifacts from our ancestors. Heritage includes both
+   physical objects and intangible things. The key difference between
+   ancestry and heritage is that the ancestry is the lineage of the people
+   while the heritage is the inheritance from the ancestry. In this
+   article, we are going to look at the difference between the terms,
+   ancestry and heritage, in more detail.
+
+What is Ancestry?
+
+   Ancestry deals with the people who come before us in our line of
+   lineage. One’s parents, grandparents and great grandparents and their
+   former generations can be taken as the ancestry of him/her. In
+   scientific terms, the people who are responsible for one’s physical
+   existence via procreation can be recognized as the ancestry or
+   ancestors. Once we trace back the past, we are able to draw a family
+   tree based on the ancestry of anybody. Thus, ancestry is genetically
+   and generationally inherited. Nobody can change his/her ancestry though
+   he or she can hide details.
+
+   Being aware of one’s ancestry is helpful in certain matters, such as
+   identifying diseases and certain habits. Also, ancestry adds value to
+   one’s personal identity. Ancestry has some connection with one’s
+   birthplace because his family members and ancestors might have been
+   living there for a long time. But it is not necessary for a person to
+   be in the very place that they were born to trace back his ancestry.
+   However, it might be useful in order to collect deeper facts about
+   one’s ancestors.
+
+   ancestry vs. heritage
+   [INS: :INS]
+
+What is Heritage?
+
+   Heritage deals with cultural inheritance. Material things, as well as
+   non-tangible things, can be inherited via culture. Whatever the things
+   we inherit from our ancestors can be considered as heritage. Also,
+   peoples’ lifestyles are shaped by heritage. That is, we form our
+   behaviors according to the habits, lifestyles, ideas, beliefs, and
+   practices, etc., inherited from our culture. Heritage can be seen in
+   many forms. Natural resources, such as fauna and flora,
+   landscapes, land forms, etc. can be considered as natural heritages.
+   Artifacts, paintings, jewelry, clothes, and monuments can be described
+   as material heritages. Beliefs, values, traditions, ethics, and morals
+   are non-physical features that we’ve  inherited. All these things add
+   value to humans as a whole, and we all benefit from those heritages.
+
+   An important fact about heritage is that it could be preserved and
+   valued as well as it could be destroyed. We can leave our heritages to
+   the future generations also if we want. However, heritage is an
+   essential part of our current life.
+
+   difference between ancestry and heritage
+
+What is the difference between Ancestry and Heritage?
+
+Definitions of ancestry and heritage
+
+   Ancestry: Ancestry is one’s historical evolution, based on family
+   relationships.
+
+   Heritage: Heritage is a sort of inheritance from the ancestry, not
+   necessarily relatives.
+
+Characteristics of Ancestry and Heritage
+
+Inheritance
+
+   Ancestry: Ancestry is more or less a biological phenomenon.
+
+   Heritage: Heritage is mostly a cultural phenomenon.
+
+Alterations
+
+   Ancestry: No one can change his/her ancestry unless he or she hide
+   details about it.
+
+   Heritage: Heritage can be preserved as well as destroyed, according to
+   the will.
+
+Importance
+
+   Ancestry: Ancestry is important in figuring out details on diseases,
+   genetic conditions.
+
+   Heritage: Heritage is important in understanding cultural and social
+   values, especially in bygone.
+
+   Image Courtesy:
+
+   Katarzyna & William by M.Dolly [CC BY-SA 2.0] via Flickr
+
+   “Heritage Hill 2” by Kent county; transferred by User:Werewombat
+   [Public Domain] via Wikimedia Commons
+   [INS: :INS]
+
+Related posts:
+
+   Difference Between Middle Ages and Medieval Ages Difference Between
+   Middle Ages and Medieval Ages [default.png?ssl=1] Difference Between
+   Mastaba and Pyramid [default.png?ssl=1] Difference Between History and
+   Archaeology BC vs BCE Difference Between BC and BCE Difference Between
+   Era and Period Difference Between Era and Period
+
+   Filed Under: History Tagged With: ancestry, ancestry and heritage
+   difference, Ancestry definition, Ancestry meaning, Heritage, Heritage
+   definition, Heritage meaning
+
+About the Author: Admin
+
+   Coming from Engineering cum Human Resource Development background, has
+   over 10 years experience in content developmet and management.
+
+Comments
+
+    1.
+   Brenda Webb Alexander says
+       August 18, 2017 at 5:11 am
+       Thank you so much I am excited to find my Heritage through my
+       ancestry my grandfather I knew of him I thank you for your help
+       Reply
+
+Leave a Reply Cancel reply
+
+   Your email address will not be published. Required fields are marked *
+
+   Comment
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Name * ______________________________
+
+   Email * ______________________________
+
+   Website ______________________________
+
+   Post Comment
+
+   ____________________ Search
+
+   Request Article Request Article
+
+Featured Posts
+
+   Difference Between Coronavirus and Cold Symptoms
+
+Difference Between Coronavirus and Cold Symptoms
+
+   Difference Between Coronavirus and SARS
+
+Difference Between Coronavirus and SARS
+
+   Difference Between Coronavirus and Influenza
+
+Difference Between Coronavirus and Influenza
+
+   Difference Between Coronavirus and Covid 19
+
+Difference Between Coronavirus and Covid 19
+
+   [INS: :INS]
+
+You May Like
+
+Difference Between Balance and Scale
+
+   Difference Between HDMI and Mini HDMI
+
+Difference Between HDMI and Mini HDMI
+
+   Difference Between Theater and Theatre
+
+Difference Between Theater and Theatre
+
+   Difference Between Adhesive and Cohesive Forces
+
+Difference Between Adhesive and Cohesive Forces
+
+   Difference Between N2 and 2N
+
+Difference Between N2 and 2N
+
+Latest Posts
+
+     * What is the Difference Between Multiple Myeloma and Waldenstrom’s
+       Macroglobulinemia
+     * What is the Difference Between Coccidioides and Coccidioidomycosis
+     * What is the Difference Between Epileptic and Nonepileptic Seizures
+     * What is the Difference Between Endometrioma and Endometriosis
+     * What is the Difference Between Slides and Flip Flops
+     * What is the Difference Between Werner Syndrome and HGPS
+
+     * Home
+     * Vacancies
+     * About
+     * Request Article
+     * Contact Us
+
+   Copyright © 2010-2018 Difference Between. All rights reserved. Terms of
+   Use and Privacy Policy: Legal.

@@ -1,313 +1,485 @@
-   #BuzzWebzine » Flux BuzzWebzine » Flux des commentaires alternate
-   alternate alternate BuzzWebzine » Flux popular posts
-
-   Close Menu
-   BuzzWebzine
-
-   BuzzWebzine
-   Le meilleur de la POP culture
-
-     * Pub & Marketing
-          + Musique de pub
-          + Classement des musiques de pub
-          + Réseaux sociaux
-     * Divertissement
-          + Ciné/TV
-          + Musique
-          + Lecture
-          + Humour
-          + Art & Création
-          + Photo
-          + Court métrage
-          + Actu
-     * Tech & Geek
-          + Jeux vidéo
-          + Science
-          + Auto / Moto
-     * Maison
-          + Cuisine
-     * Animaux
-     * Lifestyle
-          + Mode
-          + Voyage
-          + Écologie
-     * Rencontre
-     * Business
-          + Entreprise
-          + Finance
-          + Immobilier
-     * Bien-être
-          + Psychologie
-          + Beauté
-          + Sport
-          + Astrologie & spiritualité
-     * Bons plans
-
-   (BUTTON)
-   BuzzWebzine
-
-   BuzzWebzine » Tech & Geek » Héritage numérique Apple : comment donner
-   accès à vos données en cas de décès
-
-Héritage numérique Apple : comment donner accès à vos données en cas de décès
-
-   Philippe Abiodoun Philippe Abiodoun Par Philippe Abiodoun13 novembre
-   20213 MinutesAucun commentaireMis à jour le13 novembre 2021
-   Partager Facebook Twitter LinkedIn WhatsApp
-
-   Grâce à Digital Legacy, Apple permet désormais à vos proches d’accéder
-   à vos fichiers en cas de décès.
-
-   Apple l’a toujours chanté, ce qui fait sa force est sa protection sur
-   les données des utilisateurs. Mais cette protection est parfois �
-   outrance, puisque c’est souvent un chemin de croix pour avoir accès aux
-   données personnelles sur iCloud d’une personne décédée. Un véritable
-   coup dur pour les proches endeuillés qui ne peuvent même pas
-   déverrouiller l’appareil ou accéder aux photos du décédé sans connaître
-   son mot de passe. Heureusement, les choses changent désormais avec iOS
-   15.2.
-
-   Dans cet article :
-   Toggle [X]
-
-     * Digital Legacy : ce qu’il manquait pour accéder aux fichiers iCloud
-       d’une personne décédée
-     * Digital Legacy : comment désigner vos héritiers numériques ?
-
-Digital Legacy : ce qu’il manquait pour accéder aux fichiers iCloud d’une
-personne décédée
-
-   La firme de Cupertino ne manque pas un instant pour se vanter de
-   posséder l’écosystème le plus sécurisé. Sauf que parfois cette
-   (sur)protection de données pose problème même aux propriétaires. En
-   effet, auparavant, c’était un véritable calvaire pour accéder aux
-   données d’une personne décédée qui étaient stockées sur iCloud. Même
-   avec un certificat de décès légal ou une ordonnance du tribunal, vous
-   n’aviez aucune assurance de récupérer les fichiers.
-
-   VOIR AUSSI : iCloud pour Windows vient d’intégrer un générateur de mot
-   de passe
-
-   Il s’agissait donc d’une intransigeance qui commençait à faire couler
-   beaucoup d’encres. La marque à la pomme est en effet en retard dans un
-   domaine où Facebook et Google sont exemplaires. Ces derniers ont déj�
-   mis en place des méthodes pour permettre aux proches d’entrer
-   facilement en possession des données personnelles d’une personne
-   décédée.
-
-   Enfin, le créateur d’iPhone, iPad et tutti canti a décidé de mettre du
-   leste dans sa décision. Vos proches peuvent donc désormais récupérer
-   vos documents, photos, vidéos ainsi que vos achats.
-
-Digital Legacy : comment désigner vos héritiers numériques ?
+   #alternate alternate alternate alternate alternate CrossDNA » Flux
+   CrossDNA » Flux des commentaires CrossDNA » Héritage génétique :
+   qu’est-ce que c’est et comment cela peut me concerner? Flux des
+   commentaires alternate alternate alternate
+
+     * English
+     * Español
+     * Deutsch
+     * Français
+     * Italiano
+
+     * Test ADN
+     * Teste ADN sportif
+     * Boutique
+     * Blog
+     * Enregistrez votre kit
+
+   ACHETER
+
+Héritage génétique : qu’est-ce que c’est et comment cela peut me concerner?
+
+   Facebook Instagram
+   juillet 05, 2021
+
+   Vous a-t-on déjà dit “tu as les yeux de ta mère”, “tu as le même
+   caractère que ton père” ou “tu ressembles à ton oncle” ? Eh bien, ce
+   n’est pas seulement une façon de parler, mais il existe toute une
+   science spécialisée dans ce domaine : l’héritage génétique.
+
+   L’héritage génétique étudie comment certains traits héréditaires sont
+   transmis de génération en génération. C’est-à-dire comment certaines
+   caractéristiques physiologiques, morphologiques ou biochimiques sont
+   transmises des parents aux enfants au cours du processus de fécondation
+   et de gestation. Toutes ces informations transmises constituent ce que
+   l’on appelle le matériel génétique et contiennent des informations sur
+   la couleur des cheveux, la couleur des yeux, la taille, les capacités
+   physiques, la prédisposition à certaines maladies et même notre
+   caractère. Tout est dans l’ADN.
+
+Mais comment fonctionne l’héritage génétique ?
+
+   Nous recevons tous du matériel génétique de nos parents et ce matériel
+   est organisé par les gènes. Les gènes sont des unités de stockage de
+   l’information génétique. C’est-à-dire que ce sont des segments d’ADN
+   qui reflètent une fonction représentée, comme la couleur des cheveux,
+   la probabilité d’être myope ou la prédisposition à prendre du poids
+   facilement.
+
+   Chaque gène contient à son tour deux copies ou allèles, puisque chacun
+   provient d’un parent. Si ces allèles subissent une erreur génétique ou
+   une mutation, il est possible que les parents transmettent certaines
+   maladies génétiques à leurs enfants. Celles-ci peuvent se développer ou
+   non en fonction de divers aspects et facteurs de conditionnement.
+
+   Il existe plusieurs modèles d’héritage génétique que nous devons
+   prendre en compte :
+     * Dominante autosomique : Dans ce cas, un allèle domine sur l’autre.
+       Si cet allèle est muté, il y a 50 % de chances que la maladie soit
+       transmise à la descendance.
+     * Autosomique récessif : L’allèle normal domine sur l’allèle muté et
+       les deux parents sont porteurs de la mutation, la descendance aura
+       50% de chances d’être également porteuse et 25% de chances d’avoir
+       la maladie.
+     * Héritage lié au chromosome X : Il s’agit des conditions génétiques
+       associées au chromosome X. Rappelons que les hommes n’ont qu’un
+       seul chromosome X alors que les femmes en ont deux. C’est pourquoi
+       la présence d’une mutation sur un chromosome X est suffisante pour
+       provoquer la maladie. Cependant, les parents ne peuvent pas
+       transmettre une maladie héréditaire dominante liée au chromosome X
+       à leurs fils, mais toutes les filles d’un père atteint auront la
+       maladie et il est possible qu’elles la transmettent à leurs fils et
+       à leurs filles dans le futur.
+       le patrimoine génétique dans le sport
+
+Héritage génétique dans le sport
+
+   Bien sûr, le patrimoine génétique est un facteur déterminant et peut
+   être décisif dans des domaines tels que le sport, où une prédisposition
+   favorable à certains exercices peut faire la différence.
+
+   Si vous êtes curieux d’en savoir plus sur votre patrimoine génétique et
+   sur la façon dont il peut conditionner ou améliorer vos capacités, les
+   tests génétiques CrossDNA sont votre solution. À partir d’un simple
+   échantillon de salive, ils analysent votre ADN et vous permettent de
+   savoir d’où viennent vos racines anthropologiques. Vous pourrez ainsi
+   identifier les sports dans lesquels les athlètes présentant vos
+   caractéristiques génétiques ont traditionnellement triomphé, et évaluer
+   s’il s’agit de sports dans lesquels vous pourriez avoir envie de vous
+   spécialiser.
+
+   Pour ce faire, nous comparons votre carte génétique à une vaste base de
+   données ADN contenant des marqueurs provenant d’innombrables endroits
+   dans le monde.
+
+   Ce test est effectué sur votre ADN autosomique. C’est lui qui nous
+   donne les informations généalogiques du gamète mâle et du gamète
+   femelle, héritées à leur tour des générations précédentes, remontant �
+   des centaines, voire des milliers d’années.
+
+Mais à quel point la génétique me définit-elle ?
+
+   L’héritage génétique est la base de ce que nous sommes, mais ce n’est
+   pas ce que nous sommes. Nous ne sommes pas exactement les mêmes que nos
+   parents et nos parents ne sont pas les mêmes que nos grands-parents. La
+   magie de la génétique est qu’elle établit une base sur laquelle nous
+   travaillerons tout au long de notre vie.
 
-   Grâce à l’Héritage Numérique ou Digital Legacy, vous pouvez désigner
-   sur votre appareil vos héritiers numériques. Apple vous donne la
-   possibilité de choisir jusqu’à 5 personnes légataires. Ce sont ces
-   derniers qui peuvent accéder à vos fichiers stockés sur iCloud en cas
-   de décès.
+   Certains experts affirment que le patrimoine génétique peut influencer
+   la personnalité jusqu’à 60 %. Mais bien sûr, il existe de nombreux
+   autres facteurs qui influencent notre façon d’être, comme
+   l’environnement, les personnes dont nous nous entourons, l’éducation,
+   l’environnement, le mode de vie…..
 
-   Pour mettre en place ce testament, il est obligatoire que vous
-   utilisiez un appareil tournant sous iOS 15.2. Ce n’est qu’à partir de
-   cette version que la fonctionnalité Digital Legacy est disponible. Si
-   vous ne l’avez pas, vous devriez faire une mise à jour pour désigner
-   vos 5 contacts légataires.
-
-   Par ailleurs, pour que ces héritiers puissent avoir accès à vos données
-   personnelles, ils doivent fournir une clé d’accès et le certificat de
-   décès.
-
-   Mais alors, comment désigner ces personnes ? C’est simple, entrez dans
-   les paramètres de votre appareil et choisissez Mot de passe et
-   sécurité. Là, vous pourrez choisir vos héritiers numériques. Dès que
-   c’est fait, vous devez informer chacun d’entre eux et leur partager une
-   clé d’accès. Pour que la désignation soit effective, les personnes
-   désignées doivent accepter d’être légataires. Dans le cas échéant, la
-   copie de la clé d’accès est enregistrée dans leurs paramétrages Apple.
-   Et le tour est joué !
-   Notez cet article
-
-   BuzzWebzine est un média indépendant. Soutiens-nous en nous ajoutant �
-   tes favoris sur Google Actualités :
-   Suis-nous sur Google ⭐➡️
-   Tech & Geek
-   Partager Facebook Twitter LinkedIn WhatsApp
-
-   Philippe Philippe
-   Philippe Abiodoun
-     * X (Twitter)
-     * LinkedIn
-
-   J'ai vaincu le syndrome de la page blanche. Cinéma, Tech et voyage,
-   j'ai rencontré Batman, écrit à Google et marqué une pause à Old
-   Trafford.
-
-Articles similaires
-
-   La ringxiety La ringxiety
-
-Savez-vous ce qu’est la Ringxiety ? il est possible que vous en souffriez
-
-   Les meilleures technologies pour développer un projet d'entreprise Les
-   meilleures technologies pour développer un projet d'entreprise
-
-Les meilleures technologies pour développer un projet d’entreprise en 2024
-
-   Sam Altman OpenAI Sam Altman OpenAI
-
-Voici la raison pour laquelle Sam Altman a été viré d’OpenAI
-
-   Virement sans consentement Virement sans consentement
-
-Comment éviter cette forme d’arnaque bancaire qui prend de l’ampleur ?
-
-   Humane Ai Pin (2) Humane Ai Pin (2)
-
-Humane Ai Pin : qui est le petit frère du smartphone ?
-
-   Le cerveau saurait détecter les vrais visages de ceux générés par IA Le
-   cerveau saurait détecter les vrais visages de ceux générés par IA
-
-Voici pourquoi on ressent une gêne devant un visage autogénéré par IA
-
-Laisser une réponse Annuler la réponse
-
-
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-
-   ______________________________
-
-   ______________________________
-
-   ______________________________
-
-   [ ] Enregistrer mon nom, mon email et mon site web dans ce navigateur
-   pour mes prochains commentaires.
-
-   Publier mon commentaire
-
-   Δ
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-
-Derniers articles Tech & Geek
-
-   La ringxiety La ringxiety
-   Savez-vous ce qu’est la Ringxiety ? il est possible que vous en
-   souffriez
-
-   Les meilleures technologies pour développer un projet d'entreprise Les
-   meilleures technologies pour développer un projet d'entreprise
-   Les meilleures technologies pour développer un projet d’entreprise en
-   2024
-
-   Sam Altman OpenAI Sam Altman OpenAI
-   Voici la raison pour laquelle Sam Altman a été viré d’OpenAI
-
-Top articles Tech & Geek
-
-Téléchargement gratuit de films et de séries TV : les 5 sites les plus
-utilisés en 2023
-
-Cette fonction incroyable débarque sur les smartphones Samsung en début
-d’année 2024
-
-Alexa écoute vos conversations ? Nouvelles révélations !
-
-Comment trouver l’adresse de quelqu’un ?
-
-L’image de ma télévision saute ou pixellise, que faire ?
-
-Top meilleures applications pour faire un canular téléphonique !
-
-Voici la raison pour laquelle Sam Altman a été viré d’OpenAI
-
-Robotique sexuelle : top 5 des robots sexuels ou sexbots les plus évolués
-
-Oui, votre téléphone vous écoute tous les jours, pour le meilleur et pour le
-pire
-
-Humane Ai Pin : qui est le petit frère du smartphone ?
-
-Les meilleurs buzz du moment !
-
-   Voici le secret du bonheur selon la science !
-
-   Pilates au mur : ventre plat garanti avec cette nouvelle méthode très
-   efficace !
-
-   Prix littéraire 2023 : voici les 8 romans primés cette année
-
-   Test d’observation : vous avez 10 secondes pour trouver toutes les
-   différences
-
-   Combien de temps une femme peut-elle rester sans faire l’amour ?
-
-   6 traits caractéristiques des personnes qui ont eu une enfance
-   malheureuse
-
-   Quelles sont les différences entre eau de parfum et eau de toilette ?
-
-   Les signes qui démontrent votre grande sagesse intérieure
-
-   Renforcez votre intelligence sociale avec ces 6 techniques
-
-   Secret Santa : 25 idées de cadeaux de Noël pas cher à offrir à un
-   collègue
-
-Articles populaires
-
-   Selon la science, préférer une soirée en solo plutôt qu’une soirée
-   entre potes est un signe d’intelligence
-
-   9 choses qu’on retrouve chez les personnes intelligentes
-
-   6 traits particuliers des personnes qui aiment être seules
-
-   Test de personnalité : que voyez-vous en premier dans cette illusion ?
-
-   Loto : voici les 7 numéros qui reviennent le plus souvent chez les
-   gagnants
-
-   Test de personnalité : quel animal voyez-vous en tout premier ?
-
-   Quel site parodique américain a inspiré Le Gorafi ?
-
-   Qui sont les 3 signes astrologiques les plus intelligents ?
-
-   Illusion d’optique : êtes-vous introverti ou extraverti ?
-
-   3 signes qui prouvent que vous avez rencontré l’âme-sœur
-
-Contact
-
-   contact Vous souhaitez devenir rédacteur, diffuser vos publicités, nous
-   proposer un partenariat ou un sujet d'article ?
-
-                           (BUTTON) Contactez-nous
-
-   Partenaire
-
-   AmoMama
-   Facebook X (Twitter) Instagram Pinterest YouTube RSS
-
-   © BuzzWebzine.fr 2012-2023 | À propos & rédaction | Articles populaires
-   | Recherches populaires | Mentions légales | Contact
-
-   ____________________ (BUTTON) Soumettre
-
-   Tapez ci-dessus et appuyez sur Enter pour effectuer la recherche.
-   Appuyez sur Esc pour annuler.
+   En résumé, il est vrai que la charge génétique conditionne les traits
+   physiques hérités et le comportement génétique. Mais l’influence de
+   notre environnement joue un rôle fondamental dans la construction de
+   notre personnalité et de nos capacités.
+   TAGS:
+
+   Notre option de base
+
+   STAY HEALTHY
+
+   30 traits
+
+   FULL
+
+   99,00€
+
+   Livraison gratuite
+
+   RAW DATA
+
+   39,00€
+
+   Le test génétique CrossDNA Stay Healthy est notre test sportif
+   spécialement conçu pour les débutants. Si vous envisagez de commencer �
+   vous entraîner ou si vous l'avez fait récemment et que vous souhaitez
+   obtenir des informations sur vos prédispositions génétiques en termes
+   de régime alimentaire et de mode de vie, CrossDNA Stay Healthy est le
+   test génétique qu'il vous faut.
+
+Régime alimentaire et nutrition
+
+     * Appétit pour la nourriture
+     * Apport émotionnel
+     * Longévité et régime méditerranéen
+     * Caféine et dépendance
+     * Carence en vitamine D
+     * Cholestérol LDL
+     * Efficacité du régime pauvre en glucides
+     * Efficacité d’un régime pauvre en graisses
+     * Grignotage
+     * Réponse aux graisses monoinsaturées
+     * Risque de triglycérides élevés
+     * Consommation émotionnelle
+     * Taux d'adiponectine
+     * Taux d'albumine sérique
+     * Taux d'hémoglobine glyquée
+     * Taux de bilirubine
+     * Taux de caroténoïdes
+     * Taux de fer
+     * Taux de phosphore
+     * Vit vitamine B12
+     * Vitamine B6
+     * Vitamine B9
+     * Vitamine C
+     * Vitamine E
+     * Vitamine K
+
+Mode de vie
+
+     * Bénéfice de l'exercice sur l'indice de masse corporelle
+     * Bénéfice de l'exercice sur le cholestérol
+     * Bénéfice global du sport sur la sensibilité à l'insuline
+     * Bénéfices globaux du sport sur votre corps
+     * Photovieillissement
+     * Risque général de blessure
+
+   COMMENCER
+   Voir un exemple
+
+   Le plus populaire
+
+   STAY HEALTHY & FIT
+
+   50 traits
+
+   FULL
+
+   139,00€
+
+   Livraison gratuite
+
+   RAW DATA
+
+   69,00€
+
+   Le niveau intermédiaire de notre test génétique s'appelle "CrossDNA
+   Stay Healthy & Fit". Si vous souhaitez faire un pas de plus pour
+   atteindre votre potentiel dans votre entraînement, ce produit est fait
+   pour vous. Vous obtiendrez un retour d'information sur vos
+   prédispositions génétiques dans les domaines de l'alimentation et de la
+   nutrition, de la santé et du sport et du mode de vie. Si vous êtes un
+   athlète de niveau intermédiaire, c'est le test recommandé pour vous.
+
+Régime alimentaire et nutrition
+
+     * Longévité et régime méditerranéen
+     * Caféine et dépendance
+     * Carence en vitamine D
+     * Cholestérol LDL
+     * Consommation émotionnelle
+     * Efficacité du régime pauvre en glucides
+     * Efficacité d’un régime pauvre en graisses
+     * Fringales
+     * Grignotage
+     * La maladie cœliaque
+     * Réponse aux graisses monoinsaturées
+     * Risque de triglycérides élevés
+     * Sensation de satiété
+     * Sensibilité à la caféine
+     * Taux d'adiponectine
+     * Taux d'albumine sérique
+     * Taux d'hémoglobine glyquée
+     * Taux d'hormones sexuelles
+     * Taux de bilirubine
+     * Taux de caroténoïdes
+     * Taux de fer
+     * Taux de phosphore
+     * Vit vitamine B12
+     * Vitamine B6
+     * Vitamine B9
+     * Vitamine C
+     * Vitamine E
+     * Vitamine K
+
+Santé et sport
+
+     * Capacité à ralentir le rythme cardiaque
+     * Capacité aérobie
+     * Capacité cardiaque
+     * Capacité de récupération
+     * Cardiomyopathie hypertrophique familiale I
+     * Cardiomyopathie hypertrophique familiale II
+     * Dysplasie arythmogène du ventricule droit
+     * Fatigue musculaire
+     * Nombre de globules blancs
+     * Performance des muscles squelettiques
+     * Réponse de la pression artérielle au sport
+     * Réponse musculaire à l'entraînement de résistance
+     * Risque de fracture de stress
+     * Spirométrie de la fonction pulmonaire
+     * Syndrome de Brugada
+     * Syndrome du QT long
+
+Mode de vie
+
+     * Bénéfice de l'exercice sur l'indice de masse corporelle
+     * Bénéfice de l'exercice sur le cholestérol
+     * Bénéfice global du sport sur la sensibilité à l'insuline
+     * Bénéfices globaux du sport sur votre corps
+     * Inflammation de la peau
+     * Risque général de blessure
+     * Taches de rousseur
+
+   COMMENCER
+   Voir un exemple
+
+   Le plus complet
+
+   PROFESSIONAL
+
+   80 traits
+
+   FULL
+
+   269,00€
+
+   Livraison gratuite et
+   enlèvement à domicile
+
+   RAW DATA
+
+   129,00€
+
+   Le test génétique CrossDNA Professional Sports est spécialement conçu
+   pour les athlètes professionnels et de haut niveau. Il se compose de 80
+   traits répartis en trois catégories : Régime alimentaire et nutrition,
+   Santé et sport et Mode de vie. Découvrez comment orienter votre
+   entraînement et améliorer vos performances grâce au test sportif
+   CrossDNA Professional.
+
+Régime alimentaire et nutrition
+
+     * Longévité et régime méditerranéen
+     * Caféine et dépendance
+     * Carence en vitamine D
+     * Carence en fer et anémie
+     * Cholestérol LDL
+     * Consommation émotionnelle
+     * Désir de manger
+     * Difficulté à perdre du poids
+     * Efficacité d'un régime pauvre en glucides
+     * Efficacité d'un régime pauvre en graisses
+     * Efficacité métabolique
+     * Grignotage
+     * La maladie cœliaque
+     * Prédisposition à l'addiction aux sucreries
+     * Prédisposition à la consommation excessive de graisses
+     * Prédisposition à la surcharge pondérale
+     * Réponse aux graisses monoinsaturées
+     * Risque de triglycérides élevés
+     * Sensation de satiété
+     * Taux d'acides gras plasmatiques (oméga 6)
+     * Taux d'adiponectine
+     * Taux d'albumine sérique
+     * Taux d'hémoglobine
+     * Taux d'hémoglobine glyquée
+     * Taux d'homocystéine
+     * Taux de bilirubine
+     * Taux de caroténoïdes
+     * Taux de magnésium
+     * Taux de phospholipides
+     * Taux de phosphore
+     * Taux de protéines sériques totales
+     * Vit vitamine B12
+     * Vitamine B6
+     * Vitamine B9
+     * Vitamine C
+     * Vitamine E
+     * Vitamine K
+
+Santé et sport
+
+     * Capacité aérobique
+     * Capacité cardiaque
+     * Capacité de récupération
+     * Capacité de réduction de la fréquence cardiaque
+     * Cardiomyopathie hypertrophique familiale I
+     * Cardiomyopathie hypertrophique familiale II
+     * Dysplasie ventriculaire droite arythmogène
+     * Endurance
+     * Fatigue musculaire
+     * Force musculaire
+     * Le syndrome de Brugada
+     * Niveaux de gamma glutamyl transférase
+     * Niveaux de thyroïde
+     * Nombre de globules blancs
+     * Performance des muscles squelettiques
+     * Puissance
+     * Quantité de protéine C-réactive
+     * Réponse de la pression artérielle au sport
+     * Réponse musculaire à l'entraînement de résistance
+     * Risque de fracture de stress
+     * Spirométrie de la fonction pulmonaire
+     * Syndrome du QT long
+     * Taux d'acide urique sérique
+     * Taux d'enzymes hépatiques
+     * Taux d'hormones sexuelles
+     * Taux de sulfate de déhydroépiandrostérone
+
+Mode de vie
+
+     * Bénéfice de l'exercice sur l'indice de masse corporelle
+     * Bénéfice de l'exercice sur le cholestérol
+     * Bénéfice global du sport sur la sensibilité à l'insuline
+     * Bénéfice global du sport sur votre corps
+     * Créativité figurative
+     * Facilité de bronzage
+     * Impulsivité
+     * Inflammation de la peau
+     * Longévité
+     * Nocturnalité
+     * Protection contre la pollution
+     * Psoriasis
+     * Risque général de blessure
+     * Sensibilité au soleil
+     * Sensibilité de la peau
+     * Taches de rousseur
+     * Taches solaires
+
+   COMMENCER
+   Voir un exemple
+
+Descubre todo tu potencial
+
+     * Suivre
+     * Suivre
+
+   Test ADN deporte  Test genético deportivo TiendaBlog Registra tu test
+   genético  Preguntas Frecuentes
+     * Preguntas Frecuentes
+     * Test ADN deporte
+     * Test genético deportivo
+     * Tienda
+     * Blog
+     * Registra tu test genético
+
+   CrossDNA Europe
+
+   Paseo de la Castellana 95
+   Planta 28
+   Madrid – 28046 – Spain
+   +34 910 059 099
+   UK Cambridge
+   +44 1223 931143
+   info@crossdna.com
+
+   CrossDNA México
+
+   Paseo de la Reforma 284 Torre Magenta, Piso 17
+   Col. Juarez, Del. Cuauhtemoc
+   06600. México
+   +52 (55) 8526 6779
+
+   CrossDNA USA
+
+   100 Cambridge St. 14th Floor
+   Boston 02114
+   Massachusetts. US
+   +1 (617) 861-2586
+
+   ©2021. Todos los derechos reservados.
+
+   Aviso Legal | Términos de uso | Política General de Privacidad |
+   Protección de Datos Genéticos | Política de Cookies | Condiciones
+   Generales de Contratación | Revocación del Consentimiento
+
+   Nous utilisons des cookies pour vous offrir la meilleure expérience sur
+   notre site.
+
+   You can find out more about which cookies we are using or switch them
+   off in (BUTTON) settings.
+   (BUTTON) Accepter (BUTTON) Rejeter (BUTTON) Réglages
+
+   0
+
+   0
+   Your Cart
+   Your cart is emptyReturn to Shop
+   Continue Shopping
+
+   fbpx
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+
+   (BUTTON) Modifier les réglages de cookie
+
+   (BUTTON) Close GDPR Cookie Settings
+     * (BUTTON) Résumé de la politique de confidentialité
+     * (BUTTON) Cookies strictement nécessaires
+     * (BUTTON) Cookies tiers
+     * (BUTTON) Politique de Cookies
+
+   Résumé de la politique de confidentialité
+
+   Ce site utilise des cookies afin que nous puissions vous fournir la
+   meilleure expérience utilisateur possible. Les informations sur les
+   cookies sont stockées dans votre navigateur et remplissent des
+   fonctions telles que vous reconnaître lorsque vous revenez sur notre
+   site Web et aider notre équipe à comprendre les sections du site que
+   vous trouvez les plus intéressantes et utiles.
+   Cookies strictement nécessaires
+
+   Cette option doit être activée à tout moment afin que nous puissions
+   enregistrer vos préférences pour les réglages de cookie.
+   Enable or Disable Cookies [X]
+   Cookies tiers
+
+   Ce site utilise Google Analytics pour collecter des informations
+   anonymes telles que le nombre de visiteurs du site et les pages les
+   plus populaires.
+
+   Garder ce cookie activé nous aide à améliorer notre site Web.
+   Enable or Disable Cookies [ ]
+
+   Veuillez activer d’abord les cookies strictement nécessaires pour que
+   nous puissions enregistrer vos préférences !
+   Politique de Cookies
+
+   More information about our Cookie Policy
+   (BUTTON) Tout activer (BUTTON) Reject All (BUTTON) Enregistrer les
+   réglages

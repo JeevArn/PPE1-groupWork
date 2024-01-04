@@ -9,6 +9,7 @@
      * (BUTTON) Menu
 
      * Evènements
+     * Newsletters
 
      * Le Journal
 
@@ -35,6 +36,7 @@
           + Blogs
           + Multimédia
           + Evénements
+          + Mes newsletters
      * Suivez-nous
           +
           +
@@ -81,62 +83,52 @@ Hôpitaux au Royaume-Uni: l’héritage désastreux de Boris Johnson
 
 Sur le même thème
 
-     * COP28 Climate Summit
+     * Europe 1 Emmanuelle Ducro
 
-COP28: Charles III exhorte les dirigeants à agir davantage contre le
-réchauffement climatique
+Brexit: après l’euphorie, la gueule de bois
+       Emmanuelle Ducros
+       Le replay de « Voyage en absurdie », la chronique matinale
+       d’Emmanuelle Ducros sur Europe 1
+     * Rail service disruption, London, UK - 30 Dec 2023
+
+La circulation des trains Eurostar a repris dimanche
        l'Opinion
-       « Nous constatons que des points de basculement alarmants sont en
-       train d'être atteints », a alerté le souverain britannique lors de
-       son discours d’ouverture de la conférence des Nations unies sur le
-       climat (COP28), vendredi 1er décembre, à Dubaï
-     * Edito Olivier Baccuzat
-       Editorial
+       Si aucun train ne devrait être annulé, Eurostar prévient dans un
+       communiqué que les rames circuleront à vitesse réduite dans la
+       matinée, ce qui risque d'entraîner des retards
+     * France Travel Eurostar
 
-Un plan de lutte contre le tabac hors-sol
-       Olivier Baccuzat
-       «Une nouvelle fois, la parole publique se décrédibilise par son
-       aptitude à annoncer des mesures factices vouées à rester lettre
-       morte»
-     * Fumeur 28/11/2023 Deprieck
-       Addictions
-
-Alcool et tabac, ce n'est peut-être pas fini pour les hausses de prix
-       Matthieu Deprieck
-       Une proposition de loi soutenue par le groupe Horizons, membre de
-       la majorité présidentielle, propose un dispositif qui réduirait
-       l'achat de cigarettes à l'étranger. Quant au prix de l'alcool, des
-       parlementaires de toutes tendances continuent de proposer des
-       amendements pour en renchérir le coût
-     * Des cigarettes vendues dans un bar-tabac à Douai (photo
-       d’illustration)
-
-Hausses des prix, espaces sans tabac... Le gouvernement dévoile son plan
-anti-tabac 2023-2027
+Grosse pagaille sur les lignes Eurostar, des dizaines de trains annulés
        l'Opinion
-       Le ministre de la Santé a dévoilé mardi le plan national anti-tabac
-       du gouvernement pour la période 2023-2027. Aurélien Rousseau a
-       notamment annoncé deux nouvelles hausses du prix du paquet de
-       cigarettes en 2025 puis 2026, ainsi qu’une extension des espaces
-       sans tabac
-     * Llorca Chronique New
-       Infrapolitique
+       Des milliers de passagers au départ ou à destination de Londres se
+       retrouvent bloqués à cause d'une inondation lors de l’un des
+       week-ends les plus chargés de l’année
+     * Germany Russia Ukraine War
 
-«La France: “ça craque”, mais ça tient encore» – La chronique de Raphaël
-LLorca
-       Raphaël LLorca
-       Dans Ça craque, le journaliste François-Xavier Ménage raconte cinq
-       années de reportages à travers la France. En ressort un tableau
-       sombre... éclairé de quelques motifs d'espoir
-     * Julien Aubert Patrick Pageat 26/11/2023 Tribune libre
+Guerre en Ukraine: le Royaume-Uni va envoyer 200 missiles de défense aérienne
+à Kiev
+       l'Opinion
+       Cette annonce intervient alors que le pays a été la cible,
+       vendredi, d'une attaque massive de missiles et de drones russes. Il
+       s'agit de la plus importante depuis le début de la guerre, qui a
+       touché presque toutes ses grandes villes et fait au moins 31 morts
+     * Marc Roche Chronique
+       Global Britain
 
-«Alerte à la bombe (sanitaire) aux JO» – la tribune de Julien Aubert et
-Patrick Pageat
-       Julien Aubert et Patrick Pageat
-       L'ancien député, président d’Oser la France, et Patrick Pageat,
-       vétérinaire, président de l'Institut de Recherche en Sémiochimie et
-       Éthologie Appliquée (IRSEA), tirent la sonnette d'alarme sur un
-       risque sanitaire peu évoqué mais bien réel
+« Guillaume Le Conquérant, l’aigle à deux têtes » – la chronique de Marc
+Roche
+       Marc Roche
+       La célébration en 2027 du millénaire de la naissance de Guillaume
+       Le Conquérant va projeter l’ancien duché sous les feux de la rampe,
+       à la Une de toute la presse
+     * Manque de main-d'oeuvre Royaume-Uni
+       Paradoxe
+
+Royaume-Uni: «malgré les records d’immigration, nous manquons de
+main-d’œuvre, quelque chose coince»
+       Chloé Goudenhooft
+       L'économie, Outre-Manche, n'a jamais accueilli autant de
+       travailleurs étrangers. Mais les difficultés d'embauche persistent
 
 Pour vous
 
@@ -145,10 +137,10 @@ Tendances
 Sujets d’actualités
 
      * Conflit israélo-palestinien
-     * Proche-Orient
-     * La France insoumise (LFI)
-     * Union européenne (UE)
-     * retraites complémentaires
+     * Guerre en Ukraine
+     * Emmanuel Macron
+     * Etats-Unis
+     * Jeux Olympiques
 
 l'Opinion
 

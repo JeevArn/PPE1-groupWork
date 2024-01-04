@@ -1,305 +1,221 @@
-   #À la Une de 20minutes.fr «Héritage numérique»: La justice allemande
-   déverrouille l’accès aux données numériques personnelles d’un défunt
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
-
-   Retour à l’accueil
-     *
-     *
-     *
-     *
-     *
-     *
-
-   Recherche ____________________ (BUTTON) Ok
-
-     * Actualité
-     * Régions
-     * Sport
-     * Divertissement
-     * Planète
-     * Vie Pro
-     * Tempo
-     * High-Tech
-     * JO 2024
-     * Vidéos
+   Voir la bourse sur Investir
+   (BUTTON) (BUTTON) Recherche
+     * En continu
+     * Le Journal
+     * Newsletters
+     * Mes articles
+     * Mes secteurs
      * Podcasts
-     * En Images
-     * Guide d'achat
-     * Le direct
-     * Jeux
-     * Services
-     * Journal numérique
+     * Infographies
+     * Vidéos
+     * Thema
 
-   (BUTTON) Menu complet
-   Retour à l’accueil
+   (BUTTON)
+     * (BUTTON) ThèmeClair
 
-   By the Web L’Allemagne fait un pas en avant sur la question de
-   «l’héritage numérique»
-     * Partager sur Messenger
-     * Partager sur Facebook
-     * Partager sur Twitter
-     * Partager sur Flipboard
-     * Partager sur Linkedin
-     * (BUTTON) Sauvegarder l'article
+   (BUTTON) Se connecter
+   S’abonner
+   (BUTTON)
+   À la une
+   Idées
+   Économie
+   Politique
+   Entreprises
+   Finance - Marchés
+   Bourse
+   Monde
+   Tech-Médias
+   Start-up
+   Régions
+   Patrimoine
+   Le Mag W-E
+   (BUTTON)
 
-   (BUTTON) Menu complet
+L’épineux problème de l’héritage à l'ère du numérique
 
-   (BUTTON) Fermer
+   L’absence de législation crée un flou juridique autour de la
+   transmission des données et des fichiers, après la mort de leur
+   utilisateur.
+   (BUTTON) Ajouter à mes articles
+   (BUTTON) Commenter
+   (BUTTON) Partager
+   (BUTTON) Partager
+   Amazon
+   Confidentialité des données
+   0204235896629_web.jpg 0204235896629_web.jpg
+   Qu’advient-il des bibliothèques virtuelles, des données... une fois
+   l’utilisateur décédé ? La loi est floue.
 
-     * Sciences
-     * Espace
-     * Jeux vidéo
-     * Réseaux sociaux
-     * By the Web
-     * Amazon
-     * Google
-     * Méta
-     * Apple
-     * 20 Mint
+   Par Nicolas Rauline
+   Publié le 18 mars 2015 à 17:38
 
-   (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
-   sous-sections suivantes
+   Encore une fois, la technologie est allée plus vite que la loi.
+   Plusieurs cas ont récemment montré le flou qui entoure la question de
+   l’héritage numérique, que ce soit dans le devenir des biens
+   numériques(chansons et vidéos téléchargées, livres numériques) ou dans
+   celui des données personnelles (adresses e-mail et autres comptes de
+   réseaux sociaux).
 
-   Dans l’actu
-     * Attaque terroriste à Paris
-     * COP28
-     * Guerre Hamas-Israël
-     * Guerre en Ukraine
+   « En droit, on ne peut transmettre qu’un bien matériel ou immatériel
+   protégé par la loi, comme les oeuvres de l’esprit, même si dans bien
+   des cas, en pratique, les conditions d’utilisation d’iTunes ou d’Amazon
+   l’empêchent, explique Luce-Hélène Capsié, avocate et auteur d’une thèse
+   sur la mort et les données personnelles. Les données ne sont pas
+   considérées comme des biens, c’est un droit de notre personnalité,
+   comme la vie privée, qui disparaît avec nous. Cela crée donc un immense
+   vide juridique. »
 
-   (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
+Protection de la vie privée du défunt
 
-    1. Accueil
-    2. High-Tech
+   A tel point que Facebook a lancé une nouvelle fonctionnalitépermettant
+   de transformer n’importe quel profil en mémorial et de céder certaines
+   informations aux proches, lorsqu’un utilisateur vient à mourir. « Les
+   quelques initiatives viennent des plates-formes comme Facebook ou
+   Google ou bien de certaines autorités de régulation, comme la Cnil qui
+   a invité la société à ouvrir le débat », note Nicolas Capt, avocat aux
+   barreaux de Genève et de Paris spécialisé en droit des nouvelles
+   technologies et des médias.
 
-«Héritage numérique»: La justice allemande déverrouille l’accès aux données
-numériques personnelles d’un défunt
+   Dans une communication du 31 octobre dernier, la Cnil souligne qu’elle
+   « veille à ce que l’informatique ne porte atteinte, ni à l’identité du
+   défunt, ni à la vie privée de ses héritiers » et rappelle que « la loi
+   ne prévoit pas la transmission des droits du défunt aux héritiers : un
+   héritier ne peut donc [...] avoir accès aux données d’un défunt. »
 
-   LOI NUMERIQUE Ce jeudi, la plus haute juridiction allemande a accordé
-   aux parents d’une jeune fille mineure décédée, l’accès aux contenus et
-   aux conversations privées de son compte Facebook…
+   Ce qui peut poser de gros problèmes, les profils de réseaux sociaux
+   continuant d’exister et étant même parfois suggérés automatiquement aux
+   autres utilisateurs. Sans oublier le cas de nombreuses PME dont toute
+   l’activité repose sur le compte personnel de leurs patrons (fichiers ou
+   contacts de clients stockés dans le cloud, etc.) « La vie d’une
+   entreprise peut ainsi s’arrêter du jour au lendemain avec la mort de
+   son dirigeant », souligne Nicolas Capt.
 
+Des formulaires ignorés
 
-    Marie De Fournas
+   Dans le cas de Facebook, le réseau social offre depuis peu aux
+   Etats-Unis la possibilité de désigner un « contact d’héritage ». A la
+   mort de l’utilisateur, ce légataire peut gérer le profil du défunt,
+   alerter ses contacts et répondre aux messages qu’il continue de
+   recevoir. Il peut aussi, si l’autorisation lui est donnée, télécharger
+   les photos et les statuts déjà publiés, mais il n’aura pas accès aux
+   anciens messages. Ces fonctionnalités devraient bientôt être
+   disponibles en France. Facebook peut aussi supprimer purement et
+   simplement le compte du défunt si la demande lui est faite.
 
-   Publié le 12/07/18 à 17h25
-   2 commentaires 12 partages
-     * Partager sur Messenger
-     * Partager sur Facebook
-     * Partager sur Twitter
-     * Partager sur Flipboard
-     * Partager sur Pinterest
-     * Partager sur Linkedin
-     * Imprimer
-     * Envoyer par Mail
-     * (BUTTON) Sauvegarder l'article
+   La plupart des autres plates-formes (Google, Yahoo, Outlook, LinkedIn,
+   Twitter) proposent des formulaires spécifiques, mais ceux-ci restent
+   largement ignorés du grand public. « Nous n’en sommes qu’au début des
+   discussions, il n’y a pas d’évidence car c’est un débat de société qui
+   doit s’engager : doit-on réguler la présence post mortem, veut-on que
+   nos enfants sachent tout de notre vie numérique…? », s’interroge
+   Nicolas Capt.
 
-   La question de l'héritage numérique pose notamment problème sur les
-   réseaux sociaux.
-   La question de l'héritage numérique pose notamment problème sur les
-   réseaux sociaux. — geralt / Pixabay
+   Enfin, des sociétés spécialisées proposent des coffres forts numériques
+   où peuvent être stockés fichiers et données de connexion et il est
+   toujours possible de déposer ses données d’accès chez un notaire… Mais,
+   pour Nicolas Capt, « c’est une fausse sécurité, et il n’y a aujourd’hui
+   aucune solution miracle : d’abord, les mots de passe peuvent avoir
+   changé entre leur dépôt sécurisé et la mort de l'utilisateur, car on
+   les modifie de plus en plus souvent au cours de sa vie. Ensuite, de
+   gros problèmes peuvent apparaître si ces sociétés font faillite. »
 
-   L’Allemagne a fait un pas en avant, le reste de l’Europe suivra-t-il ?
-   Ce jeudi, la Cour fédérale de justice de Karlsruhe a donné raison à des
-   parents qui se battaient depuis 2012 contre Facebook afin d’obtenir
-   l’accès au compte de leur fille, tuée par une rame de métro à l’âge de
-   15 ans. Ne sachant pas s’il s’agissait d’un suicide, ces derniers
-   espéraient trouver dans les conversations de l’adolescente des éléments
-   sur les circonstances de sa mort. De son côté, Facebook affirmait que
-   l’accès aux données de l’adolescente pourrait violer les contenus
-   privés d’autres utilisateurs qui communiquaient avec elle.
+Quelles clés pour s’adapter dans un environnement complexe ?
 
-   « La justice allemande s’est basée sur le droit de succession et l’a
-   considéré dans cette affaire comme supérieur aux autres considérations
-   », explique à 20 Minutes, Bianca Schulz, responsable du Centre Européen
-   des Consommateurs France. Dans ce cas précis, la question de l’héritage
-   numérique a notamment posé problème parce qu’il s’agissait de données
-   personnelles présentes sur un réseau social.
+   Comment réagir face aux défis de la transition énergétique ? Comment se
+   positionner dans un environnement économique et politique instable ?
+   Comment exploiter au mieux les opportunités d’innovation dans chaque
+   secteur ? Au quotidien, à travers nos décryptages, enquêtes,
+   chroniques, revues de presses internationales et éditos, nous
+   accompagnons nos abonnés en leur donnant les clés pour s’adapter à un
+   environnement complexe.
+   Je découvre les offres
+   Particulier ou entreprise : des offres adaptées à votre besoin
+   Je m’abonne (BUTTON)
 
-   « Les comptes sont liés, la transmission des informations du compte de
-   la personne comme des conversations par exemple, impacte d’autres
-   utilisateurs », explique l’experte. Selon elle, cette décision de
-   justice prise par la plus haute juridiction allemande sera cependant
-   sûrement suivie dans le pays, dans des affaires similaires de parents
-   souhaitant accéder aux données de leur enfant mineur.
+Nos Vidéos
 
-Organiser son héritage numérique en amont
+L’OMS alerte sur le désastre humanitaire en cours à Gaza
 
-   Si cette décision a été prise en Allemagne rien n’assure qu’il en
-   serait de même en France. « Un juge pourrait éventuellement s’en
-   inspirer, mais dans cette affaire, le jugement s’est basé sur le droit
-   allemand ». En France, la question de l’accès aux données numériques
-   personnelles d’un défunt est soulevée depuis quelques années déjà.
-   Contrairement aux biens matériels, la succession des données et biens
-   numériques d’un défunt à ses héritiers n’est pas fixée par le Code
-   civil.
+   « Un bain de sang. Un carnage » : ce sont les mots choisis par Sean
+   Casey, coordinateur de l’équipe médicale d’urgence de l’OMS dans la
+   bande de Gaza, qui constate jour après jour l’urgence de la situation.
+   Sur place, les rares hôpitaux qui sont encore en état de fonctionner
+   sont débordés devant le nombre de patients qui arrivent et la gravité
+   des cas.
 
-   Il existe cependant diverses solutions pour décider de ce que
-   deviendront ces données après notre mort. Depuis 2016, l’article 40-1
-   de la loi Informatique et liberté permet aux internautes de donner �
-   une personne des directives relatives à la conservation, à l’effacement
-   et à la communication de leurs données numériques après leur décès. En
-   l’absence de directives, les héritiers peuvent exercer un droit
-   d’accès, s’il est nécessaire pour le règlement de la succession du
-   défunt ou un droit d’opposition pour procéder à la clôture des comptes
-   utilisateurs du défunt et s’opposer au traitement de leurs données.
+Les images impressionnantes de l’explosion dans le port de Feodossia, en
+Crimée
 
-   « Des entreprises proposent aussi d’organiser votre héritage numérique
-   », indique Bianca Schulz. Les prestations vont du message post mortem
-   envoyé à votre liste de contacts au mail contenant vos codes d’accès
-   transmis à un proche choisi avant votre mort. Sur son site, le Centre
-   Européen des Consommateurs France suggère également de préciser ses
-   volontés en matière d’héritage numérique dans son testament ou tout
-   simplement de sauvegarder ses mots de passe sur une clef USB cryptée �
-   laquelle seuls des proches de confiance auront accès en cas de décès.
-   Culture
-   «"Parler aux morts" sera, dans le futur, aussi naturel qu’ouvrir
-   Facebook»
+L’impressionnante centrale solaire thermique dans le désert d’Atacama
 
+Pourquoi l’enlisement de la guerre en Ukraine est la meilleure chose qui
+pouvait arriver à la Russie
 
-     * By the Web
-     * Réseaux sociaux
-     * Facebook
-     * Données personnelles
-     * Succession
-     * Numérique
-     * Justice
-     * Droit
+À la Une
 
-   (BUTTON) Une faute ? 2 commentaires 12 partages
-     * Partager sur Messenger
-     * Partager sur Facebook
-     * Partager sur Twitter
-     * Partager sur Flipboard
-     * Partager sur Linkedin
-     * (BUTTON) Sauvegarder l'article
+     * Exclusif
 
-     * (BUTTON) 2 commentaires
-     * (BUTTON) 12 partages
-          + Partager sur Messenger
-          + Partager sur Facebook
-          + Partager sur Twitter
-          + Partager sur Flipboard
-          + Partager sur Pinterest
-          + Partager sur Linkedin
-          + Envoyer par Mail
-     *
-     * (BUTTON) Sauvegarder
-     * (BUTTON) Une faute ?
-     * (BUTTON) Imprimer
+Catastrophes naturelles : Bercy décide d'augmenter le prix des assurances
+     * En chiffres
 
-   À lire aussi
-     * Le logo Facebook à New York's Times Square en mars 2018. 03/07/18 |
-       BUG
-       VIDEO. Facebook: Les contacts indésirables de 800.000 comptes
-       «débloqués»
-     * Près de 8 PME françaises du 10 ont déjà été victimes d'une
-       cyberattaque.
-       14/06/18 | CYBERATTAQUE
-       Vol de données personnelles, piratages, virus… Le gouvernement
-       lance un…
-     * Le blockchain, un concept abstrait aux applications concrètes
-       (illustration).
-       21/06/18 | FUTUR.E.S (1/3)
-       VIDEO. Données, donnez moi: La blockchain veut sauver nos
-       identités…
+La France urbaine, moteur de la démographie du pays
+     * Direct
 
-   Plus d’actu
+LE FIL INFO - Budget 2024 : le Conseil constitutionnel censure le fléchage du
+Livret A vers l'industrie de défense
 
-   Retourner en haut de la page
+Mars 2015
 
-   Annonces Légales
-     * Annonces légales
-     * Allier
-     * Alpes Maritimes
-     * Bas Rhin
-     * Bouches du Rhône
-     * Côtes d'Armor
-     * Finistère
-     * Haut Rhin
-     * Hauts de Seine
-     * Loire
-     * Loire Atlantique
-     * Loiret
-     * Maine et Loire
-     * Marne
-     * Paris
-     * Seine Maritime
-     * Val d'Oise
-     * Val de Marne
-     * Var
-     * Vaucluse
-     * Yvelines
+Nigéria : la victoire du candidat d’opposition signe une alternance
+historique
+
+Fusillade à la NSA : la victime identifiée par le FBI
+
+Les Galeries Lafayette confirment leur plan d’économie
+
+   AppStore GooglePlay
+
+   Pratique
+   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
+   groupeCookiesMentions légalesConditions générales et
+   particulièresPolitique de confidentialitéCharte éthiqueFlux
+   RSSArchivesPlan du site
+   (BUTTON) Pratique
+   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
+   groupeCookiesMentions légalesConditions générales et
+   particulièresPolitique de confidentialitéCharte éthiqueFlux
+   RSSArchivesPlan du site
 
    Services
-     * Distribution
-     * Horoscope
-     * Horoscope chinois
-     * Conjugaison
-     * Recette de cuisine
-     * Résultats des élections
-     * Maison
-     * Le Journal des Seniors
-     * Bébés et Mamans
-     * Infolocale
-     * Sportune
-     * Mes Notices
+   En continuLe JournalNewslettersMes articlesMes
+   secteursPodcastsInfographiesVidéosThema
+   (BUTTON) Services
+   En continuLe JournalNewslettersMes articlesMes
+   secteursPodcastsInfographiesVidéosThema
 
-   Codes promo
-     * Code Promo
-     * Code Promo Printemps
-     * Code Promo Norauto
-     * Code Promo Dell
-     * Code Promo Calvin Klein
-     * Code Promo AVIS
+   Le Groupe
+   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
+   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
+   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
+   LégalesMarchés Publics
+   (BUTTON) Le Groupe
+   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
+   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
+   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
+   LégalesMarchés Publics
 
-   20 Minutes
-     * Recrutement
-     * La 21^e Minute
-     * 20 Minutes Média
-     * Panel des lecteurs
-     * 20 Minutes Livres
-     * Charte
+   Tous droits réservés - Les Echos 2023
+     * En continu
+     * Le Journal
+     * Newsletters
+     * Mes articles
+     * Mes secteurs
+     * Podcasts
+     * Infographies
+     * Vidéos
+     * Thema
 
-   Jeux
-     * Jeux gratuits
-     * Mots fléchés
-     * Solitaire
-     * Puzzle
-     * Mots croisés
-     * Sudoku
+   (BUTTON)
+     * (BUTTON) ThèmeClair
 
-   Réseaux sociaux
-     * Facebook 2,9M
-     * Twitter 2.4M
-     * Instagram 320K
-     * Youtube 27K
-     * Dailymotion 9,8K
-     * Flipboard 114K
-
-   Newsletters
-   Votre résumé de l'actualité à lire tous les matins
-
-   Applications mobiles
-   Découvrez nos applications
-
-   20 Minutes est certifiée par le label Silver d’Ecovadis La politique
-   RSE de 20 Minutes est certifiée par le label Silver d’Ecovadis
-
-     * Plan du site
-     * Notre charte
-     * Journal PDF
-     * Archives
-     * Publicité
-     * Mentions légales
-     * CGU
-     * Protection des données personnelles
-     * Gestion des cookies
-     * Supprimer les cookies publicitaires éditeur
-     * Nous contacter
-
-   Choix de consentement © Copyright 20 Minutes - La fréquentation de
-   20 Minutes est certifiée par l’ACPM
-
-   (BUTTON) (BUTTON)
-   (BUTTON) (BUTTON)
+   (BUTTON) Se connecter

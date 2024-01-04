@@ -1,92 +1,30 @@
-     * L'actualité de la retraite
-     * Patrimoine, les Français face à la question de l’héritage et de la
-       donation
+
+Héritage
+
+   L'héritage est un des grands principes de la programmation orientée
+   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
 --
 
-   Les Français face à la question de l’héritage et de la donation
-
+   L'héritage est très utile pour définir et abstraire certaines
+   fonctionnalités communes à plusieurs classes, tout en permettant la
+--
+   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
+   une méthode privée eux-mêmes sans se soucier des règles d'héritage
+   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
+--
+     être connues avant d'être utilisées. Les classes mères doivent être
+     définies avant l'écriture d'un héritage. Cette règle générale
+     s'applique aussi dans le cas d'héritage ou d'implémentation
+     d'interfaces.
 --
 
-   L’héritage a changé de fonction avec l’allongement de l’espérance de
-   vie. Les successions interviennent de plus en plus tard. Les enfants
+   Exemple #1 Exemple d'héritage
+   <?php
 --
-
-   Autrefois, si l’héritage pouvait servir d’apport pour acheter sa
-   résidence principale ou créer son entreprise, il entre avant tout
---
-
-   Si l’héritage constitue un sujet sensible en France, cela n’a pas
-   empêché le législateur, au fil des décennies, d’adopter des taux
---
-   30 % lorsque la valeur de l'héritage dépasse les 26 millions d'euros.
-   L'abattement s'élève à 500 000 euros pour le conjoint et 400 000 euros
---
-
-   Les Français convaincus qu’ils bénéficieront d’un héritage
+   déclaraient pas leur type de retour, et tout type de retour était
+   autorisé lors de leur héritage.
 
 --
-   Selon une étude du CRÉDOC, 28 % des Français auraient déjà bénéficié
-   d’un héritage et 16 % d’une donation du vivant. Un tiers des Français
-   auraient donc profité soit d’un don soit d’un héritage.
-
---
-   Il est à souligner que les deux tiers de ceux qui n’ont pas bénéficié
-   de dons ou d’héritages pensent un jour ou l’autre en recevoir un.
-
---
-   de droits de succession. Ceux qui pensent ne jamais recevoir un
-   héritage ou un don sont avant tout les non-diplômés (59 %), les
-   titulaires de bas revenus (54 %), les ouvriers (49 %) et les personnes
---
-   successions s’inscrivent dans le cadre des solidarités familiales.
-   L’héritage appartient à la sphère privée. Il est à l’opposé du concept
-   d’État-providence. C’est une partie de nous que nous ne souhaitons pas
-   voir socialiser. Même ceux qui n’ont jamais bénéficié d’héritages
-   pensent en transmettre un jour.
---
-   succession pour réduire ces inégalités. 87 % jugent au contraire qu’il
-   faut diminuer l’impôt sur l’héritage, car il faut permettre aux parents
-   de transmettre le plus de patrimoine possible à leurs enfants. Cette
---
-
-   Des héritages plus faibles en France que chez nos voisins
-
---
-   pas imposées. Trois Français sur quatre surestiment le taux
-   d’imposition sur les donations et héritages aux enfants ou
-   petits-enfants.
---
-
-   Près de 13 % des Français bénéficient d’un héritage dépassant 100 000
-   euros quand 40 % reçoivent moins de 8 000 euros. Plus les héritiers ont
-   des revenus élevés, plus la probabilité qu’ils soient bénéficiaires
-   d’héritages importants augmente.
-
-   Répartition héritage 1
-
-
-   Le montant de l’héritage est d’autant plus élevé que l’âge de
-   l’héritier l’est également. Hériter jeune est synonyme bien souvent de
---
-
-   Répartition héritage 2
-
-
-   Répartition héritage 3
-
---
-
-   Répartition héritage 4
-
---
-   de moins de 30 ans, la part de l’immobilier est faible dans les
-   héritages par le fait que les défunts, souvent jeunes également n’ont
-   pas eu le temps d’acquérir leur résidence principale.
---
-
-   Les héritages peuvent également concerner des petits-enfants et sont
-   donc d’un montant plus modeste que ceux réalisés entre parents et
---
-
-   Types-d-heritage-selon-age
-
+          + Visibilité
+          + Héritage
+          + L'opérateur de résolution de portée (::)

@@ -67,12 +67,43 @@ Les changements dans le script principal :
 * pour le coréen certains fichiers html ne se convertissent pas correctement en utf-8
 * ajout du script main
 
-# Séance 11
-## 6 décembre 2023 
+           
+# Séance 12
+## 13 décembre 2023 
 
+Ce qu'il nous reste à faire :
+- corriger la ligne 1 du tableau EN car il n'affiche pas le charset (pb de ligne trop longue)
+- arranger le css de la page pour que les tableaux rentre dans l'écran
+- faire les wordclouds X
+- dans le script à chaque fois qu'on utilise un grep ou sed, faire un un if ggrep ou gsed exist else use grep ou sed X
+-> pour que le script soit compatible avec mac et linux
+- dans index html créer un navbar-item 'notre démarche' X
+- créer un fichier html dans le main demarche.html qui comprendra une page qui explique notre script X
+- créer un navbar-item 'Analyse' X
+- créer un fichier analyse.html qui comprendra les conclusions qu'on a tiré de notre analyse X
+-> on pourra y mettre notamment les wordcloud, et graph itrameur
+- dans la page d'accueil rédiger une intro, et expliquer notre problématique X
 
+## 4 janvier 2024
+modifications apportés :
+- fusion de main.sh et du main itrameur
+- pour les corpus itrameur, dans les fichiers contextes on a remplacé toutes les variations du mot héritage par un mot unique
+-> itrameur ne prend pas les regex, de cette façon on peut quand même avoir tous les cooccurrents du mot héritage
+changement sur le sites :
+- ajout des pages équipe, démarche et analyse
+- ajout de hoverable nav-bar pour tableaux et code
+- ajout de l'analyse du FR avec les graphs
                 
-        
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
                 

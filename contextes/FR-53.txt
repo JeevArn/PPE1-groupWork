@@ -1,0 +1,19 @@
+
+Types d’héritage génétique
+
+--
+       de la pathologie est de 50 %.
+     * Héritage autosomique récessif ou AR : ce type d’héritage se produit
+       lorsque le gène normal prédomine sur le gène muté, de sorte que
+--
+       muté.
+     * Héritage dominant lié au chromosome X : ce type d’héritage se
+       produit lorsque le gène altéré se trouve sur le chromosome sexuel X
+--
+       X.
+     * Héritage mitochondrial : La plus grande partie du matériel
+       génétique se trouve dans les chromosomes à l’intérieur du noyau des
+--
+       génétiques ?
+     * Types d'héritage génétique
+     * Un test pharmacogénétique permettra-t-il de prévenir les effets

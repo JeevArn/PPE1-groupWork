@@ -1,139 +1,437 @@
-   #FISH » Feed FISH » Comments Feed alternate alternate alternate
+   Skip to main content
 
-FISH
+   (BUTTON) Toggle navigation
+     * ESPON 2030
+          +
+               o ESPON 2030 Programme
+               o
+          +
+               o ESPON 2030
+               o ESPON 2030 Programme
+               o Previous Programmes
+               o ESPON 2020
+               o ESPON 2013
+               o ESPON 2006
+          +
+               o Thematic Action Plans
+               o Climate Neutral Territories
+               o Governance of New Geographies
+               o Places Resilient to Crises
+               o Perspectives for All People and Places
+          +
+               o
+               o Living, Working and Travelling Across Borders
+               o Smart Connectivity
+               o European Territories in Global Interactions
+               o Adapting to the Impacts of Climate Change
+     * What's New
+          +
+               o News & Events
+               o
+          +
+               o News
+               o Latest News
+               o ESPON Blog
+               o
+               o Newsletter Subscribe
+               o
+               o Publications
+               o
+                    #
 
-Forum on Information Standards in Heritage
+Working paper and Policy brief: Territorial perspective on green
+industrialisation
+                      October 19, 2023
+                    #
 
-   (BUTTON) Menu Skip to content
-     * News
-     * About
-     * MIDAS Heritage
-          + Other Guidance
-          + FISH Toolkit
-     * Terminology
-          + FISH Vocabularies
-          + Submit a Candidate Term
-          + Other Terminology Resources
-          + Chronology
-     * Heritage Information
-     * FISH-HEIRNET
-     * Working Groups
-     * Development
-     * glossary
+Functional rural areas in Romania
+                      January 12, 2023
+          +
+               o Events
+               o Seminars
+               o Workshops
+               o ESPON at Events
+               o
+               o Case Studies
+               o
+                    #
 
-   Search for: ____________________ Search
+MSP-LSI in Estonia
+                      October 14, 2022
+                    #
 
-About
+MSP-LSI–on demand service for Luxembourg
+                      September 27, 2022
+          +
+               o Press
+               o Press Releases
+               o Press Clippings
+               o
+               o Stay Connected
+               o   Facebook
+               o   Twitter
+               o   LinkedIn
+               o   YouTube
+               o  RSS Feed
+          +
+               o Spotlight
+               o  Spatial implications of climate change risk in Europe
+               o [climate%20adaptation.jpg]
+                 World leaders at the COP 28 climate summit reached an
+                 agreement that could speed up the tra
+               o more »
+     * Tools & Maps
+     * Participate
+          +
+               o Participate
+               o
+          +
+               o Calls
+               o Public Procurement FAQ
+               o Open Calls
+               o Pre-Announcements
+               o Previous Calls
+               o e-Tendering Platform
+               o List of Contractors
+          +
+               o Vacancies
+               o Vacancies
+               o Previous Vacancies
+               o Opportunities for Students
+               o
+               o Invitations for Stakeholders
+               o
+               o Consultations
+          +
+               o Spotlight
+               o  Open invitation to submit proposals for Targeted
+                 Analyses - 3rd cut off date
+               o [to%20the%20target.jpg]
+                 We are pleased to announce the third cut-off date for the
+                 submission of proposals for Targeted Analyses for the
+                 ESPON Programme 2030: 29 March 2024
+               o more »
+     * In your Country
+          +
+               o In your Country
+               o
+          +
+               o
+                    # Austria flag  Austria
+                    # Belgium flag  Belgium
+                    # Bulgaria flag  Bulgaria
+                    # Croatia flag  Croatia
+                    # Cyprus flag  Cyprus
+                    # Czech Republic flag  Czech Republic
+                    # Denmark flag  Denmark
+                    # Estonia flag  Estonia
+                    # Finland flag  Finland
+                    # France flag  France
+                    # Germany flag  Germany
+                    # Greece flag  Greece
+                    # Hungary flag  Hungary
+                    # Ireland flag  Ireland
+                    # Italy flag  Italy
+                    # Latvia flag  Latvia
+                    # Lithuania flag  Lithuania
+                    # Luxembourg flag  Luxembourg
+                    # Malta flag  Malta
+                    # Netherlands flag  Netherlands
+                    # Poland flag  Poland
+                    # Portugal flag  Portugal
+                    # Romania flag  Romania
+                    # Slovakia flag  Slovakia
+                    # Slovenia flag  Slovenia
+                    # Spain flag  Spain
+                    # Sweden flag  Sweden
+               o
+               o
+                    # Iceland flag  Iceland
+                    # Liechtenstein flag  Liechtenstein
+                    # Norway flag  Norway
+                    # Switzerland flag  Switzerland
+               o
+     * [search-icon.png]
 
-   Membership & current member organizations
+Targeted Analyses
 
-   Welcome to the Forum on Information Standards in Heritage (FISH). This
-   site presents the work of the forum and contains links to recommended
-   information resources that support best practice in recording cultural
-   heritage.
+    1. Home
+    2. Projects
+    3. ESPON 2020
+    4. Targeted Analyses
+    5. 9-Material Cultural Heritage- HERITAGE
 
-   We hope the site will give you an overview of the different
-   documentation guidance and indexing tools available and used by our
-   members. Please help us keep the website current and update us on
-   any additional or future resources, initiatives and conferences.
+HERITAGE - The Material Cultural Heritage as a Strategic Territorial
+Development Resource: Mapping Impacts Through a Set of Common European
+Socio-economic Indicators
 
-   FISH logo in the shape of a green fish.
+   IFRAME: //www.youtube.com/embed/1BYiYroo8mU
 
-   The forum is guided by the FAIR principles for data management and
-   stewardship. This seeks to make data Findable, Accessible,
-   Interoperable and Reusable. For more information on the FAIR
-   principles, please visit their website:
+   Theme: cultural heritage, territorial impact, indicators, monitoring
+   and evaluation
 
-   https://www.go-fair.org/fair-principles/
+Scope
 
-Become a member
+   The service shall attempt to quantify the contribution (impact) of
+   material cultural heritage to economical development in the stakeholder
+   countries and regions over the past 5 years. Building on the work done
+   by the European Heritage Heads Forum’s Economic Task Force and the
+   European Commission, this research activity will define a list of
+   economic sectors on which the material cultural heritage has an impact
+   and perform data collection on the selected impact indicators.
 
-   Membership is free. Join by subscribing to the FISH Mailing List and
-   participate in our forum discussions where all meeting papers and
-   presentations are also made available. To join, go to JISCMail and
-   select one of the three methods on how to
-   subscribe: https://www.jiscmail.ac.uk/help/subscribers/groupsubscriptio
-   ns.html
+   The main outcome should be a common theoretical framework, defining the
+   most important economic sectors on which the material cultural heritage
+   has an impact and developing the empirical evidence of such impact.
+   This research activity will also develop a blueprint or in other words
+   a step-by-step plan on how to build a monitoring system in the
+   stakeholder countries that includes all actions necessary to obtain and
+   maintain data for the defined impact indicators in the future.
 
-   Link to FISH JISCMAIL
+   This study is named as one of the key studies by the “European
+   Framework for Action on Cultural Heritage” (adopted by the European
+   Commission in December 2018). Economic statistics and indicators
+   produced will be useful for understanding the economic contribution of
+   the material cultural heritage. Overall the results will promote
+   evidence-based decision making related to protection and promotion of
+   material cultural heritage.
 
-   Forum meetings are held twice a year, to discuss strategic and
-   technical issues and developments. The meetings combine the efforts of
-   both FISH and HEIRNET (Historic Environment Information Resources
-   Network), two organisations with similar interests and aims.
+Main outcomes
 
-   A smaller Terminology Working Group also meets regularly, to discuss
-   vocabulary issues and candidate terms for the collection of thesauri
-   and authority files produced by or on behalf of FISH.
+     * A common theoretical framework defining the economic sectors on
+       which material cultural heritage has an impact.
+     * A common methodological framework describing how to determine the
+       impact material cultural heritage has on these economic sectors.
+     * Evidence (collected data and set of indicators) on the economic
+       impact of cultural heritage in stakeholder territories / regions
+       over the past 5 years (for example e.g. cultural heritage-related
+       gross value added in tourism, construction, etc.).
+     * Step-by-step plan on how to develop a monitoring system (at the
+       territorial level) to be used in the stakeholder countries, that
+       includes all actions necessary to obtain data of the defined
+       socio-economic impact indicators, building time series and checking
+       and reporting the status of the indicators on a regular basis. It
+       should also include an operational description of the data
+       generating and reporting procedures
+     *
 
-   FISH was established in 1998 as a non for profit organization. We are a
-   formally convened group with terms of reference and a national profile.
-   FISH is not a legal entity and we have no employed staff, income or
-   budget. There are currently over 400 members.
+Stakeholders
 
-   Download Terms of Reference (2001)
+     * Norwegian Directorate for Cultural Heritage (lead stakeholder)
+     * Brussels Capital region (Heritage Department)
+     * Flanders Heritage Agency
+     * Swedish National Heritage Board
+     * Cultural Heritage Agency of the Netherlands
+     * European Council of Spatial Planners
+     * Romanian Ministry of Culture and National Identity
+     * Monuments Board of the Slovak Republic
+     * Institute for the Protection of Cultural Heritage of Slovenia
+     * Austrian Federal office for Cultural Heritage
 
-CBA / Council for British Archaeology logo     ADS / Archaeology Data Service
-logo        Britiish-Museum-Logo                      Cadw logo
-Heritage-England-Logo RCAHMW new logo
-ALGAO logo       HES logo       dyfedarch logo          National Trust logo
-         national museum wales logo        Logo01-blue+CPAT_2094x2907
+Observer
 
-Current member organisations
+   European Commission, Directorate-General for Education, Youth, Sport
+   and Culture
 
-     * Archaeology Data Service (ADS)
-     * Association of Local Government Archaeological Officers (ALGAO)
-     * British Museum
-     * Cadw (Wales)
-     * Clwyd-Powys Archaeological Trust
-     * Council for British Archaeology (CBA)
-     * Dyfed Archaeological Trust
-     * Historic England
-     * Historic Environment Scotland
-     * Local government Historic Environment Records (HERs)
-     * National Museum Wales
-     * National Trust
-     * Royal Commission on the Ancient and Historical Monuments of Wales
-       (RCAHMW)
+Contractors
 
-   Many organisations have helped develop FISH products of the years, some
-   of these include British & Irish Archaeological Bibliography
-   (BIAB), Manx National Heritage, Museum of London, the National
-   Archives, Northern Ireland Environment and Heritage Service, the
-   Portable Antiquities Scheme and the Victoria & Albert Museum.
+     * Valdani Vicari & Associati: IT (lead contractor)
+     * KEA European Affairs, BE
 
-SMR Forum Scotland SMR Forum Scotland logo
+   Budget: € 214.600,00
 
-   For more information on Scottish heritage, please visit the HER Forum
-   Scotland website. Like FISH, The SMR Forum enables its members to keep
-   in touch with the latest developments and opportunities within the
-   historic environment sector, and to develop a coordinated national
-   approach. Member organizations include Historic Environment Scotland,
-   the National Trust for Scotland, local authority Historic Environment
-   Records (HERs) and Sites and Monuments Records (SMRs), and others.
+   Lifetime: April 2018 – July 2019
+
+Deliveries
+
+     * Inception delivery, 11 June 2018
+     * Interim delivery, 13 August 2018
+     * Draft Final delivery, 5 February 2019
+     * Final delivery, 31 July 2019
+
+   Contact: Zintis Hermansons (Project Expert) [email protected], Johannes
+   Kiersch (Financial Expert) [email protected]
+
+Documents
+
+   [3d5d96f1223095588c8040298496a93e.jpg]
+
+Societal value of cultural heritage in Iceland.pdf
+
+     * Acrobat Document | 978KB
+
+   (BUTTON) Preview
+   [116730e1d59f46e52fec412af17c7d69.jpg]
+
+HERITAGE_Synthesis Report
+
+     * Acrobat Document | 707KB
+
+   (BUTTON) Preview
+   [a1b024577034f20b3f2fa909d41f4c95.jpg]
+
+HERITAGE_Main Report
+
+     * Acrobat Document | 3.03MB
+
+   (BUTTON) Preview
+   [346973567aa3901161dbee702928c15a.jpg]
+
+HERITAGE_Scientific Annex
+
+     * Acrobat Document | 1.91MB
+
+   (BUTTON) Preview
+
+Targeted Analyses
+
+     * Policy themes
+     * Applied Research
+     * Targeted Analyses
+
+     * ***ESPON Cross-border Public Services 2.0 (CPS 2.0)
+     * 1-Regional Strategies for Sustainable and Inclusive Territorial
+       Development - ReSSI
+     * 2-Thinking and Planning in Areas of Territorial Cooperation -
+       ACTAREA
+     * 3-Spatial Dynamics and Strategic Planning in Metropolitan Areas -
+       SPIMA
+     * 4-Linking Networks of Protected Areas to Territorial Development -
+       LinkPas
+     * 5-Territorial and Urban Potentials Connected to Migration and
+       Refugee Flows - MIGRATUP
+     * 6-Territorial Scenarios for the Baltic Sea Region - BT2050
+     * 7-Common spatial perspectives for the Alpine area - Alps 2050
+     * 8-Future Digital Health - eHEALTH
+     * 9-Material Cultural Heritage- HERITAGE
+     * 10-Cross-border Public Services - CPS
+     * 11-Cross-Border Cooperation - TIA CBC
+     * 12-Maritime spatial planning - MSP LSI
+     * 13-BIG DATA
+     * 14-Urban-rural connections in non-metropolitan areas - URRUC
+     * 15-EuropeaN Sustainable Urbanisation through port city REgeneration
+       - ENSURE
+     * 16-Adapting European Cities to Population Ageing: Policy Challenges
+       and Best Practices - ACPA
+     * 17-SHARING – Stocktaking and assessment of typologies of Urban
+       Circular Collaborative Economy initiatives
+     * 18-MISTA – Metropolitan Industrial Strategies & Economic Sprawl
+     * 19-TOURISM - Carrying capacity methodology for tourism
+     * 20-BusDev - Business Development Opportunities at External EU
+       Borders
+     * 21- ERMES - ESPON European Research for Maritime Eco(nomic)clusters
+       governance Strategy
+     * 22-IMAGINE - Developing a metropolitan-regional imaginary in
+       Milan-Bologna urban region
+     * 23-CE FLOWS – Spatial dynamics and integrated territorial
+       development scenarios for the functional area of Central Europe
+     * 24-DIGIPLAN - Evaluating Spatial Planning Practices with Digital
+       Plan Data
+     * 25-STISE - Sustainable Transport Infrastructure in the Strategic
+       urban region Eurodelta
+     * 26-ESPON METRO | The role and future perspectives of Cohesion
+       Policy in the planning of Metropolitan Areas and Cities
+     * 27- LAKES - territorial analysis of spatial progress and integrated
+       development opportunities of large lakes in Europe
+     * 28-QGasSP - Quantitative Greenhouse Gas Impact Assessment Method
+       for Spatial Planning Policy
+     * *TEVI – Territorial Evidence Support of European Territorial
+       Cooperation Programmes
+     * **Territorial Scenarios for the Danube and Adriatic Ionian
+       Macro-regions (TEVI 2050)
 
 
-   Banner image: Whitby Abbey © Paul Adams.
 
-Contact FISH via
+Monitoring and Tools
 
-   terminologies@HistoricEngland.org.uk
 
-Search the website
 
-   Search for: ____________________ Search
+Transnational Outreach
 
-Recent Posts
+Preview (BUTTON) ×
 
-     * FISH Vocabularies page November 22, 2023
-     * FISH Thesauri Version 26 Released April 27, 2023
-     * CAA 2020 Conference – 14th to 17th April 2020, Oxford January 21,
-       2020
+   (BUTTON) Close
 
-Archives
+   © ESPON
+     * FAQ
+     * Contact
+     * Site Map
+     * Links
+     * Legal Notice
 
-   Archives [Select Month__]
+   ESPON EGTC
 
-Recent Comments
+   ESPON is an EU funded programme that delivers quality expertise to
+   public authorities responsible for designing territorial policies.
 
-   Proudly powered by WordPress
+Stay Connected
+
+     *
+     *
+     *
+     *
+     *
+
+   ESPON IN YOUR COUNTRY
+   Austria flag  AT
+   Belgium flag  BE
+   Bulgaria flag  BG
+   Croatia flag  HR
+   Cyprus flag  CY
+   Czech Republic flag  CZ
+   Denmark flag  DK
+   Estonia flag  EE
+   Finland flag  FI
+   France flag  FR
+   Germany flag  DE
+   Greece flag  EL
+   Hungary flag  HU
+   Ireland flag  IE
+   Italy flag  IT
+   Latvia flag  LV
+   Lithuania flag  LT
+   Luxembourg flag  LU
+   Malta flag  MT
+   Netherlands flag  NL
+   Poland flag  PL
+   Portugal flag  PT
+   Romania flag  RO
+   Slovakia flag  SK
+   Slovenia flag  SI
+   Spain flag  ES
+   Sweden flag  SE
+   Iceland flag  IS
+   Liechtenstein flag  LI
+   Norway flag  NO
+   Switzerland flag  CH
+     * Austria
+     * Belgium
+     * Bulgaria
+     * Croatia
+     * Cyprus
+     * Czech Republic
+     * Denmark
+     * Estonia
+     * France
+     * Finland
+     * Germany
+     * Greece
+     * Hungary
+     * Iceland
+     * Ireland
+     * Italy
+     * Latvia
+     * Liechtenstein
+     * Lithuania
+     * Luxembourg
+     * Malta
+     * Netherlands
+     * Norway
+     * Poland
+     * Portugal
+     * Romania
+     * Slovakia
+     * Slovenia
+     * Spain
+     * Sweden
+     * Switzerland

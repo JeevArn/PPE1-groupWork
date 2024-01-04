@@ -1,0 +1,553 @@
+   [tr?id=3507031502705686&ev=PageView &noscript=1] #alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5HZHGS
+
+   tellmegen logo
+   Créer compte Mon compte
+   (BUTTON) icono menu movil
+   Comment ça marche Shop Résultats DNA Connect Aide Contacter Créer
+   compte Mon compte
+     * FR
+          + ES
+          + EN
+          + PT
+          + DE
+          + IT
+          + NL
+          + PL
+          + SV
+
+     * Comment ça marche
+     * Acheter
+     * Résultats
+     * Raw Data
+     * Aide
+     * Contacter
+
+FOIRE AUX
+QUESTIONS
+
+LAISSEZ-NOUS CLARIFIER VOS DOUTES
+
+Types d’héritage génétique
+
+   Les maladies d’origine génétique sont dues à la présence d’altérations
+   ou de mutations dans l’ADN. En général, ces mutations peuvent
+   apparaître spontanément chez un individu (mutation de novo), ou
+   apparaître dans la lignée germinale et être transmises à la
+   descendance. Dans cette dernière, nous pouvons trouver :
+     * Hérédité autosomique dominante ou AD : on considère qu’une maladie
+       est transmise selon ce schéma lorsque le gène altéré est dominant
+       par rapport au gène normal et qu’une seule copie de la mutation
+       suffit pour que la maladie se manifeste. En outre, le fait d’être
+       autosomique implique que l’altération se trouve dans l’un des 22
+       chromosomes non sexuels ou autosomes, et peut toucher
+       indifféremment les fils et les filles. Dans ces cas, les individus
+       affectés apparaissent généralement dans toutes les générations de
+       la famille et, en général, la probabilité que chaque enfant hérite
+       de la pathologie est de 50 %.
+     * Héritage autosomique récessif ou AR : ce type d’héritage se produit
+       lorsque le gène normal prédomine sur le gène muté, de sorte que
+       deux copies du gène altéré sont nécessaires pour que les symptômes
+       apparaissent. Comme il est d’origine autosomique, le gène altéré
+       est situé sur l’un des 22 chromosomes non sexuels ou autosomes, et
+       peut être hérité indifféremment par les fils et les filles. Ce type
+       de maladie n’apparaît généralement pas dans toutes les générations
+       d’une famille et il est nécessaire que les deux parents soient
+       porteurs du gène muté. Dans ces cas, en général, la probabilité
+       d’hériter de la maladie est de 25 %, avec 50 % de chances d’être un
+       porteur asymptomatique et 25 % de chances de ne pas porter l’allèle
+       muté.
+     * Héritage dominant lié au chromosome X : ce type d’héritage se
+       produit lorsque le gène altéré se trouve sur le chromosome sexuel X
+       et que le gène muté prédomine sur le gène normal. Les femelles sont
+       porteuses de deux chromosomes X alors que les mâles n’en portent
+       qu’un seul. En général, comme les femmes héritent d’une copie de ce
+       chromosome à la fois de leur père et de leur mère (les hommes
+       n’héritent de leur copie du chromosome X que de leur mère), elles
+       sont habituellement plus touchées par ce type de maladie. Si la
+       mère est atteinte de la maladie, ses enfants ont la même
+       probabilité d’en hériter, quel que soit leur sexe. En revanche, si
+       c’est le père qui est touché, toutes ses filles seront malades
+       alors que ses fils seront en bonne santé.
+     * Hérédité récessive liée au chromosome X : ce type d’hérédité se
+       produit lorsque le gène altéré se trouve sur le chromosome X mais
+       que le gène normal prédomine sur le gène muté. Ce type de maladie
+       est beaucoup plus fréquent chez les hommes car ils ne possèdent
+       qu’une seule copie du chromosome X et, s’ils héritent de l’allèle
+       muté, ils développeront la maladie, tandis que les femmes qui
+       héritent d’une copie mutée du gène seront porteuses mais ne
+       souffriront pas de la maladie car elles possèdent deux chromosomes
+       X.
+     * Héritage mitochondrial : La plus grande partie du matériel
+       génétique se trouve dans les chromosomes à l’intérieur du noyau des
+       cellules, mais une petite quantité d’ADN se trouve dans les
+       mitochondries, des organelles intracellulaires impliquées dans le
+       métabolisme. Cet ADN mitochondrial est transmis selon un schéma
+       héréditaire caractéristique, car les mitochondries ne sont héritées
+       que de la mère. De ce fait, tous les enfants d’une mère atteinte
+       hériteront de la maladie, mais pas le père atteint.
+
+   En plus des types d’hérédité expliqués ci-dessus, un concept important
+   doit être pris en compte : la pénétrance. Il s’agit du pourcentage
+   d’individus ayant un génotype (ADN) spécifique qui expriment le
+   phénotype (symptomatologie) attendu. Ainsi, on parle de pénétrance
+   complète lorsque 100% des individus présentent le phénotype attendu en
+   fonction de leur génotype, et de pénétrance incomplète lorsque ce
+   pourcentage est plus faible, de sorte que tous les individus ayant un
+   génotype pathologique ne présentent pas la maladie.
+
+PLUS D'INFORMATIONS
+
+     * A quoi cela sert-il de connaître mes ancêtres ?
+     * Ai-je un haplogroupe maternel ?
+     * Ai-je un haplogroupe paternel ?
+     * Au sein de mon haplogroupe maternel, existe-t-il des sous-types ?
+     * Avec quel type d'échantillon puis-je avoir accès à ces informations
+       pharmacogénétiques ?
+     * Caractéristiques techniques des données brutes
+     * Cela coûte-t-il plus cher de connaître mon haplogroupe maternel ?
+     * Cela coûte-t-il plus cher de connaître mon haplogroupe paternel ?
+     * Cela coûte-t-il plus cher de connaître mon pourcentage d'ADN de
+       Néandertal ?
+     * Ces résultats évoluent-ils avec le temps ?
+     * Comme mes données proviennent d'autres entreprises, y a-t-il un
+       risque que mes résultats soient moins précis ?
+     * Comment a été construite la base de données utilisée pour estimer
+       l'ascendance de chaque utilisateur ?
+     * Comment dois-je interpréter le graphique présenté dans mes
+       résultats de maladies complexes ?
+     * Comment fonctionne le programme DNA Connect ?
+     * Comment fonctionne le service de messagerie DNA Connect ?
+     * Comment interpréter la carte avec mes résultats ?
+     * Comment les informations pharmacogénétiques peuvent-elles m'aider ?
+     * Comment puis-je accéder à l'intérieur du document des données
+       brutes ?
+     * Comment puis-je accepter de participer à DNA Connect ?
+     * Comment puis-je savoir si j'ai de nouveaux parents génétiques ?
+     * Comment puis-je savoir si un parent génétique m'a contacté ou a
+       répondu à un message ?
+     * Comment puis-je télécharger mes données brutes de génotypage et
+       peuvent-elles être utilisées sur d'autres sites web ?
+     * Comment verrai-je mes résultats ?
+     * Conditions NON incluses dans le test tellmeGen
+     * D'autres maladies et caractéristiques personnelles seront-elles
+       ajoutées au fil du temps ?
+     * Dans mon haplogroupe paternel, existe-t-il des sous-types ?
+     * Dans quelle langue les consultations et les rapports sont-ils
+       rédigés, comment puis-je les recevoir et combien de temps cela
+       prend-il ?
+     * De quel parent proviennent mes pourcentages origines ?
+     * Dois-je acheter un kit spécial pour accéder à DNA Connect ?
+     * En quoi consiste l'analyse d'ascendance effectuée par tellmeGen ?
+     * En quoi consiste le calcul de l'haplogroupe maternel ?
+     * En quoi consiste le calcul de l'haplogroupe paternel ?
+     * En quoi consiste le séquençage de l'ADN d'un génome complet ?
+     * J'ai acheté un produit de données brutes payant, mais mon fichier
+       n'est pas compatible avec tellmeGen. Que dois-je faire ?
+     * J'ai besoin d'un conseil génétique personnel, que peut faire
+       tellmeGen pour moi ?
+     * J'ai coché la case "Ne plus afficher" dans DNA Connect. Comment
+       puis-je accéder à DNA Connect par la suite ?
+     * J'ai téléchargé gratuitement mes données génétiques brutes sur
+       tellmeGen, pourquoi certains de mes résultats ne seront-ils pas
+       disponibles avec la mise à jour du 31 janvier 2024 ?
+     * J'ai téléchargé mon fichier de données génétiques brutes, combien
+       de temps faut-il pour voir mes résultats ?
+     * J'ai un risque faible/moyen d'avoir la maladie/le trait X dans le
+       test, mais je souffre ou j'ai cette maladie/ce trait
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       d'ADN brut, puis-je quand même participer à DNA Connect ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon ADN de Néandertal ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon haplogroupe maternel ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon haplogroupe paternel ?
+     * Je ne vois aucun membre de la famille dans DNA Connect
+     * Je suis une femme, ne puis-je pas connaître mes origines du côté de
+       mon père car je n'ai pas d'haplogroupe paternel ?
+     * Je vis aux États-Unis, pourquoi ne puis-je pas voir mes
+       informations pharmacogénétiques ?
+     * La science derrière ADN Connect
+     * La science derrière tellmeGen
+     * Le fait d'avoir un risque élevé signifie-t-il que je serai atteint
+       de la maladie ou que j'aurai un trait personnel complexe ?
+     * Les résultats calculés jusqu'à présent par tellmeGen étaient-ils
+       incorrects ?
+     * Les résultats de ma santé peuvent-ils affecter les membres de ma
+       famille ?
+     * Les résultats sont-ils confidentiels ?
+     * Les tests pharmacogénétiques sont-ils obligatoires avant de prendre
+       des médicaments ?
+     * Les trisomies sont-elles recherchées dans le test ADN tellmeGen ?
+     * Liste des éléments inclus dans toutes les sections
+     * Mes résultats diffèrent de ceux des autres entreprises. Comment
+       cela se fait-il ?
+     * Mes résultats montrent un trait physique différent de la réalité.
+       Pourquoi ?
+     * Mes résultats varieront-ils avec le temps ?
+     * Où puis-je voir les résultats de mon haplogroupe maternel ?
+     * Où puis-je voir les résultats de mon haplogroupe paternel ?
+     * Où puis-je voir les résultats de mon test pharmacogénétique ?
+     * Où puis-je voir mes résultats d'ADN de Néandertal ?
+     * Outre les rapports sur la santé et l'ascendance, quelles autres
+       informations le test tellmeGen comprend-il ?
+     * Populations incluses dans le rapport sur l'ascendance de tellmeGen
+     * Pourquoi certaines maladies et certains traits ont-ils disparu de
+       mes résultats ?
+     * Pourquoi de petits pourcentages de mon ascendance ont-ils été
+       attribués à des populations inattendues ?
+     * Pourquoi dois-je choisir 5 éléments dans chaque bloc de résultats
+       ?
+     * Pourquoi faire un test pharmacogénétique ?
+     * Pourquoi je ne vois pas de membres de ma famille après avoir activé
+       DNA Connect ?
+     * Pourquoi je ne vois pas mes proches dans mon compte tellmeGen alors
+       que je peux le faire dans d'autres entreprises ?
+     * Pourquoi l'origine de certains de mes ancêtres n'apparaît-elle pas
+       dans mes résultats d'ascendance ?
+     * Pourquoi le pays dans lequel je suis né n'apparaît-il pas dans mon
+       rapport d'ascendance ?
+     * Pourquoi les femmes n'obtiennent-elles pas l'haplogroupe paternel
+       dans les résultats ?
+     * Pourquoi ma population génétique n'est-elle pas incluse dans
+       l'analyse ?
+     * Pourquoi mes résultats changent-ils avec les différentes versions
+       d'ancestry ?
+     * Pourquoi mon ascendance est-elle différente de celle d'une autre
+       entreprise ?
+     * Pourquoi mon ascendance n'est-elle pas correctement attribuée à la
+       région de l'Europe centrale ou des Balkans ?
+     * Pourquoi mon ascendance n'est-elle pas identique à celle de mon
+       frère ou de ma sœur ?
+     * Pourquoi mon échantillon d'ADN a-t-il échoué ? Que dois-je faire
+       dans ce cas ?
+     * Pourquoi mon haplogroupe maternel est-il daté de plus de X ans ?
+     * Pourquoi mon haplogroupe maternel est-il géographiquement situé �
+       un endroit différent de celui où je suis né ?
+     * Pourquoi mon haplogroupe paternel est-il daté de plus de X ans ?
+     * Pourquoi mon haplogroupe paternel est-il géographiquement situé �
+       un endroit différent de celui où je suis né ?
+     * Pourquoi mon pourcentage de correspondances génétiques est-il
+       différent de celui de mon frère ou de ma sœur ?
+     * Pourquoi puis-je voir mes données de santé et pas mes données
+       d'ascendance ?
+     * Puis-je augmenter le nombre de résultats ?
+     * Puis-je avoir des variants protecteurs et des variants de risque en
+       même temps ? Comment cela peut-il être interprété ?
+     * Puis-je bloquer ou débloquer quelqu'un sur DNA Connect ?
+     * Puis-je choisir les informations à partager sur mon profil ?
+     * Puis-je imprimer les résultats ?
+     * Puis-je mettre une photo de profil sur mon compte DNA Connect ?
+     * Puis-je obtenir des informations sur ma relation génétique avec
+       d'autres personnes ?
+     * Puis-je trouver des parents grâce à DNA Connect ?
+     * Puis-je voir les membres de ma famille qui ne sont pas des
+       utilisateurs de tellmeGen ?
+     * Qu'est-ce qu'un génome ?
+     * Qu'est-ce qu'un rapport nutrigénétique et qu'inclut-il chez
+       tellmeGen ?
+     * Qu'est-ce qu'un rapport pharmacogénétique et qu'inclut celui de
+       tellmeGen ?
+     * Qu'est-ce qu'un risque ou une prédisposition génétique ?
+     * Qu'est-ce qu'une variante génétique ?
+     * Qu'est-ce que cela signifie si je partage un haplogroupe maternel
+       avec des personnes célèbres ?
+     * Qu'est-ce que cela signifie si je partage un haplogroupe paternel
+       avec des personnes célèbres ?
+     * Qu'est-ce que DNA Connect ?
+     * Qu'est-ce que l'haplogroupe maternel ?
+     * Qu'est-ce que l'haplogroupe paternel ?
+     * Qu'est-ce que l'imputation et dans quelle mesure est-elle fiable ?
+     * Qu'est-ce que la pharmacogénétique ?
+     * Qu'est-ce qui est analysé dans une étude pharmacogénétique ?
+     * Qu'est-ce qui est analysé pour connaître l'ADN de Néandertal ?
+     * Quand et comment puis-je activer le service DNA Connect ?
+     * Quand et comment puis-je désactiver le service DNA Connect ?
+     * Quand les nouvelles populations seront-elles incluses ?
+     * Quand mes résultats seront-ils disponibles ?
+     * Que comprend un pack de consultations ?
+     * Que comprend une consultation simple ?
+     * Que se passe-t-il si je ne comprends pas les informations contenues
+       dans mon test ADN ?
+     * Que signifie "Je recevrai des mises à jour sur les résultats de
+       tellmeGen" ?
+     * Que signifie l'Adam chromosomique ?
+     * Que signifie l'Eve mitochondriale ?
+     * Que signifient les résultats ?
+     * Que sont les fichiers de données brutes ?
+     * Quel est le facteur environnemental ?
+     * Quel est le facteur génétique ?
+     * Quel que soit mon sexe, puis-je connaître mon haplogroupe maternel
+       ?
+     * Quel que soit mon sexe, puis-je connaître mon haplogroupe paternel
+       ?
+     * Quel type d'information la connaissance de mon haplogroupe maternel
+       me donne-t-elle ?
+     * Quel type d'information la connaissance de mon haplogroupe paternel
+       me donne-t-elle ?
+     * Quel type de données est utilisé pour réaliser l'estimation du
+       risque génétique ?
+     * Quelle est l'utilité de connaître mon pourcentage d'ADN
+       néandertalien ?
+     * Quelle est la différence entre l'haplogroupe maternel et ses
+       sous-types ?
+     * Quelle est la différence entre l'haplogroupe paternel et ses
+       sous-types ?
+     * Quelle est la différence entre le Kit ADN Advanced et le Kit ADN
+       Starter ?
+     * Quelle est la différence entre le rapport obtenu par le test
+       Advanced et le rapport pharmacogénétique payant ?
+     * Quelle est la différence entre le test pharmacogénétique et le
+       reste des études génétiques de tellmeGen ?
+     * Quelle est la fiabilité des résultats ?
+     * Quelle est la précision de l'analyse de l'ascendance ?
+     * Quelle est la signification de l'ascendance ? Quelles sont les
+       informations obtenues par un test d’ascendance ?
+     * Quelles informations génétiques déterminent mon haplogroupe
+       maternel ?
+     * Quelles informations génétiques sont utilisées pour déterminer mon
+       ascendance ?
+     * Quelles informations génétiques sont utilisées pour déterminer mon
+       haplogroupe paternel ?
+     * Quelles informations saurai-je sur mes proches? Qu'ils connaîtront
+       sur moi ?
+     * Quelles langues la plateforme de résultats tellmeGen comprend-elle
+       ?
+     * Quelles limites peut-on trouver dans l'analyse de l'ascendance ?
+     * Quelles populations sont incluses dans l'analyse de l'ascendance ?
+     * Quels fichiers de données brutes d'autres sociétés sont compatibles
+       avec tellmeGen ?
+     * Quels kits comprennent des informations sur mes résultats
+       pharmacogénétiques ?
+     * Quels kits comprennent des informations sur mon haplogroupe
+       maternel ?
+     * Quels kits comprennent des informations sur mon haplogroupe
+       paternel ?
+     * Quels kits comprennent le service DNA Connect ?
+     * Quels kits comprennent les informations sur mon ADN de Néandertal ?
+     * Quels sont les avantages de s'abonner à DNA Connect de tellmeGen
+       par rapport à des services similaires proposés par d'autres
+       sociétés ?
+     * Quels sont les parents trouvés dans DNA Connect et quelle est la
+       fiabilité des résultats ?
+     * Qui analyse les résultats ?
+     * Qui étaient les Néandertaliens ?
+     * Qui peut lire le chat interne ?
+     * Si j'ai reçu une greffe de moelle osseuse, cela peut-il affecter
+       les résultats de mes tests ?
+     * Sur quelles plateformes puis-je télécharger mes données brutes
+       tellmeGen afin d'obtenir une autre analyse de mes données
+       génétiques ?
+     * Types d'héritage génétique
+     * Un test pharmacogénétique permettra-t-il de prévenir les effets
+       secondaires ou d'autres réactions indésirables ?
+     * Y a-t-il un coût supplémentaire pour mon test pharmacogénétique ?
+     * Y a-t-il un traducteur sur la plate-forme ?
+
+   Test génétique et résultats
+     * Test ADN
+     * Examen génétique
+     * Résultats
+          + Prédisposition génétique aux maladies
+          + Maladies héréditaires
+          + Compatibilité pharmacologique
+          + Traits personnels
+          + Wellness
+          + Origines
+     * DNA Connect
+     * Raw Data
+     * Achat Kit ADN
+
+   Service génétique personnalisé
+     * Conseil génétique
+     * Susceptibilité génétique
+
+   tellmeGen
+     * Qui sommes nous?
+     * Contact pour les distributeurs
+     * Koko Genetics – Test ADN animaux de compagnie
+
+   Termes et conditions
+     * Politique de cookies
+     * Politique de retour
+     * Politique de confidentialité
+     * Politique sur la mise à jour de l’information et les répliques
+       d’échantillons
+     * Termes légales
+     * Document de consentement légal
+     * Foire Aux Questions
+
+   tellmegen logo 2
+
+     "L'objectif du test ADN tellmeGen est que chacun puisse avoir accès
+     à ses informations génétiques de n'importe où dans le monde grâce �
+     un appareil connecté à l'internet, afin de les partager avec son
+     médecin".
+
+     L'équipe médicale de tellmeGen
+
+   (BUTTON) États-Unis +
+   [email protected]
+
+   Oaks Rd, Murrieta, CA 92562
+   40960 / California / US
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Espagne +
+   [email protected]
+
+   Calle Arquitecto Mora, 5 - 4
+   46010 / Valencia / Espagne
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Allemagne +
+   [email protected]
+
+   Nordstrasse 5
+   99427 / Weimar
+   Allemagne
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Royaume-Uni +
+   [email protected]
+
+   60 Lansdowne Place
+   Hove
+   East Sussex
+   BN3 1FG
+   Royaume-Uni
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Italie +
+   [email protected]
+
+   Via L. Negrelli 15
+   39100 / Bolzano
+   Italie
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Mexique +
+   [email protected]
+
+   Sierra de la Cuchilla
+   Lomas 4a sección
+   78216 San Luis Potosí / SLP
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Brésil +
+   [email protected]
+
+   Av. Angelica, 2071 - Conj. 117 -
+   Consolação
+   - CEP 01227-200 - São Paulo – SP
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Pérou +
+   [email protected]
+
+   Av. Primavera 1433 y/o cuajone
+   196 dpto 403
+   Santiago de Surco / Lima /
+   Pérou
+
+   983 334 185
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Panama +
+   [email protected]
+
+   Panamá Pacifico, River Valley
+   Panamá Oeste Arraijan
+   Panama City
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) La Colombie +
+   [email protected]
+
+   Calle 56 # 20-31
+   Barrio Galerias
+   110111 Bogotá
+   La Colombie
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Chili +
+   [email protected]
+
+   Av. Las Condes 9792
+   Las Condes / Santiago de Chile
+   Chili
+
+   (+56) 2 29791919 / (+56) 9 73692008
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Kazakhstan +
+   [email protected]
+
+   Dostyk 46
+   050000 / Almaty /
+   Kazakhstan
+
+   +77013107798
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) EAU +
+   [email protected]
+
+   Masaken 02 Al Warqa 1
+   Dubai
+   Emirats Arabes Unis
+
+   +971 56 417 9259
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Arabie Saoudite +
+   [email protected]
+
+   Artah Ibn Kaab, An Naim Dist
+   23526 / Jeddah
+   Arabie Saoudite
+
+   +966 54 049 0444
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Australie +
+   [email protected]
+
+   1B/1 Sesame Ct
+   Slacks Creek, QLD, 4127
+
+   Horaires : Lun-Ven, 24 heures
+   (BUTTON) Canada +
+   [email protected]
+
+   Westway Avenue
+   Squamish
+   British Columbia, V0N 1T0
+
+   (+34) 960 090 596
+
+   Horaires : Lun-Ven, 24 heures
+   facebook_tellmeGen twitter_tellmeGen instagram_tellmeGen
+   linkedin_tellmeGen pinterest_tellmeGen

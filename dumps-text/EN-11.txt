@@ -136,7 +136,7 @@ Contact
        __________________________________________________
        __________________________________________________
      *
-     * Comments
+     * Name
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -172,7 +172,7 @@ Subscribe
      * Hidden
        non_ahf_referrer_vic
           + (*) Yes
-     * Email
+     * Comments
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -214,7 +214,7 @@ Subscribe
    contain images of Aboriginal and Torres Strait Islander people who have
    died.
 
-   © 2023 National Trust
+   © 2024 National Trust
 
 Stay in Touch
 

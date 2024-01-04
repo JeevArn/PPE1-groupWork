@@ -1,219 +1,501 @@
-   Voir la bourse sur Investir
-   (BUTTON) (BUTTON) Recherche
-     * En continu
-     * Le Journal
-     * Newsletters
-     * Mes articles
-     * Mes secteurs
-     * Podcasts
-     * Infographies
-     * Vidéos
-     * Thema
+    #Euractiv FR » Faut-il réguler l’héritage numérique ? Flux des
+   commentaires alternate alternate
 
-   (BUTTON)
-     * (BUTTON) ThèmeClair
+   [tr?id=307743630704587&ev=PageView&noscript=1]
 
-   (BUTTON) Se connecter
-   S’abonner
-   (BUTTON)
-   À la une
-   Idées
-   Économie
-   Politique
-   Entreprises
-   Finance - Marchés
-   Bourse
-   Monde
-   Tech-Médias
-   Start-up
-   Régions
-   Patrimoine
-   Le Mag W-E
-   (BUTTON)
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THJBSRW
 
-L’épineux problème de l’héritage à l'ère du numérique
+   EURACTIV logo
 
-   L’absence de législation crée un flou juridique autour de la
-   transmission des données et des fichiers, après la mort de leur
-   utilisateur.
-   (BUTTON) Ajouter à mes articles
-   (BUTTON) Commenter
-   (BUTTON) Partager
-   (BUTTON) Partager
-   Amazon
-   Confidentialité des données
-   0204235896629_web.jpg 0204235896629_web.jpg
-   Qu’advient-il des bibliothèques virtuelles, des données... une fois
-   l’utilisateur décédé ? La loi est floue.
-
-   Par Nicolas Rauline
-   Publié le 18 mars 2015 à 17:38
-
-   Encore une fois, la technologie est allée plus vite que la loi.
-   Plusieurs cas ont récemment montré le flou qui entoure la question de
-   l’héritage numérique, que ce soit dans le devenir des biens
-   numériques(chansons et vidéos téléchargées, livres numériques) ou dans
-   celui des données personnelles (adresses e-mail et autres comptes de
-   réseaux sociaux).
-
-   « En droit, on ne peut transmettre qu’un bien matériel ou immatériel
-   protégé par la loi, comme les oeuvres de l’esprit, même si dans bien
-   des cas, en pratique, les conditions d’utilisation d’iTunes ou d’Amazon
-   l’empêchent, explique Luce-Hélène Capsié, avocate et auteur d’une thèse
-   sur la mort et les données personnelles. Les données ne sont pas
-   considérées comme des biens, c’est un droit de notre personnalité,
-   comme la vie privée, qui disparaît avec nous. Cela crée donc un immense
-   vide juridique. »
-
-Protection de la vie privée du défunt
-
-   A tel point que Facebook a lancé une nouvelle fonctionnalitépermettant
-   de transformer n’importe quel profil en mémorial et de céder certaines
-   informations aux proches, lorsqu’un utilisateur vient à mourir. « Les
-   quelques initiatives viennent des plates-formes comme Facebook ou
-   Google ou bien de certaines autorités de régulation, comme la Cnil qui
-   a invité la société à ouvrir le débat », note Nicolas Capt, avocat aux
-   barreaux de Genève et de Paris spécialisé en droit des nouvelles
-   technologies et des médias.
-
-   Dans une communication du 31 octobre dernier, la Cnil souligne qu’elle
-   « veille à ce que l’informatique ne porte atteinte, ni à l’identité du
-   défunt, ni à la vie privée de ses héritiers » et rappelle que « la loi
-   ne prévoit pas la transmission des droits du défunt aux héritiers : un
-   héritier ne peut donc [...] avoir accès aux données d’un défunt. »
-
-   Ce qui peut poser de gros problèmes, les profils de réseaux sociaux
-   continuant d’exister et étant même parfois suggérés automatiquement aux
-   autres utilisateurs. Sans oublier le cas de nombreuses PME dont toute
-   l’activité repose sur le compte personnel de leurs patrons (fichiers ou
-   contacts de clients stockés dans le cloud, etc.) « La vie d’une
-   entreprise peut ainsi s’arrêter du jour au lendemain avec la mort de
-   son dirigeant », souligne Nicolas Capt.
-
-Des formulaires ignorés
-
-   Dans le cas de Facebook, le réseau social offre depuis peu aux
-   Etats-Unis la possibilité de désigner un « contact d’héritage ». A la
-   mort de l’utilisateur, ce légataire peut gérer le profil du défunt,
-   alerter ses contacts et répondre aux messages qu’il continue de
-   recevoir. Il peut aussi, si l’autorisation lui est donnée, télécharger
-   les photos et les statuts déjà publiés, mais il n’aura pas accès aux
-   anciens messages. Ces fonctionnalités devraient bientôt être
-   disponibles en France. Facebook peut aussi supprimer purement et
-   simplement le compte du défunt si la demande lui est faite.
-
-   La plupart des autres plates-formes (Google, Yahoo, Outlook, LinkedIn,
-   Twitter) proposent des formulaires spécifiques, mais ceux-ci restent
-   largement ignorés du grand public. « Nous n’en sommes qu’au début des
-   discussions, il n’y a pas d’évidence car c’est un débat de société qui
-   doit s’engager : doit-on réguler la présence post mortem, veut-on que
-   nos enfants sachent tout de notre vie numérique…? », s’interroge
-   Nicolas Capt.
-
-   Enfin, des sociétés spécialisées proposent des coffres forts numériques
-   où peuvent être stockés fichiers et données de connexion et il est
-   toujours possible de déposer ses données d’accès chez un notaire… Mais,
-   pour Nicolas Capt, « c’est une fausse sécurité, et il n’y a aujourd’hui
-   aucune solution miracle : d’abord, les mots de passe peuvent avoir
-   changé entre leur dépôt sécurisé et la mort de l'utilisateur, car on
-   les modifie de plus en plus souvent au cours de sa vie. Ensuite, de
-   gros problèmes peuvent apparaître si ces sociétés font faillite. »
-
-Quelles clés pour s’adapter dans un environnement complexe ?
-
-   Comment réagir face aux défis de la transition énergétique ? Comment se
-   positionner dans un environnement économique et politique instable ?
-   Comment exploiter au mieux les opportunités d’innovation dans chaque
-   secteur ? Au quotidien, à travers nos décryptages, enquêtes,
-   chroniques, revues de presses internationales et éditos, nous
-   accompagnons nos abonnés en leur donnant les clés pour s’adapter à un
-   environnement complexe.
-   Je découvre les offres
-   Particulier ou entreprise : des offres adaptées à votre besoin
-   Je m’abonne (BUTTON)
-
-Nos Vidéos
-
-Israël - Hamas : les premiers otages franco-israéliens libérés
-
-   Trois otages franco-israéliens, âgés de 12 à 16 ans, ont été libérés
-   par le Hamas. Ils étaient retenus depuis leur enlèvement le 7 octobre
-   dans le kibboutz où ils vivaient. Cinq autres Français ou binationaux
-   sont toujours portés disparus, présumés otages du Hamas.
-
-Pourquoi l’Inde étouffe régulièrement sous des nuages de pollution ?
-
-Israël-Hamas : Les prisonniers palestiniens libérés ont retrouvé leurs
-proches
-
-Guerre Israël-Hamas : les premières images des 24 otages libérés
-
-À la Une
-
+   (BUTTON) Toggle navigation
+     * [4.png] Français
+          + [19.png] English
+          + [2.png] Deutsch
+          + [4.png] Français
+          + [3.png] Español
+          + [8.png] Italiano
+          + [5.png] Polski
+          + [6.png] български
+          + [7.png] Čeština
+          + [10.png] Ελληνικά
+          + [9.png] Hrvatski
+          + [11.png] Română
+          + [12.png] Српски
+          + [17.png] Slovenský
+     * Events
+     * Jobs
      *
 
-3008, C3, Corsa… Stellantis s'en remet à ses best-sellers pour raviver ses
-ventes
-     * Direct
+     * ____________________ (BUTTON)
+       [loading.gif]
+       Chercher
 
-LE FIL INFO - Eolien en mer : lancement d'un vaste appel d'offres en 2025
-     * En chiffres
-
-Moins inquiets sur l'inflation, les Français craignent une remontée du
-chômage
-
-Mars 2015
-
-Nigéria : la victoire du candidat d’opposition signe une alternance
-historique
-
-Fusillade à la NSA : la victime identifiée par le FBI
-
-Les Galeries Lafayette confirment leur plan d’économie
-
-   AppStore GooglePlay
-
-   Pratique
-   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
-   groupeCookiesMentions légalesConditions générales et
-   particulièresPolitique de confidentialitéCharte éthiqueFlux
-   RSSArchivesPlan du site
-   (BUTTON) Pratique
-   Aide & ContactAbonnementPublicitéAbonnement presse numériqueEntités du
-   groupeCookiesMentions légalesConditions générales et
-   particulièresPolitique de confidentialitéCharte éthiqueFlux
-   RSSArchivesPlan du site
-
-   Services
-   En continuLe JournalNewslettersMes articlesMes
-   secteursPodcastsInfographiesVidéosThema
-   (BUTTON) Services
-   En continuLe JournalNewslettersMes articlesMes
-   secteursPodcastsInfographiesVidéosThema
-
-   Le Groupe
-   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
-   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
-   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
-   LégalesMarchés Publics
-   (BUTTON) Le Groupe
-   Les EchosInvestirEntrepreneursLes Échos Week-EndSérie LimitéeLes Echos
-   StartMieux Vivre Votre ArgentPlaneteCapital FinanceRadio
-   ClassiqueConnaissance des ArtsImaginELes Echos évènementsAnnonces
-   LégalesMarchés Publics
-
-   Tous droits réservés - Les Echos 2023
-     * En continu
-     * Le Journal
+   (BUTTON) Euractiv FR
+     * L'Expresso
+     * L'Expresso
      * Newsletters
-     * Mes articles
-     * Mes secteurs
-     * Podcasts
-     * Infographies
-     * Vidéos
-     * Thema
+     * Newsletters
 
-   (BUTTON)
-     * (BUTTON) ThèmeClair
+     * ____________________ (BUTTON)
+       [loading.gif]
+       Chercher
 
-   (BUTTON) Se connecter
+     * Actualités
+          + L’Expresso
+          + Agriculture
+          + Économie
+          + Energie & Climat
+          + International
+          + Politique
+          + Santé
+          + Tech
+          + Transport
+     * Newsletters
+     * Evénements
+     * Jobs
+
+     * Connexion / Inscription
+     * [4.png] Français
+          + [19.png] English
+          + [2.png] Deutsch
+          + [4.png] Français
+          + [3.png] Español
+          + [8.png] Italiano
+          + [5.png] Polski
+          + [6.png] български
+          + [7.png] Čeština
+          + [10.png] Ελληνικά
+          + [9.png] Hrvatski
+          + [11.png] Română
+          + [12.png] Српски
+          + [17.png] Slovenský
+     *
+
+     * Agriculture
+       Agriculture
+         ______________________________________________________________
+
+          + Agroécologie
+          + Alimentation
+          + Bien être animal
+          + Elevage
+          + Innovation
+          + OGM / NBT
+          + Pêche
+          + Pesticides / produits phytosanitaires
+          + Politique agricole commune (PAC)
+          + Renouvellement des générations
+          + Sols
+          + Stratégie "De la ferme à la table"
+          + Vie de l'agriculteur
+     * Économie
+       Économie
+         ______________________________________________________________
+
+          + Concurrence
+          + Economie des plateformes
+          + Éducation
+          + Emploi
+          + Entreprises
+          + Finance
+          + Fiscalité
+          + Industrie spatiale
+          + Macroéconomie
+          + Politique commerciale
+          + Zone euro
+     * Energie & Climat
+       Energie & Climat
+         ______________________________________________________________
+
+          + Batiments
+          + Batteries
+          + Biodiversité
+          + Chaleur et froid
+          + COP
+          + Économie circulaire
+          + Efficacité énergétique
+          + Energies fossiles
+          + Energies renouvelables
+          + Géopolitique des énergies
+          + Gestion de l'eau
+          + Hydrogène
+          + Infrastructures et interconnexions
+          + Métaux critiques et stratégiques
+          + Nucléaire
+          + Politique énergétique
+          + Politique environnementale
+          + Protection de l'environnement
+          + Qualité de l'air
+     * International
+       International
+         ______________________________________________________________
+
+          + Afrique
+          + Aide au développement
+          + Amérique Latine
+          + Asie
+          + Chine
+          + Défense
+          + Élargissement
+          + Etats Unis
+          + Europe de l'Ouest
+          + Guerre en Ukraine
+          + Méditerranée
+          + Migrations
+          + Moyen Orient
+          + Russie
+     * Politique
+       Politique
+         ______________________________________________________________
+
+          + Brexit
+          + Élections
+          + Immigration
+          + Institutions
+          + Justice
+          + L'Expresso
+          + Non discrimination
+          + Présidence du Conseil de l'UE
+          + Sécurité
+     * Santé
+       Santé
+         ______________________________________________________________
+
+          + Droits et systèmes de santé
+          + Innovation en santé
+          + Maladies non transmissibles
+          + Maladies transmissibles
+          + Pharma
+          + Sport
+          + Tabac, alcool, drogues
+     * Tech
+       Tech
+         ______________________________________________________________
+
+          + Accessibilité du numérique
+          + Application de la loi
+          + Compétition
+          + Confidentialité des données
+          + Cybersécurité
+          + Désinformation
+          + Infrastructures connectées
+          + Intelligence Artificielle
+          + Médias & audiovisuel
+          + Numérisation de l'économie
+          + Plateformes
+          + Recherche & Innovation
+          + Stratégie industrielle
+          + Télécoms
+          + Transition numérique de l'État
+     * Transport
+       Transport
+         ______________________________________________________________
+
+          + Aviation
+          + Biocarburants
+          + Chemins de fer
+          + Maritime
+          + Mobilité du futur
+          + Mobilité urbaine
+          + Transport routier
+
+    1. Accueil
+    2. Actualités
+    3. Économie
+    4. Faut-il réguler l’héritage numérique ?
+
+Faut-il réguler l’héritage numérique ?
+
+   EURACTIV.com | translated by Marion Candau
+
+   06-10-2017
+   [Trust-Mark-400.webp] Euractiv fait partie de The Trust Project >>>
+
+   Langues : English | Deutsch
+
+   Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
+
+   Un groupe d’avocats souhaite des règles européennes qui obligeraient
+   les plateformes en ligne à remettre les données d’une personne décédée
+   à ses proches.
+
+   Que deviennent les données de quelqu’un qui décède ? En l’absence de
+   règles, le net reste un far-west en la matière.
+
+   Des juristes soutiennent que de nouvelles règles sont nécessaires �
+   l’échelle européenne, car les entreprises de médias sociaux, les
+   banques et les sociétés en ligne peuvent avoir leur siège dans un État
+   membre différent du pays où vivent les proches et les héritiers d’une
+   personne décédée.
+
+   « Nous avons besoin d’une uniformisation de la loi dans le domaine
+   numérique », explique Sjef van Erp, un professeur qui dirige des
+   recherches sur l’héritage numérique à l’Institut de droit européen.
+
+   Selon lui, les entreprises américaines sont déjà soumises à ce type de
+   loi aux États-Unis. Une loi type est en vigueur depuis 2015 dans la
+   plupart des États européens, et les autres ne sont pas obligés de la
+   mettre en œuvre.
+
+   Or, pour Sjef van Erp, la version américaine sert justement de mise en
+   garde : l’UE doit éviter un patchwork pour que les avocats trouvent
+   facilement les comptes en banques et profils sur les médias sociaux et
+   autres services en ligne, quelle que soit la localisation de la
+   personne.
+
+   « Nous craignons qu’en Europe, certains États membres suivent la loi et
+   d’autres non », affirme-t-il. L’avocat compte donc élaborer sa propre
+   proposition pour une nouvelle loi en début d’année prochaine et la
+   partager avec la Commission européenne.
+
+   L’exécutif prévoit quant à elle de proposer une loi début 2018 pour
+   aider la police à collecter des « e-preuves » ou des données
+   nécessaires à des enquêtes à travers les frontières européennes. Pour
+   Sjef van Erp, une autre loi est nécessaire pour résoudre l’accès aux
+   données de la famille des tuteurs ou même des organismes de
+   recouvrement de dettes.
+
+   Très souvent, les membres de la famille ou les collecteurs de dettes ne
+   savent pas si une personne détient des comptes en ligne, et peuvent le
+   découvrir seulement s’ils peuvent fournir la preuve qu’ils ont le droit
+   d’y accéder.
+
+   « Il ne s’agit pas de chercher des preuves, mais il s’agit de chercher
+   le patrimoine lui-même », explique l’avocat.
+
+   Les notaires estiment quant à eux que le patrimoine numérique, comme
+   les photos, les musiques ou les vidéos doit être traité comme des biens
+   matériels, en appliquant normalement les droits individuels et la
+   propriété intellectuelle.
+
+   « Le phénomène d’héritage numérique ne doit pas être géré séparément,
+   la structure traditionnelle de succession doit par contre être adaptée
+   à la réalité numérique », selon un document de préparation du 4^ème
+   Congrès des notaires européens.
+
+   Les notaires reconnaissent toutefois que « de nouvelles solutions »
+   doivent parfois être trouvées pour adapter l’héritage traditionnel �
+   cette réalité numérique.
+
+   « Les frontières entre les relations personnelles et sociales sont
+   floues lorsqu’on parle de médias sociaux, de blogs, de patrimoine
+   numérique », indique le document.
+
+   En ce qui concerne les comptes sur les réseaux sociaux, des
+   dispositions existent déjà dans le cas de la mort d’une personne.
+   Facebook par exemple propose explicitement deux options : la fermeture
+   totale du compte et l’élimination du profil, ou le maintien du compte
+   pour permettre aux amis et aux proches de laisser des messages après la
+   mort de la personne.
+
+   Les termes et conditions des plateformes de médias sociaux doivent
+   cependant respecter les lois nationales de chaque pays sur la
+   succession. « Bien entendu, le document légal devrait être un acte
+   notarié, dans le cas d’un testament ordinaire », indique le document.
+
+   Les notaires sont toutefois ouverts à l’idée d’introduire des
+   testaments en ligne, afin de faire face aux évolutions dues aux
+   coordonnées électroniques, aux mots de passe ou aux numéros de compte
+   bancaire.
+
+   D’autres juristes soutiennent qu’une loi contraignante sur les comptes
+   en ligne ne serait pas aussi efficace qu’une approche plus douce. Les
+   sociétés pourraient inclure volontairement des conditions de service
+   sur l’accès d’autres personnes aux données d’un utilisateur. De
+   nombreuses entreprises le font déjà.
+
+Bruxelles lance une campagne sur la protection des données
+
+   Malgré l’importance croissante de la protection des données
+   personnelles, la plupart des citoyens européens méconnaissent leurs
+   droits, regrette la commissaire européenne à la justice. Un article
+   d’Euractiv République tchèque.
+
+   Une association d’avocats italiens a mis en place un groupe de travail
+   auprès de Microsoft et Google pour tenter de négocier un accord
+   volontaire à ce sujet. Mais les réunions se sont arrêtées il y a des
+   mois de cela.
+
+   Certains avocats pensent qu’il faudrait concevoir une loi européenne
+   sur les questions d’héritage – un domaine large sur lequel les lois
+   diffèrent grandement entre États membres.
+
+   « Cela pourrait être très utile dans certains cas, mais tout cela n’est
+   pas prêt de bouger. Chaque pays a ses propres règles », affirme Paul
+   Grötsch, directeur du forum allemand sur les droits de succession.
+
+   « Nous n’avons pas de loi européenne pour l’héritage de propriétés
+   immobilières. Inutile donc de créer une loi simplement pour l’héritage
+   numérique si nous n’avons pas déjà une sur l’immobilier », a-t-il
+   ajouté.
+
+   Des batailles juridiques sur l’accès au patrimoine numérique ont
+   récemment fait la une de la presse en Allemagne. En mai, une cour
+   d’appel à Berlin s’est prononcée en faveur d’une décision de Facebook
+   de ne pas donner aux parents d’une jeune fille décédée l’accès à son
+   compte, car quelqu’un d’autre avait déjà demandé au réseau social de
+   fermer le compte. Le tribunal a plaidé la protection des données pour
+   justifier sa décision.
+
+   En août, un cadre de Facebook a résumé la politique de la plateforme
+   dans une publication de blog : « quand la loi nous le permet, nous
+   essayons de respecter la volonté des personnes décédées. Mais parfois,
+   nous ne savons tout simplement pas ce que la personne aurait
+   souhaité ».
+
+   Selon Sjef van Erp, la question de la vie privée est devenue l’une des
+   principales préoccupations des avocats essayant d’identifier les
+   comptes et patrimoines en ligne d’une personne – et l’affaire de
+   Facebook en Allemagne en est un exemple flagrant.
+
+   La France a adopté une nouvelle loi en octobre 2016, pour réglementer
+   l’utilisation des données. Elle inclut aussi des mesures qui créent le
+   droit pour les personnes de donner des instructions sur l’utilisation
+   de leurs données après leur mort.
+   Edward Snowden sur la Karl-Marx-Straße. Berlin, Août 2014.
+
+Les CNIL européennes consacrent la protection des données comme droit
+fondamental
+
+   Proportionnée, limitée dans le temps, articulée avec l’impératif de
+   sécurité, les CNIL européennes ont rassemblé un certain nombre de
+   grands principes communs encadrant l’utilisation des données
+   personnelles des Européens dans une déclaration commune qui consacre
+   également le principe comme un droit fondamental.
+
+   Cette loi française « est l’une des seules lois au monde sur la
+   protection des données à octroyer ce droit aux individus », affirme
+   Olivier Proust, avocat au cabinet juridique Fieldfisher à Bruxelles.
+
+   Depuis son entrée en vigueur il y a un an, l’agence française de
+   protection des données, la CNIL, a reçu dix plaintes de personnes
+   voulant avoir accès aux données d’une personne décédée, a indiqué une
+   porte-parole.
+
+   La loi française va plus loin que n’importe quelle autre règle
+   européenne à ce jour : le règlement européen sur la protection des
+   données qui entrera en vigueur l’année prochaine n’étend pas les droits
+   aux personnes décédées.
+
+   Les juristes spécialistes de la vie privée estiment que si aucune loi
+   ne stipule ce que doit faire une entreprise des données d’une personne
+   après sa mort, la société doit suivre les mêmes règles s’appliquant aux
+   personnes vivantes – sauf si la personne a spécifié ce qu’il
+   adviendrait de ses comptes en ligne.
+
+   « Dans de nombreux cas, la personne décédée n’a pas laissé
+   d’instructions claires sur ce qu’il adviendra de ses informations
+   personnelles et dans ce cas là, les autorités en charge des données
+   doivent respecter les principes de protection des données du règlement
+   général sur la protection des données (GDPR) », soutient
+   Ailidh Callander, respondable juridique à l’ONG Privacy International.
+
+   Sjef van Erp affirme que sa proposition fera la différence entre les
+   divers droits accordés aux tuteurs, aux héritiers du patrimoine
+   numérique ou des comptes en ligne et des autorités cherchant �
+   recouvrer leur dette.
+
+   « On aurait tendance à dire que les emails sont personnels, mais après
+   la mort, comment faire la différence entre un message privé et de la
+   correspondance administrative ? », souligne-t-il.
+
+Bruxelles lance une campagne sur la protection des données
+
+   Malgré l’importance croissante de la protection des données
+   personnelles, la plupart des citoyens européens méconnaissent leurs
+   droits, regrette la commissaire européenne à la justice. Un article
+   d’Euractiv République tchèque.
+
+   Langues : English | Deutsch
+
+   Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
+
+Sujets
+
+     * données personnelles
+     * droit de succession
+     * Économie
+     * Facebook
+     * héritage
+     * plateformes en ligne
+     * protection des données
+     * Tech
+     * vie privée
+
+Advertisement
+
+Supporters
+
+Euractiv Members
+
+Les plus lus
+
+     * 1Entrée en vigueur du régime de dispense de visa de l’UE pour le
+       Kosovo
+     * 2Emmanuel Macron promet de faire de 2024 une « année de
+       détermination »
+     * 3Accusé de liens avec Moscou, le RN dénonce « une cabale »
+     * 4Accessibilité numérique : en France, les cancres de
+       l’administration encourent désormais des sanctions
+     * 5Automobile : la France s’électrifie
+     * 62024, année de « confirmation » des idées du RN, selon Marine Le
+       Pen
+     * 7Israël est prêt à laisser des navires apporter de l’aide
+       humanitaire à Gaza
+     * 8Plus de 1 000 migrants interceptés au Maroc, proches des enclaves
+       espagnoles
+     * 9En Ukraine, la guerre avec la Russie continue
+     * 10Accord Éthiopie-Somaliland : l'UE rappelle « l'importance » de la
+       souveraineté de la Somalie
+
+Advertisement
+
+Inscrivez-vous à notre newsletter
+
+   S'inscrire
+     __________________________________________________________________
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     __________________________________________________________________
+
+À Propos d’EURACTIV
+
+     * À propos d’EURACTIV
+     * Mediahuis
+     * EURACTIV France
+     * Soumettre une opinion
+     * Rejoindre EURACTIV
+
+Communication
+
+     * Claire Boussagol nommée directrice générale d’Euractiv
+     * Partenariat et publicité
+     * Euractor
+     * Projets européens
+     * Le multimédia chez EURACTIV
+     __________________________________________________________________
+
+Réseau EURACTIV
+     __________________________________________________________________
+
+   © 1999 - 2024 | Efficacité et Transparence des Acteurs Européens .
+   EURACTIV MEDIA NETWORK BV. | Termes & conditions | Nous contacter
+   (BUTTON) ×
+
+Chercher
+
+   ____________________
+   (BUTTON) Close (BUTTON) Chercher
+
+   © 1999 - 2024 | Efficacité et Transparence des Acteurs Européens .
+   EURACTIV MEDIA NETWORK BV. | Termes & conditions | Nous contacter

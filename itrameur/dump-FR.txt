@@ -20,7 +20,7 @@
      * Accéder au site pour les entreprises
 
    (BUTTON) Fermer
-   Recherche ____________________ (BUTTON) Rechercher
+   Recherche ____________________ (BUTTON) Rechercher sur le site
    (BUTTON) Fermer
      * Accueil
      * Actualité
@@ -73,9 +73,10 @@
      * (BUTTON) (BUTTON)
      * (BUTTON) Focus
 
-   La sélection d'une langue déclenchera automatiquement la traduction du
-   contenu de la page.
-   [Françaiss]
+   (BUTTON) FR - Français
+     * FR - Français
+     * EN - English
+
    (BUTTON)
 
    Partager la page
@@ -368,7 +369,7 @@ Définition de Héritage / Héritier
 
    cours et tribunaux
 
-   © 1996-2023
+   © 1996-2024
    Serge Braudo
    Conseiller honoraire
    à la Cour d'Appel de Versailles
@@ -379,10 +380,9 @@ Définition de Héritage / Héritier
 
    Mentions légales
    Recherches fréquentes
-   prescription   tutelle   pourvoi   cession   licitation   annulation
-   arbitrage   assignation   pouvoir souverain   grief   fait
-   demandeur   référé   hoirie   ordonnance
-   divorce séparation de corps</text>
+   résolution   lésion   audience   dol   magistrat   pourvoi
+   dispositif   juge   débouter   procuration   hoirie   état civil
+   droit positif   appel   infirmer   caducité</text>
 </page> §
 <page="FR-12">
 <text>   #alternate RSS ATOM
@@ -529,13 +529,15 @@ toujours dominé dans ses œuvres sociologiques.
 
    Abo
 
-Liste des chasseurs aux européennes : le billard à trois bandes de Macron
+INFO JDD. Triple viol le soir de Noël : un Éthiopien mis en détention
+provisoire
 
-À l’Assemblée, « il y a des soirées où de la drogue circule, des dîners où il
-y a une consommation excessive d’alcool », dénonce une députée
+Espagne : arrestation d’un couple de Français qui projetait de « sacrifier »
+leur fils de 5 ans dans le Sahara
 
-Fin du contrat entre le lycée musulman Averroès et l’État : le directeur de
-Sciences Po Lille fustige une décision « inéquitable »
+   Abo
+
+Les Grands Buffets : la tradition dans l’assiette
 
    Publicité
 
@@ -692,7 +694,7 @@ Matrimoine : pour une véritable inclusion des femmes dans l'héritage culturel
 
          Viva en ligne : Toutes les actualités et infos de Villeurbanne
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-ML2GDBT
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P6SJSP89
 
      * Aller au contenu
      * Aller à la navigation
@@ -831,7 +833,7 @@ Les biens français inscrits au patrimoine culturel immatériel
      * Facebook
      * Twitter
 
-   En 2003, les Etats parties adoptent la Convention du patrimoine
+   En 2003, les États parties adoptent la Convention du patrimoine
    culturel immatériel de l’UNESCO. Cette convention vient compléter la
    convention de 1972 dans ses prérogatives de sauvegarde et de mise en
    avant du patrimoine mondial.
@@ -862,9 +864,9 @@ Les biens français inscrits au patrimoine culturel immatériel
    un rôle majeur dans la sauvegarde de leur patrimoine culturel
    immatériel.
 
-   La France a ratifié la Convention en 2006 et compte 26 éléments inscrit
-   au Patrimoine culturel immatériel dont 1 nécessitant une sauvegarder
-   urgente.
+   La France a ratifié la Convention en 2006 et compte 28 éléments
+   inscrits au Patrimoine culturel immatériel dont 1 nécessitant une
+   sauvegarder urgente.
 
    CAPTION: Biens français inscrits au Patrimoine culturel immatériel
 
@@ -918,6 +920,12 @@ Les biens français inscrits au patrimoine culturel immatériel
    25 2022 Les fêtes de l’Ours dans les Pyrénées (Andorre, France)
    26 2022 Les savoir-faire artisanaux et la culture de la baguette de
    pain
+   27 2023 La Transhumance, déplacement saisonnier de troupeaux (Italie,
+   la Grèce et l’Autriche, l’Albanie, Andorre, l’Autriche, la Croatie, la
+   France, la Grèce, l’Italie, le Luxembourg, la Roumanie et l’Espagne)
+   28 2023 Connaissances, techniques, et savoir-faire du verre artisanal
+   (Allemagne, l’Espagne, la Finlande, la France, la Hongrie et la
+   République tchèque)
 
 L’alpinisme, ou l’art de gravir des sommets et des parois en haute montagne
 (dossier multi-pays - 2019)
@@ -1212,7 +1220,6 @@ Résumé
      * Savoirs
      * Arts et Création
 
-   L'héritage : un sujet délicat...
    L'héritage : un sujet délicat... ©Getty - © Tim Macpherson / Coll.
    Stone L'héritage : un sujet délicat... ©Getty - © Tim Macpherson /
    Coll. Stone
@@ -1373,6 +1380,7 @@ Un patrimoine de plus en plus concentré
      * (BUTTON) Menu
 
      * Evènements
+     * Newsletters
 
      * Le Journal
 
@@ -1399,6 +1407,7 @@ Un patrimoine de plus en plus concentré
           + Blogs
           + Multimédia
           + Evénements
+          + Mes newsletters
      * Suivez-nous
           +
           +
@@ -1445,62 +1454,52 @@ Hôpitaux au Royaume-Uni: l’héritage désastreux de Boris Johnson
 
 Sur le même thème
 
-     * COP28 Climate Summit
+     * Europe 1 Emmanuelle Ducro
 
-COP28: Charles III exhorte les dirigeants à agir davantage contre le
-réchauffement climatique
+Brexit: après l’euphorie, la gueule de bois
+       Emmanuelle Ducros
+       Le replay de « Voyage en absurdie », la chronique matinale
+       d’Emmanuelle Ducros sur Europe 1
+     * Rail service disruption, London, UK - 30 Dec 2023
+
+La circulation des trains Eurostar a repris dimanche
        l'Opinion
-       « Nous constatons que des points de basculement alarmants sont en
-       train d'être atteints », a alerté le souverain britannique lors de
-       son discours d’ouverture de la conférence des Nations unies sur le
-       climat (COP28), vendredi 1er décembre, à Dubaï
-     * Edito Olivier Baccuzat
-       Editorial
+       Si aucun train ne devrait être annulé, Eurostar prévient dans un
+       communiqué que les rames circuleront à vitesse réduite dans la
+       matinée, ce qui risque d'entraîner des retards
+     * France Travel Eurostar
 
-Un plan de lutte contre le tabac hors-sol
-       Olivier Baccuzat
-       «Une nouvelle fois, la parole publique se décrédibilise par son
-       aptitude à annoncer des mesures factices vouées à rester lettre
-       morte»
-     * Fumeur 28/11/2023 Deprieck
-       Addictions
-
-Alcool et tabac, ce n'est peut-être pas fini pour les hausses de prix
-       Matthieu Deprieck
-       Une proposition de loi soutenue par le groupe Horizons, membre de
-       la majorité présidentielle, propose un dispositif qui réduirait
-       l'achat de cigarettes à l'étranger. Quant au prix de l'alcool, des
-       parlementaires de toutes tendances continuent de proposer des
-       amendements pour en renchérir le coût
-     * Des cigarettes vendues dans un bar-tabac à Douai (photo
-       d’illustration)
-
-Hausses des prix, espaces sans tabac... Le gouvernement dévoile son plan
-anti-tabac 2023-2027
+Grosse pagaille sur les lignes Eurostar, des dizaines de trains annulés
        l'Opinion
-       Le ministre de la Santé a dévoilé mardi le plan national anti-tabac
-       du gouvernement pour la période 2023-2027. Aurélien Rousseau a
-       notamment annoncé deux nouvelles hausses du prix du paquet de
-       cigarettes en 2025 puis 2026, ainsi qu’une extension des espaces
-       sans tabac
-     * Llorca Chronique New
-       Infrapolitique
+       Des milliers de passagers au départ ou à destination de Londres se
+       retrouvent bloqués à cause d'une inondation lors de l’un des
+       week-ends les plus chargés de l’année
+     * Germany Russia Ukraine War
 
-«La France: “ça craque”, mais ça tient encore» – La chronique de Raphaël
-LLorca
-       Raphaël LLorca
-       Dans Ça craque, le journaliste François-Xavier Ménage raconte cinq
-       années de reportages à travers la France. En ressort un tableau
-       sombre... éclairé de quelques motifs d'espoir
-     * Julien Aubert Patrick Pageat 26/11/2023 Tribune libre
+Guerre en Ukraine: le Royaume-Uni va envoyer 200 missiles de défense aérienne
+à Kiev
+       l'Opinion
+       Cette annonce intervient alors que le pays a été la cible,
+       vendredi, d'une attaque massive de missiles et de drones russes. Il
+       s'agit de la plus importante depuis le début de la guerre, qui a
+       touché presque toutes ses grandes villes et fait au moins 31 morts
+     * Marc Roche Chronique
+       Global Britain
 
-«Alerte à la bombe (sanitaire) aux JO» – la tribune de Julien Aubert et
-Patrick Pageat
-       Julien Aubert et Patrick Pageat
-       L'ancien député, président d’Oser la France, et Patrick Pageat,
-       vétérinaire, président de l'Institut de Recherche en Sémiochimie et
-       Éthologie Appliquée (IRSEA), tirent la sonnette d'alarme sur un
-       risque sanitaire peu évoqué mais bien réel
+« Guillaume Le Conquérant, l’aigle à deux têtes » – la chronique de Marc
+Roche
+       Marc Roche
+       La célébration en 2027 du millénaire de la naissance de Guillaume
+       Le Conquérant va projeter l’ancien duché sous les feux de la rampe,
+       à la Une de toute la presse
+     * Manque de main-d'oeuvre Royaume-Uni
+       Paradoxe
+
+Royaume-Uni: «malgré les records d’immigration, nous manquons de
+main-d’œuvre, quelque chose coince»
+       Chloé Goudenhooft
+       L'économie, Outre-Manche, n'a jamais accueilli autant de
+       travailleurs étrangers. Mais les difficultés d'embauche persistent
 
 Pour vous
 
@@ -1509,10 +1508,10 @@ Tendances
 Sujets d’actualités
 
      * Conflit israélo-palestinien
-     * Proche-Orient
-     * La France insoumise (LFI)
-     * Union européenne (UE)
-     * retraites complémentaires
+     * Guerre en Ukraine
+     * Emmanuel Macron
+     * Etats-Unis
+     * Jeux Olympiques
 
 l'Opinion
 
@@ -1620,15 +1619,16 @@ les droits de succession
      * En continu
      * Actualités
        En ce moment
-          + Guerre Israël-Hamas
           + Guerre en Ukraine
-          + COP28
-          + Antisémitisme
-          + Immigration et diversité
-          + Procès d'Éric Dupond-Moretti
+          + Guerre Israël-Hamas
+          + Climat
           + Inflation
+          + Crues et inondations
+          + Antisémitisme
           + Jeux olympiques de Paris 2024
-          + Chine
+          + Le rire malgré tout
+          + Loi « immigration »
+          + Un jour, un miracle
           + Toute l’actualité en continu
        Actualités
           + International
@@ -1659,33 +1659,33 @@ les droits de succession
           + Tribunes éco
           + Cities
           + Le Club de l’économie
-       Le robinier du square René-Viviani, planté en 1601, réputé le plus
-       vieil arbre de Paris, dans le 5ᵉ arrondissement, en 2016. Le
-       robinier du square René-Viviani, planté en 1601, réputé le plus
-       vieil arbre de Paris, dans le 5ᵉ arrondissement, en 2016.
+       Des randonneurs à skis au Granier (Savoie) le 6 décembre 2003. La
+       petite station a arrêté ses remontées mécaniques en 2017. Des
+       randonneurs à skis au Granier (Savoie) le 6 décembre 2003. La
+       petite station a arrêté ses remontées mécaniques en 2017.
        Économie
        Article réservé aux abonnés
-       Le plan de Paris pour ouvrir 300 nouveaux hectares d’espaces verts
-       au public
-       A Rennes, le 22 janvier 2021. A Rennes, le 22 janvier 2021.
-       Chronique
+       Réchauffement climatique : dans les stations, après le ski, la
+       difficile reconversion
+       Epic-Games. Epic-Games. Chronique
        Article réservé aux abonnés
-       Internet : « En matière de messagerie, le gouvernement monte d’un
-       cran ses exigences »
+       Google, Apple vs Epic Games : « Le monopole des géants du numérique
+       s’érode trop doucement »
        Philippe Escande
        Chronique
        Article réservé aux abonnés
-       Défense : « des carnets de commandes pleins, mais des ventes
-       d’armes qui n’ont pas suivi en 2022 »
-       Philippe Escande
+       « La City de Londres s’intéresse de très près au Labour britannique
+       et ce dernier fait tout pour lui plaire »
+       Eric Albert
+       Londres, correspondance
+       Nature morte sur le thème du code du travail et du burn-out Nature
+       morte sur le thème du code du travail et du burn-out
        Tribune
        Article réservé aux abonnés
-       Climat : « Il y a urgence à préciser les contours et l’organisation
-       de la protection sociale écologique du XXIᵉ siècle »
-       Lucas Chancel
-       professeur invité à l’Université de Harvard (Etats-Unis),
-       professeur à Sciences Po Paris et co-directeur du World Inequality
-       Lab à l’Ecole d’Economie de Paris
+       « Les autoentrepreneurs ne peuvent pas effectuer de simulation de
+       leur future pension de retraite »
+       François Hurel
+       Président de l’Union des auto-entrepreneurs
      * Vidéos
           + Vidéos
           + L’actualité
@@ -1693,32 +1693,13 @@ les droits de succession
           + Enquêtes vidéo
           + Les mini-séries
        International
-       L’hôpital Al-Shifa, centre de commandement du Hamas ? Ce que
-       montrent les images
-       Société
+       En images : l’Ukraine touchée par « un nombre record de missiles »
+       lancés par la Russie
+       Le Monde Afrique
        Article réservé aux abonnés
-       « Dubaï connexion, comment blanchir cinquante millions de
-       dollars » : découvrez le troisième épisode de notre série vidéo
-       « Narco Business »
-       Comprendre en 3 minutes
-       Les dirigeables pourraient-ils remplacer l’avion ? Comprendre en
-       trois minutes
+       Comment la France a-t-elle été chassée du Sahel ?
        International
-       Bande de Gaza : avant la guerre, un territoire à l’agonie
-     * Débats
-          + Débats
-          + Editoriaux
-          + Chroniques
-          + Enquêtes idées
-          + Notions
-          + Entretiens idées
-          + Analyses
-          + Tribunes
-       Éditorial
-       Le narcotrafic, puissant facteur de déstabilisation
-       Entretien
-       Article réservé aux abonnés
-       Laïcité : « La tolérance des jeunes Français est bien supérieure </text>
+       Les images de l’embrasement de l’avion de la Japan Airlines </text>
 </page> §
 <page="FR-22">
 <text>    #Flux RSS pour capital.fr
@@ -2163,7 +2144,6 @@ parents?"
        mariage , est ce que mon conjoint doit venir signer chez le notaire
        pour la propriété ? Merci de votre réponse .
        @+
-       Lire la suite
      * 13/07/2021 07:34 Répondre
        Moi
        Bonjour, voilà mon mari et moi sommes mariés sans contrat, la
@@ -2210,17 +2190,17 @@ parents?"
      * droit de la fonction publique
      * droit de la responsabilité publique
      * droit familial
-     * droit de l'université
-     * droit des libertés publiques
      * droit de la responsabilité
-     * urbanisme
+     * droit des libertés publiques
+     * droit de l'université
      * droit européen
      * droit fiscal
+     * urbanisme
      * droit des libertés publiques
      * droit des successions
      * droit de la consommation
-     * droit des libertés publiques
      * droit du dommage corporel
+     * droit des libertés publiques
 
      Présentation
 
@@ -2243,17 +2223,17 @@ parents?"
    droit de la fonction publique
    droit de la responsabilité publique
    droit familial
-   droit de l'université
-   droit des libertés publiques
    droit de la responsabilité
-   urbanisme
+   droit des libertés publiques
+   droit de l'université
    droit européen
    droit fiscal
+   urbanisme
    droit des libertés publiques
    droit des successions
    droit de la consommation
-   droit des libertés publiques
    droit du dommage corporel
+   droit des libertés publiques
    Présentation Contact
 
    Accueil
@@ -2262,7 +2242,7 @@ parents?"
 
 RENONCER A UN HÉRITAGE : C’EST POSSIBLE !
 
-   Publié le 01/03/202101/03/2021 Par SCP Arents-Trennec avocats Vu 6 571
+   Publié le 01/03/202101/03/2021 Par SCP Arents-Trennec avocats Vu 6 797
    fois 0
    Légavox
 
@@ -2455,6 +2435,7 @@ Puis-je revenir sur ma décision de renoncer à mon héritage ?
                o Pourquoi nous soutenir ?
                o Transmettre son patrimoine
                o Espace donateurs
+               o Défiscalisation
           + Mécénat
                o Nos partenaires
           + Nous rejoindre
@@ -2651,272 +2632,6 @@ Ode à la culture
    Plus tôt dans cette journée du 11 octobre 1963, le ministre avait déj</text>
 </page> §
 <page="FR-28">
-<text>   #A la une
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5R3RG2H
-
-       Live Challenges
-       Newsletter Services Magazine
-       Mon compte
-       Mon profil Déconnexion
-       Connexion S’abonner
-
-   ____________________
-
-   S’abonner
-
-          +
-               o Menu
-               o [logo.svg]
-               o
-               o S’abonner
-               o Connexion
-               o Mon compte
-                 Mon profil Déconnexion
-               o
-
-   Challenges, l'actualité de l'économie, de la finance, de l'entreprise
-   et les échos de la Bourse
-
-     *
-     * Entreprise
-     * Economie
-     * Politique
-     * Monde
-     * Médias
-     * Tech
-     * Auto
-     * Emploi
-     * Patrimoine
-     * Luxe
-     * Femmes
-
-   ____________________
-
-   Se connecter Mon compte Se déconnecter
-   Vidéos
-   Challenges Audio
-   Espace débat
-   Entreprise
-     * Défense
-     * Industrie
-     * Grande conso
-     * Automobile
-     * Santé
-     * Transports
-     * Energie
-     * Création d'entreprise
-     * Aéronautique
-     * BTP
-     * Tourisme
-     * Start-up
-     * Environnement
-     * Galeries photos
-     * La voix des dirigeants
-     * Le Colloque
-     *
-
-   Economie
-     * Budget
-     * Fiscalité
-     * Social
-     * Agriculture
-     * Conjoncture
-     * Consommation
-     * SCPI PRIMALIANCE
-     * Les vidéos de l'ESSEC
-     * Meilleurtaux Banques
-     * Galeries photos
-     *
-
-   Politique
-     * LREM
-     * Parti socialiste
-     * Les Républicains
-     * Rassemblement National
-     * Galeries photos
-     *
-
-   Monde
-     * Europe
-     * Etats-Unis
-     * Russie
-     * Moyen-orient
-     * Afrique
-     * Amériques
-     * Asie-Pacifique
-     * Japon
-     * Brics
-     * OCDE
-     * Galeries photos
-     *
-
-   Médias
-     * Audiovisuel
-     * Presse
-     * Digital
-     * Publicité
-     * Edition
-     * GAFA
-     * Galeries photos
-     *
-
-   Tech
-     * French Tech
-     * Télécoms
-     * Jeux vidéo
-     * Test high-tech
-     * Informatique
-     * Grand public
-     * Galeries photos
-     *
-
-   Auto
-     * Actu
-     * Comparatifs
-     * Concept-cars
-     * Essais
-     * Nouveautés
-     * Salons
-     * Voitures propres
-     * Scooters
-     * Galeries photos
-     *
-
-   Emploi
-     * Management
-     * Formation
-     * Rémunération
-     * Marché de l'emploi
-     * Droit du travail
-     * Galeries photos
-     *
-
-   Patrimoine
-     * Epargne
-     * Arts et enchères
-     * Placements
-     * Retraite
-     * Immobilier
-     * Epargne Moniwan
-     * Galeries photos
-     *
-
-   Luxe
-     * Mode
-     * Design
-     * Montres
-     * Gastronomie
-     * Voyage
-     * Lifestyle
-     * Galeries photos
-     *
-
-   Femmes
-   Services
-   Grandes Ecoles
-   Green économie
-
-     *
-          + Menu
-          +
-          + Home
-          + Entreprise
-          + Economie
-          + Politique
-          + Monde
-          + Médias
-          + Tech
-          + Auto
-          + Emploi
-          + Patrimoine
-          + Luxe
-          + Femmes
-          +
-          +
-          + Mon compte
-          + S’abonner
-          + Connexion
-          +
-
-   Israël/Hamas 500 Fortunes de France Grandes écoles Espace débat
-   CYBERSECU Futur
-
-   Fortunes 2023 Idées Entreprise Économie Politique Monde Média High-Tech
-   Automobile Emploi Patrimoine Luxe Femmes
-
-   Partager
-
-   Challenges Femmes
-   Femmes
-
-L’héritage culturel de la France vient aussi des femmes
-
-   Par Anne-Marie Rocco le 15.09.2023 à 07h30 Ecouter 4 min.
-
-   En organisant les "Journées du matrimoine", en écho aux "Journées du
-   patrimoine" qui se déroulent ce week-end dans toute la France, le
-   mouvement HF veut rappeler que les femmes comptent dans notre héritage
-   culturel. Et revaloriser leurs œuvres, trop souvent oubliées.
-   réagir
-   Journées du matrimoine 2022
-
-   Souvent reconnues de leur vivant, les créatrices ont été oubliées par
-   l'histoire de la culture. Ici lors des Journées du matrimoine 2022.
-   Emeric Gallego/Journées du matrimoine
-   Commenter
-
-   Journées du matrimoine 2022
-   L’héritage culturel de la France vient aussi des femmes
-   Anne-Marie Rocco
-   00:00 / 00:00
-   Your browser does not support the audio element.
-
-   Près de 200 événements dans toute la France pour "célébrer les femmes
-   qui ont compté dans notre héritage culturel" : du 15 au 17 septembre,
-   les "Journées du matrimoine" rappelleront au grand public que le
-   "patrimoine" n’est pas seul à définir la culture française. Seront
-   ainsi célébrées, par des spectacles, expositions, lectures ou
-   déambulations, des figures comme l’architecte Marguerite Moinault, les
-   poétesses Anna Akhmatova et Louise Labé, la journaliste Séverine ou
-   encore la compositrice Lili Boulanger.
-
-   Sans oublier l’écrivaine franco-algérienne Assia Djebar, disparue en
-   2015, choisie cette année comme figure emblématique pour les
-   manifestations annoncées en Île-de-France. Lors de la parution de son
-   roman La soif, en 1957, celle qui serait ensuite élue à l’Académie
-   française avait été surnommée "la Françoise Sagan de l’Algérie". Elle
-   avait 21 ans.
-
-Des artistes souvent reconnues de leur vivant
-
-   Au total, pas moins de 500 figures de femmes, longtemps ignorées par
-   les institutions culturelles, seront ainsi mises en lumière. "Beaucoup
-   d’entre elles ont été reconnues de leur vivant, mais l’histoire les a
-   oubliées", résume Marie Guérini, secrétaire générale du mouvement HF
-   qui a initié ces manifestations, à l’instar de la réalisatrice Marie
-   Epstein, qui a pourtant donné son premier rôle à Madeleine Renaud, en
-   1933, dans son film La Maternelle. La prise de conscience remonte à une
-   quinzaine d’années. Marie Guérini se souvient que "tout a commencé avec
-   la publication, en 2006 puis 2009, de deux rapports explosifs de la
-   haute fonctionnaire Reine Prat sur la sous-représentation des femmes
-   dans les métiers de la culture".
-
-   Lire aussiFestivals, streaming, emploi… pourquoi la filière
-   musicale reste sexiste
-
-   Encore aujourd’hui, les chiffres sont cruels : bien que les écoles
-   d’art comptent 63% de femmes parmi leurs étudiants, elles ne
-   représentent que 45% des personnes actives dans les professions
-   culturelles et 17% des autrices-compositrices membres de la SACEM.
-   Seules 20% des œuvres programmées sont des créations féminines, et 16%
-   seulement des opéras sont mis en scène par des femmes… Elles sont aussi
-   les moins récompensées. Si le festival de Cannes a couronné l’œuvre
-   d’une femme en 2023 - Anatomie d’une chute, de Justine Triet – celle-ci
-   n’est que la troisième réalisatrice à être distinguée par une Palme
-   d’or, tandis que Tonie Marshall (décédée en 2020) reste la seule </text>
-</page> §
-<page="FR-29">
 <text>   #RSS 2.0 Atom 1.0
 
    crhi
@@ -3117,137 +2832,7 @@ Lundi 4 décembre 2023 - Workshop REFORM-HERIT #1 - André Masson
    Ce premier workshop sera consacré aux travaux de l’économiste André
    Masson (directeur de recherches au CNRS et directeur d’études </text>
 </page> §
-<page="FR-3">
-<text>   #RSS ATOM
-
-   CorseNetInfos
-     * ACTU RÉGIONALE
-     * FAITS DIVERS
-     * POLITIQUE
-     * FOOTBALL
-          +  FOOTBALL
-          +  S.C Bastia
-          +  A.C Ajaccio
-          +  G.F.C. Ajaccio
-          +  FC Bastia-Borgo
-     * SPORTS
-          +  SPORTS
-          +  Echecs
-          +  Rugby
-          +  Autres Sports
-          +  Autos Motos
-     * VOTRE RÉGION
-          +  Ajaccio
-          +  Bastia
-          +  Balagne
-          +  Centre Corse
-          +  Extrême Sud
-          +  Côte Orientale
-     * MONDE
-     * ANNONCES LÉGALES
-     * CARNET DE DEUIL
-          +  Décès
-          +  Messes
-          +  Remerciements
-
-     *
-          + https://www.corsenetinfos.corsica/draft
-
-   Corse Net Infos - Pure player corse
-     * Accueil
-     * L'actu
-     * Ajaccio
-     * Bastia
-     * Balagne
-     * Centre
-     * Côte Orientale
-     * Sud
-     * Faits divers
-     * Annonce légales
-          + Publier une annonce
-          + Liste des annonces
-
-   Corse Net Infos Corse Net Infos
-   ____________________
-   (BUTTON) Rechercher
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-
-   CorseNetInfos
-     __________________________________________________________________
-
-   Per voi, incù voi in ogni locu - l’info corse en libre accès
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-     __________________________________________________________________
-
-     * Actu régionale
-     * Faits divers
-     * Politique
-     * Football
-          +  Football
-          +  S.C Bastia
-          +  A.C Ajaccio
-          +  G.F.C. Ajaccio
-          +  FC Bastia-Borgo
-     * Sports
-          +  Sports
-          +  Echecs
-          +  Rugby
-          +  Autres Sports
-          +  Autos Motos
-     * Votre région
-          +  Ajaccio
-          +  Bastia
-          +  Balagne
-          +  Centre Corse
-          +  Extrême Sud
-          +  Côte Orientale
-     * Monde
-     * Annonces Légales
-     * Carnet de deuil
-          +  Messes
-          +  Décès
-          +  Remerciements
-     __________________________________________________________________
-
-   CorseNetInfos
-     __________________________________________________________________
-     __________________________________________________________________
-
-   Logiciel d’estimation immobilière : quels usages ? 05/12/2023
-   Miss France Agricole 2024 : Et si la Corse était couronnée ? 04/12/2023
-   ​Ligue 2 – Olivier Pantaloni (ACA) : « On ne craint personne »
-   04/12/2023 Les sapeurs-pompiers de Corse ont célébré la Sainte Barbe
-   04/12/2023
-     __________________________________________________________________
-     __________________________________________________________________
-
-La Toussaint en Corse : Un héritage culturel et spirituel célébré par les
-jeunes
-
-   J.C. le Mercredi 1 Novembre 2023 à 09:33
-
-En Corse la Toussaint incarne le lien vivant entre le passé et le présent.
-Les jeunes générations perpétuant des coutumes séculaires tout en y apportant
-une touche de modernité.
-
-   Photo archives CNI Photo archives CNI
-   Photo archives CNI
-   La Toussaint, célébrée chaque année le 1er novembre, revêt une
-   signification exceptionnelle en Corse. Au-delà de son aspect religieux,
-   elle permet aux jeunes Corses de s'immerger dans des traditions
-   ancestrales transmises par leurs aînés. Pour Mathieu, étudiant </text>
-</page> §
-<page="FR-30">
+<page="FR-29">
 <text>     * Aller au contenu
      * Aller en bas de la page
 
@@ -3431,7 +3016,140 @@ Proposition de loi n°5095
    Patrimoine Bibliothèque et archives Contacts et plan d'accès Photos
    libres de droit</text>
 </page> §
-<page="FR-31">
+<page="FR-3">
+<text>   #RSS ATOM
+
+   CorseNetInfos
+     * ACTU RÉGIONALE
+     * FAITS DIVERS
+     * POLITIQUE
+     * FOOTBALL
+          +  FOOTBALL
+          +  S.C Bastia
+          +  A.C Ajaccio
+          +  G.F.C. Ajaccio
+          +  FC Bastia-Borgo
+     * SPORTS
+          +  SPORTS
+          +  Echecs
+          +  Rugby
+          +  Autres Sports
+          +  Autos Motos
+     * VOTRE RÉGION
+          +  Ajaccio
+          +  Bastia
+          +  Balagne
+          +  Centre Corse
+          +  Extrême Sud
+          +  Côte Orientale
+     * MONDE
+     * ANNONCES LÉGALES
+     * CARNET DE DEUIL
+          +  Décès
+          +  Messes
+          +  Remerciements
+
+     *
+          + https://www.corsenetinfos.corsica/draft
+
+   Corse Net Infos - Pure player corse
+     * Accueil
+     * L'actu
+     * Ajaccio
+     * Bastia
+     * Balagne
+     * Centre
+     * Côte Orientale
+     * Sud
+     * Faits divers
+     * Annonce légales
+          + Publier une annonce
+          + Liste des annonces
+
+   Corse Net Infos Corse Net Infos
+   ____________________
+   (BUTTON) Rechercher
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   CorseNetInfos
+     __________________________________________________________________
+
+   Per voi, incù voi in ogni locu - l’info corse en libre accès
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+     * Actu régionale
+     * Faits divers
+     * Politique
+     * Football
+          +  Football
+          +  S.C Bastia
+          +  A.C Ajaccio
+          +  G.F.C. Ajaccio
+          +  FC Bastia-Borgo
+     * Sports
+          +  Sports
+          +  Echecs
+          +  Rugby
+          +  Autres Sports
+          +  Autos Motos
+     * Votre région
+          +  Ajaccio
+          +  Bastia
+          +  Balagne
+          +  Centre Corse
+          +  Extrême Sud
+          +  Côte Orientale
+     * Monde
+     * Annonces Légales
+     * Consulter les marchés publics
+     * Carnet de deuil
+          +  Messes
+          +  Décès
+          +  Remerciements
+     __________________________________________________________________
+
+   CorseNetInfos
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Barbaggio : attisé par le vent "le feu n'est pas sous contrôle"
+   03/01/2024 En Corse, le pessimisme des médecins traitants libéraux
+   03/01/2024
+   Le "Salon du chocolat de Corse" à l'honneur au festival "Miel Vert" de
+   la Réunion 03/01/2024
+   ​Ajaccio : deux nouveaux quartiers classés prioritaires en 2024
+   03/01/2024
+     __________________________________________________________________
+     __________________________________________________________________
+
+La Toussaint en Corse : Un héritage culturel et spirituel célébré par les
+jeunes
+
+   J.C. le Mercredi 1 Novembre 2023 à 09:33
+
+En Corse la Toussaint incarne le lien vivant entre le passé et le présent.
+Les jeunes générations perpétuant des coutumes séculaires tout en y apportant
+une touche de modernité.
+
+   Photo archives CNI Photo archives CNI
+   Photo archives CNI
+   La Toussaint, célébrée chaque année le 1er novembre, revêt une
+   signification exceptionnelle en Corse. Au-delà de son aspect religieux,
+   elle permet aux jeunes Corses de s'immerger dans des traditions
+   ancestrales transmises par leurs aînés. Pour Mathieu, étudiant </text>
+</page> §
+<page="FR-30">
 <text>   #CIELEDEN » Succession et procédure d’héritage Flux des commentaires
    alternate
 
@@ -3585,7 +3303,7 @@ Rôle et actions menées par le notaire
    Bien entendu, son intervention a un coût et ses honoraires sont
    proportionnels au montant de la succession pour une part, et fixé </text>
 </page> §
-<page="FR-32">
+<page="FR-31">
 <text>
    Malheureusement, votre configuration de navigation actuelle ne vous
    permet pas de naviguer dans de bonnes conditions.
@@ -3643,6 +3361,7 @@ Rôle et actions menées par le notaire
                o Offre Essentiel
                o Globe Trotter
                o Eko by CA
+               o (BUTTON)
                o
           + (BUTTON) Cartes bancaires
                o Cartes bancaires
@@ -3654,6 +3373,7 @@ Rôle et actions menées par le notaire
                o Visa Classic
                o Gold Mastercard
                o Visa Premier
+               o (BUTTON)
                o
           + (BUTTON) Paiement mobile
                o Paiement mobile
@@ -3661,6 +3381,7 @@ Rôle et actions menées par le notaire
                o Paylib
                o Samsung pay
                o Apple pay
+               o (BUTTON)
                o
           + (BUTTON) Actualités et magazines
                o Actualités et magazines
@@ -3670,12 +3391,15 @@ Rôle et actions menées par le notaire
                o Parents
                o Plus de Peps
                o Maison Créative
+               o (BUTTON)
                o
           +
           + Ouvrir un compte
             Nous vous proposons 5 formules, comprenant une carte bancaire
             et des services adaptés à vos besoins quotidiens.
             Ouvrir un compte
+          + (BUTTON)
+          +
      * (BUTTON) Épargne
           + Épargne
           + Toutes nos offres d'épargne
@@ -3689,6 +3413,7 @@ Rôle et actions menées par le notaire
                o LDDS
                o LEP
                o Livret Jeune
+               o (BUTTON)
                o
           + (BUTTON) Assurance vie
                o Assurance vie
@@ -3696,6 +3421,7 @@ Rôle et actions menées par le notaire
                o Comprendre l'assurance vie
                o Floriane 2
                o Prédissime 9 série 2
+               o (BUTTON)
                o
           + (BUTTON) Bourse et placements financiers
                o Bourse et placements financiers
@@ -3703,6 +3429,7 @@ Rôle et actions menées par le notaire
                o Compte titres ordinaire
                o PEA
                o PEA-PME
+               o (BUTTON)
                o
           + (BUTTON) Investissement responsable
                o Investissement responsable
@@ -3710,6 +3437,7 @@ Rôle et actions menées par le notaire
                o Comprendre l'épargne responsable
                o Amundi Valeurs Durables
                o Amundi France Engagement
+               o (BUTTON)
                o
           + (BUTTON) Épargne retraite
                o Épargne retraite
@@ -3718,13 +3446,17 @@ Rôle et actions menées par le notaire
                o
                o PER Compte titres
                o PER Assurance
+               o (BUTTON)
                o
           + (BUTTON) Placement immobilier
                o Placement immobilier
                o Tous nos placements immobilier
                o Prem Opcimmo
+               o (BUTTON)
                o
           +
+          +
+          + (BUTTON)
           +
      * (BUTTON) Assurances
           + Assurances
@@ -3738,6 +3470,7 @@ Rôle et actions menées par le notaire
                o Assurance habitation jeune
                o Assurance garantie locative
                o Télésurveillance
+               o (BUTTON)
                o
           + (BUTTON) Assurances auto et 2 roues
                o Assurances auto et 2 roues
@@ -3749,6 +3482,7 @@ Rôle et actions menées par le notaire
                o Assurance moto
                o Assurance scooter
                o Assurance trottinette électrique
+               o (BUTTON)
                o
           + (BUTTON) Assurances santé et prévoyance
                o Assurances santé et prévoyance
@@ -3760,6 +3494,7 @@ Rôle et actions menées par le notaire
                o Assurance décès
                o Assurance obsèques
                o Téléassistance
+               o (BUTTON)
                o
           + (BUTTON) Assurances loisirs et quotidien
                o Assurances loisirs et quotidien
@@ -3770,14 +3505,18 @@ Rôle et actions menées par le notaire
                o Assurance responsabilité civile
                o Assurance protection juridique
                o Assurance tous mobiles
+               o (BUTTON)
                o
           + (BUTTON) Assurances emprunteur
                o Assurances emprunteur
                o Toutes nos assurances emprunteur
                o Assurance emprunteur crédit conso
                o Assurance emprunteur crédit immobilier
+               o (BUTTON)
                o
           +
+          +
+          + (BUTTON)
           +
      * (BUTTON) Crédits
           + Crédits
@@ -3789,6 +3528,7 @@ Rôle et actions menées par le notaire
                o
                o Prêt immobilier Facilimmo
                o Prêt à taux zéro - PTZ
+               o (BUTTON)
                o
           + (BUTTON) Crédits à la consommation
                o Crédits à la consommation
@@ -3799,6 +3539,7 @@ Rôle et actions menées par le notaire
                o Prêt étudiant
                o Prêt regroupement de crédits
                o Crédit renouvelable
+               o (BUTTON)
                o
           + (BUTTON) Crédits travaux
                o Crédits travaux
@@ -3808,6 +3549,7 @@ Rôle et actions menées par le notaire
                o Prêt travaux
                o Prêt à consommer vert travaux
                o Eco PTZ
+               o (BUTTON)
                o
           + (BUTTON) Crédits véhicules
                o Crédits véhicules
@@ -3819,8 +3561,11 @@ Rôle et actions menées par le notaire
                o LOA / LDD Agilauto
                o Prêt 2 roues
                o Prêt Véhicule de Loisirs
+               o (BUTTON)
                o
           +
+          +
+          + (BUTTON)
           +
      *
      * Outils et conseils
@@ -3831,15 +3576,18 @@ Rôle et actions menées par le notaire
           + (BUTTON) Ma vie d'étudiant / d'apprenti
                o Ma vie d'étudiant / d'apprenti
                o Ma vie d'étudiant / d'apprenti
+               o (BUTTON)
                o
           + (BUTTON) Ma vie de famille
                o Ma vie de famille
                o Ma famille
+               o (BUTTON)
                o
           + (BUTTON) Ma retraite
                o Ma retraite
                o Préparer ma retraite
                o Bien vivre ma retraite
+               o (BUTTON)
                o
           + (BUTTON) Mon argent, mon patrimoine
                o Mon argent, mon patrimoine
@@ -3848,6 +3596,7 @@ Rôle et actions menées par le notaire
                o Gérer mon patrimoine
                o Diversifier mon patrimoine et mon placement
                o Le guide de la Bourse
+               o (BUTTON)
                o
           + (BUTTON) Mon logement
                o Mon logement
@@ -3856,23 +3605,29 @@ Rôle et actions menées par le notaire
                o Réaliser des travaux
                o Déménager et m'installer
                o Rechercher un logement
+               o (BUTTON)
                o
           + (BUTTON) Mon véhicule
                o Mon véhicule
                o Mon véhicule
+               o (BUTTON)
                o
           + (BUTTON) Ma protection et celle de mes proches
                o Ma protection et celle de mes proches
                o Ma protection et celle de mes proches
+               o (BUTTON)
                o
           + (BUTTON) Mes coups durs
                o Mes coups durs
                o Mes coups durs
                o Maîtrisez votre budget
+               o (BUTTON)
                o
           +
+          + (BUTTON)
+          +
      * Besoin d'aide ?
-     * (BUTTON) Foire aux question
+     * (BUTTON) Foire aux questions
      * (BUTTON) Trouver une agence
      * (BUTTON) Nous contacter
      * Je ne suis pas un particulier
@@ -3985,7 +3740,7 @@ COMMENT SE DÉROULE UNE SUCCESSION APRES UN DÉCÈS ?
 
    Une succession débute par son ouverture qui survient automatiquement </text>
 </page> §
-<page="FR-33">
+<page="FR-32">
 <text>   #alternate
 
    Skip to main content
@@ -4039,360 +3794,7 @@ décès ?
    messagerie comprend des droits personnels : le droit au respect de la
    vie privée, qui englobe le secret des correspondances et le droit </text>
 </page> §
-<page="FR-34">
-<text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KS2SD22
-
-   Gestion du consentement
-
-   IFRAME:
-   //cstatic.weborama.fr/iframe/customers/premium.html?idEditeur=1178idSi
-   te=266
-
-   Aller au contenu principal
-
-     * Aller au contenu
-     * Aller au menu
-
-     * Evénements  salons
-     * Boutique le Revenu
-     * Espace personnel
-
-   Le Revenu, conseils boursiers et placements financiers en continu
-   ____________________
-   (BUTTON) Valider
-   S'abonner 
-   Accueil
-   (BUTTON) Menu
-     * Accueil
-     * Accueil
-     * Placements
-       Actualités Placements
-          + Manor PHX
-          +
-          + nike outlets sell jordan 1
-          + Панама adidas bucket - Ransom by adidas Bluff Lo
-            #039;Fairway#039; - IetpShops
-          + 104 - Air Jordan 4 Laser Black kaufen kannst - Jordan Legacy
-            312 Storm Blue - AQ4160
-          + air jordan 1 mid crater grey
-          + air jordan 4 white tech grey black fire red ct8527 100 release
-            date
-          + nike dunk high cargo khaki white
-          + buy air jordan 1 twist panda cd0461 007 store list
-          + cheap nike sb dunk high new york mets cloud grey rush blue
-            team orange white 2022 for sale dh7155 001
-          + Assurance vie
-          + Livrets et placements bancaires
-          + Sicav et FCP
-          + Retraite
-          + Economie
-          + Epargne salariale
-          + Art, Vin et Collection
-       EVENEMENTS
-          + Réunions Placements
-       Comparateur de livrets
-     * Immobilier
-       Actualités Immobilier
-          + Prix de l'immobilier
-          + Investissement locatif
-          + Prêt immobilier
-          + SCPI
-          + Défiscalisation immobilière
-          + Copropriété
-          + Impôts locaux
-     * Bourse
-       Actualités Bourse
-          + Cours de bourse
-          + Cote Sicav  FCP
-          + Palmarès
-          + Devises
-          + Indices boursiers
-          + Or et matières premières
-          + Obligations
-          + Trackers
-          + Warrants et Turbos
-       CONSEILS
-          + Conseil du jour
-          + Valeurs en vue
-       AGENDA
-          + Réunions Actionnaires
-          + Evénements des sociétés
-       Comparateur de courtiers
-     * Impôts  droits
-       Actualités Impôts  Droits
-          + Impôt sur le revenu
-          + Fiscalité des placements
-          + IFI (ex-ISF)
-          + Droits de succession
-          + Défiscalisation
-          + Droits de la famille
-          + Droits du consommateur
-     * Finances privées
-       Actualités Finances privées
-          + Banque
-          + Assurance et prévoyance
-          + Gestion du patrimoine
-     * |
-     * TV
-       Le Revenu TV
-          + Bourse : la hausse/baisse du jour
-          + Chiffres Clés
-          + La parole aux dirigeants de sociétés
-          + Les entretiens d'experts de la finance
-          + Web Conférence
-          + L'Hebdo du Revenu
-          + Point Marchés
-          + Les Quiz du Revenu
-       Pédagogie
-          + La Minute Retraite
-          + La Minute de l'Assurance Vie
-          + Questions d'argent
-          + L'indicateur de l'immobilier
-          + Conseils Gagnants
-     * NEWSLETTER
-
-     * Déclaration Impôts 2023
-     * |
-     *
-     * |
-     * boutique
-     * mon compte
-
-   Conseils en Bourse et Placements  Impôts et Droits  Droits de
-   succession  Vers un héritage plus productif !
-
-   Abonnés, accédez à vos publications numériques
-   (BUTTON) Fermer
-
-Vers un héritage plus productif !
-
-   Tribune libre de Jean-François Faure
-   Une tribune libre de Jean-François Faure, PDG-fondateur d’AuCoffre.com.
-   (© DR)
-     * Facebook
-     * Twitter
-     * Google +
-     * Imprimer
-     * email
-     * email
-
-   Droits de succession
-
-   Par Jean-François Faure
-
-   Publié le 12/02/2022 à 18:04 - Mis à jour le 12/02/2022 à 18:04
-
-La transmission est un sujet qui s’est invité dès le début de la campagne
-présidentielle 2022. Pour les candidats, le sujet de l’héritage est un sujet
-important puisqu’il intéresse particulièrement le vaste électorat des
-seniors. Et surtout, c’est un domaine sur lequel les élus peuvent agir par la
-fiscalité. Par Jean-François Faure, PDG-fondateur d’AuCoffre.com, une
-entreprise familiale de stockage de métaux précieux.
-
-   Et, si finalement, à droite et à gauche, on se trompait totalement
-   d’approche sur l’héritage ?
-
-A lire aussi
-
-   Publié le 10/11/2021
-
-   Succession : quatre décisions à prendre vers 65 ans
-
-   Publié le 29/08/2021
-
-   Transmission : ces avantages fiscaux qui pourraient être menacés
-
-   Publié le 17/07/2021
-
-   Donations : et si vous ne payiez pas l'impôt tout de suite
-
-Éviter de payer des droits de succession, un sport national
-
-   Tout d’abord, il faut le dire, de nombreuses familles n’ont pas à payer
-   d’impôt sur la succession en raison des abattements : le conjoint
-   (marié ou pacsé) est entièrement exonéré, les ascendants/descendants
-   directs (parents, enfants) bénéficient d’un abattement de 100.000
-   euros.
-
-   Vient ensuite l’assurance vie, produit d’épargne préféré des Français.
-   Pour les contrats signés après 1991 (qui eux sont totalement exonérés),
-   seules les primes versées après 70 ans sont taxées. Et puis les dons
-   réalisés au cours de la vie permettent aussi d’éviter que les héritiers
-   paient des impôts au moment du décès. 100.000 euros d’abattement sur du
-   patrimoine donné de son vivant tous les 15 ans, plus une possibilité
-   d’exonérer 31.865 euros en numéraire.
-
-   Donc, les outils d’abattement et d’exonération existent. la solution ne
-   serait donc pas de réduire ou d’augmenter la fiscalité sur la
-   succession, mais bien d’arriver à orienter la transmission vers la
-   production de richesse. En effet, comme l’a constaté le CAE (Conseil
-   d’analyse économique, groupement d’économistes) en 2021, 60% du
-   patrimoine total provient d’un héritage alors que ce n’était que 35% en
-   1970.
-
-   Et avec le vieillissement de la population on constate aussi que les
-   sommes transmises à 60 ans (décès des parents à 80/85 ans) ne sont pas
-   réinjectées dans l’économie mais souvent épargnées, au mieux, investies
-   dans l’immobilier.
-
-Inciter à transmettre le plus jeune possible !
-
-   S’il y a une réforme à mener sur la fiscalité des successions, c’est
-   bien de prendre en compte obligatoirement l’âge du donateur. On peut
-   imaginer que plus il transmet jeune, moins il est imposé. Cela reprend
-   le principe bien connu des propriétaires d’entreprises familiales avec
-   le pacte Dutreil.
-
-   Pour faciliter la transmission du patrimoine professionnel aux
-   héritiers, cette loi inscrit une exonération de l’assiette taxable de
-   75%. Et si l’entreprise est cédée en pleine propriété avant les 70 ans
-   du propriétaire, alors une réduction de 50% des droits est accordée.
-
-   Pour le patrimoine immobilier, on retrouve aussi cet esprit, avec la
-   transmission en nue-propriété. Tous les 10 ans, les taxes augmentent de
-   10%. Attention, le changement de taux intervient dans la première année
-   de chaque décennie (41 ans, 51, 61, etc.).
-
-Favoriser la réutilisation des fonds transmis
-
-   L’autre élément à prendre en compte est l’usage de l’héritage. Trop
-   souvent, notamment avec les héritiers de plus de 60 ans, cet argent est
-   épargné, stocké, dans l’attente d’être à nouveau transmis aux suivants
-   20 ans plus tard…. qui risquent à leur tour de faire la même chose.
-
-   IFRAME: https://lerevenu-news.com/qlr/formulaire-qlr.php
-
-   Pour être certain que ces fonds soient injectés dans l’économie réelle,
-   il faut cibler la défiscalisation sur les dons ou les legs aux actifs,
-   ceux qui ont un besoin immédiat d'argent pour se former ou se loger :
-   les petits enfants par exemple.
-
-   L’autre solution est de réduire la fiscalité sur les sommes investies
-   au capital des entreprises détenues par l’héritier ou bien encore vers
-   les PME familiales. Les investissements pour la transition
-   environnementale pourraient aussi bénéficier d’abattements.
-
-   Il s’agit donc de revaloriser le fruit de l’héritage, de le remettre
-   dans la machine économique, sans retirer aux héritiers le droit de
-   bénéficier du patrimoine de leurs anciens.
-     * Tribune libre
-
-6 bonnes raisons de vous abonner au Revenu
-
-   decouverte
-     * 1. Bénéficiez d'une Offre Globale privilégiée.
-     * 2. Ne laissez passer aucun numéro et bénéficiez d'une économie
-       importante.
-     * 3. Dès le vendredi matin, consultez Le Revenu en édition numérique.
-     * 4. Profitez de Conseils privés.
-     * 5. Recevez 5 Guides Thématiques par an.
-     * 6. Le Revenu vous défend dans son journal.
-
-Découvrez le mode de lecture confortable
-
-   Se connecter
-
-A ne pas manquer
-
-Les derniers articles Droits de succession
-
-   Main avec un bitcoin
-
-   Succession : que deviennent les crypto-actifs une fois leur
-   propriétaire disparu
-
-   Droits de succession
-
-   Par Thomas Chenel
-   dessin cimetière.
-
-   Succession : ces aides sociales que vos héritiers devront rembourser
-
-   Droits de succession
-
-   Par Christine Blondel
-   Poignée de mains
-
-   Comment résoudre un conflit avec un notaire
-
-   Droits de succession
-
-   Par Christine Blondel
-
-Tribune libre
-
-   Chloë Gauquelin
-
-   Propriétaires-bailleurs, faites de la rénovation énergétique une
-   opération gagnante
-
-   Immobilier
-
-   Par Chloë Gauquelin
-   Visuel assurance vie
-
-   Assurance vie : l’art d’optimiser ses retraits
-
-   Fiscalité des placements
-
-   Par Fabrice de Longevialle
-   Tribune d'Alexis Bussac
-
-   Taxe foncière : pourquoi elle a flambé cette année
-
-   Impôts locaux
-
-   Par Alexis Bussac
-
-Les dernières vidéos
-
-   Stellane Cohen (Altaprofits)
-
-   Stellane Cohen (Altaprofits) : «L'assurance vie est résiliente»
-   Vignette Christian Fontaine
-
-   Pour réduire l’impôt sur vos plus-values boursières, vous devez agir
-   avant le 31 décembre
-   Vignette dividendes
-
-   1.630 milliards de dollars : les dividendes mondiaux en 2023
-
-Les derniers articles abonnés
-
-   Cuisinela company
-
-   Elior : en cours de redressement
-
-   Valeurs en vue
-
-   Par Hubert Couëdic
-   Logo Manitou
-
-   Manitou : objectif de marge relevé
-
-   Conseil du jour
-
-   Par Hubert Couëdic
-   interieur appartement vide
-
-   Taxe sur les logements vacants : davantage de propriétaires concernés
-
-   Impôts locaux
-
-   Par Myriam Simon
-
-Vidéos à la une
-
-     * Stellane Cohen (Altaprofits) Les entretiens d'experts de la finance
-
-Stellane Cohen (Altaprofits) : «L'assurance vie est résiliente»
-     * Vignette Christian Fontaine Questions d'argent
-
-Pour réduire l’impôt sur vos plus-values boursières, vous devez agir avant le
-31 décembre
-       C’est le moment de vendre vos lignes de titres en perte quitte </text>
-</page> §
-<page="FR-35">
+<page="FR-33">
 <text>   #HéritageCivilisation - RSS
 
    top of page
@@ -4457,6 +3859,11 @@ Pour réduire l’impôt sur vos plus-values boursières, vous devez agir avant 
 
 ACTUALITÉS
 
+   LA NEWSLETTER novembre-décembre 2023 : Héritage  Civilisation a besoin
+   de votre soutien !
+
+   LA NEWSLETTER novembre-décembre 2023 : Héritage  Civilisation a besoin
+   de votre soutien !
    LA NEWSLETTER Octobre 2023 : Héritage  Civilisation sur tous les
    fronts !
 
@@ -4465,11 +3872,6 @@ ACTUALITÉS
    HC - LA NEWSLETTER Septembre 2023 : Le programme Odyssée s'étoffe
 
    HC - LA NEWSLETTER Septembre 2023 : Le programme Odyssée s'étoffe
-   Héritage  Civilisation - LA NEWSLETTER Juillet 2023 : Les ambassadeurs
-   du patrimoine à Hébron
-
-   Héritage  Civilisation - LA NEWSLETTER Juillet 2023 : Les ambassadeurs
-   du patrimoine à Hébron
 
 LA PRESSE EN PARLE
 
@@ -4615,17 +4017,10 @@ ADRESSE
    contact@heritagecivilisation.com
 
     + 33 (0)7 87 41 11 51
-
-ABONNEZ-VOUS À NOTRE NEWSLETTER
-
-   ____________________
-   ____________________
-   ____________________
-   (BUTTON) S'inscrire maintenant
-
-   Merci pour votre envoi !
    membre clubs unesco
    académie_de_Limoges.jpg
+
+ABONNEZ-VOUS A NOTRE NEWSLETTER
 
 ACCÈS RAPIDE
 
@@ -4642,7 +4037,7 @@ ACCÈS RAPIDE
 
    bottom of page</text>
 </page> §
-<page="FR-36">
+<page="FR-34">
 <text>   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KJSH3X
 
    (BUTTON) Fermer
@@ -4903,10 +4298,10 @@ Si Pasteur avait été chirurgien
    flambage rapide. (…) Je n’emploierais que de la charpie, des
    bandelettes et des éponges, préalablement exposées dans un air porté </text>
 </page> §
-<page="FR-37">
+<page="FR-35">
 <text>   REFRESH(600 sec):
    file://localhost/Users/jeevyaroun/Desktop/M1_TAL_S1/PPE1/PPE1-groupWork
-   /aspirations/FR-37.html
+   /aspirations/FR-35.html
    #Recherche sur Boursorama
 
    Aller au contenu principal Activer le contraste adaptéDésactiver le
@@ -4921,30 +4316,28 @@ Si Pasteur avait été chirurgien
    ____________________
    (BUTTON)
    (BUTTON) Menu
-    1. (BUTTON)
-       Rechercher
+    1. (BUTTON) Rechercher
     2. Aide
     3.
          1. (BUTTON) Espace Membre
-         2. Espace Client
+         2. (BUTTON) Espace Client
          3. (BUTTON) Connexion
             (BUTTON)
                o Sur quel site souhaitez-vous vous connecter ?
-               o Accès Espace Client BoursoBank
+               o (BUTTON) Accès Espace Client BoursoBank
                o (BUTTON) Espace Membre Boursorama.com
 
    (BUTTON) Menu
 
-    1. (BUTTON)
-       Rechercher
+    1. (BUTTON) Rechercher
     2. Aide
     3.
          1. (BUTTON) Espace Membre
-         2. Espace Client
+         2. (BUTTON) Espace Client
          3. (BUTTON) Connexion
             (BUTTON)
                o Sur quel site souhaitez-vous vous connecter ?
-               o Accès Espace Client BoursoBank
+               o (BUTTON) Accès Espace Client BoursoBank
                o (BUTTON) Espace Membre Boursorama.com
 
    (BUTTON)
@@ -5150,7 +4543,7 @@ Si Pasteur avait été chirurgien
      *
 
    Connectez-vous pour conserver cet article et le lire plus tard.
-   (BUTTON) Connexion membre Connexion client
+   (BUTTON) Connexion membre (BUTTON) Connexion Client
    Nouveau sur Boursorama ? Devenez membre gratuitement
 
 Succession et héritage: qui hérite s’il n’y a ni enfant ni conjoint?
@@ -5199,7 +4592,7 @@ Un ordre de succession déterminé par le Code civil
    Quand une personne célibataire décède sans enfant et sans avoir établi
    de testament , la loi désigne ses héritiers et la quote-part réservée </text>
 </page> §
-<page="FR-38">
+<page="FR-36">
 <text>   UMR
      * Recevoir la documentation
      * Demander une étude gratuite
@@ -5355,7 +4748,7 @@ Un ordre de succession déterminé par le Code civil
 
    En Allemagne, le taux marginal d'imposition en ligne directe s'élève </text>
 </page> §
-<page="FR-39">
+<page="FR-37">
 <text>   Your Europe
 
    (BUTTON) frfrançais
@@ -5523,11 +4916,11 @@ Un ordre de succession déterminé par le Code civil
                     # Taxes automobiles dans un autre pays de l'UE
           + Formalités de séjour
                o Droits de séjour
-                    # Travailleurs – Droits de séjour
-                    # Étudiants – Droits de séjour
-                    # Droits de séjour des retraités
-                    # Demandeurs d'emploi – Droits de séjour
                     # Citoyens de l'UE économiquement non actifs
+                    # Demandeurs d'emploi – Droits de séjour
+                    # Droits de séjour des retraités
+                    # Étudiants – Droits de séjour
+                    # Travailleurs – Droits de séjour
                o Droit de séjour pour les familles
                     # Conjoints et enfants ressortissants de l'UE
                     # Conjoints et enfants non ressortissants de l'UE
@@ -5546,8 +4939,8 @@ Un ordre de succession déterminé par le Code civil
                       ressortissants de l'UE
                     # Séjour permanent des ressortissants de l’UE après
                       cinq ans
-                    # Séjour permanent ( 5 ans) pour les membres de la
-                      famille n'ayant pas la citoyenneté européenne
+                    # Séjour permanent des membres de la famille non
+                      ressortissants de l'UE
                o Élections à l'étranger
                     # Élections municipales
                     # Élections européennes
@@ -5574,90 +4967,7 @@ Un ordre de succession déterminé par le Code civil
                     # Stages – Aide financière
                o Volontariat dans l’UE et au-del</text>
 </page> §
-<page="FR-4">
-<text>     * Contenu
-     * Lecteur audio
-     * Menu
-     * Pied de page
-
-   Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
-   tendre vers le rien."
-     * (BUTTON) Menu
-     * (BUTTON) Radios
-          +
-          +
-          +
-          +
-          +
-          +
-          +
-     * Podcasts
-     * (BUTTON) Catégories
-          + Sciences et Savoirs
-          + Société
-          + Environnement
-          + Arts et Divertissements
-          + Monde
-          + Politique
-          + Économie
-          + Cellule Investigation
-          + Vie quotidienne
-          + Bien-être
-          + Enfants
-          + Sports
-          + Actualités musicales
-          + Espace musique
-          + Concerts
-          + Fictions
-     * Espace musique
-     * Radio France, aller à la page d'accueil
-     * Rechercher
-     * Se connecter
-     * Votre avis
-
-     *
-     * Grille des programmes
-     * Podcasts
-     * Fictions
-     * Documentaires
-     * Savoirs
-     * Arts et Création
-
-   Portrait d'Anne Nguyen
-   Portrait d'Anne Nguyen - Philippe Gramard Portrait d'Anne Nguyen -
-   Philippe Gramard
-   (BUTTON)
-
-Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
-tendre vers le rien."
-
-   Mercredi 19 avril 2023
-   (BUTTON)
-   écouter  (55 min)
-   (BUTTON)
-   (BUTTON)
-   Portrait d'Anne Nguyen - Philippe Gramard
-   Publicité
-   Publicité
-   Publicité
-   Affaires culturelles carré
-   Provenant du podcast Affaires culturelles
-   (BUTTON) Contacter Contacter l'émission
-   (BUTTON)
-
-Alors qu’elle présente “MATIÈRE(S) PREMIÈRE(S)”, Ballet de danses africaines
-urbaines dans le cadre de la Biennale de danse du Val-de-Marne, la danseuse,
-chorégraphe, metteuse en scène et autrice Anne Nguyen revient avec nous sur
-son riche parcours
-
-   Avec
-     * Anne Nguyen Chorégraphe
-
-   Formée à l’école exigeante des arts martiaux, c’est à Montréal qu’Anne
-   Nguyen prend part pour les premières fois à l’effervescence du milieu
-   des battles. De retour en France, “B-girl Anne” ne tarde pas </text>
-</page> §
-<page="FR-40">
+<page="FR-38">
 <text>   #Add PHP.net search PHP Release feed PHP: Hypertext Preprocessor
    alternate contents index prev next alternate alternate alternate
    alternate alternate alternate alternate alternate alternate
@@ -5671,6 +4981,8 @@ son riche parcours
      * php8.3
 
    ____________________
+
+   PHP Conference Kansai 2024
 
    Getting Started
           Introduction
@@ -5891,7 +5203,7 @@ Compatibilité des types de retour avec les classes internes
 
    À partir de PHP 8.1.0, la plupart des méthodes internes ont commencé </text>
 </page> §
-<page="FR-41">
+<page="FR-39">
 <text>   #alternate
 
    Aller au contenu principal
@@ -6056,6 +5368,7 @@ Mission et organisation
           + Comité d'histoire
           + Collège Terminologie et langue française
           + Conseillers techniques
+          + Filière sport
           + Observatoire de l'économie du sport
 
 La ministre
@@ -6120,7 +5433,89 @@ Un héritage utile et durable
    4 000 logements, dont 40 % de logements sociaux peu énergivores et
    adaptés au climat de 2050, seront ainsi légués à la Seine-Saint-Denis </text>
 </page> §
-<page="FR-42">
+<page="FR-4">
+<text>     * Contenu
+     * Lecteur audio
+     * Menu
+     * Pied de page
+
+   Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
+   tendre vers le rien."
+     * (BUTTON) Menu
+     * (BUTTON) Radios
+          +
+          +
+          +
+          +
+          +
+          +
+          +
+     * Podcasts
+     * (BUTTON) Catégories
+          + Sciences et Savoirs
+          + Société
+          + Environnement
+          + Arts et Divertissements
+          + Monde
+          + Politique
+          + Économie
+          + Cellule Investigation
+          + Vie quotidienne
+          + Bien-être
+          + Enfants
+          + Sports
+          + Actualités musicales
+          + Espace musique
+          + Concerts
+          + Fictions
+     * Espace musique
+     * Radio France, aller à la page d'accueil
+     * Rechercher
+     * Se connecter
+     * Votre avis
+
+     *
+     * Grille des programmes
+     * Podcasts
+     * Fictions
+     * Documentaires
+     * Savoirs
+     * Arts et Création
+
+   Portrait d'Anne Nguyen - Philippe Gramard Portrait d'Anne Nguyen -
+   Philippe Gramard
+   (BUTTON)
+
+Anne Nguyen : "Sans patrimoine et sans héritage culturels, on finit par
+tendre vers le rien."
+
+   Mercredi 19 avril 2023
+   (BUTTON)
+   écouter  (55 min)
+   (BUTTON)
+   (BUTTON)
+   Portrait d'Anne Nguyen - Philippe Gramard
+   Publicité
+   Publicité
+   Publicité
+   Affaires culturelles carré
+   Provenant du podcast Affaires culturelles
+   (BUTTON) Contacter Contacter l'émission
+   (BUTTON)
+
+Alors qu’elle présente “MATIÈRE(S) PREMIÈRE(S)”, Ballet de danses africaines
+urbaines dans le cadre de la Biennale de danse du Val-de-Marne, la danseuse,
+chorégraphe, metteuse en scène et autrice Anne Nguyen revient avec nous sur
+son riche parcours
+
+   Avec
+     * Anne Nguyen Chorégraphe
+
+   Formée à l’école exigeante des arts martiaux, c’est à Montréal qu’Anne
+   Nguyen prend part pour les premières fois à l’effervescence du milieu
+   des battles. De retour en France, “B-girl Anne” ne tarde pas </text>
+</page> §
+<page="FR-40">
 <text>   Passer au contenu
      * Radio France
      * France Inter
@@ -6138,13 +5533,14 @@ Un héritage utile et durable
 
    Le média
    de la vie locale
-   (BUTTON) Logo France 3 Regarder
-   (BUTTON) Logo France Bleu Écouter
-   (BUTTON) Logo France 3 Regarder la TV
-   (BUTTON) Logo France Bleu Écouter la radio
-     * En ce moment
-     * Monique Olivier
-     * Guerre Israël-Hamas
+   (BUTTON) France 3 Regarder
+   (BUTTON) France Bleu Écouter
+   (BUTTON) France 3 Regarder la TV
+   (BUTTON) France Bleu Écouter la radio
+
+   En ce moment
+     * Alerte météo
+     * Fêtes de fin d'année
 
    (BUTTON) ⓘ Publicité
    Logo France Bleu
@@ -6155,7 +5551,90 @@ Un héritage utile et durable
      * Culture - Loisirs
      * Manau, Soldat Louis et l'Héritage Goldman en concert en Dordogne </text>
 </page> §
-<page="FR-43">
+<page="FR-41">
+<text>   Maître LELACHE - Avocate Versailles - 7 rue Jean MERMOZ - Bâtiment D -
+   78000 - VERSAILLES
+
+   Blog | Contact | 01 39 53 44 01 | Accueil
+   Flore LELACHE Flore LELACHE
+     *
+     * Me LELACHE
+          + Maître Lelache, avocate à Versailles
+          + La justice éclairée® par Flore Lelache
+          + Le cabinet d'avocats à Versailles
+          + Les honoraires du cabinet
+          + Partenariats et liens utiles
+     * Divorce
+          + Le divorce par consentement mutuel
+          + Le divorce devant le juge aux affaires familiales
+          + La liquidation du régime matrimonial
+     * Enfants
+          + Droits de visite et d’hébergement
+          + Pensions alimentaires
+          + La non représentation d'enfants
+          + Assistance éducative
+          + L’abandon de famille
+     * Successions
+          + Le contentieux successoral
+          + Une avocate pour votre héritage
+     * Salarié
+          + La défense du salarié
+     * Médiation
+          + Flore LELACHE, médiatrice engagée
+     * Blog
+          + Contacter le cabinet
+          + Le blog de Maître Lelache
+          + Vos questions fréquentes
+
+Le blog de Maître Lelache
+
+    1. Accueil
+    2. Blog
+    3. Le blog de Maître Lelache
+    4. Succession
+    5. Héritage mode d’emploi : les intervenants autour de la succession
+
+          9 septembre 2020
+
+Héritage mode d’emploi : les intervenants autour de la succession
+
+   Au décès d’un parent, ses proches peuvent se sentir seuls et
+   abandonnés. Pourtant ils vont découvrir de multiples intervenants tout
+   au long de la succession.
+
+   En même temps que le deuil, les nombreuses démarches administratives et
+   juridiques nécessitent d’avoir bien les pieds sur terre. En cas de
+   mésentente entre les héritiers, il est important de vous faire
+   accompagner au plus vite par des professionnels expérimentés, qui vous
+   permettront d’obtenir la meilleure part de votre héritage.
+
+   Dès la phase amiable, et avant tout contentieux, les conseils
+   personnalisés d’un avocat en droit des successions vous seront très
+   utiles, puisque les intérêts des héritiers peuvent être divergents. De
+   plus, certains délais commencent à courir à compter du décès du défunt,
+   et il s’agit d’être réactif et efficace pour rassembler des preuves.
+
+   Je vous livre ici ce qu’il vous faut savoir afin de mieux comprendre la
+   terminologie juridique, les rôles de chacun et les erreurs à ne pas
+   commettre.
+
+Les héritiers se partagent le patrimoine du défunt
+
+   L’époux survivant : Il ou elle hérite, mais sa part dans la succession
+   du défunt dépend du régime matrimonial des époux (contrat de mariage
+   instaurant le régime de la séparation de biens, ou le régime de la
+   communauté universelle, ou régime légal de la communauté réduite aux
+   acquêts), des éventuelles donations entre époux, et de la présence ou
+   non d’enfants du défunt. Il a la priorité pour choisir le notaire qui
+   sera chargé de la succession.
+
+   Les héritiers réservataires : ce sont en priorité les enfants du
+   défunt. En cas d’absence d’enfants, ce sont les parents et frères et
+   sœurs du défunt.
+
+   La règle de la représentation permet aux enfants d’un héritier déj</text>
+</page> §
+<page="FR-42">
 <text>   #Lawperationnel - Schaeffer Avocat » Flux Lawperationnel - Schaeffer
    Avocat » Flux des commentaires Lawperationnel - Schaeffer Avocat »
    Héritage et succession pourquoi faire appel à un avocat ? Flux des
@@ -6266,7 +5745,7 @@ Contester un testament
 
    L’avocat pourra alors saisir les tribunaux et agira de sorte </text>
 </page> §
-<page="FR-44">
+<page="FR-43">
 <text>   #Comarketing-News » Flux Comarketing-News » Flux des commentaires
    alternate alternate alternate
 
@@ -6300,34 +5779,31 @@ Contester un testament
 Comarketing-News
 
      * Insights
-          + Noël : 1 Français sur 2 achètera sur Amazon
-          + Quelle sera la tendance marquante du marketing en 2024 ?
-          + Black Friday 2023 : une édition marquée par l’inflation
-          + Etude : Comment consommerons-nous en 2035 ?
-          + Les 6 grandes évolutions de la communication
+          + Pouvoir d’achat : les Français pessimistes pour 2024…
+          + L’IA, une opportunité pour les communicants
+          + BtoB : les 100 marques les plus inspirantes du monde
+          + “Data Never Sleeps” : les chiffres fous du numérique
+          + Expérience client : les 8 tendances UGC qui feront 2024
      * Digital
-          + Le metaverse, un gouffre sans fond pour Meta ?
-          + La fièvre ChatGPT ne retombe pas
-          + L’expérience numérique, nouveau critère de la fidélisation
-            client…
-          + Les Français passent presque 4h par jour sur les applications
-            mobiles
-          + 2024, année de l’IA pour les professionnels du marketing
+          + “Data Never Sleeps” : les chiffres fous du numérique
+          + Les directions marketing misent tout sur l’IA générative
+          + 10 tendances du marketing d’affiliation pour 2024
+          + IA générative : où en sont les entreprises européennes ?
+          + Applications mobiles : qui tirera son épingle du jeu en 2024 ?
      * Data
+          + Expérience client : marques et consommateurs ne sont pas sur
+            la même longueur d’ondes
           + Comment s’appuyer sur la data à chaque étape du cycle de vie
             client ?
           + L’IA peut désormais « écouter » vos mots de passe
           + Cyberattaques : les petites entreprises ne sont plus épargnées
           + Le e-commerce à l’ère de l’IA générative
-          + L’importance de la protection des données dans la relation
-            client
      * E-commerce
+          + Le phénomène des fake shops monte en flèche
+          + Le paysage de l’e-commerce à l’horizon 2024
+          + Résultats du Black Friday 2023 : ce qu’il faut retenir
           + Noël : 1 Français sur 2 achètera sur Amazon
           + Black Friday 2023 : une édition marquée par l’inflation
-          + Les chiffres-clés d’Amazon en Europe
-          + Noël : la rapidité de livraison, priorité absolue des
-            acheteurs
-          + Les consommateurs ont du mal à résister aux super soldes
      * Email
           + L’email reste l’action marketing la plus rentable
           + Clickbait, comment éviter les pièges à clic ?
@@ -6336,24 +5812,27 @@ Comarketing-News
           + chiffres email
             8 raisons d’automatiser vos campagnes emailing
      * Social Media
+          + L’année 2023 résumée en 10 hashtags
+          + Marques et réseaux sociaux : quelles stratégies en 2024 ?
+          + Les boomers et les réseaux sociaux
+          + Les Français et les marques sur les réseaux sociaux
           + Comment la Gen Z consomme le contenu
-          + Social Media : les tendances à suivre en 2024
-          + Marques : comment construire une communauté engagée
-          + Comment la “désinfluence” incite à davantage de transparence
-          + Génération X : les oubliés des réseaux sociaux ?
      * Tribunes
+          + La data au service du luxe de seconde main
+          + Quelles seront les priorités des marketeurs en 2024 ?
+          + De l’idée à la réalisation : l’alchimie complexe de la
+            création d’une startup
           + IA générative : vers une prolifération des Deep Fake en 2024 ?
           + Comment s’appuyer sur la data à chaque étape du cycle de vie
             client ?
-          + L’IA peut désormais « écouter » vos mots de passe
-          + Noël et e-commerce : quels défis pour le commerce en ligne ?
-          + IA générative et relation client : 6 cas d’usages concrets
      * Ressources
           + Comment rendre un document Word remplissable ?
           + Marketing : 6 conseils pour faire face à la crise
           + ARM : de l’IA au service de la publicité
           + Rapport : Focus sur le marketing 2023
           + Guide : comment la créa peut booster vos campagnes digitales
+
+   [INS: :INS]
 
    Avis d'expert Social Media
    Comment gérer au mieux votre héritage numérique ?
@@ -6366,21 +5845,22 @@ Comarketing-News
    [INS: :INS]
 
    Avis d'expert
-   IA générative : vers une prolifération des Deep Fake en 2024 ?
+   La data au service du luxe de seconde main
      *
      *
      *
      *
 
-   Avis d'expert Data
-   Comment s'appuyer sur la data à chaque étape du cycle de vie client ?
+   Avis d'expert
+   Quelles seront les priorités des marketeurs en 2024 ?
      *
      *
      *
      *
 
-   Avis d'expert Data
-   L'IA peut désormais "écouter" vos mots de passe
+   Avis d'expert
+   De l’idée à la réalisation : l’alchimie complexe de la création d’une
+   startup
      *
      *
      *
@@ -6458,7 +5938,7 @@ Une tribune de Benoit Grunemwald, Expert en Cyber sécurité chez ESET France
    Cela dit, les conditions d’utilisation d’Instagram sont claires : Vous
    êtes propriétaire de votre contenu, mais vous accordez la permission </text>
 </page> §
-<page="FR-45">
+<page="FR-44">
 <text>   En cliquant sur "Accepter tous les cookies", vous acceptez le stockage
    de cookies sur votre appareil pour améliorer la navigation sur le site,
    analyser l'utilisation du site et contribuer à nos efforts de
@@ -6637,13 +6117,14 @@ C’est quoi le mandat de protection future ?
    Il est impossible de prévoir l’avenir. Qui pourrait dire à quel moment
    exact il sera confronté à une perte d’autonomie ou une incapacité </text>
 </page> §
-<page="FR-46">
+<page="FR-45">
 <text>   #À la Une de 20minutes.fr «Héritage numérique»: La justice allemande
    déverrouille l’accès aux données numériques personnelles d’un défunt
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TPVF9CB
 
    Retour à l’accueil
+     * Journal
      *
      *
      *
@@ -6658,9 +6139,9 @@ C’est quoi le mandat de protection future ?
      * Sport
      * Divertissement
      * Planète
-     * Vie Pro
      * Tempo
      * High-Tech
+     * Vie Pro
      * JO 2024
      * Vidéos
      * Podcasts
@@ -6669,7 +6150,6 @@ C’est quoi le mandat de protection future ?
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -6702,10 +6182,10 @@ C’est quoi le mandat de protection future ?
    sous-sections suivantes
 
    Dans l’actu
-     * Attaque terroriste à Paris
-     * COP28
+     * Inondations en France
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * JO Paris 2024
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -6778,7 +6258,7 @@ Organiser son héritage numérique en amont
    deviendront ces données après notre mort. Depuis 2016, l’article 40-1
    de la loi Informatique et liberté permet aux internautes de donner </text>
 </page> §
-<page="FR-47">
+<page="FR-46">
 <text>   Voir la bourse sur Investir
    (BUTTON) (BUTTON) Recherche
      * En continu
@@ -6915,33 +6395,35 @@ Quelles clés pour s’adapter dans un environnement complexe ?
 
 Nos Vidéos
 
-Israël - Hamas : les premiers otages franco-israéliens libérés
+L’OMS alerte sur le désastre humanitaire en cours à Gaza
 
-   Trois otages franco-israéliens, âgés de 12 à 16 ans, ont été libérés
-   par le Hamas. Ils étaient retenus depuis leur enlèvement le 7 octobre
-   dans le kibboutz où ils vivaient. Cinq autres Français ou binationaux
-   sont toujours portés disparus, présumés otages du Hamas.
+   « Un bain de sang. Un carnage » : ce sont les mots choisis par Sean
+   Casey, coordinateur de l’équipe médicale d’urgence de l’OMS dans la
+   bande de Gaza, qui constate jour après jour l’urgence de la situation.
+   Sur place, les rares hôpitaux qui sont encore en état de fonctionner
+   sont débordés devant le nombre de patients qui arrivent et la gravité
+   des cas.
 
-Pourquoi l’Inde étouffe régulièrement sous des nuages de pollution ?
+Les images impressionnantes de l’explosion dans le port de Feodossia, en
+Crimée
 
-Israël-Hamas : Les prisonniers palestiniens libérés ont retrouvé leurs
-proches
+L’impressionnante centrale solaire thermique dans le désert d’Atacama
 
-Guerre Israël-Hamas : les premières images des 24 otages libérés
+Pourquoi l’enlisement de la guerre en Ukraine est la meilleure chose qui
+pouvait arriver à la Russie
 
 À la Une
 
-     *
+     * Exclusif
 
-3008, C3, Corsa… Stellantis s'en remet à ses best-sellers pour raviver ses
-ventes
-     * Direct
-
-LE FIL INFO - Eolien en mer : lancement d'un vaste appel d'offres en 2025
+Catastrophes naturelles : Bercy décide d'augmenter le prix des assurances
      * En chiffres
 
-Moins inquiets sur l'inflation, les Français craignent une remontée du
-chômage
+La France urbaine, moteur de la démographie du pays
+     * Direct
+
+LE FIL INFO - Budget 2024 : le Conseil constitutionnel censure le fléchage du
+Livret A vers l'industrie de défense
 
 Mars 2015
 
@@ -6999,8 +6481,8 @@ Les Galeries Lafayette confirment leur plan d’économie
 
    (BUTTON) Se connecter</text>
 </page> §
-<page="FR-48">
-<text>    #EURACTIV.fr » Faut-il réguler l’héritage numérique ? Flux des
+<page="FR-47">
+<text>    #Euractiv FR » Faut-il réguler l’héritage numérique ? Flux des
    commentaires alternate alternate
 
    [tr?id=307743630704587ev=PageViewnoscript=1]
@@ -7032,7 +6514,7 @@ Les Galeries Lafayette confirment leur plan d’économie
        [loading.gif]
        Chercher
 
-   (BUTTON) EURACTIV.fr
+   (BUTTON) Euractiv FR
      * L'Expresso
      * L'Expresso
      * Newsletters
@@ -7226,7 +6708,7 @@ Faut-il réguler l’héritage numérique ?
 
    Des juristes soutiennent que de nouvelles règles sont nécessaires </text>
 </page> §
-<page="FR-49">
+<page="FR-48">
 <text>   #Connectez-vous aux Dernières Actualités techniques, Blogs, Avis » Feed
    alternate alternate alternate
 
@@ -7253,6 +6735,70 @@ Héritage numérique. Comment et à qui léguer vos comptes réseaux
    l’héritage est discutée, une association se pose généralement avec
    quelque chose de matériel – un appartement ou une voiture, de l’argent
    sur un compte bancaire, certaines choses. On ne nous a pas appris </text>
+</page> §
+<page="FR-49">
+<text>   #BuzzWebzine » Flux BuzzWebzine » Flux des commentaires alternate
+   alternate alternate BuzzWebzine » Flux popular posts
+
+   Close Menu
+   BuzzWebzine
+
+   BuzzWebzine
+   Le meilleur de la POP culture
+
+     * Pub  Marketing
+          + Musique de pub
+          + Classement des musiques de pub
+          + Réseaux sociaux
+     * Divertissement
+          + Ciné/TV
+          + Musique
+          + Lecture
+          + Humour
+          + Art  Création
+          + Photo
+          + Court métrage
+          + Actu
+     * Tech  Geek
+          + Jeux vidéo
+          + Science
+          + Auto / Moto
+     * Maison
+          + Cuisine
+     * Animaux
+     * Lifestyle
+          + Mode
+          + Voyage
+          + Écologie
+     * Rencontre
+     * Business
+          + Entreprise
+          + Finance
+          + Immobilier
+     * Bien-être
+          + Psychologie
+          + Beauté
+          + Sport
+          + Astrologie  spiritualité
+     * Bons plans
+
+   (BUTTON)
+   BuzzWebzine
+
+   BuzzWebzine » Tech  Geek » Héritage numérique Apple : comment donner
+   accès à vos données en cas de décès
+
+Héritage numérique Apple : comment donner accès à vos données en cas de décès
+
+   Philippe Abiodoun Philippe Abiodoun Par Philippe Abiodoun13 novembre
+   20213 MinutesAucun commentaireMis à jour le13 novembre 2021
+   Partager Facebook Twitter LinkedIn WhatsApp
+
+   Grâce à Digital Legacy, Apple permet désormais à vos proches d’accéder
+   à vos fichiers en cas de décès.
+
+   Apple l’a toujours chanté, ce qui fait sa force est sa protection sur
+   les données des utilisateurs. Mais cette protection est parfois </text>
 </page> §
 <page="FR-5">
 <text>   Aller au contenu principal
@@ -7289,7 +6835,8 @@ Héritage numérique. Comment et à qui léguer vos comptes réseaux
           + TV5MONDE Maghreb-Orient
             FR, EN, AR
 
-   Info
+Info
+
    Recherche
    Rechercher ______________________________
    Période de publication_______________________________
@@ -7301,51 +6848,52 @@ Héritage numérique. Comment et à qui léguer vos comptes réseaux
      * Afrique
        Accueil Afrique
        CONGO, Rép. démocratique du
-       GUINÉE-BISSAU
-       AFRIQUE DU SUD
-       NIGER
-       SIERRA LEONE
-       MADAGASCAR
+       SÉNÉGAL
        CÔTE D'IVOIRE
-       CAMEROUN
+       ÉTHIOPIE
+       NIGER
+       TCHAD
+       NIGERIA
+       AFRIQUE DU SUD
 
 Nos dossiers du moment
-       L'actualité en Guinée-Bissau
-       L'actualité au Cameroun
-       L'actualité au Niger
+       RDC : Election présidentielle 2023
        RDC les défis d'un géant africain
+       L'actualité en Éthiopie
+       L'actualité au Niger
        Sénégal
      * International
        Accueil International
 
 Nos dossiers du moment
        Israël contre Hamas
-       Proche-Orient : Israël et Palestine, quelle paix ?
        Ukraine-Russie : la guerre
+       L'actualité au Japon
        Migrants : comment mettre fin à ces tragédies ?
-       L'actualité dans la Russie de Vladimir Poutine
+       Proche-Orient : Israël et Palestine, quelle paix ?
      * Environnement
        Accueil Environnement
-
-Nos dossiers du moment
-       COP 28
      * Terriennes
        Accueil Terriennes
 
 Nos dossiers du moment
-       Le droit à l'avortement
        Violences faites aux femmes
-       Femmes violentes, tabou et désordre social
-       Femmes, artistes, défricheuses
-       La maternité dans tous ses états
+       Sport au féminin
+       Les métiers ont-ils un sexe ?
+       Santé des femmes
+       Femmes en politique
      * Sport
        Accueil Sports
+
+Nos dossiers du moment
+       La CAN 2023 de football en Côte d'Ivoire
      * Culture
        Accueil Culture
 
 Nos dossiers du moment
        La musique sur TV5MONDE
-       L'Humeur de Linda
+       [Culture à domicile]
+       Un livre, délivre
      * Science
        Accueil Sciences
      * Société
@@ -7399,8 +6947,15 @@ Culture : L'héritage culturel de Senghor exposé au Quai Branly
 Afrique Culture
 
    TV5 JWPlayer Field
-   jtchapter: "African Empires", retrace les grands empires africains
-   avant la colonisation
+   jtchapter: Mauritanie : à la découverte de la cité de Oualata
+   patrimoine mondial
+
+Mauritanie : à la découverte de la cité de Oualata
+
+   Afrique
+
+Musique : Roselyne Belinga, artiste pluridisciplinaire
+
    Afrique
 
 "African Empires", retrace les grands empires africains avant la colonisation
@@ -7413,55 +6968,43 @@ Exposition : "Mandela est mort", quel héritage ?
 
 Mode : le styliste Alphadi nous charme depuis 40 ans
 
-   Exposition
-
-Rétrospective du peintre congolais Chéri Samba à Paris
-
-   Culture Amazigh
-
-"Raconter le Maroc" : la nouvelle mission culturelle des "Arabengers"
-
    Voir plus
 
 À la une
 
-   Israël-Palestine
+   ISRAËL-HAMAS
 
-DIRECT - Guerre à Gaza : le ministère de la Santé du Hamas annonce un nouveau
-bilan de 15 899 morts
+DIRECT : les craintes d'extension du conflit se renforcent après un attentat
+en Iran
 
-   International
+   Ukraine-Russie
 
-Israël-Hamas : à Gaza, la situation humanitaire est "indescriptible"
+DIRECT : Moscou et Kiev échangent plus de 230 prisonniers de guerre
 
-   Territoire disputé
+   Contestation
 
-Référendum au Venezuela : victoire écrasante du "oui" au rattachement de
-l'Essequibo
+Israël : que signifie la décision de la Cour suprême à propos de la réforme
+judiciaire ?
 
-   Guerre en Ukraine
+   Ça grince
 
-DIRECT : les troupes russes accentuent leurs attaques sur Avdiïvka, selon
-Kiev
+Entre l'Éthiopie et le Somaliland, un accord qui exaspère la Somalie
 
-   LUTTE CONTRE LE DJIHADISME
+   post-référendum
 
-Après le Mali, le Burkina et le Niger quittent la force antijihadiste G5
-Sahel
+Tchad : qui est Succès Masra, nouveau Premier ministre de transition ?
 
-   climat
+   Politique
 
-COP 28 : les engagements volontaires pleuvent, avant le dur des négociations
-sur les fossiles
-
-   Suspect radicalisé
-
-Attentat près de la tour Eiffel : l'assaillant a fait allégeance à l'EI
+Présidentielle en RDC : quelles options de contestation pour les candidats
+d'opposition ?
 
    Plan du site
 
 Archives
 
+     * 2024
+          + janvier 2024
      * 2023
           + décembre 2023
           + novembre 2023
@@ -7682,68 +7225,937 @@ Archives
    Recevoir TV5MONDE</text>
 </page> §
 <page="FR-50">
-<text>   #BuzzWebzine » Flux BuzzWebzine » Flux des commentaires alternate
-   alternate alternate BuzzWebzine » Flux popular posts
+<text>   #alternate alternate alternate alternate alternate CrossDNA » Flux
+   CrossDNA » Flux des commentaires CrossDNA » Héritage génétique :
+   qu’est-ce que c’est et comment cela peut me concerner? Flux des
+   commentaires alternate alternate alternate
 
-   Close Menu
-   BuzzWebzine
+     * English
+     * Español
+     * Deutsch
+     * Français
+     * Italiano
 
-   BuzzWebzine
-   Le meilleur de la POP culture
+     * Test ADN
+     * Teste ADN sportif
+     * Boutique
+     * Blog
+     * Enregistrez votre kit
 
-     * Pub  Marketing
-          + Musique de pub
-          + Classement des musiques de pub
-          + Réseaux sociaux
-     * Divertissement
-          + Ciné/TV
-          + Musique
-          + Lecture
-          + Humour
-          + Art  Création
-          + Photo
-          + Court métrage
-          + Actu
-     * Tech  Geek
-          + Jeux vidéo
-          + Science
-          + Auto / Moto
-     * Maison
-          + Cuisine
-     * Animaux
-     * Lifestyle
-          + Mode
-          + Voyage
-          + Écologie
-     * Rencontre
-     * Business
-          + Entreprise
-          + Finance
-          + Immobilier
+   ACHETER
+
+Héritage génétique : qu’est-ce que c’est et comment cela peut me concerner?
+
+   Facebook Instagram
+   juillet 05, 2021
+
+   Vous a-t-on déjà dit “tu as les yeux de ta mère”, “tu as le même
+   caractère que ton père” ou “tu ressembles à ton oncle” ? Eh bien, ce
+   n’est pas seulement une façon de parler, mais il existe toute une
+   science spécialisée dans ce domaine : l’héritage génétique.
+
+   L’héritage génétique étudie comment certains traits héréditaires sont
+   transmis de génération en génération. C’est-à-dire comment certaines
+   caractéristiques physiologiques, morphologiques ou biochimiques sont
+   transmises des parents aux enfants au cours du processus de fécondation
+   et de gestation. Toutes ces informations transmises constituent ce que
+   l’on appelle le matériel génétique et contiennent des informations sur
+   la couleur des cheveux, la couleur des yeux, la taille, les capacités
+   physiques, la prédisposition à certaines maladies et même notre
+   caractère. Tout est dans l’ADN.
+
+Mais comment fonctionne l’héritage génétique ?
+
+   Nous recevons tous du matériel génétique de nos parents et ce matériel
+   est organisé par les gènes. Les gènes sont des unités de stockage de
+   l’information génétique. C’est-à-dire que ce sont des segments d’ADN
+   qui reflètent une fonction représentée, comme la couleur des cheveux,
+   la probabilité d’être myope ou la prédisposition à prendre du poids
+   facilement.
+
+   Chaque gène contient à son tour deux copies ou allèles, puisque chacun
+   provient d’un parent. Si ces allèles subissent une erreur génétique ou
+   une mutation, il est possible que les parents transmettent certaines
+   maladies génétiques à leurs enfants. Celles-ci peuvent se développer ou
+   non en fonction de divers aspects et facteurs de conditionnement.
+
+   Il existe plusieurs modèles d’héritage génétique que nous devons
+   prendre en compte :
+     * Dominante autosomique : Dans ce cas, un allèle domine sur l’autre.
+       Si cet allèle est muté, il y a 50 % de chances que la maladie soit
+       transmise à la descendance.
+     * Autosomique récessif : L’allèle normal domine sur l’allèle muté et
+       les deux parents sont porteurs de la mutation, la descendance aura
+       50% de chances d’être également porteuse et 25% de chances d’avoir
+       la maladie.
+     * Héritage lié au chromosome X : Il s’agit des conditions génétiques
+       associées au chromosome X. Rappelons que les hommes n’ont qu’un
+       seul chromosome X alors que les femmes en ont deux. C’est pourquoi
+       la présence d’une mutation sur un chromosome X est suffisante pour
+       provoquer la maladie. Cependant, les parents ne peuvent pas
+       transmettre une maladie héréditaire dominante liée au chromosome X
+       à leurs fils, mais toutes les filles d’un père atteint auront la
+       maladie et il est possible qu’elles la transmettent à leurs fils et
+       à leurs filles dans le futur.
+       le patrimoine génétique dans le sport
+
+Héritage génétique dans le sport
+
+   Bien sûr, le patrimoine génétique est un facteur déterminant et peut
+   être décisif dans des domaines tels que le sport, où une prédisposition
+   favorable à certains exercices peut faire la différence.
+
+   Si vous êtes curieux d’en savoir plus sur votre patrimoine génétique et
+   sur la façon dont il peut conditionner ou améliorer vos capacités, les
+   tests génétiques CrossDNA sont votre solution. À partir d’un simple
+   échantillon de salive, ils analysent votre ADN et vous permettent de
+   savoir d’où viennent vos racines anthropologiques. Vous pourrez ainsi
+   identifier les sports dans lesquels les athlètes présentant vos
+   caractéristiques génétiques ont traditionnellement triomphé, et évaluer
+   s’il s’agit de sports dans lesquels vous pourriez avoir envie de vous
+   spécialiser.
+
+   Pour ce faire, nous comparons votre carte génétique à une vaste base de
+   données ADN contenant des marqueurs provenant d’innombrables endroits
+   dans le monde.
+
+   Ce test est effectué sur votre ADN autosomique. C’est lui qui nous
+   donne les informations généalogiques du gamète mâle et du gamète
+   femelle, héritées à leur tour des générations précédentes, remontant </text>
+</page> §
+<page="FR-51">
+<text>   Haut
+
+                   [USEMAP:menu+corpo+long-v2-23avril.jpg]
+
+   Génome Québec Éducation et Formations
+   (BUTTON)
+   Accueil (BUTTON) Contenus (BUTTON) Activités Home (BUTTON) Contents
+   (BUTTON) Activities Accueil Informations Training FAQ
+   (BUTTON) Retour Concepts de base Génomique 101 Bibliothèque Métiers
+   Glossaire
+   (BUTTON) Retour Mission ADN-eau Minilaboratoire Ateliers Autres
+   activités Jeu numérique
+   (BUTTON) Retour Basic concepts Genomics 101 Library Careers Glossary
+   (BUTTON) Retour Minilab Workshops Digital game
+   (BUTTON)
+
+   ____________________ (BUTTON)
+   Génome Québec Éducation et Formations
+   Accueil Contenus Concepts de base Génomique 101 Bibliothèque Métiers
+   Glossaire Activités Mission ADN-eau Minilaboratoire Ateliers Autres
+   activités Jeu numérique Home Contents Basic concepts Genomics 101
+   Library Careers Glossary Activities Minilab Workshops Digital game
+   AccueilInformationsTrainingFAQ
+
+Plateforme éducation
+
+   [GQ-Formation-Icones-Recherche.png?format=1000w]
+   [GQ-Formation-Icones-EN.png?format=1000w]
+   Video education-Cut-Gif.gif
+
+Concepts de base de la génétique
+
+   [encart-mendel.jpg]
+   Close capsule (BUTTON) Close capsule (BUTTON) Close capsule (BUTTON)
+   Close capsule
+   Si la capsule n'est pas visible, mettez-vous en mode paysage en
+   pivotant votre cellulaire.
+   Vous pouvez aussi aller voir notre capsule sur Youtube
+
+Capsule Hérédité
+
+   Capsule réalisée par Capscience.
+   Source : Génétique en 30 secondes, Jonathan et Matthew Weitzman,
+   Hurtubise, 2017
+   [scaletowidth#tl-1043185106010767362;']
+
+Hérédité
+
+L’hérédité, c’est l’héritage génétique transmis par nos parents biologiques :
+c'est ce qui fait en sorte que nous leur ressemblons! Plus précisément, c’est
+la transmission de caractères d’une génération à l’autre. Ces caractères
+peuvent être des traits physiques comme la couleur des yeux, le groupe
+sanguin, une maladie, mais aussi certains comportements! Par exemple, chez
+l’abeille domestique, le comportement « hygiéniste » qui consiste à nettoyer
+et à éliminer les larves malades est un comportement héréditaire.
+
+Les caractères héréditaires sont dictés par les gènes et un même gène peut
+exister en plusieurs variantes appelées allèles. Dans nos cellules, chaque
+gène existe en deux exemplaires (à l’exception des gènes situés sur la paire
+de chromosomes sexuels). L’un des exemplaires provient du spermatozoïde et
+l’autre de l’ovule. Dans un même individu, ces deux exemplaires (ou allèles)
+ne sont pas nécessairement identiques. Si les deux exemplaires d’un gène sont
+identiques, on dit que l’individu est homozygote pour ce gène. S’ils sont
+différents, ce gène est plutôt hétérozygote.
+
+Les allèles d’un même gène peuvent s’influencer par une relation de dominance
+et de récessivité. Si les deux allèles sont différents (hétérozygote) et
+qu’au moins un de ces allèles est dominant, c’est lui qui sera exprimé,
+c’est-à-dire qu’on pourra observer ce caractère chez l’individu. À l’inverse,
+un allèle récessif (non dominant) ne sera exprimé chez l’individu que si ses
+deux parents lui ont transmis le même allèle (homozygote). Par conséquent,
+même si un allèle récessif est présent dans le génotype (composition
+génétique d’un individu), il ne sera pas visible dans le phénotype (ensemble
+des caractères observables d’un individu) si l’autre exemplaire du gène est
+un allèle dominant.
+
+Lors de la reproduction, les gènes des parents biologiques se mélangent pour
+former un nouvel individu unique. C’est grâce à ce brassage des gènes que
+nous sommes tous différents!
+
+
+
+Enrichissement
+
+De célèbres expériences ont été menées sur les allèles par le moine botaniste
+Gregor Mendel au 19e siècle. Pour différents caractères, ses plants de petits
+pois présentaient toujours deux allèles : des fleurs blanches ou mauves, des
+pois jaunes ou verts, etc. Il est à l'origine des lois de Mendel, qui
+définissent la manière dont les gènes se transmettent de génération en
+génération.
+
+
+Découvrez tous les concepts de base de la génétique :
+
+     * Cellule
+     * ADN
+     * Gènes et chromosomes
+     * Reproduction cellulaire
+       (mitose et méiose)
+     * Réplication de l'ADN
+     * Synthèse des protéines
+     * Hérédité
+     * OGM
+     * Clonage
+
+
+   PLATEFORME ÉDUCATION ET FORMATIONS
+     __________________________________________________________________
+
+PLATEFORME ÉDUCATION
+
+                                 [GQ-Formation-Icones-EN.png?format=1000w]
+
+ACCUEIL
+
+CONTENUS
+CONCEPTS DE BASE
+GÉNOMIQUE 101
+BIBLIOTHÈQUE
+MÉTIERS
+GLOSSAIRE
+
+ACTIVITÉS
+MINILABORATOIRE
+ATELIERS
+AUTRES ACTIVITÉS
+JEU NUMÉRIQUE
+     __________________________________________________________________
+
+PLATEFORME formations
+
+                                 [GQ-Formation-Icones-EN.png?format=1000w]
+
+FORMATION
+
+INFORMATIONS
+
+ACTUALITÉS﻿
+     __________________________________________________________________
+
+
+Génome Québec
+
+   Siège social
+
+   630, boul. René-Lévesque Ouest
+   Bureau 2660
+   Montréal (Québec)  H3B 1S6
+   Téléphone : 514 398-0668
+   Télécopieur : 514 398-0883
+   gqinfo@genomequebec.com
+
+     __________________________________________________________________
+
+
+
+                            © 2018 GénomeQuébec inc. Tous droits réservés.
+   Horaires d'ouverture
+
+EDUCATION AND TRAINING PLATFORM
+     __________________________________________________________________
+
+EDUCATION PLATFORM
+
+                                 [GQ-Formation-Icones-FR.png?format=1500w]
+
+HOME
+
+
+
+CONTENTS
+BASIC CONCEPTS
+GENOMICS 101
+LIBRARY
+CAREERS
+GLOSSARY
+
+ACTIVITIES
+MINILAB
+WORKSHOPS
+DIGITAL GAME
+     __________________________________________________________________
+
+TRAINING PLATFORM
+
+                                 [GQ-Formation-Icones-FR.png?format=1500w]
+     __________________________________________________________________
+
+Génome Québec
+
+   Head Office
+
+   630, 630 René-Lévesque Blvd West
+   Suite 2660
+   Montréal (Québec)  H3B 1S6
+   Phone : 514 398-0668
+   Fax : 514 398-0883
+   gqinfo@genomequebec.com
+     __________________________________________________________________
+
+   © 2018 GénomeQuébec Inc. All rights reserved.</text>
+</page> §
+<page="FR-52">
+<text>   #Slate.fr
+
+   [tr?id=714463525321423ev=PageViewnoscript=1]
+
+   Parents  enfants / Sciences
+
+Le passé de nos grands-parents influe sur notre génétique
+
+   Temps de lecture : 2 min
+
+   Repéré par Aurore Maubian — 3 octobre 2022 à 21h30
+
+Problèmes relationnels, traumatismes, santé défaillante... Vos grands-parents
+pourraient y être pour quelque chose.
+
+   Une eacute;tude meneacute;e sur les vers ronds reflegrave;te le
+   deacute;veloppement des geacute;neacute;rations futures.nbsp;|
+   Sangharsh Lohakare via Unsplash
+   Une étude menée sur les vers ronds reflète le développement des
+   générations futures. | Sangharsh Lohakare via Unsplash
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Facebook Messenger
+   (BUTTON)
+   Partager sur Facebook Messenger
+   (BUTTON)
+   Partager sur Twitter
+   (BUTTON)
+   Partager sur LinkedIn
+   (BUTTON)
+   Partager sur LinkedIn
+
+   Temps de lecture: 2 min — Repéré sur ScienceAlert
+
+   Et si nos grands-parents sommeillaient quelque part en nous? C'est la
+   question que bon nombre de scientifiques se posent. Après avoir
+   découvert que la génétique pouvait être modifiée suivant
+   l'environnement dans lequel nous évoluons, la science explore l'axe
+   selon lequel elle pourrait également être transférée d'une génération </text>
+</page> §
+<page="FR-53">
+<text>   [tr?id=3507031502705686ev=PageView noscript=1] #alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5HZHGS
+
+   tellmegen logo
+   Créer compte Mon compte
+   (BUTTON) icono menu movil
+   Comment ça marche Shop Résultats DNA Connect Aide Contacter Créer
+   compte Mon compte
+     * FR
+          + ES
+          + EN
+          + PT
+          + DE
+          + IT
+          + NL
+          + PL
+          + SV
+
+     * Comment ça marche
+     * Acheter
+     * Résultats
+     * Raw Data
+     * Aide
+     * Contacter
+
+FOIRE AUX
+QUESTIONS
+
+LAISSEZ-NOUS CLARIFIER VOS DOUTES
+
+Types d’héritage génétique
+
+   Les maladies d’origine génétique sont dues à la présence d’altérations
+   ou de mutations dans l’ADN. En général, ces mutations peuvent
+   apparaître spontanément chez un individu (mutation de novo), ou
+   apparaître dans la lignée germinale et être transmises à la
+   descendance. Dans cette dernière, nous pouvons trouver :
+     * Hérédité autosomique dominante ou AD : on considère qu’une maladie
+       est transmise selon ce schéma lorsque le gène altéré est dominant
+       par rapport au gène normal et qu’une seule copie de la mutation
+       suffit pour que la maladie se manifeste. En outre, le fait d’être
+       autosomique implique que l’altération se trouve dans l’un des 22
+       chromosomes non sexuels ou autosomes, et peut toucher
+       indifféremment les fils et les filles. Dans ces cas, les individus
+       affectés apparaissent généralement dans toutes les générations de
+       la famille et, en général, la probabilité que chaque enfant hérite
+       de la pathologie est de 50 %.
+     * Héritage autosomique récessif ou AR : ce type d’héritage se produit
+       lorsque le gène normal prédomine sur le gène muté, de sorte que
+       deux copies du gène altéré sont nécessaires pour que les symptômes
+       apparaissent. Comme il est d’origine autosomique, le gène altéré
+       est situé sur l’un des 22 chromosomes non sexuels ou autosomes, et
+       peut être hérité indifféremment par les fils et les filles. Ce type
+       de maladie n’apparaît généralement pas dans toutes les générations
+       d’une famille et il est nécessaire que les deux parents soient
+       porteurs du gène muté. Dans ces cas, en général, la probabilité
+       d’hériter de la maladie est de 25 %, avec 50 % de chances d’être un
+       porteur asymptomatique et 25 % de chances de ne pas porter l’allèle
+       muté.
+     * Héritage dominant lié au chromosome X : ce type d’héritage se
+       produit lorsque le gène altéré se trouve sur le chromosome sexuel X
+       et que le gène muté prédomine sur le gène normal. Les femelles sont
+       porteuses de deux chromosomes X alors que les mâles n’en portent
+       qu’un seul. En général, comme les femmes héritent d’une copie de ce
+       chromosome à la fois de leur père et de leur mère (les hommes
+       n’héritent de leur copie du chromosome X que de leur mère), elles
+       sont habituellement plus touchées par ce type de maladie. Si la
+       mère est atteinte de la maladie, ses enfants ont la même
+       probabilité d’en hériter, quel que soit leur sexe. En revanche, si
+       c’est le père qui est touché, toutes ses filles seront malades
+       alors que ses fils seront en bonne santé.
+     * Hérédité récessive liée au chromosome X : ce type d’hérédité se
+       produit lorsque le gène altéré se trouve sur le chromosome X mais
+       que le gène normal prédomine sur le gène muté. Ce type de maladie
+       est beaucoup plus fréquent chez les hommes car ils ne possèdent
+       qu’une seule copie du chromosome X et, s’ils héritent de l’allèle
+       muté, ils développeront la maladie, tandis que les femmes qui
+       héritent d’une copie mutée du gène seront porteuses mais ne
+       souffriront pas de la maladie car elles possèdent deux chromosomes
+       X.
+     * Héritage mitochondrial : La plus grande partie du matériel
+       génétique se trouve dans les chromosomes à l’intérieur du noyau des
+       cellules, mais une petite quantité d’ADN se trouve dans les
+       mitochondries, des organelles intracellulaires impliquées dans le
+       métabolisme. Cet ADN mitochondrial est transmis selon un schéma
+       héréditaire caractéristique, car les mitochondries ne sont héritées
+       que de la mère. De ce fait, tous les enfants d’une mère atteinte
+       hériteront de la maladie, mais pas le père atteint.
+
+   En plus des types d’hérédité expliqués ci-dessus, un concept important
+   doit être pris en compte : la pénétrance. Il s’agit du pourcentage
+   d’individus ayant un génotype (ADN) spécifique qui expriment le
+   phénotype (symptomatologie) attendu. Ainsi, on parle de pénétrance
+   complète lorsque 100% des individus présentent le phénotype attendu en
+   fonction de leur génotype, et de pénétrance incomplète lorsque ce
+   pourcentage est plus faible, de sorte que tous les individus ayant un
+   génotype pathologique ne présentent pas la maladie.
+
+PLUS D'INFORMATIONS
+
+     * A quoi cela sert-il de connaître mes ancêtres ?
+     * Ai-je un haplogroupe maternel ?
+     * Ai-je un haplogroupe paternel ?
+     * Au sein de mon haplogroupe maternel, existe-t-il des sous-types ?
+     * Avec quel type d'échantillon puis-je avoir accès à ces informations
+       pharmacogénétiques ?
+     * Caractéristiques techniques des données brutes
+     * Cela coûte-t-il plus cher de connaître mon haplogroupe maternel ?
+     * Cela coûte-t-il plus cher de connaître mon haplogroupe paternel ?
+     * Cela coûte-t-il plus cher de connaître mon pourcentage d'ADN de
+       Néandertal ?
+     * Ces résultats évoluent-ils avec le temps ?
+     * Comme mes données proviennent d'autres entreprises, y a-t-il un
+       risque que mes résultats soient moins précis ?
+     * Comment a été construite la base de données utilisée pour estimer
+       l'ascendance de chaque utilisateur ?
+     * Comment dois-je interpréter le graphique présenté dans mes
+       résultats de maladies complexes ?
+     * Comment fonctionne le programme DNA Connect ?
+     * Comment fonctionne le service de messagerie DNA Connect ?
+     * Comment interpréter la carte avec mes résultats ?
+     * Comment les informations pharmacogénétiques peuvent-elles m'aider ?
+     * Comment puis-je accéder à l'intérieur du document des données
+       brutes ?
+     * Comment puis-je accepter de participer à DNA Connect ?
+     * Comment puis-je savoir si j'ai de nouveaux parents génétiques ?
+     * Comment puis-je savoir si un parent génétique m'a contacté ou a
+       répondu à un message ?
+     * Comment puis-je télécharger mes données brutes de génotypage et
+       peuvent-elles être utilisées sur d'autres sites web ?
+     * Comment verrai-je mes résultats ?
+     * Conditions NON incluses dans le test tellmeGen
+     * D'autres maladies et caractéristiques personnelles seront-elles
+       ajoutées au fil du temps ?
+     * Dans mon haplogroupe paternel, existe-t-il des sous-types ?
+     * Dans quelle langue les consultations et les rapports sont-ils
+       rédigés, comment puis-je les recevoir et combien de temps cela
+       prend-il ?
+     * De quel parent proviennent mes pourcentages origines ?
+     * Dois-je acheter un kit spécial pour accéder à DNA Connect ?
+     * En quoi consiste l'analyse d'ascendance effectuée par tellmeGen ?
+     * En quoi consiste le calcul de l'haplogroupe maternel ?
+     * En quoi consiste le calcul de l'haplogroupe paternel ?
+     * En quoi consiste le séquençage de l'ADN d'un génome complet ?
+     * J'ai acheté un produit de données brutes payant, mais mon fichier
+       n'est pas compatible avec tellmeGen. Que dois-je faire ?
+     * J'ai besoin d'un conseil génétique personnel, que peut faire
+       tellmeGen pour moi ?
+     * J'ai coché la case "Ne plus afficher" dans DNA Connect. Comment
+       puis-je accéder à DNA Connect par la suite ?
+     * J'ai téléchargé gratuitement mes données génétiques brutes sur
+       tellmeGen, pourquoi certains de mes résultats ne seront-ils pas
+       disponibles avec la mise à jour du 31 janvier 2024 ?
+     * J'ai téléchargé mon fichier de données génétiques brutes, combien
+       de temps faut-il pour voir mes résultats ?
+     * J'ai un risque faible/moyen d'avoir la maladie/le trait X dans le
+       test, mais je souffre ou j'ai cette maladie/ce trait
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       d'ADN brut, puis-je quand même participer à DNA Connect ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon ADN de Néandertal ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon haplogroupe maternel ?
+     * Je ne suis pas client de tellmeGen mais j'ai téléchargé mes données
+       RAW, puis-je connaître mon haplogroupe paternel ?
+     * Je ne vois aucun membre de la famille dans DNA Connect
+     * Je suis une femme, ne puis-je pas connaître mes origines du côté de
+       mon père car je n'ai pas d'haplogroupe paternel ?
+     * Je vis aux États-Unis, pourquoi ne puis-je pas voir mes
+       informations pharmacogénétiques ?
+     * La science derrière ADN Connect
+     * La science derrière tellmeGen
+     * Le fait d'avoir un risque élevé signifie-t-il que je serai atteint
+       de la maladie ou que j'aurai un trait personnel complexe ?
+     * Les résultats calculés jusqu'à présent par tellmeGen étaient-ils
+       incorrects ?
+     * Les résultats de ma santé peuvent-ils affecter les membres de ma
+       famille ?
+     * Les résultats sont-ils confidentiels ?
+     * Les tests pharmacogénétiques sont-ils obligatoires avant de prendre
+       des médicaments ?
+     * Les trisomies sont-elles recherchées dans le test ADN tellmeGen ?
+     * Liste des éléments inclus dans toutes les sections
+     * Mes résultats diffèrent de ceux des autres entreprises. Comment
+       cela se fait-il ?
+     * Mes résultats montrent un trait physique différent de la réalité.
+       Pourquoi ?
+     * Mes résultats varieront-ils avec le temps ?
+     * Où puis-je voir les résultats de mon haplogroupe maternel ?
+     * Où puis-je voir les résultats de mon haplogroupe paternel ?
+     * Où puis-je voir les résultats de mon test pharmacogénétique ?
+     * Où puis-je voir mes résultats d'ADN de Néandertal ?
+     * Outre les rapports sur la santé et l'ascendance, quelles autres
+       informations le test tellmeGen comprend-il ?
+     * Populations incluses dans le rapport sur l'ascendance de tellmeGen
+     * Pourquoi certaines maladies et certains traits ont-ils disparu de
+       mes résultats ?
+     * Pourquoi de petits pourcentages de mon ascendance ont-ils été
+       attribués à des populations inattendues ?
+     * Pourquoi dois-je choisir 5 éléments dans chaque bloc de résultats
+       ?
+     * Pourquoi faire un test pharmacogénétique ?
+     * Pourquoi je ne vois pas de membres de ma famille après avoir activé
+       DNA Connect ?
+     * Pourquoi je ne vois pas mes proches dans mon compte tellmeGen alors
+       que je peux le faire dans d'autres entreprises ?
+     * Pourquoi l'origine de certains de mes ancêtres n'apparaît-elle pas
+       dans mes résultats d'ascendance ?
+     * Pourquoi le pays dans lequel je suis né n'apparaît-il pas dans mon
+       rapport d'ascendance ?
+     * Pourquoi les femmes n'obtiennent-elles pas l'haplogroupe paternel
+       dans les résultats ?
+     * Pourquoi ma population génétique n'est-elle pas incluse dans
+       l'analyse ?
+     * Pourquoi mes résultats changent-ils avec les différentes versions
+       d'ancestry ?
+     * Pourquoi mon ascendance est-elle différente de celle d'une autre
+       entreprise ?
+     * Pourquoi mon ascendance n'est-elle pas correctement attribuée à la
+       région de l'Europe centrale ou des Balkans ?
+     * Pourquoi mon ascendance n'est-elle pas identique à celle de mon
+       frère ou de ma sœur ?
+     * Pourquoi mon échantillon d'ADN a-t-il échoué ? Que dois-je faire
+       dans ce cas ?
+     * Pourquoi mon haplogroupe maternel est-il daté de plus de X ans ?
+     * Pourquoi mon haplogroupe maternel est-il géographiquement situé </text>
+</page> §
+<page="FR-54">
+<text>   #Psychologie Sociale » Flux Psychologie Sociale » Flux des commentaires
+   Psychologie Sociale » Psychologie et Héritage Génétique Flux des
+   commentaires alternate alternate alternate
+
+   Psychologie Sociale
+
+     * Psychologie
      * Bien-être
-          + Psychologie
-          + Beauté
-          + Sport
-          + Astrologie  spiritualité
-     * Bons plans
+     * Dépression
+     * Thérapie
+     * Annuaire
+     * Et aussi…
+          + pratique
+          + éducation
+          + coaching
+          + entreprise
+          + Formation
+
+   Sélectionner une page
+   ____________________
+   représentation génétique de notre psychologie
+
+Psychologie et Héritage Génétique
+
+   par Theo | Mai 21, 2023 | psychologie | 0 commentaires
+   psychologie
+
+   La psychologie est un domaine passionnant qui étudie les comportements
+   et les processus mentaux humains. De nombreux facteurs influencent ces
+   processus mentaux, notamment l’environnement et les expériences de vie.
+   Cependant, l’héritage génétique est également un facteur important qui
+   influe sur la personnalité et les traits de comportement des individus.
+   Dans cet article, nous allons explorer les aspects de la psychologie
+   qui sont influencés par l’héritage génétique et comment cela peut
+   affecter notre compréhension de nous-mêmes et des autres.
+
+Qu’est-ce que l’héritage génétique ?
+
+   L’héritage génétique est le processus par lequel les caractéristiques
+   biologiques sont transmises d’une génération à l’autre. Les gènes sont
+   les blocs de construction de l’héritage génétique, qui sont transmis
+   par les parents aux enfants. Chaque personne possède un ensemble unique
+   de gènes, qui influencent son apparence physique, ses traits de
+   personnalité et ses comportements.
+
+Les gènes et les comportements
+
+   Les gènes peuvent influencer les comportements humains de plusieurs
+   manières. Les scientifiques ont identifié des gènes qui sont associés </text>
+</page> §
+<page="FR-55">
+<text>   #Diabete.fr » Flux Diabete.fr » Flux des commentaires Diabete.fr »
+   Diabète et hérédité Flux des commentaires alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MMDL3VT
+
+   Accessibilité
+
+   Diabete.fr Impulser le changement dans le diabète
+   (BUTTON)
+     * Comprendre et s'informer
+       Comprendre  s'informer
+       Le diabète est une maladie chronique qui se définit par une
+       élévation durable du taux de sucre dans le sang ou hyperglycémie.
+       Le diabète est en constante augmentation malgré les efforts de
+       prévention et constitue un véritable problème de santé publique.
+       L’OMS le considère comme l’un des principaux tueurs au monde. Il
+       existe différents types de diabète mais les deux principaux sont le
+       diabète de type 1 (autrefois appelé diabète insulino-dépendant) et
+       le diabète de type 2 (appelé diabète non-insulino-dependant.)^1,2
+       D’autres types de diabètes tels que le diabète MODY, le diabète
+       néonatal ou encore le diabète gestationnel sont plus rarement
+       répandus^3.
+       ^1. Inserm. Le diabète de type 1, une maladie auto-immune de plus
+       en plus fréquente. Accessible sur
+       https://www.inserm.fr/dossier/diabete-type-1/. Dernier accès le
+       21.06.22. ^2. L’assurance maladie. Qu’est-ce que le diabète?
+       Accessible sur
+       https://www.ameli.fr/assure/sante/themes/diabete-comprendre/definit
+       ion. Dernier accès le 21.06.22 ^3. International diabetes
+       federation. Atlas du diabète 2019.
+       Le diabète en général Le diabète de type 1 Le diabète de type 2 Le
+       diabète gestationnel Autres types de diabète
+     * Vivre avec le diabète
+       Vivre avec le diabète
+       Vivre normalement avec le diabète est tout à fait possible.
+       Attention toutefois, si le diabète fait désormais partie de vous et
+       de votre quotidien, il n’est pas ce qui vous définit et votre
+       horizon ne s’arrête pas à la gestion de votre maladie. Pour
+       découvrir comment agir, mieux connaître les liens entre diabète et
+       alimentation, comment adapter ses repas ou reprendre une activité
+       physique, n’hésitez pas à consulter nos conseils pratiques et </text>
+</page> §
+<page="FR-56">
+<text>   Voir la bourse sur Investir
+   (BUTTON) (BUTTON) Recherche
+     * En continu
+     * Le Journal
+     * Newsletters
+     * Mes articles
+     * Mes secteurs
+     * Podcasts
+     * Infographies
+     * Vidéos
+     * Thema
 
    (BUTTON)
-   BuzzWebzine
+     * (BUTTON) ThèmeClair
 
-   BuzzWebzine » Tech  Geek » Héritage numérique Apple : comment donner
-   accès à vos données en cas de décès
+   (BUTTON) Se connecter
+   S’abonner
+   (BUTTON)
+   À la une
+   Idées
+   Économie
+   Politique
+   Entreprises
+   Finance - Marchés
+   Bourse
+   Monde
+   Tech-Médias
+   Start-up
+   Régions
+   Patrimoine
+   Le Mag W-E
+   (BUTTON)
 
-Héritage numérique Apple : comment donner accès à vos données en cas de décès
+Reçoit-on l’alcoolisme en héritage ?
 
-   Philippe Abiodoun Philippe Abiodoun Par Philippe Abiodoun13 novembre
-   20213 MinutesAucun commentaireMis à jour le13 novembre 2021
-   Partager Facebook Twitter LinkedIn WhatsApp
+   De nouvelles découvertes accréditent la thèse de l’héritage familial.
+   Elles ouvrent la voie à de nouveaux traitements thérapeutiques agissant
+   sur le « circuit de récompense ».
+   (BUTTON) Ajouter à mes articles
+   (BUTTON) Commenter
+   (BUTTON) Partager
+   (BUTTON) Partager
+   Maladies
+   Santé et hôpitaux
+   0211791876747_web.jpg 0211791876747_web.jpg
+   L’hypothèse génétique dans la dépendance à l’alcool n’est pas nouvelle
 
-   Grâce à Digital Legacy, Apple permet désormais à vos proches d’accéder
-   à vos fichiers en cas de décès.
+   Par Paul Molga
+   Publié le 11 févr. 2017 à 14:05
 
-   Apple l’a toujours chanté, ce qui fait sa force est sa protection sur
-   les données des utilisateurs. Mais cette protection est parfois </text>
+   Reçoit-on l’alcoolisme en héritage ? Au moins en partie, viennent de
+   confirmer des chercheurs du Texas South Medical Center de Dallas. Leur
+   étude publiée dans « PNAS », la revue de l’Académie nationale des
+   sciences américaine, vient de mettre en évidence le rôle très
+   particulier joué par le gène bêta-klotho (ou KLB), responsable de la
+   synthèse de la protéine du même nom. Les chercheurs connaissent bien
+   cette protéine : c’est un des constituants d’un récepteur neuronal
+   impliqué dans notre appétence vis-à-vis des produits sucrés. Lorsque le
+   gène KLB fonctionne correctement, le cerveau comprend les ordres de
+   modération adressés par le foie via la sécrétion dans le sang d’une
+   protéine spécifique, nommée FGF21. Mais sa forme mutante déforme le
+   message hépatique, ont constaté les chercheurs américains en analysant
+   le profil génétique de 105.000 buveurs.
+
+   Des tests réalisés sur des souris privées du gène KLB confirment ce
+   mécanisme. L’équipe leur a donné le choix entre de l’eau ou de
+   l’alcool. Les mammifères génétiquement modifiés ont préféré les
+   boissons à base d’éthanol, qu’ils ont consommées en plus grande
+   quantité, même quand ils avaient reçu l’hormone FGF21 en injection.
+   « Nous avons désormais une bonne idée de la voie de signalisation de
+   l’appétence à l’alcool, ce qui ouvre des perspectives pharmacologiques
+   prometteuses », estiment les auteurs. Le segment d’ADN variant serait
+   en effet présent chez 40% de la population.
+
+Circuit de récompense
+
+   L’hypothèse génétique dans la dépendance à l’alcool n’est pas nouvelle.
+   En 1972, déjà, le psychiatre alcoologue Marc Schuckit avait montré le
+   poids du facteur héréditaire en suivant pendant quinze ans le profil de
+   450 enfants d’alcooliques : 29 % sont finalement devenus
+   alcoolo-dépendants après des prises régulières d’alcool effectuées en
+   laboratoire, contre 11% du panel témoin sans antécédents familiaux. Il
+   a également constaté que tous présentaient une tolérance accrue aux
+   effets de l’alcool, suggérant la mise en sommeil des signaux
+   génétiques.
+
+   L’étude du Texas South Medical Center est la première à confirmer cette
+   piste en étiquetant précisément un gène. Mais est-il le seul
+   responsable de la dépendance alcoolique ? « C’est un élément parmi
+   d’autres facteurs, biologiques, environnementaux et psycho-sociaux »,
+   évalue le médecin alcoologue Bertrand Nalpas, directeur de recherche </text>
+</page> §
+<page="FR-57">
+<text>   #Slate.fr
+
+   [tr?id=714463525321423ev=PageViewnoscript=1]
+
+   Sciences
+
+Héritage épigénétique: la mémoire dans la peau
+
+   Temps de lecture : 13 min
+
+   Erika Hayasaki — Traduit par Jean-Clément Nau — 5 juillet 2018 à 8h10
+
+«Ma mère ne me l’avait jamais dit, mais c’était ce qui était arrivé à mon
+père. Je le savais.»
+
+   Les gènes d’un enfant peuvent-ils conserver les vestiges des
+   expériences vécues par ses ancêtres? | Matthew Ansley via Unsplash
+   License by
+   Les gènes d’un enfant peuvent-ils conserver les vestiges des
+   expériences vécues par ses ancêtres? | Matthew Ansley via Unsplash
+   License by
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Facebook Messenger
+   (BUTTON)
+   Partager sur Facebook Messenger
+   (BUTTON)
+   Partager sur Twitter
+   (BUTTON)
+   Partager sur LinkedIn
+   (BUTTON)
+   Partager sur LinkedIn
+
+   Temps de lecture: 13 min
+
+   Nos souvenirs sont créés de toutes pièces. Nous les élaborons à partir
+   d’histoires que nous avons choisi de croire. Des histoires qui
+   racontent notre parcours, notre personnalité, et qui forment un récit
+   intérieur composé de scènes, de résumés et d’anecdotes colorées par des
+   touches de vérité et de suppositions. Nous avons tendance à considérer
+   notre existence au prisme de ces souvenirs essentiellement artificiels.
+   Ils nous permettent de comprendre les sources de notre endurance et de
+   notre faiblesse.
+
+   Mais un autre concept s’avère souvent séduisant, selon lequel il serait
+   possible de recevoir des souvenirs en héritage via la biologie.
+   L’expérience de l’endurance ou du traumatisme d’un ou d'une ancêtre
+   pourrait ainsi nous revenir, nous transmettre des traces d’un lointain
+   passé qui ne nous appartiendrait pas mais qui serait néanmoins ancré en
+   nous avant même l’instant de notre naissance. Des informations qui
+   prépareraient sa descendance à la peur, à vivre les mêmes périls ou à y
+   survivre. Qui nous fourniraient des explications.
+
+   Je me souviens d’histoires que l’on m’a racontées au sujet de ma
+   grand-mère: comment elle a emporté ses deux enfants, un sous chaque
+   bras, lorsqu’elle a fui les bombes qui pleuvaient sur sa ville
+   japonaise en 1945 –mon grand-père était soldat et combattait ailleurs.
+   Les horreurs qu’elle a endurées, le courage dont elle a fait preuve
+   face à l’adversité tout en protégeant mon oncle et ma tante, ont-ils
+   été transmis à mon père à la naissance? M’ont-ils ensuite été
+   communiqués? Sont-ils «gravés» dans mon être à un niveau presque
+   moléculaire, comme semble le sous-entendre Carmen Maria Machado dans sa
+   nouvelle tourmentée, A Brief and Fearful Star? Je dois peut-être mon
+   courage (ou mon anxiété) au parcours de ma grand-mère. L’idée semble
+   plausible et ne manque pas de poésie.
+
+   C’est ce mode de pensée psychanalytique qui rend si séduisant le
+   concept d’héritage épigénétique, ce domaine scientifique balbutiant,
+   inégal et controversé. Les spécialistes du sujet cherchent à répondre </text>
+</page> §
+<page="FR-58">
+<text>     * accéder au contenu principal
+     * accéder au menu
+     * contactez-nous
+
+     * FranceInfo
+          + L'info en direct
+          + Direct TV
+          + Direct Radio
+          + Actualités des régions
+          + Actualités outre-mer
+          + Actualités culture
+          + francetv sport
+     * france.tv
+          + La 1ère
+          + France 2
+          + France 3
+          + France 4
+          + France 5
+          + Portail Outre-Mer
+          + francetv sport
+          + Lumni
+          + Okoo
+          + NOWU
+          + France tv  vous
+          + France tv le club
+          + France tv lab
+     * radiofrance
+          + Radio France
+          + France Inter
+          + France Bleu
+          + France Culture
+          + France Musique
+          + Fip
+          + Mouv'
+          + Maison de la Radio et de la Musique
+          + La Médiatrice
+
+     * Confidentialité
+     * Newsletters
+
+   aller sur le portail des Outre-mer guadeloupe
+     * accueil accueil
+     * tv regarder
+     * radio écouter
+     * en continu actu 24/7
+     * météo météo
+     * (BUTTON) plus menu
+
+L'influence de l'héritage génétique de l'esclavage sur la longévité des
+Antillais
+
+     * page des articles société
+
+   3ème âge ©Société de Gériatrie et Gérontologie de la Guadeloupe
+
+   Partager :
+     * Facebook
+     * Twitter (BUTTON) Partager cet article (Ouvre une boite de dialogue)
+
+   Depuis quelques semaines, l’information fait le buzz sur internet.
+   C’est un scientifique belge, spécialiste des études de longévité qui a
+   mis en évidence la présence aux Antilles de nombreux centenaires. Il y
+   aurait dans nos régions 7 à 8 fois plus de supercentenaires que dans
+   l’hexagone. Les supercentenaires sont des personnes vivant plus de 110
+   ans. Essentiellement des femmes. Dans le monde, il y aurait 5
+   recensées, parmi lesquelles, La Martinique.
+   Ch. Martial • Publié le 19 mai 2023 à 09h08
+
+   Okinawa au Japon, L’Ogliastra en Sardaigne, Nicoya au Costa Rica,
+   Ikaria en Grèce et depuis peu la Martinique… 5 zones ou il fait bon
+   vieillir.
+   Il existe plusieurs enquêtes sur la longévité et la dernière en date
+   nous vient de Belgique. Michel Poulain est en chercheur, démographe et
+   professeur à l’université de Louvain en Belgique.
+
+   Selon lui, il existe dans le monde des endroits  où la longévité de vie
+   des individus est favorisée. Il invente ainis, le concept de Zone Bleue
+   de longévité qui a mis en exergue le concept de zone bleue de
+   longévité. Selon lui, dans certaines régions du monde on compte un
+   nombre élevé de supercentenaires. Ces personnes dépassant le siècle
+   d’existence.
+
+   Ce sont essentiellement des femmes et contrairement aux idées reçues,
+   elles ne sont pas maintenues en vie artificiellement. En 2019, Michel
+   Poulain lançait un recensement des centenaires en Martinique. Au 1^er
+   janvier 2023, l’île comptait 400 centenaires soit 2 fois plus par tête
+   d’habitant qu’en France. C’était là, le point de départ de son étude.
+   Le scientifique estime la probabilité d’un nouveau-né sur 40 à devenir
+   centenaire. Une probabilité supérieure à 2% en Martinique.
+   Centenaire / Gros-Morne Marie-Flore Tinas et sa mère centenaire, le
+   jour de ses 108 ans (17 mars 2022). • ©CCAS du Gros-Morne
+
+   Deux fois plus que dans un pays tel que la Belgique. Mais qu’est ce qui
+   explique cette longévité ? Michel Poulain met en évidence plusieurs
+   hypothèses. La première, qui doit cependant être confirmée par des
+   enquêtes sur la bio-génétique de ces individus, pourrait venir des
+   avantages de la génétique. Plus clairement, les survivants </text>
 </page> §
 <page="FR-6">
 <text>   #alternate alternate alternate alternate alternate alternate alternate
@@ -7799,9 +8211,7 @@ Héritage numérique Apple : comment donner accès à vos données en cas de dé
    Uzbekistan
    Tous les programmes
 
-   (BUTTON) Close advertising
-
-   Business Business Series Focus
+   Accueil Business Business Series Focus
 
 L'Ouzbékistan initie sa "renaissance" via la culture et l'éducation
 
@@ -7960,6 +8370,33 @@ Provenant de l'émission
 
    Plus de séries
    (BUTTON)
+     * Sur les traces du Front de Libération de la Bretagne : une histoire
+       du terrorisme breton
+       FLB - Histoire du terrorisme breton
+       Pour LSD, Kristel Le Pollotec a parcouru la Bretagne afin
+       d’enquêter sur le FLB, le Front de Libération de la Bretagne,
+       responsable de centaines d’attentats dans les années 60 et 70 et
+       qui a ressurgi ces derniers mois en revendiquant les incendies de
+       plusieurs résidences secondaire
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
+     * La vie rêvée des oiseaux
+       La vie rêvée des oiseaux
+       Dans cette série, nous partons à l’exploration des oiseaux.
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
+     * Et le son fut !
+       Et le son fut
+       Pour LSD Juliette Boutillier sonde l'enregistrement sonore - son
+       histoire, son geste, ses usages de propagande ou intimes - et
+       déroule l'histoire de l’archivage et de l'écoute contemporaine. Du
+       cylindre jusqu’aux voix synthétiques : depuis quand, quoi, comment,
+       pourquoi enregistre-t-on du son ?
+       (BUTTON)
+       Découvrir
+       (BUTTON) suivre
      * La marche de 83 : histoire d’une égalité manquée
        La marche de 83, histoire d'une égalité manquée
        Pour LSD, 40 ans après la marche pour l’égalité et contre le
@@ -8392,59 +8829,60 @@ Quelles clés pour s’adapter dans un environnement complexe ?
 
 Nos Vidéos
 
-Les 41 ouvriers coincés dans un tunnel en Inde depuis 17 jours ont pu être
-libérés
+Pourquoi l’Argentine manifeste contre le « mega-décret » de son nouveau
+président ?
 
-   Dix-sept jours coincés dans un tunnel… On peine à le réaliser, mais les
-   41 ouvriers indiens piégés dans le tunnel de Silkyara, dans le nord de
-   l’Inde, après un effondrement, ont pu être libérés. Ils survivaient
-   grâce à l'acheminement d'air, de nourriture, d'eau et d'électricité par
-   le biais d'un conduit.
+   Les Argentins sont dans la rue : ils protestent contre les mesures
+   annoncées par Javier Milei. Fin décembre, le nouveau président a publié
+   un « DNU », un « décret de nécessité et d'urgence » qui vise à modifier
+   ou abroger plus de 300 normes : suppression de l'encadrement des
+   loyers, fin de l'intervention de l'Etat pour protéger les prix de
+   produits essentiels, affaiblissement de la protection des travailleurs,
+   autorisation des privatisations.
 
-Bien réussir sa COP : les 3 conseils de Laurent Fabius, « grand-père » de
-l’accord de Paris
+L’OMS alerte sur le désastre humanitaire en cours à Gaza
 
-Israël - Hamas : les premiers otages franco-israéliens libérés
+Les images impressionnantes de l’explosion dans le port de Feodossia, en
+Crimée
 
-Pourquoi l’Inde étouffe régulièrement sous des nuages de pollution ?
+L’impressionnante centrale solaire thermique dans le désert d’Atacama
 
 Les plus lus
 
     1. Vidéo
 
-VIDEO - Armement : les Européens peuvent-ils prendre la main sur leur
-défense ?
-    2.
+Les images impressionnantes de l'explosion d'un navire russe dans le port de
+Feodossia, en Crimée
+    2. Presse étrangère
 
-A six mois des européennes, l'UE face à une poussée de l'extrême droite
-    3. Portrait
+La revanche inattendue de l'économie grecque
+    3.
 
-Qui est Geert Wilders, le nouvel homme fort des Pays-Bas qui effraie
-l'Europe ?
+Guerre en Ukraine : Kiev essaie de reprendre l'initiative
 
 À la Une
 
-     *
+     * En chiffres
 
-Transition énergétique : l'UE devra investir 584 milliards dans ses réseaux
-électriques
-     *
+Bourse : les 7 chiffres fous des placements en actions
+     * Direct
 
-Michelin réduit drastiquement la voilure en Allemagne
-     * Direct terminé
+LE FIL INFO - Cérémonie d'hommage national à Jacques Delors le 5 janvier
+     * Décryptage
 
-Guerre Israël-Hamas : le fil des événements du 28 novembre
+Pour Emmanuel Macron, des voeux 2024 placés sous le signe de la crise
+politique
 
 Europe
 
-Espagne : plan de sauvetage géant pour un parc naturel menacé par
-l'irrigation illégale
+L'ensemble de l'Ukraine visée par de nombreuses frappes russes ce vendredi
+matin
 
-   Décryptage
+Acier : les Etats-Unis prolongent à leur tour la suspension des droits de
+douane
 
-La Cour de Karlsruhe, un pilier de la démocratie allemande
-
-Crise budgétaire : Olaf Scholz cherche à rassurer l'Allemagne
+En Pologne, un bras de fer déjà féroce entre le Premier ministre et le
+président
 
    AppStore GooglePlay
 

@@ -50,16 +50,57 @@ echo "<!DOCTYPE html>
                 <a class=\"navbar-item\" href=\"../index.html\">
                     Accueil
                 </a>
-
-                <a class=\"navbar-item\" href=\"tableau-FR.html\">
-                    Tableau FR
+                
+                <a class=\"navbar-item\" href=\"../pages/equipe.html\">
+                    Equipe
                 </a>
-                <a class=\"navbar-item\" href=\"tableau-EN.html\">
-                    Tableau EN
+                
+                <a class=\"navbar-item\" href=\"../pages/demarche.html\">
+                    Démarche
                 </a>
-                <a class=\"navbar-item\" href=\"tableau-KR.html\">
-                    Tableau KR
+                
+                <a class=\"navbar-item\" href=\"../pages/analyse.html\">
+                    Analyse
                 </a>
+                
+                
+                <div class=\"navbar-item has-dropdown is-hoverable\">
+                	<a class=\"navbar-link\">
+          				Tableaux
+        			</a>
+                	<div class=\"navbar-dropdown\">
+                
+                		<a class=\"navbar-item\" href=\"tableau-FR.html\">
+                    		Tableau FR
+                		</a>
+                		<a class=\"navbar-item\" href=\"tableau-EN.html\">
+                    		Tableau EN
+                		</a>
+                		<a class=\"navbar-item\" href=\"tableau-KR.html\">
+                    		Tableau KR
+                		</a>
+                	</div>
+                </div>
+                
+                <div class=\"navbar-item has-dropdown is-hoverable\">
+                	<a class=\"navbar-link\">
+          				Code
+        			</a>
+                	<div class=\"navbar-dropdown\">
+                
+                		<a class=\"navbar-item\" href=\"programmes/script.sh\">
+                    		Script principale
+                		</a>
+                		<a class=\"navbar-item\" href=\"programmes/make_itrameur_corpus.sh\">
+                    		Script iTrameur
+                		</a>
+                		<a class=\"navbar-item\" href=\"programmes/main.sh\">
+                    		Script \"main\"
+                		</a>
+ 
+                	</div>
+                </div>
+                
 
             </div>
         </div>
@@ -103,7 +144,7 @@ do
 	code=$(curl -o /dev/null -s -w "%{http_code}\n" -L $line) 
 	#Extraire le charset
 	#charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=[\"\']?)(.{,15})([\"\'>/ ])" | awk -F '[()]' '{print $2}')
-	charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=)([^\"\'>/ ]+)" | awk -F= '{print $2}' | tr -d '\r') #| awk -F '[()]' '{print $2}')
+	charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=)([^\"\'>/ ]+)" | awk -F= '{print $2}' | tr -d '\r' | tr '[:lower:]' '[:upper:]') #| awk -F '[()]' '{print $2}')
 	
 
 	echo "charset pre iconv : $charset" #pour debug
@@ -119,7 +160,9 @@ do
 		#Télécharger le contenu de l'URL de la ligne et l'enregistrer dans $html
 		#curl -Lo "$html" $line
 		#curl -Lo "$html" -b /dev/null "$line" 
-		if [ "$charset" != "UTF-8" ] && [ "$charset" != "utf-8" ]; then 
+		#if [ "$charset" != "UTF-8" ] && [ "$charset" != "utf-8" ]; then 
+		#if [ "$charset" != "UTF-8" ] || [ "$charset" != "utf-8" ]; then 
+		if [ ! $charset == "UTF-8" ]; then #corr
 			curl "$line" | iconv -f "$charset" -t utf-8 > "$html";
 		else 
 			curl -Lo "$html" -b /dev/null "$line";
@@ -147,14 +190,34 @@ do
 		lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 "$html" > "$txt"
 		
 		#Compter le nombre d'occurrences de $mot
-		#grep -ci 
-		compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
+		#grep -ci
+		
+		if command -v ggrep > /dev/null; then
+    		compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
+		else
+    		compte=$(cat "$txt" | grep -Poi "${motif}" | wc -l)
+    	fi 
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+		#compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
 		
 		#Extraire le contexte
 		#ggrep -Poi ".*${mot}.*" "$txt" > "$context"
 		#cat "$txt" | tr '^$' ' ' | ggrep -Pi "^.*$.*${mot}.*^.*$" > "$context"
 		#grep -i -A 1 -B 1 "${mot}" "$txt" > "$context"
-		cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
+		
+		if command -v ggrep > /dev/null; then
+    		cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
+		else
+    		cat "$txt" | grep -P -i -A 1 -B 1 "${motif}" > "$context"
+    	fi 
+		
+		#cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
 	else
 		continue
   	fi

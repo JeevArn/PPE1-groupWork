@@ -1,182 +1,351 @@
-   ﻿ ﻿ ﻿
+   #alternate alternate
 
-   ﻿
-   Dyaqua
-     * Home
-     * Medea website
-     * Invisible Solar
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TKZ2B4M
+
+     * FR
+     * EN
+
+   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+     * Columns
+     * Braincamps
+
+     * FR
+     * EN
+
+   (BUTTON) Sign up for the newsletter
+   Subscribe to our weekly newsletter
+   ____________________
+   [ ]
+   I have read and accepted the privacy policy.
+   Sign up
+     * π Planet
+     * π Energy
+     * π Health and biotech
+     * π Digital
+     * π Space
+     * π Economics
+     * π Industry
+     * π Science and technology
+     * π Society
+     * π Geopolitics
+     * π Videos
+
+   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+   ____________________ Submit
+
+   Share twitter linkedin facebook
+   Copié !
+   Subscribe to our weekly newsletter Newsletter
+   Subscribe to our weekly newsletter
+   ____________________ Valider
+   [ ]
+   I have read and accepted the privacy policy.
+   Sign up
+   (BUTTON) (BUTTON)
+   Home / Chroniques / Collagen: a key to preserving historical parchments
+   Blank parchment
+   On the same topic:
+     * States and businesses: the race for quantum computers
+     * How recycling solar panels will help preserve energy security in
+       Europe
+     * Military drones: current trends in the market
+
+   π Science and technology
+
+Collagen: a key to preserving historical parchments
+
+   On September 8th, 2021
+   5 min reading time
+   Marie-Claire Schanne-Klein
+   Marie-Claire Schanne-Klein
+   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
+   IP Paris
+   Gael Latour
+   Gaël Latour
+   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
+   and Biosciences Laboratory (LOB*), IP Paris
+
+   Whilst we may associate it more with aesthetics than antiquity,
+   collagen is central in some cultural heritage objects. Indeed, this
+   vital protein is a key structural molecule holding bodily tissues
+   together to support cells. And since animal skin was used in centuries
+   gone by to make parchments, the pages of many historical documents are
+   full of collagen, too.
+
+Collagen, collagen everywhere…
+
+   “There are around 26 different types of collagen, that are found in
+   many organs – tendons, skin, cornea, arteries, lungs and so on,” says
+   Marie-Claire Schanne-Klein a physicist at École polytechnique. She
+   specialises in biophotonics, which essentially means that she uses
+   techniques from physics to study living tissues. In her case, she works
+   with advanced optical imaging, known as multi-photon microscopy.
+
+   She explains, “we use fluorescent markers in biological samples to
+   label different cellular components so we can see them under a
+   microscope. But collagen doesn’t need a marker as it naturally
+   generates harmonics detected in multi-photon microscopy which makes it
+   glow without further intervention on our behalf.” Hence, this protein,
+   which creates a ‘fibrillary matrix’ supporting cells, can be observed
+   thanks to its harmonic signal. “These intrinsic imaging modalities,
+   without any labelling are a speciality of our lab.”
+   Analysis using the multiphoton microscope from the Laboratoire
+   d’Optique et Biosciences with a medieval manuscript on parchment from
+   the Chartres’ library (Photo credit: M. Schmeltz, LOB).
+
+   “Collagen forms fibrils that are arranged differently depending on the
+   tissue we are studying,” she clarifies. “In skin, for example, we would
+   expect to see tangled bundles of large fibrils, which are responsible
+   for its supple texture. Whereas in the cornea collagen fibrils are very
+   thin and highly ordered, arranged in layers (or lamellae) that make it
+   rigid, giving it the property of focusing light correctly onto the
+   retina.” However, collagen may degrade, losing its fibrillar structure
+   ultimately, forming a gelatine that no longer generates a harmonic
+   signature, but still fluorescence.
+
+   Marie-Claire Schanne-Klein and her colleagues study the collagen
+   principally for biomedical purposes. “Collagen structure plays an
+   important role in many diseases. It can change in certain extreme
+   situations like skin burns or scarring, which leave visible traces. But
+   also, in certain cancers because tumours seem to form around structures
+   of collagen as a scaffold. We tend to study them for that reason, to
+   better understand the pathologies associated to collagen.”
+
+Collagen in cultural heritage
+
+   Interestingly, collagen is found in other places too, including many
+   historical manuscripts written on parchments that are made from animal
+   skin. Gaël Latour from Université Paris-Saclay studies these materials.
+   “Parchments can degrade over time due to storage conditions, and as
+   they do so they become increasingly transparent and rigid, leading to
+   the loss of the readability of the writing,” he outlines. This
+   transparent material is, in fact, degraded collagen, often referred to
+   as gelatine.
+
+   “It is common knowledge in the world of cultural heritage that objects
+   or documents made from skin will ‘gelatinise’ in this way. And now we
+   know that this happens because the collagen fibres in the parchment
+   unwind as it degrades, progressively transforming the material into
+   gelatine. In doing so, the parchment gradually becomes more
+   homogeneous, letting more light through.” Moreover, the process is
+   irreversible: once the collagen-to-gelatine process has occurred the
+   document is lost forever.
+
+   With his colleagues they have been studying documents used in Western
+   Europe in the 13^th Century, at a time before paper, when parchments
+   were commonly used. But they have analysed documents that go as far
+   back at the 8^th Century. “Remarkably, some of the documents are still
+   very well preserved, with just damage at the borders of the pages where
+   they have been handled over the hundreds of years since they
+   were made.”
+
+   Due to the collagen content of parchment, the team realised that they
+   could use multi-photon microscopy to study it. “Currently, the main
+   method for testing degradation of parchments is called differential
+   scanning calorimetry; it’s a method that requires taking a sample from
+   the page that is crushed into a pulp to be tested destroying a part –
+   however small – of the document,” he explains. “But if we use
+   multi-photon microscopy to study the collagen, we can do this in a
+   non-invasive way.” In 2016
+   ^1, Latour, Schanne-Klein and colleagues, published a report showing
+   that it was possible to see whether a parchment was degraded using
+   their technique.
+
+     The researchers show that this method can be used to analyse the
+     level of degradation – or ‘gelatinisation’ – of parchments.
+
+   Copié !
+   (Left) Picture of a medieval manuscript on parchment from the Chartres’
+   library (photo credit: CNRS–IRHT). (Right) Multiphoton microscopy
+   images with well-preserved collagen in the center (Second harmonic
+   signals in green) and degraded collagen on the periphery (two-photon
+   excited fluorescence in red).
+
+Preserving history
+
+   “Initially the idea was to show that we could see degraded collagen in
+   the parchments. So, in the beginning the idea was a simple ‘yes’ or
+   ‘no’,” he says. “But now, we are seeking to look at how we can quantify
+   the amount of degradation. It could help us keep an eye on which
+   documents need to be taken care of more effectively or help towards
+   restoration efforts.”
+
+   Going further, they recently published another study
+   ^2 in which they show that the technique can be used to analyse the
+   amount of degradation – or gelatinisation – of parchments. They used
+   these techniques to analyse custom documents, then historical ones
+   preserved since the 13^th Century from the archives of the Library of
+   Chartres, France. In this particular case, over 200 of the documents
+   had been exposed to heat from a fire during a bomb raid during World
+   War II, resulting in extensive damage and gelatinisation. Gaël Latour
+   and his colleagues used these invaluable pages to provide evidence that
+   it is possible to quantify the amount degradation using multi-photon
+   microscopy, whilst causing them no further harm.
+
+   “Now we want to also understand how the degradation happens,” Gaël
+   Latour adds. We have been starting from modern parchments that we have
+   artificially degraded. The team expose them to dry conditions and
+   temperatures above 100°C as if they were ‘aging’ and then analyse them
+   using microscopy to quantify the degradation. Marie-Claire
+   Schanne-Klein adds, “normally, gelatine is formed from exposing
+   collagenous animal tissue to high temperatures – that’s how gelatine
+   used for candy is made, for example, and in the case of these
+   documents. But we know that in most cases, the parchments haven’t been
+   exposed to such heat. So, in other cases, it is likely the result of
+   acidification due to bacterial activity on the documents, which can
+   produce an acidic fluid due to humid conditions during storage.” The
+   team are setting about studying how this happens in more detail and to
+   challenge this hypothesis.
+
+   And they don’t plan on stopping at parchments. “There are many other
+   historical objects that contain collagen, too.” Indeed, in museums skin
+   can be found in range of materials including rawhide or leather that
+   was used to make clothes or in natural history specimens. There are
+   other biomolecules that exhibit harmonics, notably cellulosis in
+   plants, so that we can analyse old fabrics and musical instruments made
+   of wood and more generally a range of other objects – each with their
+   own story to tell for years to come.
+
+   For further reading
+     * https://​por​tail​.poly​tech​nique​.edu/​l​o​b​/​f​r​/​r​e​c​h​e​r​
+       c​h​e​/​m​i​c​r​o​s​c​o​p​i​e​s​-​a​v​a​n​c​e​e​s​/​m​u​l​t​i​p​h​o
+       ​t​o​n​-​c​h​a​r​a​c​t​e​r​i​z​a​t​i​o​n​-​c​u​l​t​u​r​a​l​-​h​e​r​
+       i​t​a​g​e​-​a​r​t​e​facts
+     * https://​hal​.archives​-ouvertes​.fr/​h​a​l​-​0​3​0​2​8​0​9​1​/​d​o
+       ​c​ument
+
+Interview by James Bowers
+
+   1https://​www​.nature​.com/​a​r​t​i​c​l​e​s​/​s​r​e​p​26344↑
+   2https://​advances​.sci​encemag​.org/​c​o​n​t​e​n​t​/​7​/​2​9​/​e​a​b​g
+   ​1​0​9​0​.​a​b​s​tract↑
+
+Contributors
+
+   Marie-Claire Schanne-Klein
+
+Marie-Claire Schanne-Klein
+
+   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
+   IP Paris
+
+   After studying at the Ecole Polytechnique and completing a thesis in
+   physics, Marie-Claire Schanne-Klein teaches in the physics department
+   of the Ecole Polytechnique and is responsible for physics at the
+   Doctoral School of IP Paris. She was awarded the CNRS silver medal in
+   2019. *LOB: a joint research unit CNRS, École Polytechnique - Institut
+   Polytechnique de Paris, Inserm
+   Gael Latour
+
+Gaël Latour
+
+   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
+   and Biosciences Laboratory (LOB*), IP Paris
+
+   Gaël Latour is a physicist specialising in optics, and a lecturer at
+   the science department of the University of Paris-Saclay. He teaches
+   physics, and more particularly optics, from bachelors to masters level.
+   His research activities at the Optics and Biosciences Laboratory are
+   focused on the development of new imaging modalities, in particular
+   non-linear optical microscopy, and on their applications in the
+   biomedical field (cornea, skin) and for the study of heritage objects.
+   *LOB: a joint research unit CNRS, École Polytechnique - Institut
+   Polytechnique de Paris, Inserm
+
+More on this topic
+
+   Précédent
+   Suivant
+   Pierre-Pol Liebgott
+   π Energy π Science and technology
+
+Transforming organic waste into hydrogen using marine bacteria
+
+   Pierre-Pol Liebgott,
+
+   Researcher in Microbiology at IRD
+   On October 18th, 2023
+   3 min reading time
+   Gerard Mourou
+   π Science and technology π Energy
+
+Super-powered lasers to transform nuclear waste
+
+   Gérard Mourou,
+
+   Nobel prize in Physics and member of the Haut Collège de l'École
+   polytechnique
+   On January 27th, 2021
+   3 min reading time
+   Pere ROCA
+   π Energy π Science and technology
+
+Photovoltaics: new materials for better efficiency
+
+   Pere Roca i Cabarrocas,
+
+   CNRS Research Director at LPICM* at École Polytechnique (IP Paris) and
+   scientific director of Institut Photovoltaïque d'Île-de-France (IPVF)
+   On October 4th, 2022
+   4 min reading time
+   ROUBY_Corinne
+   π Science and technology
+
+Loudspeakers: new materials in acoustics
+
+   Corinne Rouby,
+
+   teacher-researcher in mechanics at ENSTA (IP Paris)
+   On May 10th, 2023
+   3 min reading time
+   AREVALO_Ricardo
+   π Science and technology π Space
+
+Detecting life on other planets with lasers
+
+   Ricardo Arévalo,
+
+   Associate Professor at the University of Maryland
+   On May 31st, 2023
+   4 min reading time
+
+   Subscribe to our weekly newsletter Subscribe to our weekly newsletter
+   ____________________ Sign up
+   [ ]
+   I have read and accepted the privacy policy.
+
+Our selection of braincamps
+
+   0_BIOMIMETISME
+   π Science and technology π Health and biotech π Planet
+
+Biomimicry: when science draws inspiration from nature
+
+   3 episodes
+   0_transition‑énergétique
+   π Energy π Planet π Science and technology
+
+Energy transition: there is still a lot of unexploited potential
+
+   3 episodes
+   0_oceanClimat
+   π Planet π Science and technology π Energy
+
+Is the ocean the last bastion against climate change?
+
+   3 episodes
+
+   facebook twitter linkedin instagram
      * About us
-     * Contacts
+     * Sponsors
+     * Contributors
+     * Legal notices
+     * Contact
+     * (BUTTON) Cookie Settings
 
-     *
+   Logo Institut Polytechnique de Paris
 
-   Dyaqua Invisible Solar
-     * What is Invisible Solar
-     * Invisible Solar Rooftile
-     * News
+   (BUTTON)
 
-   In production
-
-Solar PV Rooftile
-
-   Identical to classic terracotta roof tiles, the Invisible Solar
-   Rooftile finally brings solar energy on heritage assets.
-   Learn more
-
-What Invisible Solar is
-
-   Invisible Solar is a new PV technology that take on the appearance of
-   any building material.
-   Each Invisible Solar module is more than a photovoltaic panel, it also
-   is an active architectural element with various functionality.
-   Invisible Solar Wood
-
-Features
-
-   Integrazione estetica e architettonica
-
-Integrated
-
-   Invisible Solar blends perfectly in the environment where it's
-   installed.
-   Autopulente, disinquinante
-
-Photocatalytic
-
-   A natural process activated by light to purify air and clean the module
-   surface.
-   Resistenza
-
-Strength
-
-   Resistance to high static load, chemical solvents and atmospheric
-   agents.
-   Sostenibilit�
-
-Eco-friendly
-
-   Non-toxic recyclable materials, from natural origins or reuse too.
-
-Renewable energy
-for listed buildings
-
-   Invisible Solar integrates itself with heritage buildings and
-   landscapes, with no damages for cultural values.
-
-Help to make
-the world healthier
-
-   Invisible Solar produces clean energy, uses sustainable materials and
-   purifies air from smog.
-
-Energetic
-independence
-
-   Everyone is free to generate his own energy everywhere, independently
-   from major suppliers.
-
-Reuse against urban sprawl
-
-   Invisible Solar promotes reuse of abandoned buildings, discouraging
-   from urban sprawl.
-   PV Stone
-
-How it works
-
-   A single and indivisible body, with the highest resistance,
-   hides and protects the photovoltaic cells inside itself.
-   How Invisible Solar works
-
-   Operating of Invisible Solar modules is based on the low molecular
-   density. Each module is composed of a non-toxic and recyclable
-   polymeric compound we properly developed to encourage the photon
-   absorption.
-   Inside the module there are incorporated standard monocrystalline
-   silicon cells. The surface, that is opaque at the sight but translucent
-   to sun rays, allows the light to enter and feed the cells.
-
-Astonishing surfaces
-
-   Terracotta, Stone, Concrete and Wood.
-   Invisible Solar is extremely adaptable and can take the appareance of
-   main building materials, offering many possible combinations of shapes
-   and colors.
-   The aesthetic performance of buildings and landscapes is rescued from a
-   strong visual impact, through a system able to substitute common
-   roofing, covering and flooring elements even on their operation
-   features.
-
-Where to install
-
-   Invisible Solar generates all the clean energy
-   you need by covering roof, wall and even floor.
-
-   Roofs - To generate energy by covering and protecting your building.
-   Walls - Facades covering, garden and patios walling.
-   Pavements - Outdoor pavement like driveways, parkings and walkways.
-   All together - Merge all the uses for a widespread system.
-   PV Rooftile, detail
-
-Recognized by Authorities
-
-   In 2015 Invisible Solar has been mentioned by Italian Ministry of
-   Cultural Heritage and Activities and Tourism (MiBACT) as solution to
-   improve energy efficiency in cultural heritage.
-   PV Concrete Brick
-
-Products
-
-   The production has been started for Rooftile only. The other Invisible
-   Solar materials are prototypes that are waiting to be put on
-   production.
-   Integrated Solar PV Rooftile for heritage
-
-Rooftile - Invisible Solar
-
-   The unique PV solar roof tile with a realistic surface for the maximum
-   architectural and aesthetical integration in the heritage's town
-   centers too.
-   Learn more!
-
-Dyaqua
-
-     * Dyaqua
-     * Medea Website
-     * Invisible Solar
-     * About us
-     * Contacts
-
-Medea
-
-     * Go to visit www.medealed.com
-
-Invisible Solar
-
-     * What is Invisible Solar
-     * PV Rooftile
-     * News
-
-Policies
-
-     * Privacy Policy
-     * Cookie Policy
-
-Terms for Medea
-
-     * General Sales Terms
-     * Warranty Terms
-
-Social Network
-
-     * Facebook
-
-   Dyaqua
-
-DYAQUA Srls
-
-   WE DO NOT HAVE A SHOWROOM. MANUFACTURING AREA CANNOT BE VISITED.
-   Registered office: Via Bonifacio 40/4 - 36043 Camisano Vicentino (VI)
-   Italy
-   Operative headquarters: Via del Lavoro 1/3 int. 9 - 36043 Camisano
-   Vicentino (VI) Italy
-   P.IVA 04096400249
+   Our world explained with science. Every week, in your inbox.
+   Get the newsletter

@@ -1,209 +1,315 @@
-   #Connectez-vous aux Dernières Actualités techniques, Blogs, Avis » Feed
-   alternate alternate alternate
+   #BuzzWebzine » Flux BuzzWebzine » Flux des commentaires alternate
+   alternate alternate BuzzWebzine » Flux popular posts
 
-   Connectez-vous aux Dernières Actualités techniques, Blogs, Avis
+   Close Menu
+   BuzzWebzine
 
-     * ⭐ Nouvelles
-     * 🤖 Reviews
-     * ⚡ How To
-     * 📱 Blogs
+   BuzzWebzine
+   Le meilleur de la POP culture
 
-   Connectez-vous aux Dernières Actualités techniques, Blogs, Avis
-     *
+     * Pub & Marketing
+          + Musique de pub
+          + Classement des musiques de pub
+          + Réseaux sociaux
+     * Divertissement
+          + Ciné/TV
+          + Musique
+          + Lecture
+          + Humour
+          + Art & Création
+          + Photo
+          + Court métrage
+          + Actu
+     * Tech & Geek
+          + Jeux vidéo
+          + Science
+          + Auto / Moto
+     * Maison
+          + Cuisine
+     * Animaux
+     * Lifestyle
+          + Mode
+          + Voyage
+          + Écologie
+     * Rencontre
+     * Business
+          + Entreprise
+          + Finance
+          + Immobilier
+     * Bien-être
+          + Psychologie
+          + Beauté
+          + Sport
+          + Astrologie & spiritualité
+     * Bons plans
 
-   Nouvelles
+   (BUTTON)
+   BuzzWebzine
 
-Héritage numérique. Comment et à qui léguer vos comptes réseaux
+   BuzzWebzine » Tech & Geek » Héritage numérique Apple : comment donner
+   accès à vos données en cas de décès
 
-   Bonjour.
+Héritage numérique Apple : comment donner accès à vos données en cas de décès
 
-   Rien n’est éternel sous la Lune et la fragilité de notre existence ne
-   fait aucun doute. Au début de l’émergence des réseaux sociaux, personne
-   ne pensait que les gens pouvaient mourir et que leurs héritiers
-   voudraient avoir accès aux actifs numériques. Lorsque la question de
-   l’héritage est discutée, une association se pose généralement avec
-   quelque chose de matériel – un appartement ou une voiture, de l’argent
-   sur un compte bancaire, certaines choses. On ne nous a pas appris �
-   prendre au sérieux les publications sur les réseaux sociaux et les
-   archives de photos. Cependant, les archives numériques n’intéressent
-   pas seulement les personnes célèbres. Malheureusement, personne ne
-   pense à ce qui se passera après nous et qui aura accès à ces données.
-   Il est clair que personne ne pense mal, mais cela signifie qu’après
-   notre départ, nos données numériques peuvent tomber entre de mauvaises
-   mains. Ou, au contraire, ils seront oubliés et disparaîtront à jamais.
+   Philippe Abiodoun Philippe Abiodoun Par Philippe Abiodoun13 novembre
+   20213 MinutesAucun commentaireMis à jour le13 novembre 2021
+   Partager Facebook Twitter LinkedIn WhatsApp
 
-   Les données numériques sont techniquement le même atout que tout ce qui
-   vous appartient dans le monde réel, il n’y a pas de différence
-   particulière. Dans tous les pays du monde, il existe des lacunes dans
-   la législation ; il n’y a pas de réglementation transparente et claire
-   sur la façon dont les droits sur les actifs numériques sont transférés
-   après le décès de leur propriétaire. Formellement et au niveau des
-   concepts, les actifs numériques sont assimilés à des actifs matériels,
-   mais commencent alors des nuances qui bouleversent tout. Au cours des
-   dix dernières années, le nombre d’appels vers les propriétaires de
-   réseaux sociaux ou de comptes d’utilisateurs a augmenté comme une
-   avalanche. Il s’agit d’un fardeau supplémentaire pour les avocats
-   d’entreprise et, par conséquent, ils essaient de créer des outils qui
-   résoudront ce problème, en tout cas, le rendront moins douloureux.
-   Voyons comment différentes entreprises tentent de résoudre ce problème.
+   Grâce à Digital Legacy, Apple permet désormais à vos proches d’accéder
+   à vos fichiers en cas de décès.
 
-Facebook et votre teneur de compte
+   Apple l’a toujours chanté, ce qui fait sa force est sa protection sur
+   les données des utilisateurs. Mais cette protection est parfois �
+   outrance, puisque c’est souvent un chemin de croix pour avoir accès aux
+   données personnelles sur iCloud d’une personne décédée. Un véritable
+   coup dur pour les proches endeuillés qui ne peuvent même pas
+   déverrouiller l’appareil ou accéder aux photos du décédé sans connaître
+   son mot de passe. Heureusement, les choses changent désormais avec iOS
+   15.2.
 
-   Dans les paramètres de Facebook, il y a une ligne “Statut mémorable”,
-   ici vous pouvez spécifier qui exactement sera le gardien de votre
-   mémoire.
+   Dans cet article :
+   Toggle [X]
 
-   Une telle personne, choisie par vous, ne pourra pas écrire en votre
-   nom, mais pourra publier des notes, ajouter de nouveaux amis. Ici, nous
-   pouvons dire que c’est un moyen très simple de s’assurer que votre
-   compte n’est pas perdu. Alternativement, vous avez la possibilité de
-   spécifier que votre compte doit être supprimé définitivement (cela peut
-   également être fait par le dépositaire).
+     * Digital Legacy : ce qu’il manquait pour accéder aux fichiers iCloud
+       d’une personne décédée
+     * Digital Legacy : comment désigner vos héritiers numériques ?
 
-   Comment Facebook sait-il qu’une personne est décédée ? Il n’y a pas de
-   compréhension de ce problème, très probablement, les publications sont
-   en cours d’analyse et après que le compte est bloqué, l’ancien mot de
-   passe n’est plus valide. Par conséquent, laisser votre mot de passe
-   pour l’accès n’est pas une bonne idée.
+Digital Legacy : ce qu’il manquait pour accéder aux fichiers iCloud d’une
+personne décédée
 
-   Aux États-Unis, vous pouvez contacter Facebook par l’intermédiaire
-   d’avocats pour obtenir un accès complet à tous les enregistrements et
-   données de votre compte, vous devez être l’héritier et bénéficier des
-   droits de succession. Mais c’est un chemin difficile, en Russie, je ne
-   connais aucun exemple d’un tel héritage, et nous n’avons en fait pas de
-   bureau Facebook. La communication avec le support est extrêmement
-   déroutante, et il n’est pas certain qu’ils seront en mesure de vous
-   transférer ces informations. En cas d’héritage des droits, vous pourrez
-   télécharger toutes les données, mais pas gérer le compte ou écrire au
-   nom de l’ancien propriétaire.
+   La firme de Cupertino ne manque pas un instant pour se vanter de
+   posséder l’écosystème le plus sécurisé. Sauf que parfois cette
+   (sur)protection de données pose problème même aux propriétaires. En
+   effet, auparavant, c’était un véritable calvaire pour accéder aux
+   données d’une personne décédée qui étaient stockées sur iCloud. Même
+   avec un certificat de décès légal ou une ordonnance du tribunal, vous
+   n’aviez aucune assurance de récupérer les fichiers.
 
-Instagram – statut ou suppression mémorable
+   VOIR AUSSI : iCloud pour Windows vient d’intégrer un générateur de mot
+   de passe
 
-   Fait intéressant, Instagram inclus dans Meta a des règles différentes,
-   il n’y a aucun moyen d’attribuer des héritiers. Les utilisateurs de ce
-   réseau social sont invités à informer le support qu’ils ont vu un
-   message concernant le décès d’une personne, puis le compte est bloqué
-   pour l’entrée et toute modification, l’inscription « Mémoire bénie » y
-   apparaît. Vous pouvez lire à ce sujet ici.
+   Il s’agissait donc d’une intransigeance qui commençait à faire couler
+   beaucoup d’encres. La marque à la pomme est en effet en retard dans un
+   domaine où Facebook et Google sont exemplaires. Ces derniers ont déj�
+   mis en place des méthodes pour permettre aux proches d’entrer
+   facilement en possession des données personnelles d’une personne
+   décédée.
 
-   Les héritiers peuvent envoyer une demande de suppression de compte,
-   pour cela vous devrez fournir les documents pertinents. Parallèlement,
-   en dehors de la procédure standard, vous pouvez demander l’accès �
-   toutes les données, les télécharger, cela nécessite un recours d’un
-   avocat.
+   Enfin, le créateur d’iPhone, iPad et tutti canti a décidé de mettre du
+   leste dans sa décision. Vos proches peuvent donc désormais récupérer
+   vos documents, photos, vidéos ainsi que vos achats.
 
-Apple est un héritage numérique
+Digital Legacy : comment désigner vos héritiers numériques ?
 
-   À partir d’iOS 15.2 ou macOS 12.1, vous pouvez attribuer jusqu’à cinq
-   héritiers numériques, ce sont les personnes à qui vous fournissez une
-   clé d’accès spéciale à vos données (vous pouvez la révoquer à tout
-   moment). L’héritier doit fournir la clé ainsi que l’acte de décès.
-   Ensuite, il aura accès aux données enregistrées dans iCloud – photos,
-   notes, courrier. Mais il ne pourra pas, par exemple, utiliser le
-   courrier, télécharger des films et de la musique précédemment achetés.
-   C’est un moment très important, tout ce qu’une personne a acheté au
-   cours de sa vie s’épuise avec son départ – les mêmes films deviennent
-   indisponibles. Ressentez la différence avec le monde réel lorsqu’un
-   film que vous avez acheté sur disque restera dans votre appartement
-   pour toujours jusqu’à ce que quelqu’un le jette.
+   Grâce à l’Héritage Numérique ou Digital Legacy, vous pouvez désigner
+   sur votre appareil vos héritiers numériques. Apple vous donne la
+   possibilité de choisir jusqu’à 5 personnes légataires. Ce sont ces
+   derniers qui peuvent accéder à vos fichiers stockés sur iCloud en cas
+   de décès.
 
-   Si une personne n’a pas laissé d’héritiers, les droits peuvent être
-   saisis de la manière habituelle (même si les actifs numériques ne sont
-   en aucun cas indiqués dans le testament), mais cela nécessite du temps
-   et une communication avec le support d’Apple. La méthode standard mise
-   en place par l’entreprise est la plus simple, comme d’ailleurs pour
-   toute autre entreprise.
+   Pour mettre en place ce testament, il est obligatoire que vous
+   utilisiez un appareil tournant sous iOS 15.2. Ce n’est qu’à partir de
+   cette version que la fonctionnalité Digital Legacy est disponible. Si
+   vous ne l’avez pas, vous devriez faire une mise à jour pour désigner
+   vos 5 contacts légataires.
 
-   Vous pouvez en savoir plus sur le patrimoine numérique ici.
+   Par ailleurs, pour que ces héritiers puissent avoir accès à vos données
+   personnelles, ils doivent fournir une clé d’accès et le certificat de
+   décès.
 
-Google – accès aux données et silence du compte
+   Mais alors, comment désigner ces personnes ? C’est simple, entrez dans
+   les paramètres de votre appareil et choisissez Mot de passe et
+   sécurité. Là, vous pourrez choisir vos héritiers numériques. Dès que
+   c’est fait, vous devez informer chacun d’entre eux et leur partager une
+   clé d’accès. Pour que la désignation soit effective, les personnes
+   désignées doivent accepter d’être légataires. Dans le cas échéant, la
+   copie de la clé d’accès est enregistrée dans leurs paramétrages Apple.
+   Et le tour est joué !
+   Notez cet article
 
-   Google a peut-être les paramètres les plus flexibles. L’entreprise
-   surveille votre activité, et si vous ne vous êtes pas connecté à votre
-   compte, n’avez rien utilisé des produits Google, alors votre compte
-   peut être gelé (par défaut cela coûte 3 mois, mais cela peut prendre un
-   an et demi). Un mois avant l’expiration du terme, vous serez tiré par
-   mail, puis ils essaieront de vous joindre par SMS au numéro indiqué.
-   Tous ces paramètres sont disponibles ici.
+   BuzzWebzine est un média indépendant. Soutiens-nous en nous ajoutant �
+   tes favoris sur Google Actualités :
+   Suis-nous sur Google ⭐➡️
+   Tech & Geek
+   Partager Facebook Twitter LinkedIn WhatsApp
 
-   Vous pouvez choisir jusqu’à dix personnes qui recevront des
-   informations de votre part, y compris vous pouvez donner accès à toutes
-   vos données (aucun certificat de décès n’est nécessaire). Vous pouvez
-   installer un répondeur automatique dans GMail, il fonctionnera
-   automatiquement et enverra votre réponse à tous ceux qui ont écrit.
+   Philippe Philippe
+   Philippe Abiodoun
+     * X (Twitter)
+     * LinkedIn
 
-   Bien sûr, vous pouvez choisir l’option de supprimer votre compte, tout
-   est à votre discrétion.
+   J'ai vaincu le syndrome de la page blanche. Cinéma, Tech et voyage,
+   j'ai rencontré Batman, écrit à Google et marqué une pause à Old
+   Trafford.
 
-À faire et à ne pas faire
+Articles similaires
 
-   Difficile de s’attendre à ce que nous nous empressions de mettre en
-   place un accès sur les réseaux sociaux pour nos proches afin qu’ils
-   puissent lire nos messages, voir des photos, etc. Que ce soit
-   nécessaire ou non, vous décidez. La question est de savoir si vos
-   héritiers peuvent obtenir un tel accès après votre décès et, très
-   probablement, l’option la plus populaire sera de supprimer votre
-   compte. Dans le testament, si la suppression des comptes est
-   explicitement indiquée, c’est une mesure suffisante pour que personne
-   ne puisse utiliser les données de ceux-ci. Cependant, même s’il n’y a
-   rien dans le testament concernant les actifs numériques, les héritiers
-   peuvent les revendiquer et sont susceptibles d’y accéder. Il est
-   important de comprendre que ce processus peut être long et impliquer
-   des avocats.
+   La sécurité de vos données est entre de bonnes mains : GnuVPN présente
+   une mise à jour révolutionnaire La sécurité de vos données est entre de
+   bonnes mains : GnuVPN présente une mise à jour révolutionnaire
 
-   Les entreprises créent leurs propres règles afin de se faciliter la vie
-   et s’y réfèrent. Mais de telles règles ne peuvent remplacer les lois,
-   et ces dernières stipulent clairement que les actifs numériques
-   appartiennent aux héritiers. Autrement dit, quelles que soient les
-   règles, il s’agit toujours d’informations qui, tôt ou tard, peuvent
-   être reçues par les héritiers. Une autre chose est que le processus
-   d’obtention peut être retardé indéfiniment. Au niveau de chaque pays,
-   ces lois successorales prêtent à confusion dans le domaine des actifs
-   numériques et, dans les années à venir, elles seront modifiées et
-   affinées pour répondre aux réalités actuelles.
+La sécurité de vos données est entre de bonnes mains : GnuVPN présente une
+mise à jour révolutionnaire
 
-   En Russie, les réseaux sociaux suivent les pratiques de leurs confrères
-   occidentaux, par exemple, VKontakte propose le même accès que Facebook,
-   rien d’autre. Mais si vous avez accès à votre compte, il ne sera pas
-   bloqué, personne ne recherche des informations sur la mort de personnes
-   ordinaires.
+   récupérer des photos supprimées sur iPhone récupérer des photos
+   supprimées sur iPhone
 
-   Sur le plan du décès, il faut aussi se rappeler qu’aujourd’hui,
-   l’autorisation dans les comptes n’est souvent possible qu’avec un
-   téléphone portable et son numéro. Pour conserver cet accès, vous devrez
-   réenregistrer le numéro pour vous-même, ce qui est possible au bureau
-   d’un opérateur de téléphonie mobile. Cela ne vaut certainement pas la
-   peine de laisser ce moment sans surveillance, d’un autre côté, il peut
-   être plus facile de simplement fermer le contrat et de ne pas
-   l’utiliser.
+3 solutions pour récupérer des photos supprimées sur iPhone
 
-   J’ai du mal à imaginer qu’un proche veuille lire des messages sur mes
-   réseaux sociaux, télécharger des photos ou autre chose. Pourquoi? Il
-   s’agit plutôt de ce que j’ai fait à un moment donné, il n’y a rien de
-   valeur là-dedans, chacun de nous a des souvenirs communs sous forme
-   numérique. Par conséquent, si mes souvenirs disparaissent, ce n’est pas
-   grave. Mais je n’ai pas supprimé de comptes, je n’ai pas défini de tels
-   paramètres. Pourquoi? Il est possible que je change d’avis après un
-   certain temps, qui sait ? Souhaitez-vous que vos proches héritent de
-   vos comptes de réseaux sociaux ?
+YouTube : tout savoir sur la plateforme de vidéos
 
-   Table of Contents
-   Toggle [ ]
+   iCloud pour Windows iCloud pour Windows
 
-     * Facebook et votre teneur de compte
-     * Instagram – statut ou suppression mémorable
-     * Apple est un héritage numérique
-     * Google – accès aux données et silence du compte
-     * À faire et à ne pas faire
+iCloud pour Windows vient d’intégrer un générateur de mot de passe
 
-   comment comptes héritage léguer numérique qui réseaux Vos
+   Comment espionner un iPhone sans y avoir accès ? Comment espionner un
+   iPhone sans y avoir accès ?
 
-   2022 : La bataille entre les chipsets Qualcomm et MediaTek sera
-   légendaire
+Comment espionner un iPhone sans y avoir accès ?
 
-     * ⭐ Nouvelles
-     * 🤖 Reviews
-     * ⚡ How To
-     * 📱 Blogs
+   pirater un téléphone en ligne à distance pirater un téléphone en ligne
+   à distance
 
-   contador javascript
+Comment pirater un téléphone en ligne à distance ?
+
+Laisser une réponse Annuler la réponse
+
+
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ______________________________
+
+   ______________________________
+
+   ______________________________
+
+   [ ] Enregistrer mon nom, mon email et mon site web dans ce navigateur
+   pour mes prochains commentaires.
+
+   Publier mon commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+Derniers articles Tech & Geek
+
+   https://www.buzzwebzine.fr/nintendo-switch-vs-switch-oled-differences/
+   https://www.buzzwebzine.fr/nintendo-switch-vs-switch-oled-differences/
+   5 produits High-Tech très attendus en 2024
+
+   Les internautes font autant confiance à l'humain qu'à l'IA Les
+   internautes font autant confiance à l'humain qu'à l'IA
+   Les internautes feraient autant confiance aux IA qu’aux humains
+
+   Optimiser sa vitesse de connexion internet Optimiser sa vitesse de
+   connexion internet
+   Optimiser la vitesse de votre connexion Internet : 7 conseils pour
+   booster votre débit !
+
+Top articles Tech & Geek
+
+Téléchargement gratuit de films et de séries TV : les 5 sites les plus
+utilisés en 2023
+
+Comment trouver l’adresse de quelqu’un ?
+
+5 produits High-Tech très attendus en 2024
+
+Optimiser la vitesse de votre connexion Internet : 7 conseils pour booster
+votre débit !
+
+L’image de ma télévision saute ou pixellise, que faire ?
+
+Robotique sexuelle : top 5 des robots sexuels ou sexbots les plus évolués
+
+WhatsApp : comment récupérer des conversations/fichiers supprimés sur
+Android/iPhone sans sauvegarde ?
+
+Comment enregistrer un appareil sur Amazon Prime Video ?
+
+Comment localiser un téléphone portable secrètement ?
+
+Ces 5 vieux téléphones valent très chers aujourd’hui
+
+Les meilleurs buzz du moment !
+
+   Astrologie : que vous réserve le mois de janvier selon votre signe ?
+
+   5 principes pour ne plus jamais être malheureux dans la vie
+
+   Test de personnalité : quel personnage de Supernatural êtes-vous ?
+
+   Héritage : comment retirer certains biens immobiliers de la
+   succession ?
+
+   Test visuel : arrivez-vous à lire tous les chiffres de cette illusion ?
+
+   Si vous avez ce défaut, vous êtes probablement très intelligent selon
+   la science
+
+   Sortie de livres : Top 5 des découvertes du mois
+
+   Musique de la pub Renault Clio Hybride 2023
+
+   7 astuces pour faire fuir les araignées de sa maison
+
+   Pourquoi mon chien me grogne-t-il dessus quand il mange ?
+
+Articles populaires
+
+   Ce trait caractéristique est le signe d’une intelligence exceptionnelle
+
+   Selon la science, préférer une soirée en solo plutôt qu’une soirée
+   entre potes est un signe d’intelligence
+
+   Permis de conduire : trois changements qui interviennent dès 1er
+   janvier 2024
+
+   9 choses qu’on retrouve chez les personnes intelligentes
+
+   6 traits particuliers des personnes qui aiment être seules
+
+   Astrologie : que vous réserve le mois de janvier selon votre signe ?
+
+   Test de personnalité : que voyez-vous en premier dans cette illusion ?
+
+   Test visuel : arrivez-vous à lire tous les chiffres de cette illusion ?
+
+   Loto : voici les 7 numéros qui reviennent le plus souvent chez les
+   gagnants
+
+   Quel site parodique américain a inspiré Le Gorafi ?
+
+Contact
+
+   contact Vous souhaitez devenir rédacteur, diffuser vos publicités, nous
+   proposer un partenariat ou un sujet d'article ?
+
+                           (BUTTON) Contactez-nous
+
+   Partenaire
+
+   AmoMama
+   Facebook X (Twitter) Instagram Pinterest YouTube RSS
+
+   © BuzzWebzine.fr 2012-2024 | À propos & rédaction | Articles populaires
+   | Recherches populaires | Mentions légales | Contact
+
+   ____________________ (BUTTON) Soumettre
+
+   Tapez ci-dessus et appuyez sur Enter pour effectuer la recherche.
+   Appuyez sur Esc pour annuler.

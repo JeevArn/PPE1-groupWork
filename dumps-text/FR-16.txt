@@ -56,7 +56,7 @@ Les biens français inscrits au patrimoine culturel immatériel
      * Facebook
      * Twitter
 
-   En 2003, les Etats parties adoptent la Convention du patrimoine
+   En 2003, les États parties adoptent la Convention du patrimoine
    culturel immatériel de l’UNESCO. Cette convention vient compléter la
    convention de 1972 dans ses prérogatives de sauvegarde et de mise en
    avant du patrimoine mondial.
@@ -87,9 +87,9 @@ Les biens français inscrits au patrimoine culturel immatériel
    un rôle majeur dans la sauvegarde de leur patrimoine culturel
    immatériel.
 
-   La France a ratifié la Convention en 2006 et compte 26 éléments inscrit
-   au Patrimoine culturel immatériel dont 1 nécessitant une sauvegarder
-   urgente.
+   La France a ratifié la Convention en 2006 et compte 28 éléments
+   inscrits au Patrimoine culturel immatériel dont 1 nécessitant une
+   sauvegarder urgente.
 
    CAPTION: Biens français inscrits au Patrimoine culturel immatériel
 
@@ -143,6 +143,12 @@ Les biens français inscrits au patrimoine culturel immatériel
    25 2022 Les fêtes de l’Ours dans les Pyrénées (Andorre, France)
    26 2022 Les savoir-faire artisanaux et la culture de la baguette de
    pain
+   27 2023 La Transhumance, déplacement saisonnier de troupeaux (Italie,
+   la Grèce et l’Autriche, l’Albanie, Andorre, l’Autriche, la Croatie, la
+   France, la Grèce, l’Italie, le Luxembourg, la Roumanie et l’Espagne)
+   28 2023 Connaissances, techniques, et savoir-faire du verre artisanal
+   (Allemagne, l’Espagne, la Finlande, la France, la Hongrie et la
+   République tchèque)
 
 L’alpinisme, ou l’art de gravir des sommets et des parois en haute montagne
 (dossier multi-pays - 2019)
@@ -772,7 +778,7 @@ La tradition du tracé dans la charpente française (2008)
    du bâtiment que de ne plus bénéficier de la pensée et de la démarche
    créatrices des charpentiers détenteurs de cette tradition du tracé.
 
-   publié le 19/09/2023
+   publié le 08/12/2023
    haut de la page
 
 En savoir plus

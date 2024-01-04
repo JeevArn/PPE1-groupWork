@@ -1,4 +1,7 @@
-   (BUTTON) Our sites[production] 1.3.0.1105
+   Due to scheduled maintenance, MyCouncil will be unavailable between
+   5.15pm Friday 12 January 2024 and 8.00am Monday 15 January 2024. We
+   apologise for any inconvenience.
+   (BUTTON) Our sites[production] 1.3.0.1130
    (BUTTON) Accessibility
    Help & SupportContact CouncilMyCouncil
     1. Home
@@ -143,5 +146,5 @@ Contacts
    ____________________ (BUTTON) Signup
    Follow us
    (BUTTON) Accessibility
-   Version 1.3.0.1105 Terms of use and privacy
-   © Sunshine Coast Regional Council 2008 - 2023
+   Version 1.3.0.1130 Terms of use and privacy
+   © Sunshine Coast Regional Council 2008 - 2024

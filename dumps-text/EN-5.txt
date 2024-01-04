@@ -46,7 +46,7 @@
 
 Chances and ambitions: the future of young talent in heritage
 
-   Jana·November 22, 2023·47 views
+   Jana·November 22, 2023·55 views
    Jana
 
    At the Annual Dutch National Conference on Monuments, an interesting
@@ -149,14 +149,17 @@ Recent Articles
 
 Notre Dame Cathedral is rising from the ruins: how is the restoration going?
 
+   Bad Ischl
+
+Bad Ischl, Austria to be the European Capital of Culture in 2024 alongside
+Tartu and Bodø
+
    The Notre Dame Cathedral fire in 2019. Image: Alexander Perrien Canva
    CC0
 
 “Anachronistic” rebuild of Notre Dame angers environmental group
 
-Napoleon conquers Netflix, streaming service supports French film heritage
-
-Colosseum’s lower levels open to the public for the first time in 2000 years
+Orient Express train line adds new destinations
 
    Click here for our homepage with  more heritage news from all over
    Europe.
@@ -313,13 +316,7 @@ Doneren
    relies on your support. Stand with us to protect our shared legacy and
    donate to our organisation. Thank you.
 
-   Amount () *[5,00_________________] 5.00________________
-
-   (*) [svg%3E] [ideal.png] iDEAL
-   ( ) [svg%3E] [creditcard.png] Card
-   ( ) [svg%3E] [paypal.png] PayPal
-   [ ] I hereby authorize to collect the amount shown above from my
-   account periodically. [BUTTON Input] (not implemented)______
+   [doneren_met_mollie]
 
    ____________________ (BUTTON)
    Start typing to see results or hit ESC to close

@@ -1,463 +1,467 @@
-   #A la une
+   #RSS 2.0 Atom 1.0
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5R3RG2H
+   crhi
+   Centre de Recherches en Histoire des Idées
+     * Accueil
+     * Le CRHI
+     * Membres
+     * Activités
+     * Agenda
+     * Chaire Mattéi
+     * Revue Noesis
+     * Publications
+     * Formations
 
-       Live Challenges
-       Newsletter Services Magazine
-       Mon compte
-       Mon profil Déconnexion
-       Connexion S’abonner
+Activités générales
 
-   ____________________
+     * Séminaire interne
+     * Séminaire Histoire des idées
+     * Journées d'études et colloques
+     * Les mardis de la SAPHI
+     * Les rencontres philo du CUM
 
-   S’abonner
+Les séminaires du CRHI
 
-          +
-               o Menu
-               o [logo.svg]
-               o
-               o S’abonner
-               o Connexion
-               o Mon compte
-                 Mon profil Déconnexion
-               o
+     * 1. Penser l'héritage
+     * 2. Histoire et philosophie des sciences
+     * 3. Philosophie médiévale
+     * 4. Avec les Amis de la liberté
+     * 5. Séminaire Jeunes chercheurs
+     * 6. Les activités du Philia
+     * 7. Séminaire ARPHI
+     * 8. Les activités du CEPHEN
+     * 9. Atelier NumerÉthique
 
-   Challenges, l'actualité de l'économie, de la finance, de l'entreprise
-   et les échos de la Bourse
+Axes interdisciplinaires
 
-     *
-     * Entreprise
-     * Economie
-     * Politique
-     * Monde
-     * Médias
-     * Tech
-     * Auto
-     * Emploi
-     * Patrimoine
-     * Luxe
-     * Femmes
+     * Axe 3 de la MSHS Sud-Est
+     * Axe Histoire des idées
 
-   ____________________
+   Vous êtes ici : Home 1. Penser l'héritage
 
-   Se connecter Mon compte Se déconnecter
-   Vidéos
-   Challenges Audio
-   Espace débat
-   Entreprise
-     * Défense
-     * Industrie
-     * Grande conso
-     * Automobile
-     * Santé
-     * Transports
-     * Energie
-     * Création d'entreprise
-     * Aéronautique
-     * BTP
-     * Tourisme
-     * Start-up
-     * Environnement
-     * Galeries photos
-     * La voix des dirigeants
-     * Le Colloque
-     *
 
-   Economie
-     * Budget
-     * Fiscalité
-     * Social
-     * Agriculture
-     * Conjoncture
-     * Consommation
-     * SCPI PRIMALIANCE
-     * Les vidéos de l'ESSEC
-     * Meilleurtaux Banques
-     * Galeries photos
-     *
 
-   Politique
-     * LREM
-     * Parti socialiste
-     * Les Républicains
-     * Rassemblement National
-     * Galeries photos
-     *
+                         Workshops Penser l'héritage
 
-   Monde
-     * Europe
-     * Etats-Unis
-     * Russie
-     * Moyen-orient
-     * Afrique
-     * Amériques
-     * Asie-Pacifique
-     * Japon
-     * Brics
-     * OCDE
-     * Galeries photos
-     *
 
-   Médias
-     * Audiovisuel
-     * Presse
-     * Digital
-     * Publicité
-     * Edition
-     * GAFA
-     * Galeries photos
-     *
 
-   Tech
-     * French Tech
-     * Télécoms
-     * Jeux vidéo
-     * Test high-tech
-     * Informatique
-     * Grand public
-     * Galeries photos
-     *
+                         [Logo%20Idex%20UCAjedi.png]
 
-   Auto
-     * Actu
-     * Comparatifs
-     * Concept-cars
-     * Essais
-     * Nouveautés
-     * Salons
-     * Voitures propres
-     * Scooters
-     * Galeries photos
-     *
+                      [RECONSIDERING%20INHERITANCE.jpg]
 
-   Emploi
-     * Management
-     * Formation
-     * Rémunération
-     * Marché de l'emploi
-     * Droit du travail
-     * Galeries photos
-     *
 
-   Patrimoine
-     * Epargne
-     * Arts et enchères
-     * Placements
-     * Retraite
-     * Immobilier
-     * Epargne Moniwan
-     * Galeries photos
-     *
+   Présentation
 
-   Luxe
-     * Mode
-     * Design
-     * Montres
-     * Gastronomie
-     * Voyage
-     * Lifestyle
-     * Galeries photos
-     *
+   Comme Anthony B. Atkinson l’a montré pour le Royaume-Uni (Atkinson
+   2018), Joseph Stiglitz pour les États-Unis (Stiglitz 2019), Thomas
+   Piketty pour la France (Piketty 2011 et 2013) et pour les différents
+   pays européens (Alvaredo, Garbinti & Piketty 2017), on assiste, depuis
+   les années 1970, dans les pays développés, à « un retour de
+   l’héritage » : après avoir décru dans la première moitié du XXe siècle,
+   la part du patrimoine hérité dans les ressources totales des ménages a
+   retrouvé aujourd’hui un niveau comparable à celui qu’il détenait au
+   XIXe siècle. Et ce « retour de l’héritage », loin de bénéficier à tous,
+   est au contraire fortement discriminant dans la mesure où il est très
+   concentré.
 
-   Femmes
-   Services
-   Grandes Ecoles
-   Green économie
+   Si, jusqu’à la parution et la très large diffusion du Capital au XXIe
+   siècle de Thomas Piketty (Piketty 2013), le retour contemporain de
+   l’héritage est resté peu visible et peu questionné, un nombre croissant
+   d’économistes en appellent aujourd’hui à une réforme de la fiscalité
+   successorale, qui permettrait d’obtenir un équilibre entre équité et
+   efficacité, que ce soit en faisant varier le taux d’imposition selon
+   qu’il s’agit d’héritages, de transferts entre vifs ou de dons
+   caritatifs (Kaplow 2001 ; Bernheim & alii 2004 ; Arrondel & Masson
+   2011 ; Masson 2015), selon que le patrimoine transmis provient d’un
+   héritage antérieur ou du produit du travail (Halliday 2018), selon
+   l’âge du défunt (Pestieau & Ponthière 2018), selon l’âge de l’héritier
+   (Dherbécourt), ou que ce soit en élargissant l’assiette de l’imposition
+   par la prise en compte des revenus non visibles du patrimoine (Allègre,
+   Plane & Timbeau 2012) ou encore par celle de l’ensemble du patrimoine
+   hérité au cours de la vie (Frémeaux 2018). D’autres pointent la
+   nécessité de compléter la taxation sur les transmissions par une
+   taxation accrue sur le patrimoine (Piketty 2019).
 
-     *
-          + Menu
-          +
-          + Home
-          + Entreprise
-          + Economie
-          + Politique
-          + Monde
-          + Médias
-          + Tech
-          + Auto
-          + Emploi
-          + Patrimoine
-          + Luxe
-          + Femmes
-          +
-          +
-          + Mon compte
-          + S’abonner
-          + Connexion
-          +
+   Mais si la question de l’héritage revêt une importance croissante en
+   économie, elle demeure singulièrement absente en philosophie, quand
+   bien même elle articule des concepts philosophiques cardinaux tels que
+   ceux de propriété, de famille, de mort, de justice sociale, de justice
+   fiscale, d’égalité des chances ou des opportunités. Plus surprenant
+   encore, à l’exception des libertariens de droite (Nozick 2016, Rothbard
+   2002) et de gauche (Steiner 1994, Vallentyne 2001, Van Parijs 1991 et
+   1995, Otsuka 2003), l’institution de l’héritage reste très peu
+   questionnée au sein même des théories de la justice, cette partie de la
+   philosophie sociale et politique qui, dans le sillage de John Rawls, se
+   saisit de la ligne de partage entre inégalités sociales justes et
+   injustes.
 
-   Israël/Hamas 500 Fortunes de France Grandes écoles Espace débat
-   CYBERSECU Futur
+   Les workshops Penser l’héritage, organisé dans le cadre de la chaire
+   d'excellence UCAjedi Reconsidering Inheritance, entendent combler ce
+   manque en se saisissant philosophiquement de l’institution de
+   l’héritage.
 
-   Fortunes 2023 Idées Entreprise Économie Politique Monde Média High-Tech
-   Automobile Emploi Patrimoine Luxe Femmes
+   Bibliographie
+   Allègre G., Plane M. & Timbeau X. (2012), « Réformer la fiscalité du
+   patrimoine ? », Revue de l’OFCE, 122, p. 231-261.
+   Arrondel L. & Masson A. (2011), « Taxer les héritages pour accroître la
+   mobilité du patrimoine entre générations », Revue française d'économie,
+   Volume XXVI, 2011/2, p. 23-72.
+   Atkinson A. (2018), "Wealth and inheritance in Britain from 1896 to the
+   present", The Journal of Economic Inequality, 16/2, p. 137-169.
+   Bernheim B. D., Lemke R. J. & Scholz J. K. (2004), "Do Estate and Gift
+   Taxes Affect The Timing of Private Transferts?", Journal of Public
+   Economics, 88/12, p. 2617-2634.
+   Dherbécourt C. (2017), « Peut-on éviter une société d’héritiers ? »,
+   Note d’analyse, n°51, France Stratégie.
+   Frémeaux N. (2018), Les Nouveaux Héritiers, Paris, Seuil.
+   Halliday D. (2018), The Inheritance of Wealth: Justice, Equality and
+   The Right to Bequeath, Oxford University Press.
+   Kaplow L. (2001), “A Framework for Assessing Estate and Gift Taxation”,
+   in Gale W., Hines J., and Slemrod J. (ed.), Rethinking Estate and Gift
+   Taxation, Washington, Brookings Institution Press.
+   Masson A. (2015), « Comment justifier une augmentation impopulaire des
+   droits de succession », Revue de l’OFCE, 139, p. 267-326.
+   Otsuka M. (2003), Libertarianism without Inequality, Oxford, Oxford
+   University Press.
+   Pestieau P. & Ponthière G. (2018), "An age-differentiated tax on
+   bequests", Centre for operations Research and Econometrics, 2018/06, p.
+   1-11.
+   Piketty Th. (2011), « On the Long-Run Evolution of Inheritance: France
+   1820–2050 », The Quarterly Journal of Economics, 126/3, p. 1071–1131;
+   (2013), Le Capital au XXI^e siècle, Paris, Seuil; (2019), Capital et
+   Idéologie, Paris, Le Seuil.
+   Nozick R. (2016), Anarchie, État et utopie, Paris, PUF.
+   Rothbard M. N. (2002), For a New Liberty - The Libertarian Manifesto,
+   New York, Collier Books, 2002.
+   Steiner H. (1994), An Essay on Rights, Cambridge MA, Balsckwell.
+   Stiglitz J. (2019), People, Power and Profits: Progressive Capitalism
+   for an Age of Discontent, New-York, Norton & Company.
+   Vallentyne P. (2001), “Left-Libertarianism: A Primer”, in Vallentyne P.
+   & Steiner H. (dir.), Left-Libertarianism and Its Critics. The
+   Contemporary Debate, New York, Palgrave Macmillan, 2001, p. 1-21.
+   Van Parijs Ph. (1991), Qu’est-ce qu’une société juste ?, Paris, Seuil ;
+   (1995), Real Freedom for All. What (If Anything) Can Justify
+   Capitalism?, Oxford, Oxford University Press.
 
-   Partager
 
-   Challenges Femmes
-   Femmes
+Organisation
 
-L’héritage culturel de la France vient aussi des femmes
+   Mélanie PLOUVIEZ
+   maîtresse de conférences en philosophie à UCA
+   lauréate de la Chaire d'excellence Idex UCAjedi Reconsidering
+   Inheritance
 
-   Par Anne-Marie Rocco le 15.09.2023 à 07h30 Ecouter 4 min.
+     [Affiche%20Penser%20lheritage.png]
 
-   En organisant les "Journées du matrimoine", en écho aux "Journées du
-   patrimoine" qui se déroulent ce week-end dans toute la France, le
-   mouvement HF veut rappeler que les femmes comptent dans notre héritage
-   culturel. Et revaloriser leurs œuvres, trop souvent oubliées.
-   réagir
-   Journées du matrimoine 2022
 
-   Souvent reconnues de leur vivant, les créatrices ont été oubliées par
-   l'histoire de la culture. Ici lors des Journées du matrimoine 2022.
-   Emeric Gallego/Journées du matrimoine
-   Commenter
 
-   Journées du matrimoine 2022
-   L’héritage culturel de la France vient aussi des femmes
-   Anne-Marie Rocco
-   00:00 / 00:00
-   Your browser does not support the audio element.
 
-   Près de 200 événements dans toute la France pour "célébrer les femmes
-   qui ont compté dans notre héritage culturel" : du 15 au 17 septembre,
-   les "Journées du matrimoine" rappelleront au grand public que le
-   "patrimoine" n’est pas seul à définir la culture française. Seront
-   ainsi célébrées, par des spectacles, expositions, lectures ou
-   déambulations, des figures comme l’architecte Marguerite Moinault, les
-   poétesses Anna Akhmatova et Louise Labé, la journaliste Séverine ou
-   encore la compositrice Lili Boulanger.
 
-   Sans oublier l’écrivaine franco-algérienne Assia Djebar, disparue en
-   2015, choisie cette année comme figure emblématique pour les
-   manifestations annoncées en Île-de-France. Lors de la parution de son
-   roman La soif, en 1957, celle qui serait ensuite élue à l’Académie
-   française avait été surnommée "la Françoise Sagan de l’Algérie". Elle
-   avait 21 ans.
 
-Des artistes souvent reconnues de leur vivant
 
-   Au total, pas moins de 500 figures de femmes, longtemps ignorées par
-   les institutions culturelles, seront ainsi mises en lumière. "Beaucoup
-   d’entre elles ont été reconnues de leur vivant, mais l’histoire les a
-   oubliées", résume Marie Guérini, secrétaire générale du mouvement HF
-   qui a initié ces manifestations, à l’instar de la réalisatrice Marie
-   Epstein, qui a pourtant donné son premier rôle à Madeleine Renaud, en
-   1933, dans son film La Maternelle. La prise de conscience remonte à une
-   quinzaine d’années. Marie Guérini se souvient que "tout a commencé avec
-   la publication, en 2006 puis 2009, de deux rapports explosifs de la
-   haute fonctionnaire Reine Prat sur la sous-représentation des femmes
-   dans les métiers de la culture".
 
-   Lire aussiFestivals, streaming, emploi… pourquoi la filière
-   musicale reste sexiste
 
-   Encore aujourd’hui, les chiffres sont cruels : bien que les écoles
-   d’art comptent 63% de femmes parmi leurs étudiants, elles ne
-   représentent que 45% des personnes actives dans les professions
-   culturelles et 17% des autrices-compositrices membres de la SACEM.
-   Seules 20% des œuvres programmées sont des créations féminines, et 16%
-   seulement des opéras sont mis en scène par des femmes… Elles sont aussi
-   les moins récompensées. Si le festival de Cannes a couronné l’œuvre
-   d’une femme en 2023 - Anatomie d’une chute, de Justine Triet – celle-ci
-   n’est que la troisième réalisatrice à être distinguée par une Palme
-   d’or, tandis que Tonie Marshall (décédée en 2020) reste la seule �
-   avoir reçu un César – pour Vénus Beauté, en 2001. "Elles sont également
-   absentes de la gouvernance et de la scène", souligne Marie Guérini.
 
-Un terme qui existe depuis le Moyen-Âge
 
-   Depuis 2015, le mouvement HF a donc entrepris de "poser le matrimoine -
-   un terme qui existe depuis le Moyen-Âge - en écho au patrimoine" en
-   prenant soin d’explorer "tous les univers de la culture". L’idée fait
-   peu à peu son chemin. Nantes, Rouen, Rennes et Bordeaux ont ainsi mis
-   en place des affiches qui annoncent les Journées du matrimoine et du
-   patrimoine. Les communes de Bobigny, Montreuil ou Saint-Denis se sont
-   aussi approprié officiellement cette appellation. Et à Paris, pour la
-   troisième année consécutive, les femmes engagées du mouvement HF
-   tiendront un stand dédié au matrimoine au sein de l’Hôtel de Ville, le
-   lieu le plus visité des Journées du patrimoine.
 
-   "Les mots sont importants, remarque Marie Guérini. Nous mettons en
-   avant l’héritage des femmes et c’est quelque chose que tout le monde
-   comprend." Cela explique l’intérêt croissant du public, parfois
-   perplexe en découvrant toutes ces femmes inconnues qui ont pourtant
-   laissé une trace dans la culture française. Résultat : pour participer
-   à ces événements qui sont gratuits, mieux vaut penser à réserver!
-   Commenter
 
-   Journées du patrimoine Académie française Festival de Cannes
-   Commenter
 
-   Sur le même sujet
-     * Sarah Bernhardt, femme puissante avant l’heure
-     * Avec Blandine Métayer, le théâtre se met au service du féminisme
-     * La cheffe d'orchestre Laurence Equilbey, une défricheuse tous
-       azimuts qui s'est imposée sur la scène musicale
 
-   Commenter
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Réagir
-   Pour réagir, veuillez vous connecter en cliquant ici
 
-     * Bourse Le 04/12 à 17H26
-     * CAC 40 7329,97 -0,22%
-     * Rechercher une valeur ____________________
 
-   Newsletter Challenges
-   S'inscrire aux newsletters ____________________ Je crée mon compte
 
-   Déjà un compte ? Je me connecte
-   à la une cette semaine
-   Couverture du magazine Couverture du magazine
-   Lire S’abonner
-   Galeries Photo
-   BYD Han
-   BYD Han : que vaut la plus chère des voitures chinoises ?
-   Les dernières galeries photo
-     * Kia EV9 Earth
-     * Honda CR-V e:PHEV Advance
-     * Sélection de grands vins pour Noël
-     * Dyptique
-     * Sélection de champagnes de Noël
-     * BYD Tang
-     * Sélection de sacs bananes
-     * Un loft avec jardin à Boulogne-Billancourt
 
-   Médias
-     * Locaux groupe Le Monde Médias : le groupe Le Monde assure son
-       indépendance
-     * Les confidences de Cyril Hanouna après "Complément d’Enquête"
 
-   Tous les articles Médias
-   Finance et marchés
-     * L'entrée d'un magasin Casino Casino étudiera la vente de magasins
-       supplémentaires
-     * CAC 40, SBF 120… Les grands patrons toujours (très) bien payés
 
-   Tous les articles Finance et marchés
-   Vidéos
-   High-Tech
-     * Spotify Spotify annonce une réduction de ses effectifs d'"environ
-       17%"
-     * Google lève le voile sur sa stratégie cyber
 
-   Tous les articles High-Tech
-   Automobile
-     * SIPA_sipausa30336354_000031.jpg Pourquoi un tel engouement pour le
-       Tesla Cybertruck
-     * Pourquoi Toyota croit en la voiture électrique… mais aussi
-       thermique
-     * Mitsubishi Colt : une copie de la Renault Clio… à un tarif démesuré
-     * Quelle Dacia Sandero choisir ?
-     * Pourquoi Tesla est dans le viseur des syndicats suédois et
-       américains
 
-   Tous les articles Automobile
-   Pratique
-     * Vendre à un promoteur
-     * StarOfService
-     * Meilleure mutuelle
-     * The Body Optimist
-     * Devis assurance auto
-     * Meilleurs placements
 
-   Services
-     * Carrelage extérieur
-     * Mutuelle Senior
-     * Assurance jeune conducteur
-     * Estimez votre bien immobilier
-     * Carterie professionnelle
 
-   En régions
-     * Île-de-France
-     * Hauts-de-France
-     * Auvergne-Rhône-Alpes
-     * PACA
-     * Nouvelle-Aquitaine
 
-   Newsletter Challenges
-   S'inscrire aux newsletters ____________________ Je crée mon compte
 
-   Déjà un compte ? Je me connecte
-   Suivez-nous
 
-   Israël/Hamas 500 Fortunes de France Grandes écoles Espace débat
-   CYBERSECU Futur
 
-   Fortunes 2023 Idées Entreprise Économie Politique Monde Média High-Tech
-   Automobile Emploi Patrimoine Luxe Femmes
+
+
+   [workshop-penser-l-heritage-4-5-6.png]
+
+Lundi 4 décembre 2023 - Workshop REFORM-HERIT #1 - André Masson
+
+     * Imprimer
+     * E-mail
+
+   Le lundi 4 décembre 2023, de 9h à 13h, le Centre de Recherches en
+   Histoire des Idées d’Université Côte d’Azur organise, dans le cadre de
+   l’ANR JCJC Philosophie de l’héritage, la première séance du workshop
+   REFORM-HERIT Réformer l'héritage aujourd’hui.
+
+   Ce premier workshop sera consacré aux travaux de l’économiste André
+   Masson (directeur de recherches au CNRS et directeur d’études �
+   l’EHESS) sur l’héritage. Ses propositions de réforme des pratiques
+   successorales seront discutées, en présence de l’auteur, à partir de
+   son dernier livre Chronique d’un impôt sur l’héritage en perdition.
+   Pourquoi et comment le sauver (PUF, 2023) par Marie Bastin (ATER
+   Université Côte d’Azur et doctorante en philosophie Paris 1
+   Panthéon-Sorbonne), Nicolas Brisset (Maître de conférences en sciences
+   économiques, Université Côte d’Azur), Éric Fabri (Post-doctorant en
+   philosophie, Université libre de Bruxelles), Philippe Luppi (Maître de
+   conférences en droit public, Directeur adjoint de l’École doctorale
+   DESPEG, Université Côte d’Azur) et Mélanie Plouviez (Maîtresse de
+   conférences en philosophie et porteuse du projet ANR PHILHERIT,
+   Université Côte d’Azur).
      __________________________________________________________________
 
-   ClassementsLes 500 plus grandes fortunes de FranceLes prix de
-   l'immobilier au m2Les salaires des cadres100 Start-up où investirLa
-   cote des diplomesLes meilleures prépasLe classement des écoles de
-   commerce
-   ServicesDéfiscalisation immobilièreMeilleurtaux BanquesComptabilité et
-   Gestion d'entrepriseVeterinaire de gardeLogiciel batimentKbis
-   Vie pratiqueAssurance-Vie.euPER - Plan Epargne RetraiteComparateur
-   mutuelle santé
+Du 28 novembre au 2 décembre 2022 - Séjour de recherches d'Eric Fabri au CRHI
+(2)
+
+     * Imprimer
+     * E-mail
+
+   Le CRHI a le plaisir d'accueillir Eric Fabri pour un séjour de
+   recherches du lundi 28 novembre au vendredi 2 décembre 2022, dans le
+   cadre du projet ANR PHILHERIT et du Partenariat Hubert Curien obtenu et
+   établi entre le CRHI et le Centre de Théorie Politique de l'Université
+   Libre de Bruxelles.
      __________________________________________________________________
 
-   Pages légalesPolitique des cookies
-   CopyrightDonnées personnelles
+Mardi 27 juin 2023 - Workshop Penser l'héritage 11 - La Révolution française
+et l'héritage
+
+     * Imprimer
+     * E-mail
+
+   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
+   activités de l’Idex UCAJedi, le mardi 27 juin 2023 de 9h à 13h, un
+   onzième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
+   workshop, intitulé « La Révolution française et l’héritage »,
+   comprendra les interventions de Morgan MORCEL (doctorant contractuel,
+   Université Côte d’Azur – ENS Ulm), Mélanie PLOUVIEZ (Maîtresse de
+   conférences en philosophie, Université Côte d’Azur) et Dana PORTALEONE
+   (docteure EHESS LIER-FYT).
      __________________________________________________________________
 
-   CGV - CGU
+Mardi 19 septembre 2023 - Workshop Penser l'héritage 12 - Droit successoral
+et démographie
+
+     * Imprimer
+     * E-mail
+
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   mardi 19 septembre 2023 de 10h à 13h, un douzième workshop "Penser
+   l'héritage" qui aura lieu en hybride. Ce workshop, intitulé « Droit
+   successoral et démographie », sera centré sur les travaux de recherche
+   de Paula GOBBI  (Associate Professor in Demographic Economics,
+   Université Libre de Bruxelles, ERC Starting Grant "Inheritance,
+   Demographics, and Economic Development").
      __________________________________________________________________
 
-   La rédaction Contacts Consentement Notifications Les notifications web
-   Charte de modération Publicité Nos archives Plan du site Centre d'aide
-   abonnés S'abonner Résilier mon abonnement
+Vendredi 9 juin 2023 - Workshop Penser l'héritage 10 - L’héritage chez Comte
+et les positivistes
+
+     * Imprimer
+     * E-mail
+
+   Le Centre de Recherches en Histoire des Idées d’Université Côte d’Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l’héritage et des
+   activités de l’Idex UCAJedi, le jeudi 9 juin 2023 de 10h à 13h, un
+   dixième workshop “Penser l’héritage” qui aura lieu en hybride. Ce
+   workshop, intitulé « L’héritage chez Comte et les positivistes »,
+   comprendra deux interventions, l’une de Giovanni MINOZZI (docteur
+   Université de Padoue et EHESS LIER-FYT), l’autre de Mélanie PLOUVIEZ
+   (Maîtresse de conférences en philosophie, Université Côte d’Azur).
      __________________________________________________________________
 
-   logo © Challenges - Les contenus, marques, ou logos du site
-   challenges.fr sont soumis à la protection de la propriété
-   intellectuelle. Audience certifiée par
+Jeudi 4 mai 2023 - Workshop Penser l'héritage 9 - L'école leplaysienne et
+l'héritage
 
-   Retour
-   Nous avons enregistré votre choix pour les cookies de mesure
-   d’audience, contenu personnalisé et ciblage publicitaire.
-   Concernant les cookies publicitaires, un choix alternatif �
-   l’acceptation de l’affichage de publicités ciblées vous est proposé
-   pour donner à la Rédaction les moyens de toujours fournir une
-   information de qualité, riche et dense :
-   Déjà abonné Je m’abonne
+     * Imprimer
+     * E-mail
 
-   Accepter et continuer
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   jeudi 4 mai 2023 de 13h à 16h, un neuvième workshop "Penser l'héritage"
+   qui aura lieu en hybride. Ce workshop, intitulé « L'école leplaysienne
+   et l'héritage », comprendra deux interventions : l’une de Mélanie
+   PLOUVIEZ (Maîtresse de conférences en philosophie, Université Côte
+   d’Azur), intitulée « Le Play, les Leplaysiens et l’héritage : de la
+   liberté testamentaire au Homestead » ; l’autre de Stefania FERRANDO
+   (post-doctorante en philosophie, Projet ANR PHILHERIT, Université Côte
+   d’Azur), intitulée « La maison et la nation. La réception de Le Play en
+   Italie à la fin du XIX^e siècle ».
+     __________________________________________________________________
 
-   Centre de préférence
-   de vos alertes infos
+Jeudi 9 mars 2023 - Workshop Penser l'héritage 8 - Codifier le droit
+coutumier de l'héritage en Inde Britannique
 
-   Vos préférences ont bien été enregistrées.
+     * Imprimer
+     * E-mail
 
-   Si vous souhaitez modifier vos centres d'intérêt, vous pouvez à tout
-   moment cliquer sur le lien Notifications, présent en pied de toutes les
-   pages du site.
-   (BUTTON) Fermer
+   En raison du mouvement actuel contre le projet de réforme des
+   retraites, la prochaine séance du workshop "Penser l'héritage", qui
+   était programmée le jeudi 16 février, est reportée au jeudi 9 mars
+   2023, de 13h à 16h.
 
-   Vous vous êtes inscrit pour recevoir l’actualité en direct, qu’est-ce
-   qui vous intéresse?
+   Le Centre de Recherches en Histoire des Idées d'Université Côte d'Azur
+   organise, dans le cadre de l’ANR JCJC Philosophie de l'héritage, le
+   jeudi 9 mars 2023 de 13h à 16h, un huitième workshop "Penser
+   l'héritage" qui aura lieu en hybride. Ce workshop est intitulé
+   « Codifier le droit coutumier de l'héritage en Inde Britannique. Entre
+   retour réflexif et cristallisation de l'exclusion des femmes ». Amanjit
+   Kaur Sharanjit (Centre de Théorie et d'Analyse du Droit, Université
+   Paris Nanterre) y présentera une intervention intitulée « La succession
+   agnatique et l’exclusion des femmes dans l’héritage des propriétés
+   ancestrales : l’exemple des femmes veuves dans le Punjab britannique
+   (1849-1947) ». Marc Goëtzmann (Maître de conférences au Département
+   Droit-Langues de l’Université de Tours) y présentera une intervention
+   intitulée « John Stuart Mill (1806-1873) et Henry Sumner Maine
+   (1822-1888) : le droit coutumier Indien comme inspiration d’une réforme
+   libérale de l’héritage ».
+     __________________________________________________________________
 
-   Je souhaite TOUT savoir de l’actualité et je veux recevoir chaque
-   alerte [ ]
+Du 28 novembre au 2 décembre 2022 - Séjour de recherches d'Eric Fabri au CRHI
 
-   Je souhaite recevoir uniquement les alertes infos parmi les thématiques
-   suivantes :
+     * Imprimer
+     * E-mail
 
-   Entreprise [ ]
+   Le CRHI a le plaisir d'accueillir Eric Fabri pour un séjour de
+   recherches du lundi 28 novembre au vendredi 2 décembre 2022, dans le
+   cadre du projet ANR PHILHERIT et du Partenariat Hubert Curien obtenu et
+   établi entre le CRHI et le Centre de Théorie Politique de l'Université
+   Libre de Bruxelles.
+     __________________________________________________________________
 
-   Politique [ ]
+Vendredi 2 décembre 2022 - Workshop Penser l'héritage 7 - Héritage et
+littérature au XIXe siècle
 
-   Économie[ ]]
+     * Imprimer
+     * E-mail
 
-   Automobile [ ]
+   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de
+   l'héritage, le vendredi 2 décembre 2022, de 9h à 12h, un septième
+   workshop "Penser l'héritage" qui aura lieu en hybride. Intitulé
+   "Héritage et littérature au XIX^e siècle", ce workshop portera sur les
+   représentations littéraires de la transmission patrimoniale au XIX^e
+   siècle. Mélanie PLOUVIEZ (Maîtresse de conférences en philosophie �
+   Université Côte d'Azur) proposera, depuis La Comédie humaine de Balzac,
+   une galerie de portraits littéraires d’héritiers et de testateurs,
+   donnant à voir la manière dont l'héritage pouvait affecter les
+   trajectoires individuelles au XIX^e siècle. Martin RUEFF (Professeur de
+   littérature française et d'histoire des idées à l'Université de Genève)
+   étudiera dans une perspective comparative la manière dont les
+   entreprises romanesques configurent les législations nationales sur
+   l’héritage au XIX^e siècle. Il prendra ses exemples dans le roman
+   européen et américain. La séance aura lieu sur le Campus Carlone, �
+   Nice, en salle Extension 314. Elle sera également accessible en
+   distanciel (lien zoom ci-dessous).
+     __________________________________________________________________
 
-   Monde [ ]
+Vendredi 30 septembre 2022 - Atelier Philosophie du droit successoral : "Les
+dernières volontés" - Congrès de la SFPJ - Toulouse (2)
 
-   Je ne souhaite plus recevoir de notifications [ ]
+     * Imprimer
+     * E-mail
 
-   (BUTTON) Enregistrer mes préférences
+   Le CRHI organise, dans le cadre de l'ANR JCJC Philosophie de l'héritage
+   et avec le soutien de l'équipe Interactions Culturelles et Discursives
+   de l’Université de Tours et l'UMR Savoirs, Textes, Langage de
+   l’Université de Lille, un atelier de Philosophie du droit successoral
+   au sein des deuxièmes rencontres de la Société française pour la
+   philosophie et la théorie juridiques et politiques (SFPJ) qui se
+   dérouleront à Toulouse les jeudi 29 et vendredi 30 septembre 2022. Cet
+   atelier, intitulé "Les dernières volontés", aura lieu le vendredi 30
+   septembre 2022 de 14h à 17h.
+     __________________________________________________________________
+
+Lundi 6 décembre 2021 - Workshop Penser l'héritage 6
+
+     * Imprimer
+     * E-mail
+
+   Le CRHI organisele lundi 6 décembre 2021, de 9h à 12h, un sixième
+   workshop "Penser l'héritage" qui aura lieu en distanciel. Intitulé
+   "Héritage et féminisme au XIXe siècle", ce workshop déploiera comment
+   la question de l'héritage a été, au XIXe siècle, un lieu d'élaboration
+   des premières théories féministes. Anne VERJUS (Directrice de recherche
+   au CNRS, laboratoire Triangle Lyon) y présentera une intervention
+   intitulée "Transmission des biens et filiation par les femmes �
+   l’époque des Révolutions : l’œuvre oubliée de James Henry Lawrence
+   (1773-1840)". Stefania FERRANDO (post-doctorante en philosophie, EHESS)
+   y présentera une intervention intitulée  "De l’abolition de la place du
+   père à l’abolition de l’héritage : Ma loi d’avenir de Claire Démar
+   (1833)".
+
+     __________________________________________________________________
+
+Lundi 29 novembre 2021 - Workshop Penser l'héritage 5
+
+     * Imprimer
+     * E-mail
+
+   Le CRHI organise un cinquième workshop international "Penser
+   l'héritage". Ce workshop aura lieu le lundi 29 novembre 2021, de 15h �
+   18h, en distanciel. Intitulé "Le principe Rignano : arguments
+   philosophiques et usages contemporains", ce workshop étudiera la
+   proposition émise par Eugenio Rignano au début du XXe siècle
+   d'appliquer une taxe progressive sur les successions et donations en
+   fonction de l'âge des portions de patrimoine transmis, ainsi que les
+   usages contemporains qui ont pu en être proposés. Mélanie PLOUVIEZ
+   (Maîtresse de conférences en philosophie à Université Côte d'Azur) y
+   présentera une intervention intitulée "Le principe Rignano, ou comment
+   transformer la propriété par la taxation de l'héritage". Marie BASTIN
+   (doctorante en philosophie, Université Paris 1 Panthéon-Sorbonne) y
+   présentera une intervention intitulée "Les usages contemporains du
+   principe Rignano : quelles justifications normatives ?".
+
+     __________________________________________________________________
+
+Lundi 27 septembre 2021 - Workshop Penser l'héritage 4
+
+     * Imprimer
+     * E-mail
+
+   Le CRHI organise, dans le cadre de la chaire Idex Reconsidering
+   Inheritance, un quatrième workshop international "Penser l'héritage".
+   Ce quatrième workshop aura lieu le lundi 27 septembre 2021, de 15h �
+   18h, en distanciel. Intitulé « Mill et l’héritage », ce workshop
+   étudiera la proposition émise par John Stuart Mill de plafonner
+   l’héritage et les justifications normatives qui la sous-tendent.
+   Philippe LÉGÉ (Maître de conférences en économie à l'Université de
+   Picardie) y présentera une intervention intitulée "John Stuart Mill et
+   la taxation des héritages : une réforme « radicale » ?". Éric FABRI
+   (post-doctorant au Centre de Théorie Politique de l’Université Libre de
+   Bruxelles, BAEF Postdoctoral Fellow, Harvard University) y présentera
+   une intervention intitulée "Taxation des héritages, legs et dons: et si
+   John Stuart Mill avait raison?".
+     __________________________________________________________________
+
+Lundi 8 mars 2021 - Workshop Penser l'héritage 3
+
+     * Imprimer
+     * E-mail
+
+   Le CRHI organise, dans le cadre de la chaire d'excellence
+   UCAjedi Reconsidering Inheritance, un troisième workshop "Penser
+   l'héritage". Ce workshop aura lieu le lundi 8 mars 2021, de 9h à 12h,
+   en distanciel, et est intitulé "Justice et fiscalité successorale".
+   Constantin BRISSAUD (docteur en science politique de l'Université de
+   Strasbourg, laboratoire SAGE ; post-doctorant à l'Université
+   Paris-Dauphine, IRISSO) y présentera une intervention intitulée
+   "L'héritage au concret : le poids des intermédiaires dans la taxation
+   de l'héritage et des successions en France et aux États-Unis
+   (1980-2020)" et Nicolas FRÉMEAUX (Maître de conférence en économie �
+   l'Université Paris 2 Panthéon-Assas) une intervention intitulée "La
+   fiscalité successorale en France : constat et proposition de réforme".
+
+     __________________________________________________________________
+
+Plus d'articles...
+
+    1. Lundi 11 janvier 2021 - Workshop Penser l'héritage 2
+    2. Mercredi 16 décembre 2020 - Workshop Penser l'héritage 1
+
+   CRHI
+   Université Nice Sophia Antipolis
+   MSHS Sud-Est
+   ©2024 CRHI | Site conçu par Mélanie Plouviez

@@ -600,6 +600,11 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 
 
 
+<script type="text/javascript">
+	var autoCompleteToSearchSwitch = "false" === "true";
+</script>
+
+
 <div id="floating_area_header" class="floating_header">
 	<div class="inner">
 		<div class="area_logo">
@@ -668,8 +673,8 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 							<!-- //[D]  좋아요 시스템 -->
 							<a href="#" onclick="nclk_v2(this,'reb.symopereb.symopenn','','');return false;" role="button" class="btn_arr _floating_sympathy_history _param(3|1|220980650531|3)">
 								<div class="u_likeit_list_module _reactionModule" data-sid="BLOG" data-did="BLOG" data-cid="tssangsok_220980650531" data-catgid="post" data-isHiddenCount="true" data-isUsedLabelAsZeroCount="false">
-									<span class="u_likeit_list_btn _button" data-type="like" data-log="pst.flike|pst.funlike" role="button" data-isUsedLabelAsZeroCount="true">
-										<em>공감</em><em class="u_txt _label">해요</em>
+									<span class="u_likeit_list_btn _button" data-type="like" data-log="pst.flike|pst.funlike" role="button" data-isHiddenZeroCount="true">
+										<em class="u_txt _label">공감</em>
 										<em class="u_cnt _count"></em>
 									</span>
 								</div>
@@ -717,7 +722,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 
 
 
-<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-c048792_https.js"></script>
+<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarSearch-d9c3bce_https.js"></script>
 
 <script src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/LayerPopup-a141e19_https.js"></script>
 
@@ -1337,6 +1342,33 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
         baMylog.init(baObject);
         baMylog.send();
     }
+
+    function baBuddyFormEvent(userId, relationType, targetNo, trackingCode) {
+        if(!userId || !relationType || !targetNo) {
+            return;
+        }
+
+        var baObject = new Object();
+        baObject.naverId = userId;
+        baObject.scene_id = "buddy_add_layer";
+        baObject.classifier = "buddy_add_layer";
+        baObject.action_id = "scene_enter";
+        baObject.baUrl = 'https://scv-blog.io.naver.com/jackpotlog/v1/logs';
+
+        var extra = new Object();
+        extra.blog_no = targetNo;
+        extra.referer = parent.document.referrer;
+        if(!trackingCode) {
+            extra.tracking_code = "unknown";
+        } else {
+            extra.tracking_code = trackingCode;
+        }
+        extra.relationtype = relationType;
+        baObject.extra = extra;
+
+        baMylog.init(baObject);
+        baMylog.send();
+    }
 </script>
 <div id="domainRegisterWrap"></div>
 <script type="text/javascript">
@@ -1483,7 +1515,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 	};
 </script>
 
-<script id="gnb-script" type="text/javascript" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Tue Dec 05 01:46:05 KST 2023" charset="utf-8"></script>
+<script id="gnb-script" type="text/javascript" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Thu Jan 04 12:04:40 KST 2024" charset="utf-8"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1858,10 +1890,10 @@ var hasProduct = 'false' === 'true';
 var feEnv = 'real';
 var infEnv = 'real';
 var	gbIsInf = "" == "true" ? true : false;
-var endPageProductMap = JSON.parse('{"220980650531":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"temporaryStopSeller":false,"tradeInterruptionSeller":false,"leaveRequestSeller":false}}');
+var endPageProductMap = JSON.parse('{"220980650531":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"temporaryStopSeller":false,"leaveRequestSeller":false,"tradeInterruptionSeller":false}}');
 var feMobileUrl= "https://fe-m.blog.naver.com";
 
-var blogModuleJs= "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/post/market/blogModule-ebe2c0e_https.js";
+var blogModuleJs= "https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/post/market/blogModule-807139f_https.js";
 
 var itemFactoryDomainDisabled = "true" === "true";
 
@@ -2273,7 +2305,7 @@ function splugin_oninitialize(nCount) {
                    공유하기
                 <span class="ico_share _title_share_icon"></span>
                </a>
-                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&exit=close&ctype=AA01&cwriterenc=T5GkGwZXxzn8%2B7Uk9isQsJFHSGkkxro7lRXlUNlRx0g%3D&ctitle=%EC%9E%AC%EC%82%B0%20%EC%83%81%EC%86%8D%20%EC%A0%88%EC%B0%A8%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4!&cwriter=tssa*****&dark=disable&memtype=Y&env=pc&cnickname=tssa*****&vsvc=BLG&cid=tssangsok%40%4070757643%40%40mylog%40%40220980650531) _returnFalse">신고하기<span class="ico_report"></span></a>
+                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&exit=close&ctype=AA01&cwriterenc=QyumM21Y4yghvg4uZ3ef2Hg7GAnywkKKMCIUH%2FLiMjI%3D&ctitle=%EC%9E%AC%EC%82%B0%20%EC%83%81%EC%86%8D%20%EC%A0%88%EC%B0%A8%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4!&cwriter=tssa*****&dark=disable&memtype=Y&env=pc&cnickname=tssa*****&vsvc=BLG&cid=tssangsok%40%4070757643%40%40mylog%40%40220980650531) _returnFalse">신고하기<span class="ico_report"></span></a>
 		</div>
 	</div>
     <input type="text" value="https://blog.naver.com/tssangsok/220980650531" alt="url" class="copyTargetUrl" style="display:none;" title="URL 복사">
@@ -2767,7 +2799,7 @@ function splugin_oninitialize(nCount) {
 									</div>
 									<a id="Sympathy220980650531" href="#" role="button" class="btn_arr pcol2 _symList _param(3|1|220980650531|3) _returnFalse">
 										<div class="u_likeit_list_module _reactionModule" data-sid="BLOG" data-did="BLOG" data-cid="tssangsok_220980650531" data-catgid="post">
-											<span class="u_likeit_list_btn _button btn_sympathy" data-type="like">
+											<span class="u_likeit_list_btn _button btn_sympathy" data-type="like" data-isHiddenZeroCount="true">
 												<em class="u_txt _label">공감</em>
 												<em class="u_cnt _count"></em>
 											</span>
@@ -3132,7 +3164,7 @@ $Fn(function() {
 	
 	
 
-	<script id="socialPluginCustomTag" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?v=1418090.0" charset="utf-8"></script>
+	<script id="socialPluginCustomTag" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?v=1420281.0" charset="utf-8"></script>
 	<script>
 	window.onload = function() {
         window.__splugin = SocialPlugIn_Core({
@@ -3238,7 +3270,7 @@ new InstallBlogAppPush();
 
 
 
-<script type="text/javascript" charset="utf-8" src="https://static-like.pstatic.net/js/reaction/dist/reaction.min.js?v=1418090.0"></script>
+<script type="text/javascript" charset="utf-8" src="https://static-like.pstatic.net/js/reaction/dist/reaction.min.js?v=1420281.0"></script>
 <script src="https://ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk.js"></script>
 <script type="text/javascript">
 
@@ -3252,7 +3284,6 @@ $Fn(function() {
             cssId : "blog",
             isMobile : false,
             maxCount : 9999,
-            isHiddenCount : false,
             highlightCount : 50,
             highlightClassname : "double_heart",
             
@@ -3997,7 +4028,7 @@ var gsStaticNetUrl = "https://ssl.pstatic.net/static";
 </script>
 
 
-<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-165671165_https.js" charset="UTF-8"></script>
+<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-40256275_https.js" charset="UTF-8"></script>
 
 
 	<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning//common/js/mylog/floating/FloatingBarAreaHandler-6728c51_https.js"></script>

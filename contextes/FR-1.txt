@@ -52,5 +52,5 @@
      * Peut-on hériter si l'on est fautif vis-à-vis du défunt ?
 --
 
-     * Héritage : ordre et droits des héritiersService-Public.fr
-     * TestamentService-Public.fr
+     * Héritage : ordre et droits des héritiers
+       Service-Public.fr

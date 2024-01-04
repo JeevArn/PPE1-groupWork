@@ -1,30 +1,17 @@
-
-Héritage
-
-   L'héritage est un des grands principes de la programmation orientée
-   objet (POO), et PHP l'implémente dans son modèle objet. Ce principe va
+     * Culture - Loisirs
 --
 
-   L'héritage est très utile pour définir et abstraire certaines
-   fonctionnalités communes à plusieurs classes, tout en permettant la
+Manau, Soldat Louis et l'Héritage Goldman en concert en Dordogne à la foire
+expo de Bergerac
 --
-   classe enfant. Par conséquent, les classes enfant peuvent réimplémenter
-   une méthode privée eux-mêmes sans se soucier des règles d'héritage
-   normales. Antérieur à PHP 8.0.0, cependant, les restrictions final et
+   Les chanteurs de la mythique "Tribu de Dana" et le groupe de rock
+   celtique Soldat Louis se partageront la tête d'affiche avec L'Héritage
+   Goldman, du 3 au 5 mai 2024 sur la plaine de Picquecailloux à Bergerac
 --
-     être connues avant d'être utilisées. Les classes mères doivent être
-     définies avant l'écriture d'un héritage. Cette règle générale
-     s'applique aussi dans le cas d'héritage ou d'implémentation
-     d'interfaces.
+   de Dana" sortie en 1998 pour enflammer la foule, au côté du groupe de
+   rock lorientais Soldat Louis et du show "L'Héritage Goldman".
+   (BUTTON) ⓘ Publicité
 --
-
-   Exemple #1 Exemple d'héritage
-   <?php
---
-   déclaraient pas leur type de retour, et tout type de retour était
-   autorisé lors de leur héritage.
-
---
-          + Visibilité
-          + Héritage
-          + L'opérateur de résolution de portée (::)
+   Samedi 4 mai, ce sera au tour des six musiciens et de la dizaine de
+   chanteurs de L'Héritage Goldman, déjà passés à Périgueux pour la foire
+   expo il y a deux ans.
