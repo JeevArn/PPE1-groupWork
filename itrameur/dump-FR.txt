@@ -380,9 +380,9 @@ Définition de Héritage / Héritier
 
    Mentions légales
    Recherches fréquentes
-   résolution   lésion   audience   dol   magistrat   pourvoi
-   dispositif   juge   débouter   procuration   hoirie   état civil
-   droit positif   appel   infirmer   caducité</text>
+   magistrat   jugement   servitude   audience   novation   tribunal
+   déni de justice   mandat   intimé   appel   tutelle   pourvoi
+   partie   jurisprudence   acte   subrogation</text>
 </page> §
 <page="FR-12">
 <text>   #alternate RSS ATOM
@@ -532,12 +532,12 @@ toujours dominé dans ses œuvres sociologiques.
 INFO JDD. Triple viol le soir de Noël : un Éthiopien mis en détention
 provisoire
 
-Espagne : arrestation d’un couple de Français qui projetait de « sacrifier »
-leur fils de 5 ans dans le Sahara
-
    Abo
 
-Les Grands Buffets : la tradition dans l’assiette
+Un remaniement est prévu « avant le week-end », des ministres sur la sellette
+
+Disparition de Maeva : le corps de la jeune femme retrouvé dans un bassin du
+Havre
 
    Publicité
 
@@ -1310,7 +1310,7 @@ Patrick Avrane.
      * BFM Régions
      * RMC
      * RMC Sport
-     * RMC Crime RMC Crime
+     * RMC Conso
      * RMC Découverte
      * RMC Story
 
@@ -1454,6 +1454,13 @@ Hôpitaux au Royaume-Uni: l’héritage désastreux de Boris Johnson
 
 Sur le même thème
 
+     * Marc Roche Chronique
+       Global Britain
+
+«L’appétit insatiable des Saoudiens» – la chronique de Marc Roche
+       Marc Roche
+       «Dans le cadre d’une fringale d’acquisitions, Ben Salmane, a fait
+       razzia sur d’autres bijoux de la couronne»
      * Europe 1 Emmanuelle Ducro
 
 Brexit: après l’euphorie, la gueule de bois
@@ -1492,18 +1499,16 @@ Roche
        La célébration en 2027 du millénaire de la naissance de Guillaume
        Le Conquérant va projeter l’ancien duché sous les feux de la rampe,
        à la Une de toute la presse
-     * Manque de main-d'oeuvre Royaume-Uni
-       Paradoxe
-
-Royaume-Uni: «malgré les records d’immigration, nous manquons de
-main-d’œuvre, quelque chose coince»
-       Chloé Goudenhooft
-       L'économie, Outre-Manche, n'a jamais accueilli autant de
-       travailleurs étrangers. Mais les difficultés d'embauche persistent
 
 Pour vous
 
-Tendances
+   Les plus lus
+    1. Brexit: après l’euphorie, la gueule de bois
+    2. Trump et ses drôles de dames: Marjorie Taylor Greene, la zélote
+    3. Transition écologique: l'alternative aux hausses d'impôts
+    4. David Lisnard courtise les présidents de fédération LR
+    5. Israël contre la Palestine, un corps à corps mortel « où l'un
+       entraîne l'autre vers l'abîme »
 
 Sujets d’actualités
 
@@ -1612,7 +1617,7 @@ les droits de succession
 
    (BUTTON) Navigation
    Le Monde - retour à la une
-   Se connecter Se connecter S’abonner dès 5,49 €/mois
+   Se connecter Se connecter S’abonner
 
      *
      * À la une nav_back_to_home
@@ -1659,14 +1664,12 @@ les droits de succession
           + Tribunes éco
           + Cities
           + Le Club de l’économie
-       Des randonneurs à skis au Granier (Savoie) le 6 décembre 2003. La
-       petite station a arrêté ses remontées mécaniques en 2017. Des
-       randonneurs à skis au Granier (Savoie) le 6 décembre 2003. La
-       petite station a arrêté ses remontées mécaniques en 2017.
+       Le quartier des finances de la City, à Londres, en juillet 2023. Le
+       quartier des finances de la City, à Londres, en juillet 2023.
        Économie
        Article réservé aux abonnés
-       Réchauffement climatique : dans les stations, après le ski, la
-       difficile reconversion
+       Dès aujourd’hui, les grands patrons britanniques ont gagné autant
+       qu’un salarié moyen en un an
        Epic-Games. Epic-Games. Chronique
        Article réservé aux abonnés
        Google, Apple vs Epic Games : « Le monopole des géants du numérique
@@ -1678,26 +1681,25 @@ les droits de succession
        et ce dernier fait tout pour lui plaire »
        Eric Albert
        Londres, correspondance
-       Nature morte sur le thème du code du travail et du burn-out Nature
-       morte sur le thème du code du travail et du burn-out
        Tribune
        Article réservé aux abonnés
-       « Les autoentrepreneurs ne peuvent pas effectuer de simulation de
-       leur future pension de retraite »
-       François Hurel
-       Président de l’Union des auto-entrepreneurs
+       « La transparence sur les informations sociales et
+       environnementales incite les entreprises à mener une réflexion
+       stratégique au service de leur pérennité »
+       Nathalie Gimenes
+       Enseignante associée du programme Executive Education de l’Ecole
+       des Mines de Paris-PSL
      * Vidéos
           + Vidéos
           + L’actualité
           + Les explications
           + Enquêtes vidéo
           + Les mini-séries
+       A Wajima, au Japon, le 1ᵉʳ janvier 2024. A Wajima, au Japon, le
+       1ᵉʳ janvier 2024. International
+       En images : le Japon touché par un important séisme
        International
-       En images : l’Ukraine touchée par « un nombre record de missiles »
-       lancés par la Russie
-       Le Monde Afrique
-       Article réservé aux abonnés
-       Comment la France a-t-elle été chassée du Sahel ?
+       Israël-Palestine : que veut vraiment le Hamas ?
        International
        Les images de l’embrasement de l’avion de la Japan Airlines </text>
 </page> §
@@ -2190,12 +2192,12 @@ parents?"
      * droit de la fonction publique
      * droit de la responsabilité publique
      * droit familial
+     * droit de l'université
      * droit de la responsabilité
      * droit des libertés publiques
-     * droit de l'université
+     * urbanisme
      * droit européen
      * droit fiscal
-     * urbanisme
      * droit des libertés publiques
      * droit des successions
      * droit de la consommation
@@ -2223,12 +2225,12 @@ parents?"
    droit de la fonction publique
    droit de la responsabilité publique
    droit familial
+   droit de l'université
    droit de la responsabilité
    droit des libertés publiques
-   droit de l'université
+   urbanisme
    droit européen
    droit fiscal
-   urbanisme
    droit des libertés publiques
    droit des successions
    droit de la consommation
@@ -2242,7 +2244,7 @@ parents?"
 
 RENONCER A UN HÉRITAGE : C’EST POSSIBLE !
 
-   Publié le 01/03/202101/03/2021 Par SCP Arents-Trennec avocats Vu 6 797
+   Publié le 01/03/202101/03/2021 Par SCP Arents-Trennec avocats Vu 6 810
    fois 0
    Légavox
 
@@ -3123,13 +3125,14 @@ Proposition de loi n°5095
      __________________________________________________________________
      __________________________________________________________________
 
-   Barbaggio : attisé par le vent "le feu n'est pas sous contrôle"
-   03/01/2024 En Corse, le pessimisme des médecins traitants libéraux
-   03/01/2024
-   Le "Salon du chocolat de Corse" à l'honneur au festival "Miel Vert" de
-   la Réunion 03/01/2024
-   ​Ajaccio : deux nouveaux quartiers classés prioritaires en 2024
-   03/01/2024
+   Barbaggio : le feu est toujours actif,  230 hectares ont brûlé
+   04/01/2024
+   Les jeux vidéo et de plateaux seront dans le rétro à l'Animu de Portive
+   chju, les 5 et 6 janvier 04/01/2024
+   Nuit du Nouvel-An : plus de 800 personnes contrôlées sur les routes cor
+   ses 04/01/2024
+   L’Alba in scena va représenter la Corse au Grand concours des régions s
+   ur France 3 04/01/2024
      __________________________________________________________________
      __________________________________________________________________
 
@@ -6136,11 +6139,11 @@ C’est quoi le mandat de protection future ?
 
      * Actualité
      * Régions
-     * Sport
      * Divertissement
-     * Planète
+     * Sport
      * Tempo
      * High-Tech
+     * Planète
      * Vie Pro
      * JO 2024
      * Vidéos
@@ -6849,8 +6852,8 @@ Info
        Accueil Afrique
        CONGO, Rép. démocratique du
        SÉNÉGAL
-       CÔTE D'IVOIRE
        ÉTHIOPIE
+       CÔTE D'IVOIRE
        NIGER
        TCHAD
        NIGERIA
@@ -6879,9 +6882,9 @@ Nos dossiers du moment
 Nos dossiers du moment
        Violences faites aux femmes
        Sport au féminin
-       Les métiers ont-ils un sexe ?
-       Santé des femmes
+       Femmes photographes, un autre regard
        Femmes en politique
+       Les métiers ont-ils un sexe ?
      * Sport
        Accueil Sports
 
@@ -8370,11 +8373,11 @@ Provenant de l'émission
 
    Plus de séries
    (BUTTON)
-     * Sur les traces du Front de Libération de la Bretagne : une histoire
+     * Sur les traces du Front de libération de la Bretagne : une histoire
        du terrorisme breton
        FLB - Histoire du terrorisme breton
        Pour LSD, Kristel Le Pollotec a parcouru la Bretagne afin
-       d’enquêter sur le FLB, le Front de Libération de la Bretagne,
+       d’enquêter sur le FLB, le Front de libération de la Bretagne,
        responsable de centaines d’attentats dans les années 60 et 70 et
        qui a ressurgi ces derniers mois en revendiquant les incendies de
        plusieurs résidences secondaire

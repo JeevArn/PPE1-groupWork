@@ -76,7 +76,7 @@ Dictionary Entries Near heritage
 --
 
    “heritage.” Merriam-Webster.com Dictionary, Merriam-Webster,
-   https://www.merriam-webster.com/dictionary/heritage. Accessed 3 Jan.
+   https://www.merriam-webster.com/dictionary/heritage. Accessed 4 Jan.
    2024.
 --
 
@@ -109,15 +109,15 @@ Shaping the Future of heritage
 --
 
    Gaslighting heritage
-   [Statues_eNews-1-black-1024x569.png]
---
-
-   Canberra’s mid-century heritage
    [MG_8417-web-e1704236779291-1024x645.webp]
 --
 
+   Canberra’s mid-century heritage
+   [DSCN8864-web-1024x687.jpg]
+--
+
    Join our Melbourne team: Archaeologist/heritage Consultant
-   [SLNSW_FL9545722-e1701130567596.jpg]
+   [04-Website-Fairfax-FXB47153--1024x690.jpg]
 --
 
    Walking tour—Sydney’s ever changing heritage
@@ -133,10 +133,6 @@ Shaping the Future of heritage
 --
 
    Winner – Best heritage Consulting Firm
-   [DSC_4663_2-1024x684.jpg]
---
-
-   Parramatta Square heritage interpretation
    [Mooramong-storm-damage-Oct-2021-1024x633.jpg]
 --
 
@@ -218,9 +214,6 @@ Australia’s biggest community driven heritage Festival
    days out and learn about the work we do to protect Victoria’s heritage.</text>
 </page> §
 <page="EN-12">
-<text></text>
-</page> §
-<page="EN-13">
 <text>
    (BUTTON) Toggle navigation heritage Bank - People First
      * Banking
@@ -318,7 +311,7 @@ ABN 11 087 651 125
 
 About heritage</text>
 </page> §
-<page="EN-14">
+<page="EN-13">
 <text>    1. Culture and Creativity
     2. Cultural heritage
 
@@ -387,7 +380,7 @@ Main actors on cultural heritage
      * European heritage Label National Coordinators
      * Creative Europe on Facebook</text>
 </page> §
-<page="EN-15">
+<page="EN-14">
 <text>
 Center for Art, Museum  Cultural heritage Law
 
@@ -407,7 +400,7 @@ Center for Art, Museum  Cultural heritage Law
    requirements page along with a full list of required and elective
    courses for the International Cultural heritage Law Concentration.​</text>
 </page> §
-<page="EN-16">
+<page="EN-15">
 <text>    3. UK/Ireland
     4. Cultural heritage And art law
 
@@ -424,12 +417,12 @@ Cultural heritage And art law
    and heritage law, unfortunately the deadline for the llm is now closed,
    but the same course is also available with the MSc in Law, Anthropology</text>
 </page> §
-<page="EN-17">
+<page="EN-16">
 <text>   "Sars-CoV-2, the virus that causes the COVID-19 disease, was not
    created in the laboratory. We see this by studying the genetic heritage
    of the virus, which has been sequenced by Chinese teams and then</text>
 </page> §
-<page="EN-18">
+<page="EN-17">
 <text>   #Biodiversity heritage Library Atom Feed Biodiversity heritage Library
    » Feed Biodiversity heritage Library » Comments Feed
 
@@ -468,7 +461,7 @@ Welcome to the Biodiversity heritage Library Blog
    The Biodiversity heritage Library makes it easier than ever for you to
    access the information you need to study and explore life on Earth…for</text>
 </page> §
-<page="EN-19">
+<page="EN-18">
 <text>
    heritage____________
    (BUTTON) (BUTTON) English (BUTTON)
@@ -661,35 +654,7 @@ More meanings of heritage
    Add heritage to one of your lists below, or create a new one.
    (BUTTON)</text>
 </page> §
-<page="EN-2">
-<text>
-   European Fashion heritage Association European Fashion heritage
-   Association
---
-
-Unveiling the Future: Highlights from the 'Future heritage' EFHA Conference
-
---
-   Libraries, Archives and Museums) and brands share their digital
-   heritage assets and their experiences and best practices in the field
-   of digitisation, access and valorisation of fashion heritage resources.
-   Read more
---
-
-   The European Fashion heritage Association brings together more than 50
-   institutions coming from 15 European countries, creating the largest
-   fashion heritage network in the world.
-   Read more
---
-   European Fashion
-   heritage Association
-   Via di Brozzi 274, 50145
---
-   We make it easier for fashion GLAMs and brands to get better value from
-   their heritage assets by opening them up and connecting with new
-   audiences.</text>
-</page> §
-<page="EN-20">
+<page="EN-19">
 <text>          +
                o Cultural heritage crime
           +
@@ -732,7 +697,35 @@ Cultural heritage crime
 
 Cultural heritage crime: INTERPOL’s ID-Art app in the news</text>
 </page> §
-<page="EN-21">
+<page="EN-2">
+<text>
+   European Fashion heritage Association European Fashion heritage
+   Association
+--
+
+Unveiling the Future: Highlights from the 'Future heritage' EFHA Conference
+
+--
+   Libraries, Archives and Museums) and brands share their digital
+   heritage assets and their experiences and best practices in the field
+   of digitisation, access and valorisation of fashion heritage resources.
+   Read more
+--
+
+   The European Fashion heritage Association brings together more than 50
+   institutions coming from 15 European countries, creating the largest
+   fashion heritage network in the world.
+   Read more
+--
+   European Fashion
+   heritage Association
+   Via di Brozzi 274, 50145
+--
+   We make it easier for fashion GLAMs and brands to get better value from
+   their heritage assets by opening them up and connecting with new
+   audiences.</text>
+</page> §
+<page="EN-20">
 <text>          + PA Community Prediction Tool
           + County Natural heritage Inventories
           + Conservation Opportunity Area Tool
@@ -761,7 +754,7 @@ Cultural heritage crime: INTERPOL’s ID-Art app in the news</text>
    Natural heritage Inventory, Conservation Opportunity Area tool, Plant
    Factsheets, iMap Invasives, Conservation Case Studies and more.</text>
 </page> §
-<page="EN-22">
+<page="EN-21">
 <text>
    Culture and Cultural heritage
 
@@ -822,7 +815,7 @@ European heritage Days 2023
      * Compendium of Cultural Policies and Trends in Europe
      * HEREIN: heritage Network</text>
 </page> §
-<page="EN-23">
+<page="EN-22">
 <text>     * ARCHES
      * What is Cultural heritage?
      * Cultural heritage “in Crisis”
@@ -972,7 +965,7 @@ Whose cultural heritage?
             as easily say that is part of Gay cultural heritage.
             (BUTTON) CommentButton navigates to signup page</text>
 </page> §
-<page="EN-24">
+<page="EN-23">
 <text>     * (Top)
      * 1Types of heritage
        (BUTTON) Toggle Types of heritage subsection
@@ -1477,7 +1470,7 @@ Cultural heritage digital preservation[edit]
      * Museology
      * Conservation and restoration of cultural heritage</text>
 </page> §
-<page="EN-25">
+<page="EN-24">
 <text>
    The heritage Foundation
 
@@ -1578,7 +1571,7 @@ Hold Washington’s feet to the fire with your gift to heritage Action today!
    © 2024 The heritage Foundation
    Conservative policy research since 1973</text>
 </page> §
-<page="EN-26">
+<page="EN-25">
 <text>   An internal U.S. Customs and Border Protection (CBP) memo obtained by
    the heritage Foundation's Oversight Project and shared with Fox News
    Digital prohibits agents from using "he, him, she, her" pronouns when
@@ -1591,7 +1584,7 @@ Hold Washington’s feet to the fire with your gift to heritage Action today!
    The memo follows an earlier report by heritage's Oversight Project that
    the Department of Health and Human Services (HHS) rolled out a similar</text>
 </page> §
-<page="EN-27">
+<page="EN-26">
 <text>
 Cultural heritage Informatics
 
@@ -1618,7 +1611,7 @@ Cultural heritage Informatics
 
 Faculty Supporting the Cultural heritage Informatics Area</text>
 </page> §
-<page="EN-28">
+<page="EN-27">
 <text>
 Information  Communication Technologies in Cultural heritage  Tourism
 
@@ -1758,7 +1751,7 @@ Rome's Egyptian heritage
    Our Mission Our mission is to engage people with cultural heritage and
    to improve history education worldwide.</text>
 </page> §
-<page="EN-29">
+<page="EN-28">
 <text>   Networks and Stories. Analyzing the Transmission of the Feminist
    Intangible Cultural heritage on Twitter
 
@@ -2066,6 +2059,39 @@ Present, and the Future
    [_] heritage
    [_] Histories</text>
 </page> §
+<page="EN-29">
+<text>
+Forum on Information Standards in heritage
+
+--
+     * About
+     * MIDAS heritage
+          + Other Guidance
+--
+          + Chronology
+     * heritage Information
+     * FISH-HEIRNET
+--
+
+   Welcome to the Forum on Information Standards in heritage (FISH). This
+   site presents the work of the forum and contains links to recommended
+   information resources that support best practice in recording cultural
+   heritage.
+
+--
+logo        Britiish-Museum-Logo                      Cadw logo
+heritage-England-Logo RCAHMW new logo
+ALGAO logo       HES logo       dyfedarch logo          National Trust logo
+--
+   of these include British  Irish Archaeological Bibliography
+   (BIAB), Manx National heritage, Museum of London, the National
+   Archives, Northern Ireland Environment and heritage Service, the
+   Portable Antiquities Scheme and the Victoria  Albert Museum.
+--
+
+   For more information on Scottish heritage, please visit the HER Forum
+   Scotland website. Like FISH, The SMR Forum enables its members to keep</text>
+</page> §
 <page="EN-3">
 <text>          + IUCN Green List of Protected and Conserved Areas
           + IUCN World heritage Outlook
@@ -2212,39 +2238,6 @@ World heritage
    All World heritage</text>
 </page> §
 <page="EN-30">
-<text>
-Forum on Information Standards in heritage
-
---
-     * About
-     * MIDAS heritage
-          + Other Guidance
---
-          + Chronology
-     * heritage Information
-     * FISH-HEIRNET
---
-
-   Welcome to the Forum on Information Standards in heritage (FISH). This
-   site presents the work of the forum and contains links to recommended
-   information resources that support best practice in recording cultural
-   heritage.
-
---
-logo        Britiish-Museum-Logo                      Cadw logo
-heritage-England-Logo RCAHMW new logo
-ALGAO logo       HES logo       dyfedarch logo          National Trust logo
---
-   of these include British  Irish Archaeological Bibliography
-   (BIAB), Manx National heritage, Museum of London, the National
-   Archives, Northern Ireland Environment and heritage Service, the
-   Portable Antiquities Scheme and the Victoria  Albert Museum.
---
-
-   For more information on Scottish heritage, please visit the HER Forum
-   Scotland website. Like FISH, The SMR Forum enables its members to keep</text>
-</page> §
-<page="EN-31">
 <text>    4. Targeted Analyses
     5. 9-Material Cultural heritage- heritage
 
@@ -2318,7 +2311,7 @@ heritage_Scientific Annex
      * 9-Material Cultural heritage- heritage
      * 10-Cross-border Public Services - CPS</text>
 </page> §
-<page="EN-32">
+<page="EN-31">
 <text>
 Defining culture, heritage and identity
 
@@ -2416,7 +2409,7 @@ Defining culture, heritage and identity
 
    heritage day, Braai Day or Shaka Day: Whose heritage is it Anyway?</text>
 </page> §
-<page="EN-33">
+<page="EN-32">
 <text>   Identical to classic terracotta roof tiles, the Invisible Solar
    Rooftile finally brings solar energy on heritage assets.
    Learn more
@@ -2438,7 +2431,7 @@ Defining culture, heritage and identity
    architectural and aesthetical integration in the heritage's town
    centers too.</text>
 </page> §
-<page="EN-34">
+<page="EN-33">
 <text>   Whilst we may associate it more with aesthetics than antiquity,
    collagen is central in some cultural heritage objects. Indeed, this
    vital protein is a key structural molecule holding bodily tissues
@@ -2455,7 +2448,7 @@ Collagen in cultural heritage
    biomedical field (cornea, skin) and for the study of heritage objects.
    *LOB: a joint research unit CNRS, École Polytechnique - Institut</text>
 </page> §
-<page="EN-35">
+<page="EN-34">
 <text>   Difference Between Similar Terms » Comments Feed Compare the Difference
    Between Similar Terms » Difference Between Ancestry and heritage
    Comments Feed alternate alternate
@@ -2544,7 +2537,7 @@ Characteristics of Ancestry and heritage
        Thank you so much I am excited to find my heritage through my
        ancestry my grandfather I knew of him I thank you for your help</text>
 </page> §
-<page="EN-36">
+<page="EN-35">
 <text>
 The Finnish Genetic Disease heritage
 
@@ -2571,7 +2564,7 @@ The Finnish Genetic Disease heritage
    Hinttala R. The Finnish genetic heritage in 2022 - from diagnosis to
    translational research. Dis Model Mech. 2022 Oct 1;15(10):dmm049490.</text>
 </page> §
-<page="EN-37">
+<page="EN-36">
 <text>
    heritage LEGAL
    760.325.2020
@@ -2618,7 +2611,7 @@ We’re Here When You Need Us
    ©  heritage Legal, P.C.| Privacy Policy | Disclaimer | Terms of Service
    | Attorney Website Design by Omnizant</text>
 </page> §
-<page="EN-38">
+<page="EN-37">
 <text>    #World Dance heritage Research Centre » Feed World Dance heritage
    Research Centre » Comments Feed alternate alternate alternate
 
@@ -2708,7 +2701,7 @@ Embodiment, the Body and heritage
    Copyright © 2015 to 2023 WorldDanceheritage.org | Privacy Policy | As
    an Amazon Associate I earn from qualifying purchases.</text>
 </page> §
-<page="EN-39">
+<page="EN-38">
 <text>   Many communities, many populations indeed celebrate their cultural
    heritage through literature, art, sports, traditions, food, even their
    daily routine and gestures: each difference, each particularity can be
@@ -2766,6 +2759,38 @@ A memorial heritage
    their cultural heritage.
    ( ) ok Major political events can also be considered as symbols of</text>
 </page> §
+<page="EN-39">
+<text>
+   Christy Pease and Erin Watson, both of heritage Thermal, serve up the
+   soup at the United Way of Southern Columbiana/heritage Thermal Hungry
+   Bowls fundraiser held at the Salvation Army to raise money for agencies
+--
+   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
+   conjunction with heritage Environmental Services to raise money for
+   three area agencies supported by United Way had a low turnout last
+--
+
+   Raymond Wayne, heritage Thermal, didn’t know whether to attribute the
+   low turnout to unseasonably warm weather or other area fundraisers
+--
+   soup kitchen style meal consisting of homemade soups made by United Way
+   board members and heritage Thermal employees and served by staff of
+   heritage Environmental Services along with a bottle of water, a dinner
+   roll and cookies to approximately 40 people.
+--
+   The event also featured a Chinese auction, with baskets donated by
+   Columbiana County commissioners, heritage Thermal employees and the
+   board members for the United Way of Southern Columbiana, which brought
+   in approximately $1,000, according to Karen Montgomery, heritage
+   Environmental Services/heritage Thermal.
+
+   Montgomery noted that the Columbiana County commissioners and heritage
+   Thermal each donated $2,500, bringing the total raised for the event to
+--
+
+   “The United Way would like to thank HTS (heritage Thermal) employees
+   for donating auction items, making soups and assisting at the event,”</text>
+</page> §
 <page="EN-4">
 <text>
    DIGITIZING heritage FOR
@@ -2811,38 +2836,6 @@ MISSION - TO IMPROVE THE METHODS OF CULTURAL heritage PRESERVATION
    BUSINESSES AND CULTURAL INSTITUTIONS</text>
 </page> §
 <page="EN-40">
-<text>
-   Christy Pease and Erin Watson, both of heritage Thermal, serve up the
-   soup at the United Way of Southern Columbiana/heritage Thermal Hungry
-   Bowls fundraiser held at the Salvation Army to raise money for agencies
---
-   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
-   conjunction with heritage Environmental Services to raise money for
-   three area agencies supported by United Way had a low turnout last
---
-
-   Raymond Wayne, heritage Thermal, didn’t know whether to attribute the
-   low turnout to unseasonably warm weather or other area fundraisers
---
-   soup kitchen style meal consisting of homemade soups made by United Way
-   board members and heritage Thermal employees and served by staff of
-   heritage Environmental Services along with a bottle of water, a dinner
-   roll and cookies to approximately 40 people.
---
-   The event also featured a Chinese auction, with baskets donated by
-   Columbiana County commissioners, heritage Thermal employees and the
-   board members for the United Way of Southern Columbiana, which brought
-   in approximately $1,000, according to Karen Montgomery, heritage
-   Environmental Services/heritage Thermal.
-
-   Montgomery noted that the Columbiana County commissioners and heritage
-   Thermal each donated $2,500, bringing the total raised for the event to
---
-
-   “The United Way would like to thank HTS (heritage Thermal) employees
-   for donating auction items, making soups and assisting at the event,”</text>
-</page> §
-<page="EN-41">
 <text>
 Key Issues in Cultural heritage
      __________________________________________________________________
@@ -3056,7 +3049,7 @@ Managing heritage in Africa: Who Cares?
    cultural landscapes, heritage...
      * 1</text>
 </page> §
-<page="EN-42">
+<page="EN-41">
 <text>          + Travel with WMF
           + Jewish heritage Program
           + Ukraine heritage Response Fund
@@ -3165,7 +3158,7 @@ Underrepresented heritage
           + heritage from Home
      * Give</text>
 </page> §
-<page="EN-43">
+<page="EN-42">
 <text>     * (Top)
      * 1World heritage Sites
 
@@ -3596,7 +3589,7 @@ World heritage Sites[edit]
      * Lists of World heritage Sites
      * Historic preservation in India</text>
 </page> §
-<page="EN-44">
+<page="EN-43">
 <text>   #Center for heritage  Society » Feed Center for heritage  Society »
    Comments Feed Center for heritage  Society » Home Comments Feed
    alternate alternate
@@ -3708,7 +3701,7 @@ Climate Change and Cultural heritage in Scotland
    Center for heritage  Society
    210 Design Building, University of Massachusetts Amherst MA, 01003</text>
 </page> §
-<page="EN-45">
+<page="EN-44">
 <text>     * ARCHES
      * What is Cultural heritage?
      * Cultural heritage “in Crisis”
@@ -3832,7 +3825,7 @@ natural disasters
        won't recognize the value of heritage either cultural or of any
        other kind, there would be no point trying to save it.</text>
 </page> §
-<page="EN-46">
+<page="EN-45">
 <text>   #heritage » Feed heritage » Comments Feed heritage » iCal Feed
    alternate alternate alternate alternate
 
@@ -3870,7 +3863,7 @@ heritage Community
    © 2023 heritage Community of Kalamazoo. All Rights Reserved.
    Privacy Policy</text>
 </page> §
-<page="EN-47">
+<page="EN-46">
 <text>   #heritage University » Feed heritage University » Comments Feed
    heritage University » iCal Feed alternate alternate alternate alternate
    heritage University RSS2 Feed
@@ -4073,7 +4066,7 @@ We invite you to invest in heritage University!
    advancement@heritage.edu or (509) 865-8587.
      __________________________________________________________________</text>
 </page> §
-<page="EN-48">
+<page="EN-47">
 <text>   #resilience » Feed resilience » Comments Feed resilience » Loss and
    damage: How can culture and heritage loss be measured and addressed?
    Comments Feed alternate alternate alternate
@@ -4224,6 +4217,68 @@ talks?
 
    Tags: cultural heritage, culture, environmental effect of climate
    change, loss and damage</text>
+</page> §
+<page="EN-48">
+<text>     * Corporate
+          + heritage at a Glance
+          + Vision  Mission
+--
+               o Exports
+               o heritage Parlour
+               o heritage Distribution Centre
+               o Locations
+--
+          + Subsidiary
+               o heritage Nutrivet Limited
+          + JV
+               o heritage Novandie Foods Pvt Ltd
+     * Investors
+--
+
+   heritage Foods was founded to create and share wealth ethically among
+   the farming community in a structured manner
+--
+
+   CAUTION: heritage Foods Limited. Since it’s incorporation (i.e.
+   05/06/1992) is not accepting any type of deposits from the public, if
+   anybody is asking any type of deposits in the name of heritage Foods
+   Limited. Don't believe such false assurance.
+--
+   [probiotic.jpg]
+   heritage Total Curd | #MakesYourDay (తెలుగు) #heritageFoods
+
+--
+
+A heritage of
+
+--
+   Families Consume
+   heritage Products Daily
+
+--
+
+   heritage Parlours Operated
+   by Our Franchisees
+--
+
+   Retail Outlets Sell heritage
+   Products From Their Stores
+--
+
+heritage Foods limited
+
+   The heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
+   the year 1992, which is one of the fastest growing Public Listed
+   Companies in India, with two business divisions - Dairy and Renewable
+   Energy. The annual turnover of heritage Foods stood at INR 32,087
+   million in the financial year 2022-23.
+--
+   Corporate
+     * heritage at a Glance
+     * Corporate Management Team
+--
+
+   Copyright © , heritage Foods Limited. Designed by Pixel Studios</text>
 </page> §
 <page="EN-49">
 <text>     * Corporate
@@ -8483,9 +8538,17 @@ Le mérite en héritage
    상속개시당시를 기준으로 소급감정을 함으로써 양도세를 절세할 수 있을까요?
 
 --
+   [세리포트, 12.29 국세청 인사의 의미-④] ‘세무사 자동자격’ 안 나오는 세대…명퇴제 손보나?
+   [신춘 대담] 시대의 석학, ‘박 훈’에게 세금의 미래를 묻다…“상속‧법인세율 내리는 게 맞다”
+   [세리포트] '바닥 헤매는' 국세청 청렴도…‘감사원, 검찰 출신’까지 해봤지만 달라진 건 없었다
+--
    1 [세리포트, 12.29 국세청 인사의 의미-④] ‘세무사 자동자격’ 안 나오는 세대…명퇴제 손보나?
    2 [신춘 대담] 시대의 석학, ‘박 훈’에게 세금의 미래를 묻다…“상속‧법인세율 내리는 게 맞다”
-   3 [국세청 인사] 국세청, 복수직 서기관‧사무관 전보인사 단행…660명 이동</text>
+   3 [국세청 인사] 국세청, 복수직 서기관‧사무관 전보인사 단행…660명 이동
+--
+   패러다임에 변화가 생기게 됐다.세정가에서는 이 같은 지방...
+   [신춘 대담] 시대의 석학, ‘박 훈’에게 세금의 미래를 묻다…“상속‧법인세율 내리는 게 맞다”
+   시대의 석학을 만났다. 전공은 법학이다. 그래서인지 세법학자들보다 시야가 좀더 넓다는 평가다. 지금은 세법에 더 해박하다. 국내</text>
 </page> §
 <page="KR-27">
 <text>
@@ -8610,71 +8673,13 @@ Le mérite en héritage
    과세된다. 다만 해당 납세자를 1세대 1주택자로 인정해 기본공제(12억) 및 연령·보유기간에 따른 세액공제를 적용받을 수 있다.</text>
 </page> §
 <page="KR-29">
-<text>   법률타임즈
-   어머니 상속재산분할시 먼저 돌아가신 아버지 상속재산도 고려되나요
-   (BUTTON) 바로가기 (BUTTON) 복사하기 (down) 본문 글씨 줄이기 (up) 본문 글씨 키우기
---
-
-어머니 상속재산분할시 먼저 돌아가신 아버지 상속재산도 고려되나요
+<text>
+여야 또 감세 논의···결혼·가업상속 증여세 완화 내용
 
 --
-
-   상속분쟁에 대한 상담을 하다보면 많은 분들이 ‘그 상속인은 이미 오래전 돌아가신 아버님(혹은 어머님)의 재산에서 대부분을 먼저
-   받았기 때문에 이번 상속과 관련하여서는 유류분 침해 여지를 고려할 필요가 없지 않나요?’라며 반문하십니다.
-   부모님이 수십 년 간 공동생활을 하면서 이룩한 재산을 아버지, 어머니 각자의 명의에 따라 나누기보다는 ‘부모님의 유산’이라는
---
-   그러나 우리 민법은 부부별산제를 규정하여 아무리 부부라고 해도 각자의 명의에 따라 독립된 재산을 소유하는 것으로 판단합니다.
---
-
-   그런데 얼마 전 대법원은 어머니의 상속재산에 대한 유류분반환청구소송에서 과거 아버지의 상속재산 중 일부를 단독으로 받은 자녀는
-   추후 어머니의 재산을 상속받는 과정에서 이를 특별수익으로 고려하도록 판단하였습니다(대법원 2021. 8.
-   19 선고 2017다230338 판결).
---
-   A씨는 부인과 자녀들(2남 2녀)을 남기고 1998. 10. 29. 사망하였습니다.
-   공동상속인인 부인과 자녀들은 아버지의 소유였던 경남 고성군의 임야 및 묘지 3곳을 장남과 차남이 각각 상속하기로 하였고, 이에
-   따라 어머니와 딸들은 2011년 무렵 협의분할을 통하여 아버지의 부동산에 대한 상속을 포기하였습니다.
-   이후 어머니는 2013. 12. 20. 장녀에게 자신의 명의로 되어있던 부산의 건물을 증여하였고, 2015. 1.
---
-   유류분 부족액 = [유류분 산정의 기초가 되는 재산액(A) X 당해 유류분권자의 유류분의 비율(B)] - 당해 유류분권자의
-   특별수익액(C) - 당해 유류분권자의 순상속액(D)
-   A = 적극적 상속재산액 + 증여액 - 상속채무액
-   B = 피상속인의 배우자, 직계비속은 그 법정상속분의 1/2
-   C = 당해 유류분권자의 수증액 + 수유액
-   D = 당해 유류분권자가 상속에 의하여 얻는 재산액 - 상속채무 분담액
-
---
-   유류분은 위와 같은 방식으로 산정됩니다.
-   특히 이 사안에서 문제가 되었던 부분은 두 아들이 협의분할에 의하여 어머니로부터 이전받은 아버지의 상속재산이 어머니 상속재산의
-   유류분을 산정하는 기초재산(A)에 합산되어 포함될 것인지와 아버지의 상속재산 중 어머니 지분이 두 아들의 유류분 침해여부 판단에
-   있어 특별수익(C)으로 고려되어야 하는지에 대한 부분이었습니다.
---
-
-   상속재산분할협의의 성질
-
-   이와 관련하여 대법원은 일단 상속재산분할협의의 성질에 대하여 이는 공동상속인 사이에 이루어지는 일종의 계약으로서, 상속
-   개시되어 공동상속인 사이에 잠정적 공유가 된 상속재산에 대해서 그 전부 또는 일부를 각 상속인의 단독소유로 하거나 새로운
-   공유관계로 이행시킴으로써 상속재산의 귀속을 확정시키는 것이라고 보았습니다.
-   또한 사안에서와 같이 어느 공동상속인(어머니)의 취득분을 영(零)으로 하는 상속재산 분할협의도 유효하기 때문에 결과적으로
-   공동상속인의 합의에 따라 상속분을 무상으로 양도한 것과 마찬가지가 된다고 판단하였습니다.
-
-   이와 같은 상속분의 무상양도로 인하여 상속재산을 전혀 취득하지 못한 공동상속인은 원래 가지고 있었던 구체적 상속분에 해당하는
-   재산적 이익을 취득하지 못하고, 상속재산을 전부 취득한 공동상속인은 원래 가지고 있었던 구체적 상속분을 넘는 재산적 이익을
-   취득하게 되어 상속인들 사이 불균등이 발생하므로 유류분 산정의 취지에 따라 과거 아버지의 상속재산 중 어머니의 지분을 유류분
-   산정의 기초재산(A)에 포함하고 동시에 이것을 무상양도 받은 아들들의 특별수익(C)으로도 고려하여야 한다고 판단하였습니다.
-   어머니가 상속재산 분할협의에 따라 실질적으로 아들들에게 무상으로 양도하였다고 볼 수 있는 아버지 재산에 대한 상속분은 어머니의
-   사망으로 인한 상속에서 유류분 산정을 위한 기초재산에 포함되어야 하고, 나아가 아들들의 유류분 부족액에서 아들들이 받은
-   특별수익으로서 공제되어야 한다고 판단하였습니다.
-
-   대법원의 판결은 먼저 사망한 아버지의 재산에 대한 상속재산분할협의의 효력이 아버지의 사망 시로 소급하여 어머니가 이것을
-   증여했다고 볼 수 없고, 따라서 어머니의 상속재산에 대한 유류분 판단에 있어 이를 고려할 필요가 없다던 원심의 판단을 뒤집은
-   것입니다.
-   대법원은 상속인간 형평을 위하여 상속재산분할협의의 효력을 실질적으로 판단한 것이라고 보입니다.
-   부모님에 유산 상속에 대하여 많은 분들이 가진 궁금증과 아쉬움을 해소하는데 어느 정도 기여한 판결취지라고 여겨집니다.
-
---
-
-   #법률타임즈 #생활법률연구회 #김정현변호사 #정성엽변호사 #상속재산분할 #상속 유류분 #유류분 산정방법 #상속재산분할협의
-   #법무법인한양 #서초변호사 #법률정보 #법률상담 #변호사상담</text>
+   정부 세법개정안은 증여세 감세가 핵심 의제다. 여야는 결혼자금에 대해 1억5000만원씩 양가 합산 최대 3억원까지 증여세를
+   면제하는 내용의 ‘상속세 및 증여세법 개정안’에 대해 논의하고 있다. 현 제도로는 부모나 조부모에게 증여를 받은 사람은 10년에
+   걸쳐 최대 5000만원까지 증여세를 면제받는다. 정부안은 여기에서 혼인신고 전후로 2년씩 총 4년간 양가로부터 1억원씩을 추가로</text>
 </page> §
 <page="KR-3">
 <text>
@@ -8830,6 +8835,73 @@ Le mérite en héritage
    이 정보는 2023년 12월 15일 기준으로 작성된 것입니다.</text>
 </page> §
 <page="KR-30">
+<text>   법률타임즈
+   어머니 상속재산분할시 먼저 돌아가신 아버지 상속재산도 고려되나요
+   (BUTTON) 바로가기 (BUTTON) 복사하기 (down) 본문 글씨 줄이기 (up) 본문 글씨 키우기
+--
+
+어머니 상속재산분할시 먼저 돌아가신 아버지 상속재산도 고려되나요
+
+--
+
+   상속분쟁에 대한 상담을 하다보면 많은 분들이 ‘그 상속인은 이미 오래전 돌아가신 아버님(혹은 어머님)의 재산에서 대부분을 먼저
+   받았기 때문에 이번 상속과 관련하여서는 유류분 침해 여지를 고려할 필요가 없지 않나요?’라며 반문하십니다.
+   부모님이 수십 년 간 공동생활을 하면서 이룩한 재산을 아버지, 어머니 각자의 명의에 따라 나누기보다는 ‘부모님의 유산’이라는
+--
+   그러나 우리 민법은 부부별산제를 규정하여 아무리 부부라고 해도 각자의 명의에 따라 독립된 재산을 소유하는 것으로 판단합니다.
+--
+
+   그런데 얼마 전 대법원은 어머니의 상속재산에 대한 유류분반환청구소송에서 과거 아버지의 상속재산 중 일부를 단독으로 받은 자녀는
+   추후 어머니의 재산을 상속받는 과정에서 이를 특별수익으로 고려하도록 판단하였습니다(대법원 2021. 8.
+   19 선고 2017다230338 판결).
+--
+   A씨는 부인과 자녀들(2남 2녀)을 남기고 1998. 10. 29. 사망하였습니다.
+   공동상속인인 부인과 자녀들은 아버지의 소유였던 경남 고성군의 임야 및 묘지 3곳을 장남과 차남이 각각 상속하기로 하였고, 이에
+   따라 어머니와 딸들은 2011년 무렵 협의분할을 통하여 아버지의 부동산에 대한 상속을 포기하였습니다.
+   이후 어머니는 2013. 12. 20. 장녀에게 자신의 명의로 되어있던 부산의 건물을 증여하였고, 2015. 1.
+--
+   유류분 부족액 = [유류분 산정의 기초가 되는 재산액(A) X 당해 유류분권자의 유류분의 비율(B)] - 당해 유류분권자의
+   특별수익액(C) - 당해 유류분권자의 순상속액(D)
+   A = 적극적 상속재산액 + 증여액 - 상속채무액
+   B = 피상속인의 배우자, 직계비속은 그 법정상속분의 1/2
+   C = 당해 유류분권자의 수증액 + 수유액
+   D = 당해 유류분권자가 상속에 의하여 얻는 재산액 - 상속채무 분담액
+
+--
+   유류분은 위와 같은 방식으로 산정됩니다.
+   특히 이 사안에서 문제가 되었던 부분은 두 아들이 협의분할에 의하여 어머니로부터 이전받은 아버지의 상속재산이 어머니 상속재산의
+   유류분을 산정하는 기초재산(A)에 합산되어 포함될 것인지와 아버지의 상속재산 중 어머니 지분이 두 아들의 유류분 침해여부 판단에
+   있어 특별수익(C)으로 고려되어야 하는지에 대한 부분이었습니다.
+--
+
+   상속재산분할협의의 성질
+
+   이와 관련하여 대법원은 일단 상속재산분할협의의 성질에 대하여 이는 공동상속인 사이에 이루어지는 일종의 계약으로서, 상속
+   개시되어 공동상속인 사이에 잠정적 공유가 된 상속재산에 대해서 그 전부 또는 일부를 각 상속인의 단독소유로 하거나 새로운
+   공유관계로 이행시킴으로써 상속재산의 귀속을 확정시키는 것이라고 보았습니다.
+   또한 사안에서와 같이 어느 공동상속인(어머니)의 취득분을 영(零)으로 하는 상속재산 분할협의도 유효하기 때문에 결과적으로
+   공동상속인의 합의에 따라 상속분을 무상으로 양도한 것과 마찬가지가 된다고 판단하였습니다.
+
+   이와 같은 상속분의 무상양도로 인하여 상속재산을 전혀 취득하지 못한 공동상속인은 원래 가지고 있었던 구체적 상속분에 해당하는
+   재산적 이익을 취득하지 못하고, 상속재산을 전부 취득한 공동상속인은 원래 가지고 있었던 구체적 상속분을 넘는 재산적 이익을
+   취득하게 되어 상속인들 사이 불균등이 발생하므로 유류분 산정의 취지에 따라 과거 아버지의 상속재산 중 어머니의 지분을 유류분
+   산정의 기초재산(A)에 포함하고 동시에 이것을 무상양도 받은 아들들의 특별수익(C)으로도 고려하여야 한다고 판단하였습니다.
+   어머니가 상속재산 분할협의에 따라 실질적으로 아들들에게 무상으로 양도하였다고 볼 수 있는 아버지 재산에 대한 상속분은 어머니의
+   사망으로 인한 상속에서 유류분 산정을 위한 기초재산에 포함되어야 하고, 나아가 아들들의 유류분 부족액에서 아들들이 받은
+   특별수익으로서 공제되어야 한다고 판단하였습니다.
+
+   대법원의 판결은 먼저 사망한 아버지의 재산에 대한 상속재산분할협의의 효력이 아버지의 사망 시로 소급하여 어머니가 이것을
+   증여했다고 볼 수 없고, 따라서 어머니의 상속재산에 대한 유류분 판단에 있어 이를 고려할 필요가 없다던 원심의 판단을 뒤집은
+   것입니다.
+   대법원은 상속인간 형평을 위하여 상속재산분할협의의 효력을 실질적으로 판단한 것이라고 보입니다.
+   부모님에 유산 상속에 대하여 많은 분들이 가진 궁금증과 아쉬움을 해소하는데 어느 정도 기여한 판결취지라고 여겨집니다.
+
+--
+
+   #법률타임즈 #생활법률연구회 #김정현변호사 #정성엽변호사 #상속재산분할 #상속 유류분 #유류분 산정방법 #상속재산분할협의
+   #법무법인한양 #서초변호사 #법률정보 #법률상담 #변호사상담</text>
+</page> §
+<page="KR-31">
 <text>     * Tax ›
      * 상속·증여 및 가업승계
 
@@ -8863,7 +8935,7 @@ Le mérite en héritage
 
    ▶ 상속·증여 및 가업승계 브로셔</text>
 </page> §
-<page="KR-31">
+<page="KR-32">
 <text>     * 홈
      * 상속 (BUTTON)
           + 상속등기 (BUTTON)
@@ -8964,7 +9036,7 @@ Le mérite en héritage
      * 상속한정승인
      * 회사 합병·분할 등기</text>
 </page> §
-<page="KR-32">
+<page="KR-33">
 <text>
    제1006조 (공동상속과 재산의 공유)상속인이 수인인 때에는 상속재산은 그 공유로한다.개정 1990. 1. 13.
 
@@ -9060,7 +9132,7 @@ Le mérite en héritage
        때에는 상속재산은 그 공유로 한다(민법 제1006조). 피상속인이 유언으로 상속재산의 분할방법을 정한 경우가 아니라면
        공동상속인은 언제든지 그 협의에 의하여 상속재산을 분할할 수 있고(민법 제1012조, 제1013조), 그 분할의 효…</text>
 </page> §
-<page="KR-33">
+<page="KR-34">
 <text>               o 폐업신고 원스톱서비스
                o 안심상속 원스톱서비스
                o 행복출산 원스톱서비스
@@ -9102,7 +9174,7 @@ Le mérite en héritage
           + 대습상속인,
             실종선고자의 상속인</text>
 </page> §
-<page="KR-34">
+<page="KR-35">
 <text>
 상속 증여세 자문 Inheritance and gift tax advisory
 
@@ -9129,7 +9201,7 @@ Le mérite en héritage
 
    상속세 및 증여세 세무조사 지원</text>
 </page> §
-<page="KR-35">
+<page="KR-36">
 <text>   #베리타스 종합법률사무소 » 피드 베리타스 종합법률사무소 » 댓글 피드 베리타스 종합법률사무소 » 단순승인으로 의제되는
    상속재산처분행위 댓글 피드 alternate alternate
 
@@ -9232,7 +9304,7 @@ Le mérite en héritage
    상속재산 처분을 이유로 한 단순승인 의제를 이유로 상속을 강요당하는 한편, 고려기간을 지나 채무초과사실을 안 때로부터 3월 내에
    특별한정승인 신청을 한 자는 한정승인이 유효하게 되어 구제받게 되는 불평등한 결과가 발생할 것으로 보인다.</text>
 </page> §
-<page="KR-36">
+<page="KR-37">
 <text>   상속등기
 
    상속포기, 한정승인
@@ -9411,7 +9483,7 @@ Le mérite en héritage
 
    상속포기</text>
 </page> §
-<page="KR-37">
+<page="KR-38">
 <text>          + 어디서나 민원처리제
           + 안심상속원스톱서비스
           + 행복출산원스톱서비스
@@ -9446,7 +9518,7 @@ Le mérite en héritage
 
 사망자 재산조회 신청 시 : 신분증, 가족관계증명서 등 상속관계 증빙서류</text>
 </page> §
-<page="KR-38">
+<page="KR-39">
 <text>   법률정보|최신 판례
    [민사] 상속재산의 강제집행 절차에서 한정승인을 한 상속인에 대하여 조세채권을 가진 국가와 상속채권자 사이의 우열관계
    2016.09.07
@@ -9468,61 +9540,6 @@ Le mérite en héritage
    br /______________________________________________________
    기존 판례는 한정승인이 이루어진 경우 상속채____________________________________
    br /______________________________________________________</text>
-</page> §
-<page="KR-39">
-<text>   법률저널
-   [법률상식] 해외 거주자의 대습상속, 상속순위에 맞는 권익 지켜야
-     * (BUTTON) 페이스북
---
-   HOME NEWS 법조
-   [법률상식] 해외 거주자의 대습상속, 상속순위에 맞는 권익 지켜야
-     * 이성진 기자
---
-
-   고인이 사망하면 상속절차가 뒤따른다. 상속 사망 당시 피상속인 본국법에 따른다. 피상속인이 한국 국적을 가진 경우 상속인이
-   외국 국적을 가지고 있다고 하더라도 피상속인의 국적법인 한국법에 따라 상속절차가 진행되는 것이다.
-
-   본격적으로 상속 개시되면 상속 순위와 상속 대상, 유언장 유무, 피상속인의 재산상태 조회, 상속포기 및 한정승인 여부 등 여러
---
-
-   민법 제 1000조에 따라 상속 순위는 ① 피상속인의 직계비속 ②피상속인의 직계존속 ③ 피상속인의 형제자매 ④피상속인의 4촌
-   이내의 방계혈족으로 정해진다. 피상속인 법률상 배우자는 1순위 상속인 등과 공동상속인이 된다.
-
-   법무법인 두우 심보문 상속변호사는 “상속 개시 당시 상속인인 자는 태아, 이성동복 형제, 이혼 소송 중인 배우자, 인지(認知)된
-   혼외자, 양자, 친양자, 양부모, 친양부모, 북한에 있는 상속인 등을 모두 포함한다”며 “특히 외국 국적을 가진 상속인도 상속
-   순위에 있는 상속인으로 본다”고 설명한다.
-
-   즉 해외 거주자 역시 상속인이 될 수 있는 것이다. 다만 상속순위와 관련해 한 가지 더 유의할 사항은 ‘대습상속’과 관련한
-   부분이다.
-
-   대습상속인이란 ‘상속인이 될 직계비속 또는 형제자매(피대습인)’ 등 상속 순위에 있는 자가  상속개시 전에 사망하거나 결격자가
-   된 경우 사망하거나 결격된 사람의 순위에 갈음하여 상속인이 되는 ‘피대습인의 직계비속 또는 배우자’를 의미한다.
-
-   예컨대 A씨의 아버지가 사망했고, 최근 할아버지가 사망한 경우, 할아버지의 상속인은 A씨의 아버지다. 하지만 상속인이 될 A씨의
-   아버지가 사망했기 때문에, A씨가 아버지의 상속 순위에 갈음하여 할아버지의 상속인이 되는 것이다. 즉 A씨가 대습상속인이 되는
-   것.
-
-   심보문 변호사는 “대습상속 대습 원인, 대습자로서의 요건을 갖추어야 한다”며 “또한 동순위 공동상속인과 갈등이 생길 여지가
-   있다”고 설명한다.
-
-   이어 “해외에 거주 중이면서 대습상속인 자격을 갖춘 경우 다른 공동상속인에게 부당하게 상속 재산을 빼앗길 가능성이 있는
-   것”이라고 우려를 표한다.
-
-   해외거주 대습상속인도 상속 순위, 재산 정리, 반출 등 가능
-
-   때문에 법무법인 두우 심보문 변호사는 해외거주 대습상속인의 막막한 현실을 충분히 공감하며, 대습상속 자격 확인부터 공동상속인간
-   필요 없게 현지에서 상속을 마무리할 수 있도록 돕는 것도 이같은 이유에서다. 그 결과 법무법인 두우에는 해외거주자 상속 관련
-   의뢰가 끊임없이 이어진다는 것.
-
-   심보문 변호사는 “대습 상속인이 국내에 없어도 안심하고 상속 정리될 수 있도록 필요할 때마다 진행 상황을 보고 한다”며 “특히
-   해외거주자의 경우 상속세, 상속 등기 등 필수 서류가 국내 상속인과 다른 부분이 있고, 상황에 맞는 추가 제출 서류도 다를 수
-   있어 꼼꼼하게 처리한다”고 말한다.
---
-
-   또한 해외거주 상속인이 이전받을 상속재산이 있다면 재산 유형에 따라 필요한 서류, 이전 절차, 신고 후 재산 반출까지, 법적
-   문제가 없도록 도움을 주고 있다.
-
-   의뢰인의 상황을 적극 공감하고 가능한 한 모든 조력을 제공하는 심보문 상속변호사가 상속 분야에서 독보적으로 주목받는 이유다.</text>
 </page> §
 <page="KR-4">
 <text>
@@ -9834,6 +9851,61 @@ Le mérite en héritage
        일정한 친족관계가 있는 사람 사이에 한 쪽이 사망하거나 법률상의 원인이 발생하였을 때 재산적 또는 친족적 권리와 의무를</text>
 </page> §
 <page="KR-40">
+<text>   법률저널
+   [법률상식] 해외 거주자의 대습상속, 상속순위에 맞는 권익 지켜야
+     * (BUTTON) 페이스북
+--
+   HOME NEWS 법조
+   [법률상식] 해외 거주자의 대습상속, 상속순위에 맞는 권익 지켜야
+     * 이성진 기자
+--
+
+   고인이 사망하면 상속절차가 뒤따른다. 상속 사망 당시 피상속인 본국법에 따른다. 피상속인이 한국 국적을 가진 경우 상속인이
+   외국 국적을 가지고 있다고 하더라도 피상속인의 국적법인 한국법에 따라 상속절차가 진행되는 것이다.
+
+   본격적으로 상속 개시되면 상속 순위와 상속 대상, 유언장 유무, 피상속인의 재산상태 조회, 상속포기 및 한정승인 여부 등 여러
+--
+
+   민법 제 1000조에 따라 상속 순위는 ① 피상속인의 직계비속 ②피상속인의 직계존속 ③ 피상속인의 형제자매 ④피상속인의 4촌
+   이내의 방계혈족으로 정해진다. 피상속인 법률상 배우자는 1순위 상속인 등과 공동상속인이 된다.
+
+   법무법인 두우 심보문 상속변호사는 “상속 개시 당시 상속인인 자는 태아, 이성동복 형제, 이혼 소송 중인 배우자, 인지(認知)된
+   혼외자, 양자, 친양자, 양부모, 친양부모, 북한에 있는 상속인 등을 모두 포함한다”며 “특히 외국 국적을 가진 상속인도 상속
+   순위에 있는 상속인으로 본다”고 설명한다.
+
+   즉 해외 거주자 역시 상속인이 될 수 있는 것이다. 다만 상속순위와 관련해 한 가지 더 유의할 사항은 ‘대습상속’과 관련한
+   부분이다.
+
+   대습상속인이란 ‘상속인이 될 직계비속 또는 형제자매(피대습인)’ 등 상속 순위에 있는 자가  상속개시 전에 사망하거나 결격자가
+   된 경우 사망하거나 결격된 사람의 순위에 갈음하여 상속인이 되는 ‘피대습인의 직계비속 또는 배우자’를 의미한다.
+
+   예컨대 A씨의 아버지가 사망했고, 최근 할아버지가 사망한 경우, 할아버지의 상속인은 A씨의 아버지다. 하지만 상속인이 될 A씨의
+   아버지가 사망했기 때문에, A씨가 아버지의 상속 순위에 갈음하여 할아버지의 상속인이 되는 것이다. 즉 A씨가 대습상속인이 되는
+   것.
+
+   심보문 변호사는 “대습상속 대습 원인, 대습자로서의 요건을 갖추어야 한다”며 “또한 동순위 공동상속인과 갈등이 생길 여지가
+   있다”고 설명한다.
+
+   이어 “해외에 거주 중이면서 대습상속인 자격을 갖춘 경우 다른 공동상속인에게 부당하게 상속 재산을 빼앗길 가능성이 있는
+   것”이라고 우려를 표한다.
+
+   해외거주 대습상속인도 상속 순위, 재산 정리, 반출 등 가능
+
+   때문에 법무법인 두우 심보문 변호사는 해외거주 대습상속인의 막막한 현실을 충분히 공감하며, 대습상속 자격 확인부터 공동상속인간
+   필요 없게 현지에서 상속을 마무리할 수 있도록 돕는 것도 이같은 이유에서다. 그 결과 법무법인 두우에는 해외거주자 상속 관련
+   의뢰가 끊임없이 이어진다는 것.
+
+   심보문 변호사는 “대습 상속인이 국내에 없어도 안심하고 상속 정리될 수 있도록 필요할 때마다 진행 상황을 보고 한다”며 “특히
+   해외거주자의 경우 상속세, 상속 등기 등 필수 서류가 국내 상속인과 다른 부분이 있고, 상황에 맞는 추가 제출 서류도 다를 수
+   있어 꼼꼼하게 처리한다”고 말한다.
+--
+
+   또한 해외거주 상속인이 이전받을 상속재산이 있다면 재산 유형에 따라 필요한 서류, 이전 절차, 신고 후 재산 반출까지, 법적
+   문제가 없도록 도움을 주고 있다.
+
+   의뢰인의 상황을 적극 공감하고 가능한 한 모든 조력을 제공하는 심보문 상속변호사가 상속 분야에서 독보적으로 주목받는 이유다.</text>
+</page> §
+<page="KR-41">
 <text>   경기메디뉴스
    가족의 상속 펼쳐지면 당황하지 말고 이 절차를 따르자(1)
      * (BUTTON) 페이스북
@@ -9881,7 +9953,7 @@ Le mérite en héritage
    타이밍 ‘증상없는 전염병’ 상속세, 대비는 되어 있으세요? 어려운 세금, 직접 찾아보는 법 5가지 가족의 상속 펼쳐지면
    당황하지 말고 이 절차를 따르자(2)</text>
 </page> §
-<page="KR-41">
+<page="KR-42">
 <text>   #스마트 해외 상속 전문가 Mr.Lee » 피드 스마트 해외 상속 전문가 Mr.Lee » 댓글 피드 스마트 해외 상속 전문가
    Mr.Lee » ○부모재산상속 – 기본 용어 설명 댓글 피드 alternate alternate alternate
 
@@ -9958,7 +10030,7 @@ Le mérite en héritage
 
    Copyright © 2024 스마트 해외 상속 전문가 Mr.Lee</text>
 </page> §
-<page="KR-42">
+<page="KR-43">
 <text>
    상속·유언
 
@@ -10186,7 +10258,7 @@ Le mérite en héritage
 
 이 블로그  상속·유언  카테고리 글</text>
 </page> §
-<page="KR-43">
+<page="KR-44">
 <text>   #법무법인 BLS » Feed 법무법인 BLS » Comments Feed 법무법인 BLS » 대습상속 Comments Feed
    회사의 최대주주인 대표이사가 회사 직원에게 회사를 위해 열심히 일해 달라는 취지로 대표이사 개인이 보유하던 회사 주식을 무상으로
 --
@@ -10290,15 +10362,6 @@ Le mérite en héritage
 
      * 상속의 포기
      * 유류분 제도</text>
-</page> §
-<page="KR-44">
-<text>
-부모의 자금 도움 받는 신혼부부, 3억 원까지 상속·증여세 안 내도 된다
-
---
-
-   이번 상속세 및 증여세법 개정안에는 혼인·출산 증여재산 공제 조항이 신설됐다. 악화하는 저출산이 절체절명의 정책 과제로 등장한데
-   따른 결정이다.</text>
 </page> §
 <page="KR-45">
 <text>
@@ -11045,7 +11108,7 @@ Le mérite en héritage
      * 사립유치원·요양시설
 --
    이혼·가사소송
-   상속인과 상속 순위 ? - 로밴드법률센터 작성자 : 관리자 작성일16-03-28 17:06 조회 : 6,612회 좋아요 :
+   상속인과 상속 순위 ? - 로밴드법률센터 작성자 : 관리자 작성일16-03-28 17:06 조회 : 6,627회 좋아요 :
    30건
 --
 
@@ -11211,14 +11274,14 @@ Le mérite en héritage
    36 사실혼 배우자가 사망한 경우 재산분할청구권 인정 여부                                       274
    35 이행강제금의 상속 여부                                                        154
    34 [상속][공동상속인들 중 자녀 전부 또는 일부가 상속을 포기한 경우의 법률효과] (대법원 2023. 3. 23...
-   1,140
+   1,149
    33 대법원 2001. 3. 9. 선고 99다13157 판결 [소유권이전등기말소] [배우자의 대습상속권이 형제자매의 상..
    156
 --
    30 [유류분] 유류분 소송 제기 후 1년이 지나 별개 대상부동산의 반환청구권을 추가한 경우                    390
    29 [유류분][공동상속인의 상속포기와 유류분반환청구] 2022. 3. 17. 선고 2020다267620 판결 피상속인의 사..
-   272
-   28 [상속재산분할] 1. 상속재산분할 기준인 구체적 상속분의 산정방법, 2. 상속재산 중 특정 재산을 일..          833
+   273
+   28 [상속재산분할] 1. 상속재산분할 기준인 구체적 상속분의 산정방법, 2. 상속재산 중 특정 재산을 일..          835
      1    2    3    4    다음 페이지로 이동   마지막 페이지로 이동</text>
 </page> §
 </lang>

@@ -151,7 +151,7 @@
    상속세 계산시 추정상속재산 규정요약
    2012-09-27 15:28
    작성자 : 관리자
-   조회 : 3083
+   조회 : 3089
    첨부파일 : 0개
 
    추정상속재산규정 정리
@@ -754,7 +754,7 @@
 
 상단영역
 
-     * 편집 : 2024-01-04 12:00 (목)
+     * 편집 : 2024-01-04 17:18 (목)
 
 세정일보 [세정일보] 세정일보
 
@@ -883,19 +883,38 @@
      * 회원가</text>
 </page> §
 <page="KR-29">
-<text>   주요서비스 바로가기 본문 바로가기 매체정보 바로가기 로그인 바로가기 기사검색 바로가기 전체서비스 바로가기
+<text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MJ4SRV8
 
-상단영역
+   새로워진 뉴스레터
+   (BUTTON) 레이어 닫기
 
-법률타임즈
+경향신문
 
-   (BUTTON) 검색버튼
+   메뉴 홈으로 바로가기
+   뉴스플리 댓글 공유하기 더보기
+   (BUTTON) 가 (BUTTON)
 
-   검________________________ (BUTTON) 검색
+메뉴 레이어
 
-     * 칼럼
-     * 뉴스
-          + 법</text>
+   (BUTTON)
+
+바로가기 링크
+
+   검색
+
+   ____________________ (BUTTON)
+
+     * 최신기사
+     * 실시간 랭킹 기사
+     * 만평
+     * 오피니언
+     * 정치
+     * 경제
+     * 사회
+     * 지역
+     * 국제
+     * 문화
+     * 스포</text>
 </page> §
 <page="KR-3">
 <text>   자바스크립트가 지원되지 않아 일부 기능이 제한될 수 있습니다.
@@ -940,6 +959,21 @@
                o 신규 콘텐</text>
 </page> §
 <page="KR-30">
+<text>   주요서비스 바로가기 본문 바로가기 매체정보 바로가기 로그인 바로가기 기사검색 바로가기 전체서비스 바로가기
+
+상단영역
+
+법률타임즈
+
+   (BUTTON) 검색버튼
+
+   검________________________ (BUTTON) 검색
+
+     * 칼럼
+     * 뉴스
+          + 법</text>
+</page> §
+<page="KR-31">
 <text>   close
    Share with your friends
      *
@@ -976,7 +1010,7 @@ KPMG Personalization
 
    (BUTTON) 공</text>
 </page> §
-<page="KR-31">
+<page="KR-32">
 <text>    #alternate alternate
 
    신우법무사 신우법무사
@@ -1007,14 +1041,14 @@ KPMG Personalization
                o 승계집행문 이의 신청·소송
                o 상속재산분</text>
 </page> §
-<page="KR-32">
+<page="KR-33">
 <text>   [logo_w.svg]
    (BUTTON) [ico_hamburger_w.svg]
    (BUTTON) [btn_x.svg]
      * 사건관리
      * 회원가</text>
 </page> §
-<page="KR-33">
+<page="KR-34">
 <text>
      * 본문으로 바로가기
 
@@ -1067,7 +1101,7 @@ KPMG Personalization
           위도치유의숲
           부안청년정</text>
 </page> §
-<page="KR-34">
+<page="KR-35">
 <text>   Skip to content Skip to footer
    Site Search
    Digital Solutions Insights Services Industries Careers 삼일회계법인
@@ -1161,7 +1195,7 @@ KPMG Personalization
 
    2024년 주목해야 할 산</text>
 </page> §
-<page="KR-35">
+<page="KR-36">
 <text>   #베리타스 종합법률사무소 » 피드 베리타스 종합법률사무소 » 댓글 피드 베리타스 종합법률사무소 » 단순승인으로 의제되는
    상속재산처분행위 댓글 피드 alternate alternate
 
@@ -1336,7 +1370,7 @@ Leave A Comment 응답 취소
    Copyright 2012 - 2016 Avada | All Rights Reserved | Powered by
    WordPress | Theme Fusion</text>
 </page> §
-<page="KR-36">
+<page="KR-37">
 <text>   상속등기
 
    상속포기, 한정승인
@@ -1355,7 +1389,7 @@ Leave A Comment 응답 취소
 
    상속세 신</text>
 </page> §
-<page="KR-37">
+<page="KR-38">
 <text>   본문 바로가기
 
      * 처음으로
@@ -1405,7 +1439,7 @@ Leave A Comment 응답 취소
           + 군정백서
           + 달라지는 제도와 시</text>
 </page> §
-<page="KR-38">
+<page="KR-39">
 <text>   본문 바로가기
 
 JIPYONG 법무법인[유] 지평
@@ -1430,7 +1464,18 @@ JIPYONG 법무법인[유] 지평
      * 사회적가치경영
           + ESG정</text>
 </page> §
-<page="KR-39">
+<page="KR-4">
+<text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NFJT3S25
+
+   본문 바로가기
+
+   의견문의 이용 안내
+   ____________________
+   (BUTTON)
+   (BUTTON) 분야
+     * 경제·산</text>
+</page> §
+<page="KR-40">
 <text>   (BUTTON) ×
      * 전체기사
      * 공무원
@@ -1506,18 +1551,7 @@ JIPYONG 법무법인[유] 지평
           + 변호사ㆍ로스쿨
           + 금융ㆍ대기</text>
 </page> §
-<page="KR-4">
-<text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NFJT3S25
-
-   본문 바로가기
-
-   의견문의 이용 안내
-   ____________________
-   (BUTTON)
-   (BUTTON) 분야
-     * 경제·산</text>
-</page> §
-<page="KR-40">
+<page="KR-41">
 <text>   (BUTTON) ×
      * 전체기사
      * 뉴스
@@ -1537,7 +1571,7 @@ JIPYONG 법무법인[유] 지평
           + 칼럼
           + 투</text>
 </page> §
-<page="KR-41">
+<page="KR-42">
 <text>   #스마트 해외 상속 전문가 Mr.Lee » 피드 스마트 해외 상속 전문가 Mr.Lee » 댓글 피드 스마트 해외 상속 전문가
    Mr.Lee » ○부모재산상속 – 기본 용어 설명 댓글 피드 alternate alternate alternate
 
@@ -1588,7 +1622,7 @@ JIPYONG 법무법인[유] 지평
 
 3. 상속재산의 분</text>
 </page> §
-<page="KR-42">
+<page="KR-43">
 <text>   [sp_blog72.png] [sp_blog_se3_6.png]
 
    본문 바로가기
@@ -1712,7 +1746,7 @@ JIPYONG 법무법인[유] 지평
 
    ⦁ 관</text>
 </page> §
-<page="KR-43">
+<page="KR-44">
 <text>   #법무법인 BLS » Feed 법무법인 BLS » Comments Feed 법무법인 BLS » 대습상속 Comments Feed
    회사의 최대주주인 대표이사가 회사 직원에게 회사를 위해 열심히 일해 달라는 취지로 대표이사 개인이 보유하던 회사 주식을 무상으로
    증여하면서 회사 상장 전에 퇴사하면 주식을 반환하기로 약정한 경우 회사 상장 전에 직원이 퇴사하였다면 무상으로 받은 주식을
@@ -1732,29 +1766,6 @@ JIPYONG 법무법인[유] 지평
      * Home
      * 2019 주목 판결
      * 외부 기</text>
-</page> §
-<page="KR-44">
-<text>     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-[pjjyu16j.png]
-
-   맑음
-   SEOUUL JAYANGDONG 17
-   [제목_______._________________________
-   (BUTTON) 서치 (BUTTON) 로그인
-     * 마이페이지
-     * 로그아웃
-
-     * 회원가</text>
 </page> §
 <page="KR-45">
 <text>     *

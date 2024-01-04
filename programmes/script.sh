@@ -87,14 +87,14 @@ echo "<!DOCTYPE html>
           				Code
         			</a>
                 	<div class=\"navbar-dropdown\">
-                
-                		<a class=\"navbar-item\" href=\"programmes/script.sh\">
+                		
+                		<a class=\"navbar-item\" href=\"../pages/scriptPrincipale.html\">
                     		Script principale
                 		</a>
-                		<a class=\"navbar-item\" href=\"programmes/make_itrameur_corpus.sh\">
+                		<a class=\"navbar-item\" href=\"../pages/scriptItrameur.html\">
                     		Script iTrameur
                 		</a>
-                		<a class=\"navbar-item\" href=\"programmes/main.sh\">
+                		<a class=\"navbar-item\" href=\"../pages/scriptMain.html\">
                     		Script \"main\"
                 		</a>
  

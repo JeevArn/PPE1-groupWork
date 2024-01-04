@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PPE Projet</title>
+    <!-- Inclure la feuille de style Bulma -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css">
+
+</head>
+
+<body>
+    <!-- Barre de navigation -->
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <h1 class="title is-4">PPE Projet</h1>
+            </a>
+        </div>
+
+        <div id="navbar" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">
+                    Accueil
+                </a>
+                
+                <a class="navbar-item" href="equipe.html">
+                    Equipe
+                </a>
+                
+                <a class="navbar-item" href="demarche.html">
+                    Démarche
+                </a>
+                
+                <a class="navbar-item" href="analyse.html">
+                    Analyse
+                </a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Tableaux
+        			</a>
+                	<div class="navbar-dropdown">
+                
+                		<a class="navbar-item" href="../tableaux/tableau-FR.html">
+                    		Tableau FR
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-EN.html">
+                    		Tableau EN
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-KR.html">
+                    		Tableau KR
+                		</a>
+                	</div>
+                </div>
+                
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Code
+        			</a>
+                	<div class="navbar-dropdown">
+
+                		<a class="navbar-item" href="scriptPrincipale.html">
+                    		Script principale
+                		</a>
+                		<a class="navbar-item" href="scriptItrameur.html">
+                    		Script iTrameur
+                		</a>
+                		<a class="navbar-item" href="scriptMain.html">
+                    		Script "main"
+                		</a>
+ 
+                	</div>
+                </div>
+                
+            </div>
+        </div>
+    </nav>
+
+    <!-- Héros -->
+    <section class="hero is-info is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">Script iTrameur (make_itrameur_corpus.sh)</h1>
+
+            </div>
+        </div>
+    </section>
+    
+    <section class="section is-medium">
+    	<div class="content">
+    		<pre>
+    		<code>
+#!/bin/bash
+
+if [ "$#" -ne 3 ]; then
+    echo "le script nécessite 3 arguments : le chemin du dossier dumps-txt, le chemin du dossier contextes et la langue"
+    exit 1
+fi
+
+dossier_dump="$1"
+dossier_context="$2"
+lang="$3"
+
+output_dump="itrameur/dump-${lang}.txt"
+echo "&lt;lang=\"${lang}\"&gt;" &gt; "$output_dump"
+
+output_context="itrameur/contexte-${lang}.txt"
+echo "&lt;lang=\"${lang}\"&gt;" &gt; "$output_context"
+
+#pour la normalisation
+if [[ $lang = 'FR' ]]; then mot="héritage" motif="[Hh][ée]ritages?|H[ÉE]RITAGES?";
+elif [[ $lang = 'EN' ]]; then mot="heritage" motif="[Hh]eritage|HERITAGE";
+else mot="상속" motif="상속|상속은|상속이|상속울";
+fi
+
+# Parcours de tous les fichiers du dossier dump en fonction de la langue
+for fichier in "$dossier_dump"/"${lang}"*.txt; do
+    if [ -f "$fichier" ]; then
+        # Extraction du numéro de page à partir du nom du fichier
+		page=$(basename "$fichier" .txt)
+        # Suppression des &&lt;&gt;§
+        texte=$(cat "$fichier" | tr -d '&&lt;&gt;§')
+        # Ajout des balises au fichier de sortie
+        echo "&lt;page=\"${page}\"&gt;" &gt;&gt; "$output_dump"
+        # Substitution des caractères spéciaux xml dans le texte
+        #echo "&lt;text&gt;$(sed -e 's/&/\&amp;/g' -e 's/&lt;/\&lt;/g' -e 's/&gt;/\&gt;/g' "$fichier")&lt;/text&gt;" &gt;&gt; "$output"
+        echo "&lt;text&gt;${texte}&lt;/text&gt;" &gt;&gt; "$output_dump"
+        echo "&lt;/page&gt; §" &gt;&gt; "$output_dump"
+    fi
+done
+echo "&lt;/lang&gt;" &gt;&gt; "$output_dump"
+
+
+# Parcours de tous les fichiers du dossier context en fonction de la langue
+for fichier in "$dossier_context"/"${lang}"*.txt; do
+    if [ -f "$fichier" ]; then
+        # Extraction du numéro de page à partir du nom du fichier
+		page=$(basename "$fichier" .txt)
+        # Suppression des &&lt;&gt;§
+        texte=$(cat "$fichier" | tr -d '&&lt;&gt;§' | sed -E "s/$motif/$mot/g")
+        # Ajout des balises au fichier de sortie
+        echo "&lt;page=\"${page}\"&gt;" &gt;&gt; "$output_context"
+        # Substitution des caractères spéciaux xml dans le texte
+        #echo "&lt;text&gt;$(sed -e 's/&/\&amp;/g' -e 's/&lt;/\&lt;/g' -e 's/&gt;/\&gt;/g' "$fichier")&lt;/text&gt;" &gt;&gt; "$output_context"
+        echo "&lt;text&gt;${texte}&lt;/text&gt;" &gt;&gt; "$output_context"
+        echo "&lt;/page&gt; §" &gt;&gt; "$output_context"
+    fi
+done
+echo "&lt;/lang&gt;" &gt;&gt; "$output_context"
+
+#on utilisera les fichiers contextes pour faire notre analyse sur itrameur
+#mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suit
+#sed -E "s/$motif/$mot/g" "$output_contex
+    		</code>
+    		</pre>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+			<script>hljs.highlightAll();</script>
+    	</div>
+	</section>
+   
+
+
+</body>
+
+</html>

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PPE Projet</title>
+    <!-- Inclure la feuille de style Bulma -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css">
+
+</head>
+
+<body>
+    <!-- Barre de navigation -->
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <h1 class="title is-4">PPE Projet</h1>
+            </a>
+        </div>
+
+        <div id="navbar" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">
+                    Accueil
+                </a>
+                
+                <a class="navbar-item" href="equipe.html">
+                    Equipe
+                </a>
+                
+                <a class="navbar-item" href="demarche.html">
+                    Démarche
+                </a>
+                
+                <a class="navbar-item" href="analyse.html">
+                    Analyse
+                </a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Tableaux
+        			</a>
+                	<div class="navbar-dropdown">
+                
+                		<a class="navbar-item" href="../tableaux/tableau-FR.html">
+                    		Tableau FR
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-EN.html">
+                    		Tableau EN
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-KR.html">
+                    		Tableau KR
+                		</a>
+                	</div>
+                </div>
+                
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Code
+        			</a>
+                	<div class="navbar-dropdown">
+
+                		<a class="navbar-item" href="scriptPrincipale.html">
+                    		Script principale
+                		</a>
+                		<a class="navbar-item" href="scriptItrameur.html">
+                    		Script iTrameur
+                		</a>
+                		<a class="navbar-item" href="scriptMain.html">
+                    		Script "main"
+                		</a>
+ 
+                	</div>
+                </div>
+                
+            </div>
+        </div>
+    </nav>
+
+    <!-- Héros -->
+    <section class="hero is-info is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">Script principale (script.sh)</h1>
+
+            </div>
+        </div>
+    </section>
+    
+    <section class="section is-medium">
+    	<div class="content">
+    		<pre>
+    		<code>
+#!/usr/bin/env bash
+
+#V&eacute;rifier le nombre d'argument
+if [ $# -ne 1 ]; then
+    echo &quot;Ce script n&eacute;cessite un argument : chemin du fichier txt avec les urls&quot;
+    exit 
+fi
+
+#Assigner le premier argument &agrave; la variable URLS
+URLS=$1 
+#Extraire le nom du fichier sans extension &agrave; partir du premier argument pour avoir la langue des sites
+lang=$(basename $URLS .txt)  
+#Construire le nom de fichier html en fonction de la langue
+output_file=&quot;tableaux/tableau-${lang}.html&quot;
+
+#D&eacute;terminer la valeur de la variable $mot en fonction la langue extraite pr&eacute;c&eacute;demment
+if [[ $lang = 'FR' ]]; then mot=&quot;h&eacute;ritage&quot; langfull=&quot;fran&ccedil;ais&quot; motif=&quot;[Hh][&eacute;e]ritages?|H[&Eacute;E]RITAGES?&quot;;  
+elif [[ $lang = 'EN' ]]; then mot=&quot;heritage&quot; langfull=&quot;anglais&quot; motif=&quot;[Hh]eritage|HERITAGE&quot;;
+else mot=&quot;상속&quot; langfull=&quot;cor&eacute;en&quot; motif=&quot;상속|상속은|상속이|상속울&quot;; 
+fi
+echo &quot;mot value: ${mot}&quot; #Pour debug
+echo &quot;motif value: ${motif}&quot; #Pour debug
+
+#Initialiser le compteur afin de pouvoir num&eacute;roter les fichiers
+N=1
+
+########### Cr&eacute;ation page HTML dans $output_file #########################################
+echo &quot;&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset=\&quot;UTF-8\&quot;&gt;
+    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot;&gt;
+    &lt;title&gt;PPE Projet - Tableau&lt;/title&gt;
+    &lt;!-- Inclure la feuille de style Bulma --&gt;
+    &lt;link rel=\&quot;stylesheet\&quot; href=\&quot;https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;!-- Barre de navigation --&gt;
+    &lt;nav class=\&quot;navbar\&quot; role=\&quot;navigation\&quot; aria-label=\&quot;main navigation\&quot;&gt;
+        &lt;div class=\&quot;navbar-brand\&quot;&gt;
+            &lt;a class=\&quot;navbar-item\&quot; href=\&quot;#\&quot;&gt;
+                &lt;h1 class=\&quot;title is-4\&quot;&gt;PPE Projet&lt;/h1&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+
+        &lt;div id=\&quot;navbar\&quot; class=\&quot;navbar-menu\&quot;&gt;
+            &lt;div class=\&quot;navbar-start\&quot;&gt;
+                &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../index.html\&quot;&gt;
+                    Accueil
+                &lt;/a&gt;
+                
+                &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/equipe.html\&quot;&gt;
+                    Equipe
+                &lt;/a&gt;
+                
+                &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/demarche.html\&quot;&gt;
+                    D&eacute;marche
+                &lt;/a&gt;
+                
+                &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/analyse.html\&quot;&gt;
+                    Analyse
+                &lt;/a&gt;
+                
+                
+                &lt;div class=\&quot;navbar-item has-dropdown is-hoverable\&quot;&gt;
+                	&lt;a class=\&quot;navbar-link\&quot;&gt;
+          				Tableaux
+        			&lt;/a&gt;
+                	&lt;div class=\&quot;navbar-dropdown\&quot;&gt;
+                
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;tableau-FR.html\&quot;&gt;
+                    		Tableau FR
+                		&lt;/a&gt;
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;tableau-EN.html\&quot;&gt;
+                    		Tableau EN
+                		&lt;/a&gt;
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;tableau-KR.html\&quot;&gt;
+                    		Tableau KR
+                		&lt;/a&gt;
+                	&lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div class=\&quot;navbar-item has-dropdown is-hoverable\&quot;&gt;
+                	&lt;a class=\&quot;navbar-link\&quot;&gt;
+          				Code
+        			&lt;/a&gt;
+                	&lt;div class=\&quot;navbar-dropdown\&quot;&gt;
+                		
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/scriptPrincipale.html\&quot;&gt;
+                    		Script principale
+                		&lt;/a&gt;
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/scriptItrameur.html\&quot;&gt;
+                    		Script iTrameur
+                		&lt;/a&gt;
+                		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/scriptMain.html\&quot;&gt;
+                    		Script \&quot;main\&quot;
+                		&lt;/a&gt;
+ 
+                	&lt;/div&gt;
+                &lt;/div&gt;
+                
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+
+    &lt;!-- H&eacute;ros --&gt;
+    &lt;section class=\&quot;hero is-info is-bold\&quot;&gt;
+        &lt;div class=\&quot;hero-body\&quot;&gt;
+            &lt;div class=\&quot;container\&quot;&gt;
+                &lt;h1 class=\&quot;title\&quot;&gt;Tableau des URLs ${langfull}&lt;/h1&gt;
+                &lt;p class=\&quot;subtitle\&quot;&gt;Mot en ${langfull} : ${mot}&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;&quot; &gt; &quot;$output_file&quot;
+
+echo &quot;&lt;!-- Section avec le tableau --&gt;
+&lt;section class=\&quot;section\&quot;&gt;
+        &lt;div class=\&quot;table is-bordered is-narrow is-hoverable is-fullwidth\&quot;&gt;
+            &lt;table&gt;
+                &lt;thead&gt;
+                    &lt;tr&gt;
+                        &lt;th&gt;#&lt;/th&gt;
+                        &lt;th&gt;URL&lt;/th&gt;
+                        &lt;th&gt;HTTP Code&lt;/th&gt;
+                        &lt;th&gt;Charset&lt;/th&gt;
+                        &lt;th&gt;dump-html&lt;/th&gt;
+                        &lt;th&gt;dump-txt&lt;/th&gt;
+                        &lt;th&gt;Compte&lt;/th&gt;
+                        &lt;th&gt;Contexte&lt;/th&gt;
+                        &lt;th&gt;Concordancier&lt;/th&gt;
+                    &lt;/tr&gt;
+                &lt;/thead&gt;
+                &lt;tbody&gt;&quot; &gt;&gt; &quot;$output_file&quot;
+                
+##########################################################################################
+
+#Boucle qui lit chaque ligne du fichier contenant les liens (variable $URLS) 
+while read -r line
+do
+	#Extraire le code HTTP
+	code=$(curl -o /dev/null -s -w &quot;%{http_code}\n&quot; -L $line) 
+	#Extraire le charset
+	#charset=$(curl -s -I -L -w &quot;%{content_type}&quot; -o /dev/null $line | grep -E -o &quot;(charset=[\&quot;\']?)(.{,15})([\&quot;\'&gt;/ ])&quot; | awk -F '[()]' '{print $2}')
+	charset=$(curl -s -I -L -w &quot;%{content_type}&quot; -o /dev/null $line | grep -E -o &quot;(charset=)([^\&quot;\'&gt;/ ]+)&quot; | awk -F= '{print $2}' | tr -d '\r' | tr '[:lower:]' '[:upper:]') #| awk -F '[()]' '{print $2}')
+	
+
+	echo &quot;charset pre iconv : $charset&quot; #pour debug
+	echo &quot;num : $N&quot; #pour debug
+	
+	if [ $code -eq 200 ]; then
+		#Construire les chemins des fichiers en fonction de la langue et du num&eacute;ro de ligne
+		html=&quot;aspirations/${lang}-${N}.html&quot; 
+		txt=&quot;dumps-text/${lang}-${N}.txt&quot;
+		context=&quot;contextes/${lang}-${N}.txt&quot;
+		concord=&quot;concordances/${lang}-${N}.html&quot;
+	
+		#T&eacute;l&eacute;charger le contenu de l'URL de la ligne et l'enregistrer dans $html
+		#curl -Lo &quot;$html&quot; $line
+		#curl -Lo &quot;$html&quot; -b /dev/null &quot;$line&quot; 
+		#if [ &quot;$charset&quot; != &quot;UTF-8&quot; ] &amp;&amp; [ &quot;$charset&quot; != &quot;utf-8&quot; ]; then 
+		#if [ &quot;$charset&quot; != &quot;UTF-8&quot; ] || [ &quot;$charset&quot; != &quot;utf-8&quot; ]; then 
+		if [ ! $charset == &quot;UTF-8&quot; ]; then #corr
+			curl &quot;$line&quot; | iconv -f &quot;$charset&quot; -t utf-8 &gt; &quot;$html&quot;;
+		else 
+			curl -Lo &quot;$html&quot; -b /dev/null &quot;$line&quot;;
+		fi
+		
+		#### Les m&eacute;thodes qu'on a test&eacute; mais qui ne fonctionnaient pas pour tous les liens ########
+		#encodage=$(cat &quot;$html&quot; | grep -E -o &quot;charset=\S+&quot; | cut -d&quot;=&quot; -f2 | tail -n 1)
+		#charset=$(curl -s -I &quot;$line&quot; | grep -i &quot;Content-Type&quot; | sed -n 's/.*charset=\([^;]*\).*/\1/p')
+		#encodage=$(cat &quot;$html&quot; | ggrep -oP &quot;(?i)&lt;[ ]?meta[ ]?charset=[ ]?[\'\&quot;]\K[^\'\&quot;&gt;]+&quot; | head -1)
+		#encodage=$(ggrep -oP '(?i)&lt;meta\s+charset\s*=\s*[\&quot;\']?\K[^\&quot;\'&gt;]+' &quot;$html&quot; | head -1 | sed 's/^[ \t]*//;s/[ \t]*$//')
+		#encodage=$(ggrep -Po &quot;charset=\S+&quot; &quot;$html&quot;| sed -E &quot;s/charset=[\&quot;']?(.*)[\&quot;']?/\1/g&quot; | head -1)
+		
+		#Extraire l'encodage apr&egrave;s conversion en utf-8
+		while read -r ligne; do
+    	if [[ $ligne == *charset=* ]]; then
+        	if [[ $ligne =~ (charset=)([\&quot;\']?)(.{5})([\&quot;\'&gt;/ ]) ]]; then
+           	 	encodage=${BASH_REMATCH[3]}
+        	fi
+   	 	fi
+		done &lt; &quot;$html&quot;
+		
+		echo &quot;Encodage post iconv : $encodage&quot; #pour debug
+			
+		#Extraire le texte brut de la page HTML t&eacute;l&eacute;charg&eacute;e et l'enregistrer dans $txt
+		lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 &quot;$html&quot; &gt; &quot;$txt&quot;
+		
+		#Compter le nombre d'occurrences de $mot
+		#grep -ci
+		
+		if command -v ggrep &gt; /dev/null; then
+    		compte=$(cat &quot;$txt&quot; | ggrep -Poi &quot;${motif}&quot; | wc -l)
+		else
+    		compte=$(cat &quot;$txt&quot; | grep -Poi &quot;${motif}&quot; | wc -l)
+    	fi 
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+		#compte=$(cat &quot;$txt&quot; | ggrep -Poi &quot;${motif}&quot; | wc -l)
+		
+		#Extraire le contexte
+		#ggrep -Poi &quot;.*${mot}.*&quot; &quot;$txt&quot; &gt; &quot;$context&quot;
+		#cat &quot;$txt&quot; | tr '^$' ' ' | ggrep -Pi &quot;^.*$.*${mot}.*^.*$&quot; &gt; &quot;$context&quot;
+		#grep -i -A 1 -B 1 &quot;${mot}&quot; &quot;$txt&quot; &gt; &quot;$context&quot;
+		
+		if command -v ggrep &gt; /dev/null; then
+    		cat &quot;$txt&quot; | ggrep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
+		else
+    		cat &quot;$txt&quot; | grep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
+    	fi 
+		
+		#cat &quot;$txt&quot; | ggrep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
+	else
+		continue
+  	fi
+	
+########## Concordancier #################################################################
+
+	# Cr&eacute;er un tableau pour stocker les lignes du concordancier
+	concordance=()
+
+	# Parcourir le fichier $context
+	while read -r ligne; do
+   	 	# Recherche du mot cible dans la ligne
+    	#if [[ $ligne =~ .*&quot;$motif&quot;.* ]]; then # si la ligne contient le mot
+    		#ATTENION ne pas mettre $motif entre guillemets car la regex ne fonctionnera pas dans une condition if [[..]]
+        	if [[ $ligne =~ (.*)($motif)(.*) ]]; then #on capture les contextes avec les parenth&egrave;ses 
+           	 	contexte_gauche=${BASH_REMATCH[1]} #on extrait le contexte gauche (1ere parenth&egrave;se)
+           	 	cible=${BASH_REMATCH[2]}
+            	contexte_droit=${BASH_REMATCH[3]} #on extrait le contexte droit (3eme parenth&egrave;se)
+           	 	concordance+=(&quot;$contexte_gauche;$cible;$contexte_droit&quot;) #on ajoute une nouvelle entr&eacute;e au tableau s&eacute;par&eacute; par des ;
+        	fi
+   	 	#fi
+	done &lt; &quot;$context&quot;
+
+	# Rediriger la sortie vers le fichier html $concord
+	
+    echo &quot;&lt;html&gt;&lt;head&gt;&lt;title&gt;Concordancier&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&quot; &gt; &quot;$concord&quot;
+    echo &quot;&lt;table border='1'&gt;&lt;tr&gt;&lt;th&gt;Contexte Gauche&lt;/th&gt;&lt;th&gt;Mot Cible&lt;/th&gt;&lt;th&gt;Contexte Droit&lt;/th&gt;&lt;/tr&gt;&quot; &gt;&gt; &quot;$concord&quot;
+
+    for ligne in &quot;${concordance[@]}&quot;; do #on it&egrave;re sur chaque &eacute;l&eacute;ment du tableau
+        IFS=';' read -r -a elements &lt;&lt;&lt; &quot;$ligne&quot; #on d&eacute;finit le s&eacute;parateur comme un ; pour la lecture
+        # -r : Disable backslashes to escape characters
+        # -a : Instead of using individual variables to store a string, the -a option saves the input in an array
+        # Retrieve the array elements with their index ${array[0]} 
+        echo &quot;&lt;tr&gt;&lt;td&gt;${elements[0]}&lt;/td&gt;&lt;td&gt;${elements[1]}&lt;/td&gt;&lt;td&gt;${elements[2]}&lt;/td&gt;&lt;/tr&gt;&quot; &gt;&gt; &quot;$concord&quot; #on cr&eacute;e une entr&eacute;e du tableau html
+    done
+
+    echo &quot;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;&quot; &gt;&gt; &quot;$concord&quot;
+
+##########################################################################################
+
+	#Ecrire une ligne du tableau HTML
+	echo &quot;        &lt;tr&gt;
+            &lt;td&gt;$N&lt;/td&gt;
+            &lt;td&gt;&lt;a href=$line&gt;$line&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;$code&lt;/td&gt;
+            &lt;td&gt;$encodage&lt;/td&gt;
+            &lt;td&gt;&lt;a href=../$html&gt;html&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=../$txt&gt;txt&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;$compte&lt;/td&gt;
+            &lt;td&gt;&lt;a href=../$context&gt;context&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=../$concord&gt;concordancier&lt;/a&gt;&lt;/td&gt;
+            
+        		&lt;/tr&gt;&quot; &gt;&gt; &quot;$output_file&quot;	
+    
+        		     			
+	
+	N=$((N + 1)) #Incr&eacute;menter le compteur
+done &lt; $URLS #Fin de la boucle
+
+#Ecrire la fin du fichier HTML
+echo &quot;&lt;/tbody&gt;
+        &lt;/table&gt;
+   	 &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/body&gt;
+&lt;/html&gt;&quot; &gt;&gt; &quot;$output_file&quot;
+
+echo &quot;Le fichier HTML a &eacute;t&eacute; cr&eacute;&eacute; : $output_file&quot;
+
+    		</code>
+    		</pre>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+			<script>hljs.highlightAll();</script>
+    	</div>
+	</section>
+   
+
+
+</body>
+
+</html>

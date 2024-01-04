@@ -58,7 +58,7 @@ echo "</lang>" >> "$output_context"
 
 #on utilisera les fichiers contextes pour faire notre analyse sur itrameur
 #mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suit
-#sed -E "s/$motif/$mot/g" "$output_contex"
+#sed -E "s/$motif/$mot/g" "$output_contex
 
 
 

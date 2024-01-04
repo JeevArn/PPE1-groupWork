@@ -4,8 +4,9 @@
 ./programmes/script.sh URLs/EN.txt
 ./programmes/script.sh URLs/KR.txt
 
-
+# Attention supprimer tous les fichiers du dossier itrameur avant de relancer le script
 rm itrameur/*
+
 ./programmes/make_itrameur_corpus.sh dumps-text contextes FR
 ./programmes/make_itrameur_corpus.sh dumps-text contextes EN
 ./programmes/make_itrameur_corpus.sh dumps-text contextes KR
@@ -16,4 +17,3 @@ for fichier in itrameur/contexte*.txt; do
 	echo "$copie" >> "$fullcontext"
 done
 
-# Attention supprimer tous les fichiers du dossier itrameur avant de relancer le script

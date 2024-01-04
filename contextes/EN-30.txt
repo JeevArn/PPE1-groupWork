@@ -1,31 +1,72 @@
+    4. Targeted Analyses
+    5. 9-Material Cultural Heritage- HERITAGE
 
-Forum on Information Standards in Heritage
-
---
-     * About
-     * MIDAS Heritage
-          + Other Guidance
---
-          + Chronology
-     * Heritage Information
-     * FISH-HEIRNET
+HERITAGE - The Material Cultural Heritage as a Strategic Territorial
+Development Resource: Mapping Impacts Through a Set of Common European
 --
 
-   Welcome to the Forum on Information Standards in Heritage (FISH). This
-   site presents the work of the forum and contains links to recommended
-   information resources that support best practice in recording cultural
-   heritage.
+   Theme: cultural heritage, territorial impact, indicators, monitoring
+   and evaluation
+--
+   The service shall attempt to quantify the contribution (impact) of
+   material cultural heritage to economical development in the stakeholder
+   countries and regions over the past 5 years. Building on the work done
+   by the European Heritage Heads Forum’s Economic Task Force and the
+   European Commission, this research activity will define a list of
+   economic sectors on which the material cultural heritage has an impact
+   and perform data collection on the selected impact indicators.
+--
+   The main outcome should be a common theoretical framework, defining the
+   most important economic sectors on which the material cultural heritage
+   has an impact and developing the empirical evidence of such impact.
+--
+   This study is named as one of the key studies by the “European
+   Framework for Action on Cultural Heritage” (adopted by the European
+   Commission in December 2018). Economic statistics and indicators
+   produced will be useful for understanding the economic contribution of
+   the material cultural heritage. Overall the results will promote
+   evidence-based decision making related to protection and promotion of
+   material cultural heritage.
 
 --
-logo        Britiish-Museum-Logo                      Cadw logo
-Heritage-England-Logo RCAHMW new logo
-ALGAO logo       HES logo       dyfedarch logo          National Trust logo
---
-   of these include British & Irish Archaeological Bibliography
-   (BIAB), Manx National Heritage, Museum of London, the National
-   Archives, Northern Ireland Environment and Heritage Service, the
-   Portable Antiquities Scheme and the Victoria & Albert Museum.
+     * A common theoretical framework defining the economic sectors on
+       which material cultural heritage has an impact.
+     * A common methodological framework describing how to determine the
+       impact material cultural heritage has on these economic sectors.
+     * Evidence (collected data and set of indicators) on the economic
+       impact of cultural heritage in stakeholder territories / regions
+       over the past 5 years (for example e.g. cultural heritage-related
+       gross value added in tourism, construction, etc.).
 --
 
-   For more information on Scottish heritage, please visit the HER Forum
-   Scotland website. Like FISH, The SMR Forum enables its members to keep
+     * Norwegian Directorate for Cultural Heritage (lead stakeholder)
+     * Brussels Capital region (Heritage Department)
+     * Flanders Heritage Agency
+     * Swedish National Heritage Board
+     * Cultural Heritage Agency of the Netherlands
+     * European Council of Spatial Planners
+--
+     * Monuments Board of the Slovak Republic
+     * Institute for the Protection of Cultural Heritage of Slovenia
+     * Austrian Federal office for Cultural Heritage
+
+--
+
+Societal value of cultural heritage in Iceland.pdf
+
+--
+
+HERITAGE_Synthesis Report
+
+--
+
+HERITAGE_Main Report
+
+--
+
+HERITAGE_Scientific Annex
+
+--
+     * 8-Future Digital Health - eHEALTH
+     * 9-Material Cultural Heritage- HERITAGE
+     * 10-Cross-border Public Services - CPS

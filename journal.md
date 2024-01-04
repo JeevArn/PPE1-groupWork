@@ -93,7 +93,8 @@ changement sur le sites :
 - ajout des pages équipe, démarche et analyse
 - ajout de hoverable nav-bar pour tableaux et code
 - ajout de l'analyse du FR avec les graphs
-                
+- ajout des pages de code et utilisation de la librairie highlight JS pour mettre en couleur le code
+(https://www.freewebtoolkit.com/html-encode pour encoder le html afin de pouvoir le mettre dans une balise <pre> et <code>)
                 
                 
                 

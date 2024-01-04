@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PPE Projet</title>
+    <!-- Inclure la feuille de style Bulma -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css">
+
+</head>
+
+<body>
+    <!-- Barre de navigation -->
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <h1 class="title is-4">PPE Projet</h1>
+            </a>
+        </div>
+
+        <div id="navbar" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../index.html">
+                    Accueil
+                </a>
+                
+                <a class="navbar-item" href="equipe.html">
+                    Equipe
+                </a>
+                
+                <a class="navbar-item" href="demarche.html">
+                    Démarche
+                </a>
+                
+                <a class="navbar-item" href="analyse.html">
+                    Analyse
+                </a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Tableaux
+        			</a>
+                	<div class="navbar-dropdown">
+                
+                		<a class="navbar-item" href="../tableaux/tableau-FR.html">
+                    		Tableau FR
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-EN.html">
+                    		Tableau EN
+                		</a>
+                		<a class="navbar-item" href="../tableaux/tableau-KR.html">
+                    		Tableau KR
+                		</a>
+                	</div>
+                </div>
+                
+                <div class="navbar-item has-dropdown is-hoverable">
+                	<a class="navbar-link">
+          				Code
+        			</a>
+                	<div class="navbar-dropdown">
+
+                		<a class="navbar-item" href="scriptPrincipale.html">
+                    		Script principale
+                		</a>
+                		<a class="navbar-item" href="scriptItrameur.html">
+                    		Script iTrameur
+                		</a>
+                		<a class="navbar-item" href="scriptMain.html">
+                    		Script "main"
+                		</a>
+ 
+                	</div>
+                </div>
+                
+            </div>
+        </div>
+    </nav>
+
+    <!-- Héros -->
+    <section class="hero is-info is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">Script "main" (main.sh)</h1>
+
+            </div>
+        </div>
+    </section>
+    
+    <section class="section is-medium">
+    	<div class="content">
+    		<pre>
+    		<code>
+#!/usr/bin/env bash
+
+./programmes/script.sh URLs/FR.txt
+./programmes/script.sh URLs/EN.txt
+./programmes/script.sh URLs/KR.txt
+
+# Attention suppression de tous les fichiers du dossier itrameur
+rm itrameur/*
+
+./programmes/make_itrameur_corpus.sh dumps-text contextes FR
+./programmes/make_itrameur_corpus.sh dumps-text contextes EN
+./programmes/make_itrameur_corpus.sh dumps-text contextes KR
+
+fullcontext="itrameur/contexte.txt"
+for fichier in itrameur/contexte*.txt; do
+	copie=$(cat "$fichier")
+	echo "$copie" &gt;&gt; "$fullcontext"
+done
+			</code>
+    		</pre>
+    		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+			<script>hljs.highlightAll();</script>
+    	</div>
+	</section>
+   
+
+</body>
+
+</html>

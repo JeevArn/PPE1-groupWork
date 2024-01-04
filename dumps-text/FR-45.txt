@@ -16,11 +16,11 @@
 
      * Actualité
      * Régions
-     * Sport
      * Divertissement
-     * Planète
+     * Sport
      * Tempo
      * High-Tech
+     * Planète
      * Vie Pro
      * JO 2024
      * Vidéos

@@ -1,171 +1,284 @@
+   #Biodiversity Heritage Library Atom Feed Biodiversity Heritage Library
+   » Feed Biodiversity Heritage Library » Comments Feed
+
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
      * Home
-     * China
-     * World
-     * Business
-     * Culture
-     * Sports
-     * Sci & Tech
-     * In-depth
-     * Entertainment
-     * More∨
-          + Photos
-          + Video
-          + Health
-          + Latest
-          + Xinhua New Media
-          + Special Reports
-          + B&R Initiative
-          + Biz China Weekly
-
-   [banner.png]
-   [menu.png]
-   [close.png]
-
-     * Home
-     * Latest News
-     * China
-     * World
-     * Business
-     * Photos
-     * Video
-     * Culture & Edu
-     * Sports
-     * Sci & Tech
-     * Health
-     * Special Reports
-     * Entertainment
-
-     * Editions
-     * Asia & Pacific
-     * Europe
-     * Africa
-     * North America
-     * 中文
-     * Français
-     * Русский
-     * Deutsch
-     * Español
-     * عربي
-     * 한국어
-     * 日本語
-     * Português
-
-   [logo.jpg]
-   [Editions______]
-
-        ____________________________________________________________
-   [sreach.jpg]-Submit
-
-Spotlight: COVID-19 virus not created in lab, say French experts
-
-   Source: Xinhua| 2020-04-21 14:26:34|Editor: huaxia
-
-   IFRAME:
-
-   Video PlayerClose
-
-   PARIS, April 20 (Xinhua) -- French experts have refuted the claim by
-   their colleague and Nobel Prize-winning scientist Luc Montagnier that
-   the novel coronavirus causing the COVID-19 pandemic has been engineered
-   and contains some genes of HIV-1.
-
-   Montagnier last week told the French CNews channel: "There was
-   manipulation around this virus ... the coronavirus of the bat, someone
-   added sequences, in particular of HIV, the virus of AIDS ... It is not
-   natural. It's the work of professionals, of molecular biologists ... A
-   very meticulous work."
-
-   The French virologist won the Nobel Prize in Medicine in 2008 for his
-   discovery of the human immunodeficiency viruses (HIV).
-
-   The hypothesis that a virus was created in a laboratory in Wuhan
-   sounded "a conspiracy vision that does not relate to the real science,"
-   said Jean-Francois Delfraissy, an immunologist and head of the
-   scientific council that advises the French government on the COVID-19
-   pandemic, when interviewed by French television BFM TV.
-
-   "Everyone in the scientific community agrees that COVID-19 is a
-   coronavirus. From time to time there are coronaviruses different from
-   the others, as are SARS and MERS with a pathogenicity which has
-   appeared," he added.
-
-   Both Severe Acute Respiratory Syndrome (SARS) and Middle East
-   Respiratory Syndrome (MERS) are caused by coronaviruses, and the
-   COVID-19 virus is also known as SARS-CoV-2.
-
-   "The world of viruses is a world in perpetual evolution," said
-   Delfraissy, who is also president of France's National Consultative
-   Ethics Committee for health and life sciences. "I rather think that
-   COVID-19 is a coronavirus which had an animal reservoir and passed into
-   humans for reasons that are not well known yet."
-
-   For Olivier Schwartz, head of the virus and immunity department of
-   France's Pasteur Institute, studies on the virus's genes show clearly
-   that it was not a virus made by human beings in the laboratory.
-
-   "Professor Montagnier spreads whimsical theories," he told the French
-   weekly L'Obs, previously known as Le Nouvel Observateur.
-
-   "Sars-CoV-2, the virus that causes the COVID-19 disease, was not
-   created in the laboratory. We see this by studying the genetic heritage
-   of the virus, which has been sequenced by Chinese teams and then
-   verified in many other laboratories, including the Pasteur Institute,
-   which was the first in Europe to do so," said Schwartz.
-
-   "This virus is clearly part of the coronavirus family tree. It is close
-   to Sars-CoV-1, with which it has 80 percent homology," he explained.
-
-   "Above all, the same virus is found in different animals, in particular
-   the pangolin and the bat. And there, the percentage of similarities is
-   greater than 95 percent. So, by drawing up the family tree of this
-   virus, we know that it is derived from viruses that circulate in
-   nature," he said.
-
-   What Montagnier spreads is "fake news" that started in March with a
-   manuscript posted by an Indian team on a website where scientists share
-   ongoing analyses without waiting for expert verification, added
-   Schwartz.
-
-   "The Indian team ended up withdrawing their manuscript. My personal
-   opinion is that these Indian researchers were in good faith at the
-   outset in their desire to analyze the genome of the virus, and they
-   realized their error later. But Professor Montagnier has taken up a
-   whimsical theory," he said. Enditem
-   KEY WORDS:
-   YOU MAY LIKE
-
-   EXPLORE XINHUANET
      * News
-          + China
-          + World
-          + Business
-          + Culture Edu
-          + Sports
-          + Sci Tech
-          + Health
-          + Entertainment
-     * Regions
-          + Asia & Pacific
-          + Americas
-          + Europe
-          + Africa
-          + Organizations
-          + North America
-     * Services
-          + Investment
-          + Doing Business
-          + Work in China
-          + Study in China
-          + Visit in China
-          + Live in China
-          + Emergency
-          + Weather
-     * More
-          + Photos
-          + Video
-          + In-depth
-          + Special Reports
-          + Corrections
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
 
-   010020070750000000000000011100001389954131
-   [1.gif?z=1&_wdxid=010020070750000000000000011100001389954131]
+   Home
+   News
+   Featured Books
+       All Featured Books
+       Book of the Month Series
+   User Stories
+   Campaigns
+       Fossil Stories
+       Garden Stories
+       Monsters Are Real
+       Page Frights
+       Her Natural History
+       Earth Optimism 2020
+   Tech Blog
+   Visit BHL
+     * Home
+     * News
+     * Featured Books
+          + All Featured Books
+          + Book of the Month Series
+     * User Stories
+     * Campaigns
+          + Fossil Stories
+          + Garden Stories
+          + Monsters Are Real
+          + Page Frights
+          + Her Natural History
+          + Earth Optimism 2020
+     * Tech Blog
+     * Visit BHL
+
+   ____________________
+
+   Biodiversity Heritage Library - Program news and collection highlights
+   from BHL
+
+   Illuminating BHL’s Dark Data
+
+   Citizen Scientists and AI Unlock Key Biodiversity Data in GBIF
+   Illuminating BHL’s Dark Data
+
+   Flora, Fauna, and Photography
+
+   Five Years of Digitising Content for BHL in Aotearoa
+   Flora, Fauna, and Photography
+
+   Interlinking BHL Data
+
+   in the Wikimedia Project Ecosystem
+   Interlinking BHL Data
+
+Welcome to the Biodiversity Heritage Library Blog
+
+   BHL News, Blog Reel
+
+BHL Bi-annual Newsletter (November 2023) Now Available!
+
+   Read the full blog post
+
+   Our latest bi-annual newsletter is now available! From flora and fauna
+   in New Zealand to new Affiliates in Belgium and the United States,
+   don’t miss the latest news from the BHL community.
+
+   View our November 2023 Bi-annual Newsletter.
+   Continue reading
+   November 28, 2023byColleen Funkhouser
+   BHL News, Blog Reel, Featured Books
+
+Illuminating BHL’s Dark Data: Citizen Scientists and AI Unlock Key
+Biodiversity Data in GBIF
+
+   Read the full blog post
+
+   In the face of climate change and environmental challenges,
+   understanding and documenting Earth’s biodiversity is essential. The
+   Global Biodiversity Information Facility (GBIF) serves as a global
+   repository for biodiversity data, playing a pivotal role in this
+   critical mission of safeguarding our planet’s biodiversity. Species
+   occurrence data sourced from the Biodiversity Heritage Library (BHL)
+   provides insights into species distributions, behaviors, and
+   interactions much deeper into time, offering key species baseline data
+   required to effectively address the climate crisis. Without accurate
+   and comprehensive data in GBIF, our collective ability to track
+   environmental changes and make informed decisions is severely hampered.
+
+   As a GBIF participant node, BHL is committed to sharing biodiversity
+   data openly, adhering to FAIR (Findable, Accessible, Interoperable,
+   Reusable) and CARE (Collective Benefit, Authority to Control,
+   Responsibility, Ethics) data principles, and collaborating with a
+   global network of biodiversity organizations to bolster and build
+   capacity to strengthen the biodiversity information infrastructure. To
+   honor our commitments, technical staff from BHL are working to
+   establish a scalable data pipeline of occurrence data currently trapped
+   in archival field notes, journals, letters, correspondence, and other
+   primary source materials. The journey has been an arduous one due to
+   poor OCR (optical character recognition) data quality for BHL’s
+   sub-corpus of handwritten materials.
+   Continue reading
+   November 9, 2023byJJ Dearborn, Joseph deVeer and Paul Flemons
+   BHL News, Blog Reel
+
+BHL Adds Dumbarton Oaks and Meise Botanic Garden as New Affiliates
+
+   Read the full blog post
+
+   The Biodiversity Heritage Library is pleased to welcome two new
+   Affiliates in 2023: Dumbarton Oaks in Washington, DC, and Meise Botanic
+   Garden in Meise, Belgium. The BHL Consortium now includes 19 Members
+   and 23 Affiliates.
+   Continue reading
+   October 30, 2023byColleen Funkhouser
+   Blog Reel, Featured Books
+
+Flora, Fauna, and Photography: Five Years of Digitising Content for BHL in
+Aotearoa
+
+   Read the full blog post
+
+   Auckland Museum joined the Biodiversity Heritage Library (BHL) in 2018
+   and currently remains the only organisation in Aotearoa New Zealand
+   contributing to the consortium. During my four years working as a
+   technician and coordinator on the project, and with the help of a
+   volunteer, Brianna Vincent, we have added over 25,000 pages, increasing
+   our library of contributions from three to over 100 biodiversity
+   literature items. These items span from 1790 to 2004, covering over 200
+   years of biological knowledge, and range from field notebooks and
+   sketches to identification guides, records and proceedings, educational
+   textbooks, plant material, cyanotypes (blueprints), and hand-painted
+   illustrations.
+   Continue reading
+   October 10, 2023byKelly Hall, Brodie Jean Hoare and Phoebe Shum
+   BHL News, Blog Reel, Tech Updates
+
+Interlinking BHL Data in the Wikimedia Project Ecosystem
+
+   The planet is at a critical juncture, where urgent action is required
+   to combat climate change, biodiversity loss, and secure a sustainable
+   future for our planet. With the release of the recent BHL Wikimedia
+   white paper entitled Unifying Biodiversity Knowledge to Support Life on
+   a Sustainable Planet, the Biodiversity Heritage Library Secretariat
+   hopes that an expanded data vision for the BHL community presents new
+   opportunities to take bold steps forward into Wikimedia projects and
+   the emergent semantic web. The white paper sheds light on BHL’s crucial
+   role as a member of the biodiversity informatics community and reveals
+   a series of key use cases and big data challenges that, if addressed,
+   could be opportunities to enhance global biodiversity data
+   infrastructure.
+   Continue reading
+   August 25, 2023byJJ Dearborn
+   BHL News, Blog Reel
+
+BHL Bi-annual Newsletter (June 2023) Now Available!
+
+   Read the full blog post
+
+   Our latest bi-annual newsletter is now available! From BHL Day 2023 in
+   Paris to releasing the new Ukrainian Українська Collection, don’t miss
+   the latest news from the BHL community.
+   Continue reading
+   June 2, 2023byColleen Funkhouser
+   BHL News, Blog Reel
+
+2023 BHL Annual Meeting – Together Again in Paris
+
+   Read the full blog post
+
+   Originally scheduled for 2020, the BHL Annual Meeting finally made it
+   to Paris after two years of virtual meetings and a break to hold the
+   2022 BHL Annual Meeting in conjunction with the Society for the
+   Preservation of Natural History Collections (SPNHC) and the Natural
+   Sciences Collections Society (NatSCA) meetings in Edinburgh, Scotland.
+
+   The host for the 2023 meeting was the library of the Muséum national
+   d’Histoire naturelle (MNHN), led by Alice Lemaire, Clément Oury, and
+   Gildas Illien. The meeting took place 17-21 April 2023 and included BHL
+   business meetings, tours of library and museum sites, and a BHL
+   symposium titled “Fostering Data Driven Natural Science through Open
+   Digital Libraries”. In total, the meeting gathered 38 attendees (both
+   in-person and virtually) from 22 BHL partners from around the world.
+   Continue reading
+   May 24, 2023byMartin R. Kalfatovic
+   Page 1 of 1661234»102030...Last »
+
+Help Support BHL
+
+   BHL’s existence depends on the financial support of its patrons. Help
+   us keep this free resource alive!
+
+   Donate Now
+
+search
+
+   Search for: ____________________
+
+About BHL
+
+   The Biodiversity Heritage Library (BHL) is the world’s largest open
+   access digital library for biodiversity literature and archives.
+   Headquartered at the Smithsonian Libraries and Archives in Washington,
+   D.C., BHL operates as a worldwide consortium of natural history,
+   botanical, research, and national libraries working together to
+   digitize the natural history literature held in their collections and
+   make it freely available for open access as part of a global
+   “biodiversity community.”
+
+Follow BHL
+
+     *
+     *
+     *
+     *
+     *
+
+Join Our Mailing List
+
+   Sign up to receive the latest news, content highlights, and promotions.
+   Subscribe Now
+
+Subscribe to Blog via Email
+
+   Enter your email address to subscribe to this blog and receive
+   notifications of new posts by email.
+
+   Email Address ____________________
+
+   (BUTTON) Subscribe
+
+Subscribe to Blog Via RSS
+
+   Subscribe to the blog RSS feed to stay up-to-date on all the latest BHL
+   posts.
+   Access RSS Feed
+
+BHL on Twitter
+
+   Tweets by @BioDivLibrary
+
+   Inspiring Discovery through Free Access to Biodiversity Knowledge.
+
+   The Biodiversity Heritage Library makes it easier than ever for you to
+   access the information you need to study and explore life on Earth…for
+   free, anytime, anywhere.
+
+   60+ Million Pages of
+   Biodiversity Literature Online.
+
+   EXPLORE
+
+   Tools and Services
+   to Transform Research.
+
+   EXPLORE
+
+   300,000+
+   Illustrations on Flickr.
+
+   EXPLORE
+
+
+   ABOUT | BLOG AUTHORS | HARMFUL CONTENT | PRIVACY | SITE MAP | TERMS OF
+   USE
+
+   Download Adobe Acrobat Reader

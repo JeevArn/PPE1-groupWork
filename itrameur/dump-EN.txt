@@ -177,7 +177,7 @@ Cite this Entry
    [MLA____________]
 
    “Heritage.” Merriam-Webster.com Dictionary, Merriam-Webster,
-   https://www.merriam-webster.com/dictionary/heritage. Accessed 3 Jan.
+   https://www.merriam-webster.com/dictionary/heritage. Accessed 4 Jan.
    2024.
    Copy Citation
 
@@ -221,9 +221,9 @@ Can you solve 4 words at once?
 
 Word of the Day
 
-diligent
+skulk
 
-   Listen to the pronunciation of diligent
+   Listen to the pronunciation of skulk
 
    See Definitions and Examples »
 
@@ -343,21 +343,27 @@ Shaping the Future of Heritage
    News
 
    Gaslighting heritage
-   [Statues_eNews-1-black-1024x569.png]
-
-   News
-
-   Statues: history or hindrance?
-   [Stewart-House-landscape-1.jpg]
-
-   News
-
-   Canberra’s mid-century heritage
    [MG_8417-web-e1704236779291-1024x645.webp]
 
    Projects
 
    The Gunnery Transformation
+   [Statues_eNews-1-black-1024x569.png]
+
+   News
+
+   Statues: history or hindrance?
+   [Opening-of-Dixon-Street-pedestrian-mall-Chinatown-Haymarket-1980-City-
+   of-Sydney-copy-for-web-e1702514905952-1024x464.webp]
+
+   Projects
+
+   Chinatown Gates, Haymarket
+   [Stewart-House-landscape-1.jpg]
+
+   News
+
+   Canberra’s mid-century heritage
    [DSCN8864-web-1024x687.jpg]
 
    Projects
@@ -373,11 +379,6 @@ Shaping the Future of Heritage
    Jobs
 
    Join our Melbourne team: Archaeologist/Heritage Consultant
-   [SLNSW_FL9545722-e1701130567596.jpg]
-
-   Projects
-
-   Chinatown Thematic History
    [04-Website-Fairfax-FXB47153--1024x690.jpg]
 
    News
@@ -393,6 +394,11 @@ Shaping the Future of Heritage
    Projects
 
    Darlington Public School Redevelopment
+   [SLNSW_FL9545722-e1701130567596.jpg]
+
+   Projects
+
+   Chinatown Thematic History
    [Photograph-of-Braidwood-for-community-engagement-program.jpg]
 
    News
@@ -425,11 +431,6 @@ Shaping the Future of Heritage
    News
 
    Winner – Best Heritage Consulting Firm
-   [DSC_4663_2-1024x684.jpg]
-
-   Projects
-
-   Parramatta Square heritage interpretation
    [Mooramong-storm-damage-Oct-2021-1024x633.jpg]
 
    Projects
@@ -619,7 +620,7 @@ Contact
        __________________________________________________
        __________________________________________________
      *
-     * Name
+     * Email
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -711,11 +712,6 @@ Stay in Touch
    (BUTTON)</text>
 </page> §
 <page="EN-12">
-<text>   [img_Logo.jpg] El acceso al servicio no se encuentra actualmente
-   disponible.
-   Encontranos en las redes Facebook Twitter Instagram YouTube</text>
-</page> §
-<page="EN-13">
 <text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KPR8BWH
 
      *
@@ -1072,7 +1068,7 @@ Things you should know
 
    </text>
 </page> §
-<page="EN-14">
+<page="EN-13">
 <text>   #alternate alternate alternate alternate alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
@@ -1302,7 +1298,7 @@ European Commission
      * Privacy policy
      * Legal notice</text>
 </page> §
-<page="EN-15">
+<page="EN-14">
 <text>   #alternate
 
    You may be trying to access this site from a secured browser on the
@@ -1561,7 +1557,7 @@ Resources
    Editor Login
    LLM Concentration</text>
 </page> §
-<page="EN-16">
+<page="EN-15">
 <text>   ____________________
      * Browse Law Schools
      * LLM Knowledge Base
@@ -1683,18 +1679,18 @@ Related Law Schools
 
 Featured Schools
 
-   National University of Singapore (NUS) National University of Singapore
-   (NUS)
+   University of Maryland - Carey School of Law University of Maryland -
+   Carey School of Law
 
-   Study for an LL.M. in one of Singapore's best law schools
+   LLM specializations in business law, cybersecurity law, health law,
+   environmental law, IP law, and more
+   Trinity College Dublin (TCD) Trinity College Dublin (TCD)
+
+   3 taught LL.M. programs, M.Litt.  PhD
    Vanderbilt University Law School Vanderbilt University Law School
 
    One-year programs for international lawyers: General LL.M., Law 
    Business Track, or Thesis Track
-   University of Cincinnati University of Cincinnati
-
-   At the University of Cincinnati, International students can study US
-   Law
 
 Schools mentioned
 
@@ -1702,36 +1698,37 @@ Schools mentioned
      * QMUL
      * Glasgow
 
-   LL.M. Degrees Get Meaningful LL.M. Degrees Get Meaningful Read Article
+   Is the Coronavirus Fallout a Watershed Moment for Online LL.M.s? Is the
+   Coronavirus Fallout a Watershed Moment for Online LL.M.s? Read Article
    Popular Discussion Topics
    Visa Issues
    Bar Exam
-   TOEFL / IELTS
-   Scholarships / Financial Aid
-   Application
-   Coronavirus / COVID-19
-   Letters of Recommendation
-   Tax LLM
    Post-LLM Careers
+   Letters of Recommendation
+   Scholarships / Financial Aid
+   Coronavirus / COVID-19
+   TOEFL / IELTS
+   Tax LLM
+   Application
 
 Hot Discussions
 
-     * Oxford 2023-2024 BCL/MSCs/MJUR/MPHIL/MLF Applicants
-       Dec 31 03:40 AM  140,911  1003
      * LSE LLM 2024-25
-       12 hours ago  7,382  70
+       20 hours ago  7,434  69
+     * Georgetown LLM 2024/2025 applicants
+       Dec 16, 2023  8,427  61
      * Oxford 2024-2025 BCL/MSCs/MJUR/MPHIL/MLF
-       Jan 02 02:29 PM  4,020  39
+       Jan 02 02:29 PM  4,038  39
+     * Duke Law LLM 2024-2025
+       Dec 31 08:17 AM  2,884  27
+     * Harvard LLM 2024-2025
+       Dec 26, 2023  6,102  27
      * KCL LLM 2024-2025
-       Jan 02 03:27 PM  2,243  26
-     * University of Edinburgh (2024-25) admissions
-       Jan 02 05:17 AM  634  15
+       Jan 02 03:27 PM  2,260  26
      * UCLA LLM 2024-2025
-       Jan 02 05:14 PM  1,243  13
+       Jan 02 05:14 PM  1,255  13
      * NYU Applicants 2024-2025
-       Dec 09, 2023  1,838  10
-     * Geneva Academy 2024-2025 Applications
-       Dec 28 07:49 PM  382  7
+       Dec 09, 2023  1,849  10
 
 Topics
 
@@ -1756,19 +1753,19 @@ Recently Active Users
    UNIDROIT
    2  3
    balloonlaw
-   28  15
+   28  16
    busyasabee...
-   3  5
+   3  6
    anywayside...
-   16  11
+   16  12
    ellewoodss...
    13  16
-   zzn2024
-   2  4
    andrewrey
    3  5
    charlie030...
    1  1
+   DIDIDIDIDI...
+   0  0
 
      * About us
      * Contact us
@@ -1804,7 +1801,7 @@ Subscribe to the LLM GUIDE Newsletter
 
    Quantcast</text>
 </page> §
-<page="EN-17">
+<page="EN-16">
 <text>     * Home
      * China
      * World
@@ -1977,7 +1974,7 @@ Spotlight: COVID-19 virus not created in lab, say French experts
    010020070750000000000000011100001389954131
    [1.gif?z=1_wdxid=010020070750000000000000011100001389954131]</text>
 </page> §
-<page="EN-18">
+<page="EN-17">
 <text>   #Biodiversity Heritage Library Atom Feed Biodiversity Heritage Library
    » Feed Biodiversity Heritage Library » Comments Feed
 
@@ -2263,7 +2260,7 @@ BHL on Twitter
 
    Download Adobe Acrobat Reader</text>
 </page> §
-<page="EN-19">
+<page="EN-18">
 <text>   #alternate alternate alternate alternate alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
@@ -2903,149 +2900,7 @@ Learn more with +Plus
    There was a problem sending your report.
    {{/message}} {{/verifyErrors}}</text>
 </page> §
-<page="EN-2">
-<text>   #alternate alternate alternate alternate alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9GSDZH
-
-   European Fashion Heritage Association European Fashion Heritage
-   Association
-
-   (BUTTON) Explore Archive
-
-     * About Us
-     * People
-     * Partners
-     * Projects
-     * Press Area
-     * Publications
-     * Journal
-     * Pathways
-     * Join us!
-
-     * Facebook
-     * Instagram
-     * Twitter
-     * Pinterest
-     * Tumblr
-     * LinkedIn
-     * Vimeo
-
-   EFHA World 11.12.2023
-
-Unveiling the Future: Highlights from the 'Future Heritage' EFHA Conference
-
-   a recap of the EFHA 2023 conference held in Utrecht on 27-28 November
-   2023.
-
-   Designers 23.11.2023
-
-Object Voices: Maggy Rouff, a rebel against rebels
-
-   This gold lamé evening gown, designed by Maggy Rouff, is featured in
-   Modemuseum Hasselt’s exhibition ‘We Need to Talk about Fashion.’ A
-   guest post by Modemuseum Hasselt
-
-   Exhibitions 20.11.2023
-
-Object Voices: YSL Gown in Movement
-
-   This newly acquired Yves Saint Laurent gown finds its place in the
-   escapism section of Modemuseum Hasselt’s current exhibition, ‘We Need
-   to Talk about Fashion’. A guest post by Modemuseum Hasselt
-
-   Exhibitions 14.11.2023
-
-'We Need to Talk about Fashion' at Modemuseum Hasselt
-
-   Do We Need to Talk about Fashion? Indeed we do!
-
-Designers
-
-   Designers 15.07.2023
-
-Fashion Report - From Alfa to Missoni
-
-   Designers 11.05.2023
-
-"Gianfranco Ferré. Design Principles" at the Italian Cultural institute in
-Los Angeles
-
-Fashion  History
-
-   Fashion  History 30.10.2023
-
-Hairstyles: Beauty and Pride
-
-   Exhibitions 15.09.2023
-
-Object Voices: Le 'Robe Volante'
-
-Runway Archive
-
-   Designers 27.06.2022
-
-Runway Archive: Vivienne Westwood, Pitti Uomo 38, 1990
-
-   Exhibitions 16.05.2022
-
-Vestirsi da Uomo
-
-   Tumblr
-   Join our newsletter!
-
-About Us
-
-   EFHA is an international hub, in which fashion GLAMs (Galleries,
-   Libraries, Archives and Museums) and brands share their digital
-   heritage assets and their experiences and best practices in the field
-   of digitisation, access and valorisation of fashion heritage resources.
-   Read more
-
-Partners
-
-   The European Fashion Heritage Association brings together more than 50
-   institutions coming from 15 European countries, creating the largest
-   fashion heritage network in the world.
-   Read more
-
-   Web design
-   Metodo studio
-   Development
-   Papion
-
-   European Fashion
-   Heritage Association
-   Via di Brozzi 274, 50145
-   Florence, Italy
-   [email protected]
-
-   Our Mission
-   We make it easier for fashion GLAMs and brands to get better value from
-   their heritage assets by opening them up and connecting with new
-   audiences.
-     * About Us
-     * Contact
-     * Journal
-
-     * Partners Area
-     * Privacy Policy
-     * Cookie Policy
-
-   Join our newsletter!
-
-   Follow us:
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-
-   Co-financed by the EU</text>
-</page> §
-<page="EN-20">
+<page="EN-19">
 <text>   #alternate alternate alternate alternate
 
    Interpol Logo Interpol Logo
@@ -3324,7 +3179,149 @@ Cultural property crime thrives throughout pandemic says new INTERPOL survey
    statistics and enable sharing on social media platforms.
    OK Tell me more</text>
 </page> §
-<page="EN-21">
+<page="EN-2">
+<text>   #alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K9GSDZH
+
+   European Fashion Heritage Association European Fashion Heritage
+   Association
+
+   (BUTTON) Explore Archive
+
+     * About Us
+     * People
+     * Partners
+     * Projects
+     * Press Area
+     * Publications
+     * Journal
+     * Pathways
+     * Join us!
+
+     * Facebook
+     * Instagram
+     * Twitter
+     * Pinterest
+     * Tumblr
+     * LinkedIn
+     * Vimeo
+
+   EFHA World 11.12.2023
+
+Unveiling the Future: Highlights from the 'Future Heritage' EFHA Conference
+
+   a recap of the EFHA 2023 conference held in Utrecht on 27-28 November
+   2023.
+
+   Designers 23.11.2023
+
+Object Voices: Maggy Rouff, a rebel against rebels
+
+   This gold lamé evening gown, designed by Maggy Rouff, is featured in
+   Modemuseum Hasselt’s exhibition ‘We Need to Talk about Fashion.’ A
+   guest post by Modemuseum Hasselt
+
+   Exhibitions 20.11.2023
+
+Object Voices: YSL Gown in Movement
+
+   This newly acquired Yves Saint Laurent gown finds its place in the
+   escapism section of Modemuseum Hasselt’s current exhibition, ‘We Need
+   to Talk about Fashion’. A guest post by Modemuseum Hasselt
+
+   Exhibitions 14.11.2023
+
+'We Need to Talk about Fashion' at Modemuseum Hasselt
+
+   Do We Need to Talk about Fashion? Indeed we do!
+
+Designers
+
+   Designers 15.07.2023
+
+Fashion Report - From Alfa to Missoni
+
+   Designers 11.05.2023
+
+"Gianfranco Ferré. Design Principles" at the Italian Cultural institute in
+Los Angeles
+
+Fashion  History
+
+   Fashion  History 30.10.2023
+
+Hairstyles: Beauty and Pride
+
+   Exhibitions 15.09.2023
+
+Object Voices: Le 'Robe Volante'
+
+Runway Archive
+
+   Designers 27.06.2022
+
+Runway Archive: Vivienne Westwood, Pitti Uomo 38, 1990
+
+   Exhibitions 16.05.2022
+
+Vestirsi da Uomo
+
+   Tumblr
+   Join our newsletter!
+
+About Us
+
+   EFHA is an international hub, in which fashion GLAMs (Galleries,
+   Libraries, Archives and Museums) and brands share their digital
+   heritage assets and their experiences and best practices in the field
+   of digitisation, access and valorisation of fashion heritage resources.
+   Read more
+
+Partners
+
+   The European Fashion Heritage Association brings together more than 50
+   institutions coming from 15 European countries, creating the largest
+   fashion heritage network in the world.
+   Read more
+
+   Web design
+   Metodo studio
+   Development
+   Papion
+
+   European Fashion
+   Heritage Association
+   Via di Brozzi 274, 50145
+   Florence, Italy
+   [email protected]
+
+   Our Mission
+   We make it easier for fashion GLAMs and brands to get better value from
+   their heritage assets by opening them up and connecting with new
+   audiences.
+     * About Us
+     * Contact
+     * Journal
+
+     * Partners Area
+     * Privacy Policy
+     * Cookie Policy
+
+   Join our newsletter!
+
+   Follow us:
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Co-financed by the EU</text>
+</page> §
+<page="EN-20">
 <text>   [header-logo.png]
    (BUTTON) NAVIGATION
      * Home
@@ -3437,7 +3434,7 @@ Conservation Explorer
    © 2019 PA Department of Conservation and Natural Resources DCNR Home
    Page</text>
 </page> §
-<page="EN-22">
+<page="EN-21">
 <text>    #alternate alternate alternate
 
                                    Navigation
@@ -3731,7 +3728,7 @@ USEFUL LINKS
    Tel. +33 (0)3 88 41 20 00
    Disclaimer - © Council of Europe 2024 - © Photo credit - Contact - RSS</text>
 </page> §
-<page="EN-23">
+<page="EN-22">
 <text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSX5PBP
 
    If you're seeing this message, it means we're having trouble loading
@@ -4488,7 +4485,7 @@ Want to join the conversation?
 
    (BUTTON) Loading...</text>
 </page> §
-<page="EN-24">
+<page="EN-23">
 <text>   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
 
    Jump to content
@@ -4608,7 +4605,7 @@ Cultural heritage
      * Български
      * Catal</text>
 </page> §
-<page="EN-25">
+<page="EN-24">
 <text>   #alternate alternate alternate
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M7B3LZV
@@ -4857,7 +4854,7 @@ Spam Detection
    © 2024 The Heritage Foundation
    Conservative policy research since 1973</text>
 </page> §
-<page="EN-26">
+<page="EN-25">
 <text>     * Fox News Media
      * Fox News Media
      * Fox Business
@@ -5146,33 +5143,33 @@ pronouns to emails
 
 More from Politics
 
-   Justice Department sues Texas over law to let police arrest illegal
-   immigrants
-   14 mins ago
+   Obama silent on resignation of Harvard's Claudine Gay amid reports
+   about his efforts to try to save her job
+   2 hours ago
 
-Justice Department sues Texas over law to let police arrest illegal
-immigrants
+Obama silent on resignation of Harvard's Claudine Gay amid reports about his
+efforts to try to save her job
 
-   Magician David Copperfield allegedly had dinner with Epstein and
-   victims, did 'magic tricks': Court docs
-   16 mins ago
+   House GOP majority to shrink again in time for potential government
+   shutdown showdown
+   2 hours ago
 
-Magician David Copperfield allegedly had dinner with Epstein and victims, did
-'magic tricks': Court docs
+House GOP majority to shrink again in time for potential government shutdown
+showdown
 
-   Biden campaign staffers issue letter protesting Israel-Hamas war, call
-   for cease-fire, end of aid to Israel
-   27 mins ago
+   Haley pushes back but does not categorically rule out being Trump's
+   running mate
+   2 hours ago
 
-Biden campaign staffers issue letter protesting Israel-Hamas war, call for
-cease-fire, end of aid to Israel
+Haley pushes back but does not categorically rule out being Trump's running
+mate
 
-   Jeffrey Epstein allegedly said Bill Clinton 'likes' young girls,
-   documents reveal
-   31 mins ago
+   California beats every state for most residents moving away for fourth
+   year in a row: U-Haul list
+   2 hours ago
 
-Jeffrey Epstein allegedly said Bill Clinton 'likes' young girls, documents
-reveal
+California beats every state for most residents moving away for fourth year
+in a row: U-Haul list
 
 U.S.
 
@@ -5327,7 +5324,7 @@ Other
    Solutions. Legal Statement. Mutual Fund and ETF data provided by
    Refinitiv Lipper.</text>
 </page> §
-<page="EN-27">
+<page="EN-26">
 <text>   Skip to main content
 
      * A
@@ -5592,13 +5589,13 @@ Contact Us
    QUICK LINKS
      * Jobs
 
+     * Kent State Kent Campus - linkedin
+     * Kent State Kent Campus - snapchat
+     * Kent State Kent Campus - pinterest
      * Kent State Kent Campus - facebook
      * Kent State Kent Campus - twitter
      * Kent State Kent Campus - youtube
      * Kent State Kent Campus - instagram
-     * Kent State Kent Campus - linkedin
-     * Kent State Kent Campus - snapchat
-     * Kent State Kent Campus - pinterest
      * ...
 
    Information
@@ -5616,7 +5613,7 @@ Contact Us
    Kent State University logo
    © 2024 Kent State University All rights reserved.</text>
 </page> §
-<page="EN-28">
+<page="EN-27">
 <text>   #World History Encyclopedia RSS Feed
 
    [c3po.jpg?hash=583da8995f3bf53448b13ddf790ada6c]
@@ -5978,7 +5975,7 @@ Article
    Dr. Lorenzo Cantoni graduated in Philosophy and holds a PhD in
    Education and Linguistics. He is a full professor at USI - Universit</text>
 </page> §
-<page="EN-29">
+<page="EN-28">
 <text>   #PDF Full-Text HTML Full-Text XML Full-Text MDPI Publishing - Latest
    articles
 
@@ -6165,7 +6162,7 @@ Notice
 Article Menu
 
      * Academic Editor
-       [unknown-user.png?1704293393] Fabrizio Marozzo
+       [unknown-user.png?1704362327] Fabrizio Marozzo
      * Subscribe SciFeed
      * Recommended Articles
      * Related Info Link
@@ -6256,6 +6253,147 @@ Present, and the Future
    ^*
    Author to whom correspondence should be addressed.
    ^</text>
+</page> §
+<page="EN-29">
+<text>   #FISH » Feed FISH » Comments Feed alternate alternate alternate
+
+FISH
+
+Forum on Information Standards in Heritage
+
+   (BUTTON) Menu Skip to content
+     * News
+     * About
+     * MIDAS Heritage
+          + Other Guidance
+          + FISH Toolkit
+     * Terminology
+          + FISH Vocabularies
+          + Submit a Candidate Term
+          + Other Terminology Resources
+          + Chronology
+     * Heritage Information
+     * FISH-HEIRNET
+     * Working Groups
+     * Development
+     * glossary
+
+   Search for: ____________________ Search
+
+About
+
+   Membership  current member organizations
+
+   Welcome to the Forum on Information Standards in Heritage (FISH). This
+   site presents the work of the forum and contains links to recommended
+   information resources that support best practice in recording cultural
+   heritage.
+
+   We hope the site will give you an overview of the different
+   documentation guidance and indexing tools available and used by our
+   members. Please help us keep the website current and update us on
+   any additional or future resources, initiatives and conferences.
+
+   FISH logo in the shape of a green fish.
+
+   The forum is guided by the FAIR principles for data management and
+   stewardship. This seeks to make data Findable, Accessible,
+   Interoperable and Reusable. For more information on the FAIR
+   principles, please visit their website:
+
+   https://www.go-fair.org/fair-principles/
+
+Become a member
+
+   Membership is free. Join by subscribing to the FISH Mailing List and
+   participate in our forum discussions where all meeting papers and
+   presentations are also made available. To join, go to JISCMail and
+   select one of the three methods on how to
+   subscribe: https://www.jiscmail.ac.uk/help/subscribers/groupsubscriptio
+   ns.html
+
+   Link to FISH JISCMAIL
+
+   Forum meetings are held twice a year, to discuss strategic and
+   technical issues and developments. The meetings combine the efforts of
+   both FISH and HEIRNET (Historic Environment Information Resources
+   Network), two organisations with similar interests and aims.
+
+   A smaller Terminology Working Group also meets regularly, to discuss
+   vocabulary issues and candidate terms for the collection of thesauri
+   and authority files produced by or on behalf of FISH.
+
+   FISH was established in 1998 as a non for profit organization. We are a
+   formally convened group with terms of reference and a national profile.
+   FISH is not a legal entity and we have no employed staff, income or
+   budget. There are currently over 400 members.
+
+   Download Terms of Reference (2001)
+
+CBA / Council for British Archaeology logo     ADS / Archaeology Data Service
+logo        Britiish-Museum-Logo                      Cadw logo
+Heritage-England-Logo RCAHMW new logo
+ALGAO logo       HES logo       dyfedarch logo          National Trust logo
+         national museum wales logo        Logo01-blue+CPAT_2094x2907
+
+Current member organisations
+
+     * Archaeology Data Service (ADS)
+     * Association of Local Government Archaeological Officers (ALGAO)
+     * British Museum
+     * Cadw (Wales)
+     * Clwyd-Powys Archaeological Trust
+     * Council for British Archaeology (CBA)
+     * Dyfed Archaeological Trust
+     * Historic England
+     * Historic Environment Scotland
+     * Local government Historic Environment Records (HERs)
+     * National Museum Wales
+     * National Trust
+     * Royal Commission on the Ancient and Historical Monuments of Wales
+       (RCAHMW)
+
+   Many organisations have helped develop FISH products of the years, some
+   of these include British  Irish Archaeological Bibliography
+   (BIAB), Manx National Heritage, Museum of London, the National
+   Archives, Northern Ireland Environment and Heritage Service, the
+   Portable Antiquities Scheme and the Victoria  Albert Museum.
+
+SMR Forum Scotland SMR Forum Scotland logo
+
+   For more information on Scottish heritage, please visit the HER Forum
+   Scotland website. Like FISH, The SMR Forum enables its members to keep
+   in touch with the latest developments and opportunities within the
+   historic environment sector, and to develop a coordinated national
+   approach. Member organizations include Historic Environment Scotland,
+   the National Trust for Scotland, local authority Historic Environment
+   Records (HERs) and Sites and Monuments Records (SMRs), and others.
+
+
+   Banner image: Whitby Abbey © Paul Adams.
+
+Contact FISH via
+
+   terminologies@HistoricEngland.org.uk
+
+Search the website
+
+   Search for: ____________________ Search
+
+Recent Posts
+
+     * FISH Vocabularies page November 22, 2023
+     * FISH Thesauri Version 26 Released April 27, 2023
+     * CAA 2020 Conference – 14th to 17th April 2020, Oxford January 21,
+       2020
+
+Archives
+
+   Archives [Select Month__]
+
+Recent Comments
+
+   Proudly powered by WordPress</text>
 </page> §
 <page="EN-3">
 <text>   #alternate
@@ -6743,147 +6881,6 @@ Crossroads Blog
    Resources</text>
 </page> §
 <page="EN-30">
-<text>   #FISH » Feed FISH » Comments Feed alternate alternate alternate
-
-FISH
-
-Forum on Information Standards in Heritage
-
-   (BUTTON) Menu Skip to content
-     * News
-     * About
-     * MIDAS Heritage
-          + Other Guidance
-          + FISH Toolkit
-     * Terminology
-          + FISH Vocabularies
-          + Submit a Candidate Term
-          + Other Terminology Resources
-          + Chronology
-     * Heritage Information
-     * FISH-HEIRNET
-     * Working Groups
-     * Development
-     * glossary
-
-   Search for: ____________________ Search
-
-About
-
-   Membership  current member organizations
-
-   Welcome to the Forum on Information Standards in Heritage (FISH). This
-   site presents the work of the forum and contains links to recommended
-   information resources that support best practice in recording cultural
-   heritage.
-
-   We hope the site will give you an overview of the different
-   documentation guidance and indexing tools available and used by our
-   members. Please help us keep the website current and update us on
-   any additional or future resources, initiatives and conferences.
-
-   FISH logo in the shape of a green fish.
-
-   The forum is guided by the FAIR principles for data management and
-   stewardship. This seeks to make data Findable, Accessible,
-   Interoperable and Reusable. For more information on the FAIR
-   principles, please visit their website:
-
-   https://www.go-fair.org/fair-principles/
-
-Become a member
-
-   Membership is free. Join by subscribing to the FISH Mailing List and
-   participate in our forum discussions where all meeting papers and
-   presentations are also made available. To join, go to JISCMail and
-   select one of the three methods on how to
-   subscribe: https://www.jiscmail.ac.uk/help/subscribers/groupsubscriptio
-   ns.html
-
-   Link to FISH JISCMAIL
-
-   Forum meetings are held twice a year, to discuss strategic and
-   technical issues and developments. The meetings combine the efforts of
-   both FISH and HEIRNET (Historic Environment Information Resources
-   Network), two organisations with similar interests and aims.
-
-   A smaller Terminology Working Group also meets regularly, to discuss
-   vocabulary issues and candidate terms for the collection of thesauri
-   and authority files produced by or on behalf of FISH.
-
-   FISH was established in 1998 as a non for profit organization. We are a
-   formally convened group with terms of reference and a national profile.
-   FISH is not a legal entity and we have no employed staff, income or
-   budget. There are currently over 400 members.
-
-   Download Terms of Reference (2001)
-
-CBA / Council for British Archaeology logo     ADS / Archaeology Data Service
-logo        Britiish-Museum-Logo                      Cadw logo
-Heritage-England-Logo RCAHMW new logo
-ALGAO logo       HES logo       dyfedarch logo          National Trust logo
-         national museum wales logo        Logo01-blue+CPAT_2094x2907
-
-Current member organisations
-
-     * Archaeology Data Service (ADS)
-     * Association of Local Government Archaeological Officers (ALGAO)
-     * British Museum
-     * Cadw (Wales)
-     * Clwyd-Powys Archaeological Trust
-     * Council for British Archaeology (CBA)
-     * Dyfed Archaeological Trust
-     * Historic England
-     * Historic Environment Scotland
-     * Local government Historic Environment Records (HERs)
-     * National Museum Wales
-     * National Trust
-     * Royal Commission on the Ancient and Historical Monuments of Wales
-       (RCAHMW)
-
-   Many organisations have helped develop FISH products of the years, some
-   of these include British  Irish Archaeological Bibliography
-   (BIAB), Manx National Heritage, Museum of London, the National
-   Archives, Northern Ireland Environment and Heritage Service, the
-   Portable Antiquities Scheme and the Victoria  Albert Museum.
-
-SMR Forum Scotland SMR Forum Scotland logo
-
-   For more information on Scottish heritage, please visit the HER Forum
-   Scotland website. Like FISH, The SMR Forum enables its members to keep
-   in touch with the latest developments and opportunities within the
-   historic environment sector, and to develop a coordinated national
-   approach. Member organizations include Historic Environment Scotland,
-   the National Trust for Scotland, local authority Historic Environment
-   Records (HERs) and Sites and Monuments Records (SMRs), and others.
-
-
-   Banner image: Whitby Abbey © Paul Adams.
-
-Contact FISH via
-
-   terminologies@HistoricEngland.org.uk
-
-Search the website
-
-   Search for: ____________________ Search
-
-Recent Posts
-
-     * FISH Vocabularies page November 22, 2023
-     * FISH Thesauri Version 26 Released April 27, 2023
-     * CAA 2020 Conference – 14th to 17th April 2020, Oxford January 21,
-       2020
-
-Archives
-
-   Archives [Select Month__]
-
-Recent Comments
-
-   Proudly powered by WordPress</text>
-</page> §
-<page="EN-31">
 <text>   Skip to main content
 
    (BUTTON) Toggle navigation
@@ -7322,7 +7319,7 @@ Stay Connected
      * Sweden
      * Switzerland</text>
 </page> §
-<page="EN-32">
+<page="EN-31">
 <text>   Skip to main content
 
    (BUTTON)
@@ -7647,7 +7644,7 @@ Copyright  Disclaimer
 
    sfy39587stp16</text>
 </page> §
-<page="EN-33">
+<page="EN-32">
 <text>   ﻿ ﻿ ﻿
 
    ﻿
@@ -7703,7 +7700,7 @@ Strength
    agents.
    Sostenibilit</text>
 </page> §
-<page="EN-34">
+<page="EN-33">
 <text>   #alternate alternate
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TKZ2B4M
@@ -7751,10 +7748,10 @@ Strength
    Home / Chroniques / Collagen: a key to preserving historical parchments
    Blank parchment
    On the same topic:
-     * States and businesses: the race for quantum computers
-     * How recycling solar panels will help preserve energy security in
-       Europe
-     * Military drones: current trends in the market
+     * Plasma: a future fuel for satellites
+     * When regenerative medicine imitates nature
+     * Paralympics: how to optimise jumping blades for long-jumper
+       amputees
 
    π Science and technology
 
@@ -7962,57 +7959,59 @@ More on this topic
 
    Précédent
    Suivant
-   Pierre-Pol Liebgott
-   π Energy π Science and technology
+   GRISON_Claude
+   π Planet π Science and technology
 
-Transforming organic waste into hydrogen using marine bacteria
+Phytoextraction: these plants can clean up pollution
 
-   Pierre-Pol Liebgott,
+   Claude Grison,
 
-   Researcher in Microbiology at IRD
-   On October 18th, 2023
-   3 min reading time
-   Gerard Mourou
-   π Science and technology π Energy
-
-Super-powered lasers to transform nuclear waste
-
-   Gérard Mourou,
-
-   Nobel prize in Physics and member of the Haut Collège de l'École
-   polytechnique
-   On January 27th, 2021
-   3 min reading time
-   Pere ROCA
-   π Energy π Science and technology
-
-Photovoltaics: new materials for better efficiency
-
-   Pere Roca i Cabarrocas,
-
-   CNRS Research Director at LPICM* at École Polytechnique (IP Paris) and
-   scientific director of Institut Photovoltaïque d'Île-de-France (IPVF)
-   On October 4th, 2022
+   Director of the Laboratory for Bio-Inspired Chemistry and Ecological
+   Innovations
+   On April 19th, 2023
    4 min reading time
-   ROUBY_Corinne
+   Laure COLIN
+   π Geopolitics π Science and technology
+
+Military drones: current trends in the market
+
+   Laure Colin,
+
+   PhD student at the Centre for Management Research (I³-CRG*) at École
+   Polytechnique (IP Paris)
+   On October 11th, 2022
+   5 min reading time
+   MONNIER_Gaetan
+   π Energy π Industry π Science and technology
+
+Hydrogen engines: an essential component in low-carbon transport
+
+   Gaëtan Monnier,
+
+   Director of the IFPEN Mobility Results Centre and the Carnot IFPEN
+   Energy Transport Institute
+   On March 9th, 2023
+   4 min reading time
+   Landry Bretheau
    π Science and technology
 
-Loudspeakers: new materials in acoustics
+States and businesses: the race for quantum computers
 
-   Corinne Rouby,
+   Landry Bretheau,
 
-   teacher-researcher in mechanics at ENSTA (IP Paris)
-   On May 10th, 2023
-   3 min reading time
-   AREVALO_Ricardo
-   π Science and technology π Space
+   Professor at Ecole Polytechnique, Quantum Physicist and Researcher in
+   the Laboratory of Condensed Matter Physics (PMC*)
+   On March 3rd, 2021
+   4 min reading time
+   Clément Viricel
+   π Science and technology π Planet π Digital
 
-Detecting life on other planets with lasers
+Algorithms: a biomimetic approach to performance and nuance
 
-   Ricardo Arévalo,
+   Clément Viricel,
 
-   Associate Professor at the University of Maryland
-   On May 31st, 2023
+   Doctorate in mathematics and computer science applied to biology
+   On October 25th, 2023
    4 min reading time
 
    Subscribe to our weekly newsletter Subscribe to our weekly newsletter
@@ -8056,7 +8055,7 @@ Is the ocean the last bastion against climate change?
    Our world explained with science. Every week, in your inbox.
    Get the newsletter</text>
 </page> §
-<page="EN-35">
+<page="EN-34">
 <text>   #Compare the Difference Between Similar Terms » Feed Compare the
    Difference Between Similar Terms » Comments Feed Compare the Difference
    Between Similar Terms » Difference Between Ancestry and Heritage
@@ -8253,33 +8252,32 @@ Difference Between Coronavirus and Covid 19
 
 You May Like
 
-Difference Between Balance and Scale
+   Difference Between Hippie and Hipster
 
-   Difference Between HDMI and Mini HDMI
+Difference Between Hippie and Hipster
 
-Difference Between HDMI and Mini HDMI
+   What is the Difference Between Mosaic Down Syndrome and Down Syndrome
 
-   Difference Between Theater and Theatre
+What is the Difference Between Mosaic Down Syndrome and Down Syndrome
 
-Difference Between Theater and Theatre
+Difference Between Volcanoes and Earthquakes
 
-   Difference Between Adhesive and Cohesive Forces
+Difference Between Kosher Salt and Pickling Salt
 
-Difference Between Adhesive and Cohesive Forces
+   Difference Between Carbon Tetrachloride and Sodium Chloride
 
-   Difference Between N2 and 2N
-
-Difference Between N2 and 2N
+Difference Between Carbon Tetrachloride and Sodium Chloride
 
 Latest Posts
 
+     * What is the Difference Between CEA and CA-125
+     * What is the Difference Between Nephrolithiasis and Nephrocalcinosis
+     * What is the Difference Between Body Dysmorphic Disorder and
+       Anorexia
      * What is the Difference Between Multiple Myeloma and Waldenstrom’s
        Macroglobulinemia
      * What is the Difference Between Coccidioides and Coccidioidomycosis
      * What is the Difference Between Epileptic and Nonepileptic Seizures
-     * What is the Difference Between Endometrioma and Endometriosis
-     * What is the Difference Between Slides and Flip Flops
-     * What is the Difference Between Werner Syndrome and HGPS
 
      * Home
      * Vacancies
@@ -8290,7 +8288,7 @@ Latest Posts
    Copyright © 2010-2018 Difference Between. All rights reserved. Terms of
    Use and Privacy Policy: Legal.</text>
 </page> §
-<page="EN-36">
+<page="EN-35">
 <text>   [tr?id=137762143534301ev=PageViewnoscript=1]
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P2MP5QB
@@ -8518,7 +8516,7 @@ Better Understanding Of More Common Disorders
      * Whistleblowing
      *</text>
 </page> §
-<page="EN-37">
+<page="EN-36">
 <text>   #Palm Springs Law Blog
 
    ClickCease
@@ -8701,7 +8699,7 @@ Instant Call Back
    ©  Heritage Legal, P.C.| Privacy Policy | Disclaimer | Terms of Service
    | Attorney Website Design by Omnizant</text>
 </page> §
-<page="EN-38">
+<page="EN-37">
 <text>    #World Dance Heritage Research Centre » Feed World Dance Heritage
    Research Centre » Comments Feed alternate alternate alternate
 
@@ -8965,7 +8963,7 @@ Newsletter
    Copyright © 2015 to 2023 WorldDanceheritage.org | Privacy Policy | As
    an Amazon Associate I earn from qualifying purchases.</text>
 </page> §
-<page="EN-39">
+<page="EN-38">
 <text>   ASP assistance scolaire personnalisée
    un partenariat [logo-RDE.svg?1585573849]
    [logo-maif.svg?1585573849]
@@ -9301,6 +9299,263 @@ Withdrawing into ourselves?
    L'espace enseignant MAIF
 
    Informations légales Contact © 2000-2024, rue des écoles</text>
+</page> §
+<page="EN-39">
+<text>   #alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TX5H48V
+
+   newslink
+
+   MORNING JOURNAL×
+     * News
+          + Local News
+          + Police News
+          + Court News
+          + Obituaries
+          + Ohio News
+          + National News
+          + International News
+     * Sports
+          + Local Sports
+          + Sports Columns
+          + Ohio Sports
+          + National Sports
+     * Opinion
+          + Editorials
+          + Letters to the Editor
+     * Life
+          + Engagements
+          + Weddings
+          + Anniversaries
+          + Births/Birthdays
+     * Obituaries
+     * Classifieds
+     * Jobs
+     * Garage Sales
+     * Contact Information
+          + Contact Us
+          + Subscribe
+          + Advertise
+          + Terms of Service
+     * Submit News
+     * Public Notices
+          + Browse notices
+          + Place a notice
+
+   ____________________
+
+   homepage logo
+
+     * News
+     * Sports
+     * Opinion
+     * Life
+     * Obituaries
+     * Classifieds
+     * Jobs
+     * Legal Notices
+
+     * [search_icon_black.png]
+     * SUBSCRIBE
+
+   ____________________
+
+   homepage logo
+
+     * January 03, 2024
+     * |
+     * Today's Paper
+     * |
+     * Submit News
+     * |
+     * Subscribe Today
+     * |
+     * ...
+
+     * Today's Paper
+     * |
+     * Subscribe Today
+     * |
+     * ...
+
+Money raised for food insecurity despite low turnout for United Way Hungry
+Bowls event
+
+   Local News
+
+   Nov 21, 2023
+
+   [facebook_article_icon.png] [twitter_article_icon.png]
+     * [email_icon.png]
+     * [print_icon.png]
+
+   Christy Pease and Erin Watson, both of Heritage Thermal, serve up the
+   soup at the United Way of Southern Columbiana/Heritage Thermal Hungry
+   Bowls fundraiser held at the Salvation Army to raise money for agencies
+   supported by United Way to stock their food pantries. (Photo by Kristi
+   R. Garabrandt)
+
+   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
+   conjunction with Heritage Environmental Services to raise money for
+   three area agencies supported by United Way had a low turnout last
+   week.
+
+   Raymond Wayne, Heritage Thermal, didn’t know whether to attribute the
+   low turnout to unseasonably warm weather or other area fundraisers
+   being held on the same night.
+
+   The event held at the East Liverpool Salvation Army served for $10 a
+   soup kitchen style meal consisting of homemade soups made by United Way
+   board members and Heritage Thermal employees and served by staff of
+   Heritage Environmental Services along with a bottle of water, a dinner
+   roll and cookies to approximately 40 people.
+
+   The event also featured a Chinese auction, with baskets donated by
+   Columbiana County commissioners, Heritage Thermal employees and the
+   board members for the United Way of Southern Columbiana, which brought
+   in approximately $1,000, according to Karen Montgomery, Heritage
+   Environmental Services/Heritage Thermal.
+
+   Montgomery noted that the Columbiana County commissioners and Heritage
+   Thermal each donated $2,500, bringing the total raised for the event to
+   just under $6,000.
+
+   Last year, the fundraiser brought in over $8,000 with many more tickets
+   being sold.
+
+   The money raised will be divided among Family  Community Service,
+   Community Resource Center and the Salvation Army and will be used by
+   each agency to stock their food pantries.
+
+   Those who attended the fundraiser were asked to bring a food donation
+   with them. The donated canned goods were given to the Salvation Army
+   and some of the perishable leftovers were given to Catholic Charities
+   for use in their meal delivery program, Montgomery said.
+
+   “These are just a few of the nine local agencies the United Way of
+   Southern Columbiana County supports,” she noted.
+
+   “The United Way would like to thank HTS (Heritage Thermal) employees
+   for donating auction items, making soups and assisting at the event,”
+   Montgomery said. “A big thank you to those in the community that
+   supported the fundraiser by donating or attending. Together we change
+   lives and impact communities.”
+
+NEWSLETTER
+
+   Today's breaking news and more in your inbox
+   ____________________
+   I'm interested in (please check all that apply)
+     * [ ] Daily Newsletter
+     * [ ] Breaking News
+     * [ ] Obituaries
+
+   Are you a paying subscriber to the newspaper? *
+     * (*) Yes
+     * ( ) No
+
+   ____________________
+
+   Subscribe
+
+COMMENTS
+
+Local News
+
+EP still waiting for long-term health monitoring
+
+   EAST PALESTINE — When a Norfolk Southern train derailed and led to a
+   chemical spill and intentional release and ...
+
+Goshen trustees OK Police Fund changes
+
+   GOSHEN TOWNSHIP — Township trustees approved Police Fund changes in its
+   final meeting of the year Thursday. ...
+
+Columbiana looks at raising water, sewer rates
+
+   COLUMBIANA — The city is looking into the possibility of raising water
+   and sewer rates in the future. City ...
+
+Columbiana PD gets grant for tasers
+
+   COLUMBIANA — The city’s police department has been awarded a grant for
+   new tasers. The city was recently ...
+
+   [johnson-2-246x300.jpg]
+
+Bill Johnson to resign Jan. 21 from Congress for YSU presidency
+
+Lisbon BOE bids farewell to two longtime members
+
+   LISBON — When the Lisbon school board meets to reorganize for the new
+   year at 5 p.m. Jan. 11, board President ...
+
+     * MOST READ
+
+Man shot in chest in Ellsworth Township
+
+Words for East Liverpool residents
+
+Municipal
+
+COMMUNITY CALENDAR
+
+Salem
+
+County Sheriff
+
+                                   Newsletter
+
+   Today's breaking news and more in your inbox
+
+   ____________________
+   I'm interested in (please check all that apply)
+     * [ ] Daily Newsletter
+     * [ ] Breaking News
+     * [ ] Obituaries
+
+   Are you a paying subscriber to the newspaper? *
+     * (*) Yes
+     * ( ) No
+
+   ____________________
+
+   Subscribe
+
+Starting at $4.39/week.
+
+Subscribe Today
+
+   homepage logo
+
+   twitter icon facebook icon
+
+     * News
+          + Local News
+          + Obituaries
+          + Police News
+          + Court News
+     * Sports
+          + Local Sports
+          + Sports Columns
+          + Ohio Sports
+     * Opinion
+          + Editorials
+          + Letters to the Editor
+     * Life
+          + Engagements
+          + Weddings
+          + Anniversaries
+          + Births/Birthdays
+     * Contact
+          + Submit News
+          + Advertise
+          + Contact Us
+
+   Copyright © Morning Journal | https://www.morningjournalnews.com | 308
+   Maple Street, Lisbon, OH 44432 | 330-424-9541</text>
 </page> §
 <page="EN-4">
 <text>   #alternate alternate alternate alternate alternate Pixelated Realities
@@ -9648,263 +9903,6 @@ SUBSCRIBE:
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W38RDGS</text>
 </page> §
 <page="EN-40">
-<text>   #alternate alternate alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TX5H48V
-
-   newslink
-
-   MORNING JOURNAL×
-     * News
-          + Local News
-          + Police News
-          + Court News
-          + Obituaries
-          + Ohio News
-          + National News
-          + International News
-     * Sports
-          + Local Sports
-          + Sports Columns
-          + Ohio Sports
-          + National Sports
-     * Opinion
-          + Editorials
-          + Letters to the Editor
-     * Life
-          + Engagements
-          + Weddings
-          + Anniversaries
-          + Births/Birthdays
-     * Obituaries
-     * Classifieds
-     * Jobs
-     * Garage Sales
-     * Contact Information
-          + Contact Us
-          + Subscribe
-          + Advertise
-          + Terms of Service
-     * Submit News
-     * Public Notices
-          + Browse notices
-          + Place a notice
-
-   ____________________
-
-   homepage logo
-
-     * News
-     * Sports
-     * Opinion
-     * Life
-     * Obituaries
-     * Classifieds
-     * Jobs
-     * Legal Notices
-
-     * [search_icon_black.png]
-     * SUBSCRIBE
-
-   ____________________
-
-   homepage logo
-
-     * January 03, 2024
-     * |
-     * Today's Paper
-     * |
-     * Submit News
-     * |
-     * Subscribe Today
-     * |
-     * ...
-
-     * Today's Paper
-     * |
-     * Subscribe Today
-     * |
-     * ...
-
-Money raised for food insecurity despite low turnout for United Way Hungry
-Bowls event
-
-   Local News
-
-   Nov 21, 2023
-
-   [facebook_article_icon.png] [twitter_article_icon.png]
-     * [email_icon.png]
-     * [print_icon.png]
-
-   Christy Pease and Erin Watson, both of Heritage Thermal, serve up the
-   soup at the United Way of Southern Columbiana/Heritage Thermal Hungry
-   Bowls fundraiser held at the Salvation Army to raise money for agencies
-   supported by United Way to stock their food pantries. (Photo by Kristi
-   R. Garabrandt)
-
-   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
-   conjunction with Heritage Environmental Services to raise money for
-   three area agencies supported by United Way had a low turnout last
-   week.
-
-   Raymond Wayne, Heritage Thermal, didn’t know whether to attribute the
-   low turnout to unseasonably warm weather or other area fundraisers
-   being held on the same night.
-
-   The event held at the East Liverpool Salvation Army served for $10 a
-   soup kitchen style meal consisting of homemade soups made by United Way
-   board members and Heritage Thermal employees and served by staff of
-   Heritage Environmental Services along with a bottle of water, a dinner
-   roll and cookies to approximately 40 people.
-
-   The event also featured a Chinese auction, with baskets donated by
-   Columbiana County commissioners, Heritage Thermal employees and the
-   board members for the United Way of Southern Columbiana, which brought
-   in approximately $1,000, according to Karen Montgomery, Heritage
-   Environmental Services/Heritage Thermal.
-
-   Montgomery noted that the Columbiana County commissioners and Heritage
-   Thermal each donated $2,500, bringing the total raised for the event to
-   just under $6,000.
-
-   Last year, the fundraiser brought in over $8,000 with many more tickets
-   being sold.
-
-   The money raised will be divided among Family  Community Service,
-   Community Resource Center and the Salvation Army and will be used by
-   each agency to stock their food pantries.
-
-   Those who attended the fundraiser were asked to bring a food donation
-   with them. The donated canned goods were given to the Salvation Army
-   and some of the perishable leftovers were given to Catholic Charities
-   for use in their meal delivery program, Montgomery said.
-
-   “These are just a few of the nine local agencies the United Way of
-   Southern Columbiana County supports,” she noted.
-
-   “The United Way would like to thank HTS (Heritage Thermal) employees
-   for donating auction items, making soups and assisting at the event,”
-   Montgomery said. “A big thank you to those in the community that
-   supported the fundraiser by donating or attending. Together we change
-   lives and impact communities.”
-
-NEWSLETTER
-
-   Today's breaking news and more in your inbox
-   ____________________
-   I'm interested in (please check all that apply)
-     * [ ] Daily Newsletter
-     * [ ] Breaking News
-     * [ ] Obituaries
-
-   Are you a paying subscriber to the newspaper? *
-     * (*) Yes
-     * ( ) No
-
-   ____________________
-
-   Subscribe
-
-COMMENTS
-
-Local News
-
-EP still waiting for long-term health monitoring
-
-   EAST PALESTINE — When a Norfolk Southern train derailed and led to a
-   chemical spill and intentional release and ...
-
-Goshen trustees OK Police Fund changes
-
-   GOSHEN TOWNSHIP — Township trustees approved Police Fund changes in its
-   final meeting of the year Thursday. ...
-
-Columbiana looks at raising water, sewer rates
-
-   COLUMBIANA — The city is looking into the possibility of raising water
-   and sewer rates in the future. City ...
-
-Columbiana PD gets grant for tasers
-
-   COLUMBIANA — The city’s police department has been awarded a grant for
-   new tasers. The city was recently ...
-
-   [johnson-2-246x300.jpg]
-
-Bill Johnson to resign Jan. 21 from Congress for YSU presidency
-
-Lisbon BOE bids farewell to two longtime members
-
-   LISBON — When the Lisbon school board meets to reorganize for the new
-   year at 5 p.m. Jan. 11, board President ...
-
-     * MOST READ
-
-Man shot in chest in Ellsworth Township
-
-Words for East Liverpool residents
-
-Municipal
-
-COMMUNITY CALENDAR
-
-Salem
-
-County Sheriff
-
-                                   Newsletter
-
-   Today's breaking news and more in your inbox
-
-   ____________________
-   I'm interested in (please check all that apply)
-     * [ ] Daily Newsletter
-     * [ ] Breaking News
-     * [ ] Obituaries
-
-   Are you a paying subscriber to the newspaper? *
-     * (*) Yes
-     * ( ) No
-
-   ____________________
-
-   Subscribe
-
-Starting at $4.39/week.
-
-Subscribe Today
-
-   homepage logo
-
-   twitter icon facebook icon
-
-     * News
-          + Local News
-          + Obituaries
-          + Police News
-          + Court News
-     * Sports
-          + Local Sports
-          + Sports Columns
-          + Ohio Sports
-     * Opinion
-          + Editorials
-          + Letters to the Editor
-     * Life
-          + Engagements
-          + Weddings
-          + Anniversaries
-          + Births/Birthdays
-     * Contact
-          + Submit News
-          + Advertise
-          + Contact Us
-
-   Copyright © Morning Journal | https://www.morningjournalnews.com | 308
-   Maple Street, Lisbon, OH 44432 | 330-424-9541</text>
-</page> §
-<page="EN-41">
 <text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KW3LJ3D
 
    Skip to main content
@@ -10311,7 +10309,7 @@ The country you have selected will result in the following:
 
    (BUTTON) Continue (BUTTON) Cancel</text>
 </page> §
-<page="EN-42">
+<page="EN-41">
 <text>   Skip to main content
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NML9PLL
@@ -10731,7 +10729,7 @@ Stay connected
 
    Registered 501(c)(3). EIN: 13-2571900</text>
 </page> §
-<page="EN-43">
+<page="EN-42">
 <text>   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
 
    Jump to content
@@ -13061,7 +13059,7 @@ External links[edit]
 
      * (BUTTON) Toggle limited content width</text>
 </page> §
-<page="EN-44">
+<page="EN-43">
 <text>   #Center for Heritage  Society » Feed Center for Heritage  Society »
    Comments Feed Center for Heritage  Society » Home Comments Feed
    alternate alternate
@@ -13308,7 +13306,7 @@ Cultural Landscapes Initiative
 
    information.chs@umass.edu</text>
 </page> §
-<page="EN-45">
+<page="EN-44">
 <text>   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSX5PBP
 
    If you're seeing this message, it means we're having trouble loading
@@ -14030,7 +14028,7 @@ Want to join the conversation?
 
    (BUTTON) Loading...</text>
 </page> §
-<page="EN-46">
+<page="EN-45">
 <text>   #Heritage » Feed Heritage » Comments Feed Heritage » iCal Feed
    alternate alternate alternate alternate
 
@@ -14181,7 +14179,7 @@ Inquire
    [ ] Keep me updated
 
    CAPTCHA
-   Email
+   Comments
    ____________________
    This field is for validation purposes and should be left unchanged.
    Submit
@@ -14315,7 +14313,7 @@ TAKE AN EXCLUSIVE LOOK AT OUR FEATURED FLOOR PLANS
 
    (BUTTON) CLOSE</text>
 </page> §
-<page="EN-47">
+<page="EN-46">
 <text>   #Heritage University » Feed Heritage University » Comments Feed
    Heritage University » iCal Feed alternate alternate alternate alternate
    Heritage University RSS2 Feed
@@ -14733,7 +14731,7 @@ We invite you to invest in Heritage University!
 
    (BUTTON) ×</text>
 </page> §
-<page="EN-48">
+<page="EN-47">
 <text>   #resilience » Feed resilience » Comments Feed resilience » Loss and
    damage: How can culture and heritage loss be measured and addressed?
    Comments Feed alternate alternate alternate
@@ -15078,6 +15076,29 @@ Daisy Dunne
 
 Related Articles
 
+   President Trump discusses COVID impact with airline industry
+
+An Environmental Activist’s Guide to The Great Barrington Declaration
+
+   By Phil Wilson, Resilience.org
+
+   Did COVID teach us anything? Well yes – the movement to overthrow the
+   fossil fuel empire will require action, passion, numbers and narrative
+   force that we have yet to imagine.
+     __________________________________________________________________
+
+   January 4, 2024
+   Konik horses
+
+Fighting for wildlife in a time of war
+
+   By Adam Robertson Charlton, Hakai Magazine
+
+   As conflict rages around them, Ukrainian conservationists persevere in
+   restoring the Danube Delta, one of Europe’s most prized ecosystems.
+     __________________________________________________________________
+
+   January 4, 2024
    Hopi blue corn
 
 Soil Builds Prosperity From the Ground Up
@@ -15086,32 +15107,6 @@ Soil Builds Prosperity From the Ground Up
 
    Respecting the humanity and history of soil can help us grow a more
    resilient future for all.
-     __________________________________________________________________
-
-   January 3, 2024
-   Peter Brannen
-
-Peter Brannen: “Deep Time, Mass Extinctions, and Today”
-
-   By Nate Hagens, The Great Simplification
-
-   On this episode, Nate is joined by Peter Brannen, science journalist
-   and author specializing in Earth’s prior mass extinctions, to unpack
-   our planet’s geologic history and what it can tell us about our current
-   climate situation.
-     __________________________________________________________________
-
-   January 3, 2024
-   restored prairie
-
-Towards Cooperative Commonwealth: Transition in a Perilous Century
-
-   By Michael Lewis, Resilience.org
-
-   Strengthening the capacity to meet basic needs closer to home will
-   become a preoccupation for many and require a significant investment of
-   time, energy, and resources. Strengthening personal, community, and
-   ecological resilience close to home will only grow in importance.
      __________________________________________________________________
 
    January 3, 2024
@@ -15133,6 +15128,561 @@ Towards Cooperative Commonwealth: Transition in a Perilous Century
      *
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NTRWV3J</text>
+</page> §
+<page="EN-48">
+<text>   [tr?id=889870088554345ev=PageViewnoscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PFDJN3H
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5KT8D9
+
+   (BUTTON) Toggle navigation logo
+     * Corporate
+          + Heritage at a Glance
+          + Vision  Mission
+          + Corporate Management Team
+          + Functional Heads
+          + Our Commitments
+          + Awards  Recognitions
+          + CSR Activities
+               o CSR Activities for the Financial Year 2023-24
+          + GSTN Numbers
+     * Business Verticals
+          + Dairy
+               o Dairy Home
+               o Exports
+               o Heritage Parlour
+               o Heritage Distribution Centre
+               o Locations
+               o Excellence in Quality
+          + Renewable Energy
+     * Products
+          + Milk
+          + UHT Milk
+          + Curd
+          + Frozen Desserts
+          + Lassi
+          + Ice-Creams
+          + Buttermilk
+          + Milkshake
+          + Paneer
+          + Sweets
+          + Ghee
+          + Butter
+          + Cheese
+          + Fresh Cream
+          + Cold Coffee
+          + Flavoured Milk
+          + Whey Drink
+          + Skimmed Milk Powder
+          + [bf-milk.jpg]
+            Buffalo Milk
+          + [tonemilk.jpg]
+            Toned Milk
+          + [fullcream-milk.jpg]
+            Full Cream Milk
+          + [standardized-milk.jpg]
+            Standardized Milk
+          + [dbtoned-milk.jpg]
+            Double Toned Milk
+          + [cowmilk.jpg]
+            Cow Milk
+          + [slim-milk.jpg]
+            Slim Milk
+          + [a2fullcreammilk.jpg]
+            A2 Full Cream Milk
+          + [uhtmilk.jpg]
+            UHT Milk
+          + [totalcurd.jpg]
+            Total Curd
+          + [probioticcurd.jpg]
+            Probiotic Curd
+          + [creamilicious.png]
+            Creamilicious Curd
+          + [cones.jpg]
+            Cones
+          + [cups.jpg]
+            Cups
+          + [juicy_bars.jpg]
+            Juicy Bars
+          + [familypack.jpg]
+            Family Packs
+          + [sweet-lassi.png]
+            Sweet Lassi
+          + [mango-lassi.png]
+            Mango Lassi
+          + [straberry.png]
+            Strawberry Lassi
+          + [subjalassi.jpg]
+            Sabja Lassi
+          + [tubs.jpg]
+            Tubs
+          + [icbars.jpg]
+            Bars
+          + [kulfi.jpg]
+            Kulfi
+          + [buttermilk.jpg]
+            Spiced Buttermilk
+          + [plain-buttermilk.png]
+            Plain Buttermilk
+          + [milkshake-vanilla.jpg]
+            Vanilla
+          + [milkshake-chocolate.jpg]
+            Chocolate  Caramel
+          + [chok.jpg]
+            Chocolate
+          + [biscuit.jpg]
+            Cookies Cream
+          + [milkshake-strawberry.jpg]
+            Strawberry
+          + [paneer-fresh.jpg]
+            Fresh Paneer
+          + [paneer.jpg]
+            Lite Paneer
+          + [doodhpedas.jpg]
+            Doodh Peda
+          + [milkcake.jpg]
+            Milk Cake
+          + [gulab-jamun1.png]
+            Gulab Jamun
+          + [rasagulla1.png]
+            Rasagulla
+          + [cow-ghee1.jpg]
+            Cow Ghee
+          + [buffalo-ghee1.jpg]
+            Buffalo Ghee
+          + [special-ghee.jpg]
+            Hi Aroma Ghee
+          + [table-butter.jpg]
+            Table Butter
+          + [cooking-butter.jpg]
+            Cooking Butter
+          + [processedcheese.jpg]
+            Processed Cheese
+          + [mozzarellacheese.jpg]
+            Mozzarella Cheese
+          + [processedcheeseslice.jpg]
+            Processed Cheese Slice
+          + [processedcheesespread.jpg]
+            Processed Cheese Spread
+          + [freshcream.jpg]
+            Fresh Cream
+          + [coldcoffee.jpg]
+            Cold Coffee
+          + [Cafe-Latte.jpg]
+            Cafe Latte
+          + [Cafe_Mocha_1.jpg]
+            Cafe Mocha
+          + [fmilk-pbadam.jpg]
+            Badam Charger
+          + [fmilk-badam.jpg]
+            Badam
+          + [fmilk-pista.jpg]
+            Pista
+          + [fmilk-chocolate.jpg]
+            Chocolate
+          + [fmilk-elachi.jpg]
+            Elachi
+          + [fmilk-pineapple.jpg]
+            Pineapple
+          + [fmilk-strawberry.jpg]
+            Strawberry
+          + [fmilk-vanilla.jpg]
+            Vanilla
+          + [gluco-shakti.png]
+            Gluco Shakti Orange
+          + [gluco-shakti-lemon.png]
+            Gluco Shakti Lemon
+          + [gluco-shakti-pineapple.png]
+            Gluco Shakti Pineapple
+          + [smpowder.jpg]
+            Milk Powder
+     * Products
+          + Milk
+               o Buffalo Milk
+               o A2 Full Cream Milk
+               o Toned milk
+               o Double Toned Milk
+               o Full cream milk
+               o Standardized Milk
+               o Cow milk
+               o Slim Milk
+          + UHT Milk
+          + Curd
+               o Total Curd
+               o Premium Curd
+               o Probiotic Curd
+               o class=""Creamilicious Curd
+          + Buttermilk
+          + Lassi
+               o Sweet Lassi
+               o Mango Lassi
+               o Strawberry Lassi
+               o Subja Lassi
+          + Icecreams
+               o Tubs
+               o Bars
+               o Kulfi
+          + Frozen Desserts
+               o Cones
+               o Cups
+               o Juicy Bars
+               o Family Packs
+          + Milkshake
+               o Vanilla
+               o Chocolate
+               o Strawberry
+          + Paneer
+               o Fresh Paneer
+               o Lite Paneer
+          + Sweets
+               o Doodh Peda
+               o Milk Cake
+          + Ghee
+               o Cow Ghee
+               o Buffalo Ghee
+               o Hi Aroma Ghee
+          + Butter
+               o Cooking Butter
+               o Table Butter
+          + Cheese
+               o Processed Cheese
+               o Mozzarella Cheese
+               o Processed Cheese Slice
+               o Processed Cheese Spread
+          + Fresh Cream
+          + Cold Coffee
+          + Flavoured Milk
+               o Badam Charger
+               o Badam
+               o Pista
+               o Chocolate
+               o Elachi
+          + Skimmed Milk Powder
+     * Subsidiary/JV
+          + Subsidiary
+               o Heritage Nutrivet Limited
+          + JV
+               o Heritage Novandie Foods Pvt Ltd
+     * Investors
+          + Listing Information
+          + Board of Directors
+               o Brief Profile of Directors
+               o Board Committees
+               o Independent Director
+                    # Code for Independent Director
+               o Familiarization Programme
+          + Financial
+               o Annual Report
+                    # Annual Report
+                    # Annual Report 2022-23 flip book
+                    # Subsidiary / Associate / JV Annual Reports
+               o Financial Report
+                    # Quarterly Financial Results
+                    # Shareholder/ Investor Presentation
+          + Statutory Information
+               o Meetings
+                    # Annual General Meetings
+                    # EGM / Postal Ballot
+                    # Notice of Board Meetings
+               o Stock Exchange
+                    # Notice for Closure of Trading Window
+                    # Outcome of Board Meeting
+                    # Stock Exchange Clarifications
+                    # Concall
+                    # Reconciliation of Share Capital Audit Report
+                    # Investor Grievances Report
+                    # BRSR
+                    # RTA Certificate 74(5)
+                    # Yearly Disclosures
+                    # Regulation 40(9  10)
+                    # Regulation 7(3)
+                    # Communication to Shareholders
+                    # Related Party Transaction
+               o MOA  AOA
+               o Management Discussion  Analysis
+               o Research Reports
+               o Rights Issue
+               o Scheme of Arrangement
+               o Annual Disclosure Formats
+               o Annual Return
+          + Policies
+          + Corporate Governance
+               o Shareholding Pattern
+               o Corporate Governance Reports
+               o RTA  Compliance Officer
+               o Newspaper Publications
+               o Familiarization Program
+               o Secretarial Reports
+                    # Secretarial Audit Report
+                    # Annual Secretarial Compliance Report
+          + Dividend/ IEPF
+               o Dividend/Unclaimed Dividend
+                    # Dividend History
+                    # Unclaimed Dividend
+                    # Unclaimed Dividend from FY 2014-15 to 2022-23 (1st
+                      Int Div)
+                    # Unclaimed Dividend Register
+               o IEPF
+                    # Shares Transfer to IEPFA
+               o Nodal Officer
+          + Investor Contacts
+               o Investor Grievance
+               o Designated Official
+               o KMP Details
+          + Credit Rating
+          + Investor Service Request
+     * News  Events
+     * Gallery
+     * Contact Us
+     *
+     *
+
+   Heritage Foods was founded to create and share wealth ethically among
+   the farming community in a structured manner
+   The farming community was fragmented with no guidance and voice
+   I am proud we have achieved our objective with our vision and mission
+   for economic growth
+   I promise as trustees our moral compass will remain to true north
+   always
+   Smt. Bhuvaneswari Nara
+   Vice Chairperson  Managing Director
+
+I BELIEVE
+
+   Smt. Bhuvaneswari Nara
+
+Buy Now
+
+   buy on amazon
+     * buy on bigbasket
+
+   Important: We have moved to H.No.8-2-293/82/A/1286, Plot No: 1286, Road
+   No. 1  65, Jubilee Hills, Hyderabad- 500033, Telangana, India w.e.f
+   1-12-2022
+
+   CAUTION: Heritage Foods Limited. Since it’s incorporation (i.e.
+   05/06/1992) is not accepting any type of deposits from the public, if
+   anybody is asking any type of deposits in the name of Heritage Foods
+   Limited. Don't believe such false assurance.
+
+Give your family
+
+The Goodness of Ghee
+
+   Make your cooking ultra-delicious
+   and provide a golden treat to your taste buds
+   Explore More
+   [ghee-icon-1.png]
+
+   Great
+   for taste
+   [ghee-icon-2.png]
+
+   Rich in
+   Vitamins A  E
+   [ghee-icon-3.png]
+
+   Promotes
+   Better Digestion
+   [ghee-icon-4.png]
+
+   Improves
+   Immunity
+
+   [paneer-lite.png]
+   Lite Paneer
+   Explore
+   [paneer-fresh.png]
+   Fresh Paneer
+   Explore
+
+Milk
+
+Toned Milk
+
+   Fresh  pure milk is procured from our farmers and processed,
+   pasteurized, homogenized and packed at state-of-the-art processing
+   plants with utmost care to ensure goodness.
+   Explore More
+     * [mlk-icon-1.png]
+
+3.0%
+       [snf-blue.png]
+
+8.5%
+     * [milk-1.png]
+     * [mlk-icon-5.png]
+
+Vitamin A  D
+       [storage-icon.png]
+
+48hrs at 4^ C
+
+Milk
+
+Full cream milk
+
+   Full Cream Milk is rich in fat, so it is suitable for those with a low
+   BMI.What’s more, it is at its purest and best because it is processed
+   at our state-of-the-art processing plants.
+   Explore More
+     * [fat-ora.png]
+
+6.0%
+       [snf-do.png]
+
+9.0%
+     * [milk-2.png]
+     * [storage-icon-do.png]
+
+48hrs at 4^ C
+
+Milk
+
+Cow Milk
+
+   Golden Cow Milk is the culmination of a series of step such as
+   procurement, processing, pasteurization, homogenization and packaging
+   at state-of-the-art processing plants with utmost care to ensure
+   goodness.
+   Explore More
+     * [fat-gold.png]
+
+3.5%
+       [snf-gold.png]
+
+8.5%
+     * [milk-3.png]
+     * [deg-gold.png]
+
+48hrs at 4^ C
+
+Our goodness
+
+   Comes in many types!
+
+   UHT Milk
+   View All
+
+   Curd
+   View All
+
+   A-one Butter Milk
+   View All
+
+   Lassi
+   View All
+
+   Flavoured Milk
+   View All
+
+   Paneer
+   View All
+
+   Butter
+   View All
+
+   Sweets
+   View All
+
+   [probiotic.jpg]
+   Heritage Total Curd | #MakesYourDay (తెలుగు) #HeritageFoods
+
+   View All
+
+A Heritage of
+
+Happiness
+
+   Goodness comes in many milky ways.
+
+15,00,000
+
+   Families Consume
+   Heritage Products Daily
+
+859
+
+   Heritage Parlours Operated
+   by Our Franchisees
+
+3,00,000
+
+   Farmers Supply Fresh,
+   Pure Milk Twice a Day
+
+1,25,000
+
+   Retail Outlets Sell Heritage
+   Products From Their Stores
+
+187
+
+   Bulk Coolers, Mini Chilling
+    Chilling Centres
+   Procure Milk Daily
+
+Heritage Foods limited
+
+   The Heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
+   the year 1992, which is one of the fastest growing Public Listed
+   Companies in India, with two business divisions - Dairy and Renewable
+   Energy. The annual turnover of Heritage Foods stood at INR 32,087
+   million in the financial year 2022-23.
+   View More
+
+     * Follow us :
+     * [fb.png]
+     * [tw.png]
+     * [lk.png]
+     * [is.png]
+     * [yt.png]
+
+   Download Our App
+
+   *Currently Available in Hyderabad
+
+   Corporate
+     * Heritage at a Glance
+     * Corporate Management Team
+     * Our Commitments
+     * Awards  Recognitions
+     * CSR Activities
+     * GSTN Numbers
+     * Caution Notice
+
+   Products
+     * Milk
+     * UHT Milk
+     * Curd
+     * Buttermilk
+     * Ice-Creams
+     * Frozen Desserts
+     * Lassi
+     * Flavoured Milk
+     * View All
+
+   Investors
+     * Listing Information
+     * Investor Contacts
+     * Quarterly Financials
+     * Annual Reports
+     * Research Reports
+     * Policies
+
+   Business verticals
+     * Dairy
+     * Renewable Energy
+
+   Quick links
+     * News  Events
+     * Gallery
+     * Blog
+     * Careers
+     * Contact Us
+
+   Copyright © , Heritage Foods Limited. Designed by Pixel Studios</text>
 </page> §
 <page="EN-49">
 <text>   [tr?id=889870088554345ev=PageViewnoscript=1]
@@ -15851,7 +16401,7 @@ Tartu and Bodø
 
 “Anachronistic” rebuild of Notre Dame angers environmental group
 
-Orient Express train line adds new destinations
+Colosseum’s lower levels open to the public for the first time in 2000 years
 
    Click here for our homepage with  more heritage news from all over
    Europe.

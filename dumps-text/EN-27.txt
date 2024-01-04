@@ -1,287 +1,615 @@
-   Skip to main content
+   #World History Encyclopedia RSS Feed
 
-     * A
-     * B
-     * C
-     * D
-     * E
-     * F
-     * G
-     * H
-     * I
-     * J
-     * K
-     * L
-     * M
-     * N
-     * O
-     * P
-     * R
-     * S
-     * T
-     * U
-     * V
-     * W
+   [c3po.jpg?hash=583da8995f3bf53448b13ddf790ada6c]
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TZWKT8
+   Membership No ads
+   ____________________
 
-   Kent State University logo
-     * Apply
-     * Visit
-     * Give Now
-
-     * FlashLine Login
-     * Calendars
-     * Phone Directory
-     * Maps & Directions
-     * Search
-
-   School of Information
-     * Academic Programs
-       Close Academic Programs Overview
-          + Health Informatics
-          + Knowledge Management
-          + Library & Information Science
-          + School Library Media K-12
-          + User Experience
-          + Health Informatics Graduate Certificate
-          + Knowledge Management Graduate Certificate
-          + Admissions
-          + Scholarships
-     * Careers & Internships
-       Close Careers & Internships Overview
-          + Share an Opportunity
-          + Jobs in the iSchool
-          + Job & Internship Board
-          + Resources for Students & Alumni
-     * Research
-       Close Research Overview
-          + Reinberger Children's Library Center
-          + Research Centers & Facilities
-          + Explore Our Work
-     * Faculty & Staff
-       Close Faculty & Staff Overview
-          + Full-Time Faculty
-          + Part-Time/Adjunct Faculty
-          + Staff
-          + Emeriti
-     * Alumni
-       Close Alumni Overview
-          + Alumni Spotlights
-          + Alumni Award Winners
-          + MLIS Student Achievement Data
-          + Health Informatics Student Achievement Data
-          + Update Your Information
-          + Give to the iSchool
+     * Encyclopedia
+          + Index
+          + Timeline
+          + Maps
+          + Book Reviews
+          + Weights & Measures
+          + Translations
+     * Education
+          + Teaching Materials
+          + Link Database
+          + Quizzes
+          + Primary Sources
+          + Collections
+          + School Subscription
+     * Media
+          + Media Library
+          + Audio Articles
+          + Podcast
+          + Youtube Channel
+     * Contribute
+          + Submissions
+          + Needed Content
+          + Style Guide
+          + Terms & Conditions
+          + Volunteer
+          + Donate
+     * Shop
+          + Books
+          + Map Posters
+          + Magazines
+          + Wall Charts
+          + Clothing
      * About
-       Close About Overview
-          + Message from the Director
-          + Why the iSchool?
-          + News & Events
-          + Diversity & Inclusion Statement
-          + History
-          + Mission & Accreditation
-          + Location & Facilities
-          + Contact Us
-          + Advisory Boards
+          + About
+          + Our Team
+          + Editorial Policy
+          + Annual Reports
+          + Membership
+          + Contact
+     * Login
+          + Login
+          + Register
 
-     * FlashLine Login
-     * Calendars
-     * Phone Directory
-     * Maps & Directions
-     * Search
+Information & Communication Technologies in Cultural Heritage & Tourism
 
-     * Apply
-     * Visit
-     * Give Now
+Contents
 
-   Menu
+Article
 
-Cultural Heritage Informatics
+   James Blake Wiener
+   by James Blake Wiener
+   published on 13 June 2018
+   headphones Listen to this article
+   X
 
-You are here
+   Information and communication technologies (ICT) are revolutionizing
+   the ways in which the public interacts, understands, and appreciates
+   the importance of cultural heritage around the world. They are
+   additionally enabling sustainable tourism to flourish in an era of
+   unprecedented globalization. In this interview, James Blake Wiener of
+   Ancient History Encyclopedia speaks to Professor Lorenzo Cantoni - the
+   chair holder of the UNESCO Chair in ICT at the Università della
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites - about the ways in which ICT is altering how we see the
+   past and travel around the world.
 
-     * Kent
-     * School of Information
-     * Cultural Heritage Informatics
+   Machu Picchu Aerial View
+   Machu Picchu Aerial View
+   Dan Merino (CC BY)
 
-   Cultural heritage informatics (CHI) is an emerging field of
-   interdisciplinary research and practice concerned with the role of
-   information and computing technologies (ICTs) to support the creation,
-   capture, organization, and pluralization of culture, in whatever form,
-   as heritage.
+   JBW: Professor Cantoni, I bid you a warm welcome to Ancient History
+   Encyclopedia (AHE). Please tell us more about UNESCO's ICT Chair at USI
+   – Università della Svizzera italiana in Lugano, Switzerland. When was
+   it established and what are its general aims? How did you become
+   involved in the Chair's genesis?
+   Remove Ads
+   Advertisement
 
-   Cultural heritage stewardship encompasses numerous allied disciplines
-   including archival studies, librarianship, preservation of heritage
-   materials, and museum studies. They share a common goal of the
-   protection of cultural heritage in all forms, both tangible and
-   intangible.
+   LC: I am really happy we can have this conversation!
 
-   While there is a focus on existing data, datasets, and metadata and
-   ways to link them, CHI also necessarily includes identification and
-   exploration into appraisal, data capture, preservation, data
-   processing, curation, forensics and reconstruction, visualization,
-   documentation, access and discoverability, as well as development of
-   innovative technologies to empower and support engagement with ICTs as
-   tools for communication and remembering of culture.
+   The UNESCO Chair in ICT to develop and promote sustainable tourism in
+   World Heritage Sites has been established at USI in 2013. But the
+   process started earlier, with the preparation of the application
+   dossier, its evaluation and approval by UNESCO, up to the agreement
+   between UNESCO and USI university. I have been involved since the very
+   beginning, together with several young colleagues and with the
+   assistance of the Swiss Commission for UNESCO. We believed that the
+   extensive experience we got throughout the years doing research and
+   development in three related areas – eTourism, eLearning, and ICT4D
+   (ICT for Sustainable Development) – could be of interest for UNESCO
+   enlisted World Heritage Sites. Hence the proposed Chair, whose goals
+   are to conduct extensive research and development activities in the
+   field, as well as to do training and to promote knowledge sharing among
+   relevant stakeholders.
+   Follow us on YouTube!
 
-Pathways
+   Remove Ads
+   Advertisement
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni (Copyright)
 
-   Archival Studies | Museum Studies | Special Collections
+   JBW: What are the specific programs and initiatives that the ICT Chair
+   is currently overseeing? Could you also share with our audience some
+   further details about the 2018 Summer School of the UNESCO chair in
+   ICT, which will be held at the University of Turku, in Finland?
 
-Archival Studies
+   LC: At the UNESCO Chair in USI we do research and development
+   activities, involving Master and PhD students from USI, as well as
+   several visiting scholars who join us from all over the world.
+   Remove Ads
+   Advertisement
 
-   Archivists are information professionals who assess, collect, organize,
-   preserve, maintain control over, and provide access to records and
-   archives determined to have long-term value. The records maintained by
-   an archivist can consist of a variety of analog and digital forms and
-   documentary genres, including letters, diaries, logs, various other
-   writings, official documents, photographs and other visual materials,
-   sound recordings, and moving images. According to archival scholar
-   Laura Millar, “these records are kept because they have continuing
-   value to the creating agency and to other potential users. They are the
-   documentary evidence of past events. They are the facts we use to
-   interpret and understand history.” Archival material can be found in
-   many institutions and organizations, as well as in personal
-   collections, thus archivists work in a wide variety of environments.
+   Several educational and training activities are also organized: regular
+   courses at USI's Master in International Tourism and a Summer School
+   organized every year in a different place. In 2018 we have partnered
+   with the University of Turku, in Finland, to run a very innovative
+   travelling Summer School: we will visit five World Heritage Sites and
+   two UNESCO Biosphere Reserves in the southern part of Finland,
+   co-creating with local stakeholders technical solutions in line with
+   our mission: to orchestrate ICT in order to support and promote
+   sustainable tourism in World Heritage Sites (we are still accepting
+   late applications and it is possible also to participate online).
 
-   For further information on this area, please consult the advising sheet
-   for the Archival Studies pathway.
+   Besides face to face training activities, we are leveraging on ICT to
+   offer online training. In particular, we have launched the first ever
+   MOOC – Massive Open Online Course – titled “eTourism: Communication
+   Perspectives” (with more than 8,000 learners), and recently, as part of
+   the activities of the UNESCO-UNITWIN Network “Culture, Tourism, and
+   Development”, led by Paris 1 Panthéon-Sorbonne University, the MOOC
+   “Tourism Management of UNESCO World Heritage Sites”. This MOOC will
+   remain open until the end of 2018 and has attracted so far about 5,000
+   learners from 159 countries.
 
-Museum Studies
+   JBW: What is “sustainable tourism” and how can it improve the public's
+   awareness and understanding of cultural heritage, Professor Cantoni?
+   Remove Ads
+   Advertisement
 
-   There is no agreed-upon single word to describe all museum workers. For
-   lack of that word, here we use museum professional. But this field-wide
-   disagreement perhaps arises because there is not one profession, but
-   several museal professions that consist of a range of activities
-   undertaken in a museum (e.g., collections work, administration, visitor
-   services, exhibit design). In this program, we approach the education
-   of museum professionals in a holistic way, from a museological
-   perspective, that provides education in the whole range of activities,
-   skills, and theory about/in museums. This is done in the broader
-   context of information science, rather than from a specific content
-   area; that is, the framework is from LIS but specific knowledge and
-   skills are museum-focused. Students are taught within a broader
-   context, one that understands that LIS is about the interaction of
-   people and information and this foundation cuts across all types of
-   information institutions and information work. The intent of this
-   specialization is to embed and integrate the thinking and training
-   across information institutions such as libraries, museums, and
-   archives. For this reason, there are many pathways a student can take
-   that includes museum studies.
+   LC: The term “sustainable” suggests that something should be kept
+   available not only for our generation but also for the future ones –
+   this is the very meaning of its French equivalent: “durable” –
+   something that lasts.
 
-   For further information on this area, please consult the advising sheet
-   for the Museum Studies pathway.
+   If we think of Tourism and Heritage, we can refer to three areas of
+   sustainability: environmental, economic, and socio-cultural.
 
-Special Collections
+   Environmental/ecological sustainability refers to the fact that
+   tourists should not damage the natural resources. They should avoid
+   behaviors that create excessive pollution or irreversible damage to the
+   biodiversity. In some critical areas, in order not to exceed the
+   carrying capacity of a place, quotas might be applied.
+   Tourists should not damage the natural resources. They should avoid
+   behaviors that create excessive pollution or irreversible damage to the
+   biodiversity.
 
-   In library science, special collections are libraries or library units
-   that house materials requiring specialized security and user services.
-   Special collections can also be found in archival and museum
-   environments, although they may not be described as such. Materials
-   housed in special collections can be in any format (including rare
-   books, manuscripts, photographs, archives, ephemera, and digital
-   records), and are generally characterized by their artifactual or
-   monetary value, physical format, uniqueness or rarity, and/or an
-   institutional commitment to long-term preservation and access. They can
-   also include association with important figures or institutions in
-   history, culture, politics, sciences, or the arts. Individual
-   libraries, archival institutions, and other cultural heritage
-   organizations determine for themselves what materials constitute their
-   own special collections.
+   Economic sustainability refers to the fact that tourism players, and in
+   general the local populations, should be able to make a reasonable
+   profit out of the tourism-related activities. In general, we know that
+   most of the tourism/hospitality enterprises are micro, small, and
+   medium ones, frequently small family businesses. They are very
+   resilient and tend to look after the place and its correct management
+   also for the future generations. Companies focused only on making huge
+   profits might be less sustainable and might start and end activities
+   only based on short-term fluctuations, or be less interested in sharing
+   the profits with workers and the community at large. For instance, a
+   company might build and operate a hotel, and then leave the building
+   empty as soon as the business becomes not profitable, or less
+   profitable than in other places.
+   Remove Ads
+   Advertisement
 
-   For further information on this area, please consult the advising sheet
-   for the Special Collections pathway.
-     __________________________________________________________________
+   Socio-cultural sustainability refers to the fact that tourism is, by
+   nature, based on hosting people from outside a community – be they from
+   the same country (domestic tourism), or from other countries
+   (international tourism). It is very important that visitors do not
+   damage the quality of life of locals, nor their lifestyles and peculiar
+   traditions. We have studied, for instance, the case of Lalibela, a
+   World Heritage Site in Ethiopia. It consists of eleven medieval
+   monolithic cave churches of the 13th century CE, still actively used as
+   places of worship by Christian Copts. Tourists cannot, and should not
+   disturb or disrupt the life of the monks and of the local communities
+   living there and looking after such property. In fact, what we look for
+   in cultural tourism – and in tourism in general – is authentic
+   experiences: if tourism destroys or deeply alters life at a
+   destination, what remains is a kind of “fake copy”, something we
+   usually refer to as “Disneyfication”.
 
-Faculty Supporting the Cultural Heritage Informatics Area
+   St. George, Rock-hewn Church
+   St. George, Rock-hewn Church
+   Rod Waddington (CC BY-SA)
 
-     * Image
-       KC
-       Katie Campana, Ph.D.
-       Associate Professor
-       kcampan2@kent.edu
-     * Image
-       Rebecca Elder headshot
-       Rebecca Elder
-       Instructor
-       relder8@kent.edu
-     * Image
-       Karen Gracy
-       Karen F. Gracy, Ph.D.
-       Professor
-       kgracy@kent.edu
-     * Image
-       Lala Hajibayova
-       Lala Hajibayova, Ph.D.
-       Associate Professor
-       lhajibay@kent.edu
-     * Image
-       Erin Hetrick headshot
-       Erin M. Hetrick
-       Instructor
-       ehetrick@kent.edu
-     * Image
-       Athena Salaba headshot
-       Athena Salaba, Ph.D.
-       Professor
-       asalaba@kent.edu
-     * Image
-       hs
-       Heather Soyka, Ph.D.
-       Assistant Professor
-       hsoyka@kent.edu
-     * Image
-       Marcia Lei Zeng headshot
-       Marcia Lei Zeng, Ph.D.
-       Professor
-       mzeng@kent.edu
+   Analogous situations can be found in places experiencing the so-called
+   “overtourism”. Their tourists do not bring the usual economic and
+   social benefits any longer; on the contrary, they put the very quality
+   of locals' life at risk.
 
-   School of Information
+   JBW: In your own words, how do media, technology, tourism, and cultural
+   heritage intersect? Which technologies do you believe will play a
+   commanding role in safeguarding cultural heritage and promoting
+   sustainable tourism in the future?
+   Love History?
 
-Street Address
+   Sign up for our free weekly email newsletter!
+   ____________________ Sign Up
+   ____________________
 
-   314 University Library, 1125 Risman Drive, Kent, OH 44242-0001
+   LC: In the UNESCO Chair in Lugano we have proposed the “ABCDE”
+   framework, which refers to five main areas of relevance: Access,
+   Better, Connect, Dis-intermediate, and Educate.
+     * Access: ICT can offer endless opportunities to provide good quality
+       information about heritage sites, through websites, videos, social
+       media, mobile apps, and the like. Definitely, AHE is a major player
+       in this area, providing extensive information about so many places
+       and their historical relevance.
+     * Better: once the travelers reach the destination, they can make the
+       best of it thanks to mobile apps (so-called Location Based
+       Services), augmented reality, gamification applications, etc. For
+       instance, when it comes to archeological sites, augmented reality
+       can help the visitor to better understand how the place might have
+       looked like. But it can also be used to recognize trees and animals
+       or to better interpret paintings in a museum, just to mention some
+       other applications. Angkor Wat, Cambodia
+       Angkor Wat, Cambodia
+       Dennis Jarvis (CC BY-SA)
+     * Connect: ICT can help to connect the three main players in this
+       relationship: locals, visitors, and the heritage itself. For
+       instance, we assisted RETOSA, the Regional Tourism Organisation of
+       Southern Africa, developing an offline/online digital game to help
+       the young generations to know more about the World Heritage Sites
+       of the 15 countries of the Southern African Development Community
+       (SADC) and to reflect on how sustainable tourism might be a major
+       component of local development. Nowadays such a tool has become an
+       app everyone can use. In fact, for the first time ever, the United
+       Nations named 2017 as the International Year of Sustainable Tourism
+       for Development. We should think of ICT not only as tools to spread
+       voices, to speak aloud, but also – I would say: first of all – as
+       tools to listen to what travelers are sharing about their
+       experience at a destination. ICT enables us to have much deeper
+       insights into travelers' experiences, expectations, satisfaction
+       (or not). We are then in a better position to improve or redesign
+       touristic offers.
+     * Dis-intermediate: as I mentioned above, in order to be sustainable,
+       tourism should bring a reasonable profit to the local communities.
+       In some regions of the Global South, there is a risk that
+       international visitors pay most of their travel money to travel
+       operators located outside of the destination country. Thanks to
+       ICT, some relationships between prospect travelers and players at
+       the destination can be dis-intermediated so that the destination
+       itself benefits from most of the money spent. For instance, we
+       partnered with local players in the Island of Mozambique – a World
+       Heritage Site – to develop their online presence: a super simple
+       website listing local B&Bs and their telephone numbers. After a few
+       years, more than 60% of the bookings to such B&Bs are done directly
+       and not through external tour operators/travel agents. Island of
+       Mozambique
+       Island of Mozambique
+       Stig Nygaard (CC BY)
+     * Educate: ICT can also be used to help tourism players to learn and
+       upskill, especially in such a fast-moving context. In fact, due to
+       the very nature of hospitality and tourism, many operators cannot
+       afford to attend regular courses, hence the need for more flexible
+       learning offers. Here, free online courses like the MOOC I already
+       mentioned above can make the difference.
 
-Mailing Address
+   If you want to see a summary of the ABCDE framework, you can refer to
+   this short 90-seconds animation video.
 
-   800 E. Summit St.
-   Kent, OH 44242
+   JBW: Could you share further information about the #faces4heritage
+   campaign? How and when was this initiative started, and what are its
+   aims? I believe that the #faces4heritage campaign has been active for
+   several years if I am not mistaken.
 
-Contact Us
+   LC: Right, happy to share something about this initiative. In 2015,
+   UNESCO launched the global #Unite4Heritage campaign, aimed at raising
+   awareness about the destruction of heritage done by violent extremists,
+   e.g. in Syria and Iraq, but also in Lybia, Mali, and elsewhere. At the
+   chair, we wanted to support such a campaign and developed
+   #faces4heritage, an online tool that enables you to combine half of
+   your face with half of the face of a destroyed statue. The created
+   image can then be used as your profile picture on social media so that
+   your friends/followers are invited to reflect on such a dramatic issue.
+   #faces4heritage has been and is still very active on Twitter, being
+   among the most used hashtags in combination with #Unite4Heritage.
 
-   330-672-2782 iSchool@kent.edu
-   Facebook
-   Twitter
-   LinkedIn
-   Instagram
-   Contact Us
-     * 330-672-3000
-     * info@kent.edu
+   Palmyra, Syria
+   Palmyra, Syria
+   Erik Hermans (CC BY-NC-SA)
 
-   QUICK LINKS
-     * Jobs
+   JBW: Professor Cantoni, how can the average citizen become more
+   involved in the processes of preservation and valorization with regard
+   to cultural heritage? Do you have any specific recommendations or
+   personal suggestions?
 
-     * Kent State Kent Campus - facebook
-     * Kent State Kent Campus - twitter
-     * Kent State Kent Campus - youtube
-     * Kent State Kent Campus - instagram
-     * Kent State Kent Campus - linkedin
-     * Kent State Kent Campus - snapchat
-     * Kent State Kent Campus - pinterest
-     * ...
+   LC: Just a couple of recommendations and a further reflection. First of
+   all, I would definitely recommend to prepare yourself before the trip;
+   AHE and other resources will definitely help. Additionally, try to have
+   meaningful interactions with local people and to buy/use local products
+   as much as possible. In general, invest more in quality than in
+   quantity: visiting a place should not be just aimed at adding it to our
+   “visited list” but to deeply understand its nature, history, and
+   culture.
 
-   Information
-     * Accessibility
-     * Annual Security Reports
-     * Emergency Information
-     * For Our Alumni
-     * For the Media
-     * Health Services
-     * Jobs & Employment
-     * Privacy Statement
-     * HEERF CARES/CRRSAA/ARP Act Reporting and Disclosure
-     * Website Feedback
+   Athens Acropolis
+   Athens Acropolis
+   Mark Cartwright (CC BY-NC-SA)
 
-   Kent State University logo
-   © 2024 Kent State University All rights reserved.
+   Readers of AHE might find it useful to reflect on the very origin of
+   the word 'culture', which comes from the ancient Latin Language. Its
+   root is the verb 'colo', meaning 'look after', 'care'. It had three
+   main areas of application.
+
+   The first one is looking after our natural environment: 'agriculture'
+   (which means cultivating the fields). While visiting a place we should
+   pay attention to the way locals interact with their environment,
+   including their local ingredients and cuisine.
+
+   The second one is cultivating ourselves as human beings: what we
+   usually refer to as 'culture'. Think of the way we inhabit places from
+   architecture and urban planning to the way we dress and behave, the
+   schooling systems, all visual and performative arts, socio-political
+   systems, and so on. By the way, thinking of Latin again, 'habitus'
+   coming from the verb 'habeo' (to have) is closely connected with living
+   places ('habitare': living), fashion and costumes ('habitus': garment),
+   as well as ways of living ('habitus': habit).
+
+   The third area is the way we cultivate our relationship with God:
+   'cult', religion.
+
+   All of those dimensions should be considered by a responsible and
+   sustainable traveler. A well-traveled person, I would say.
+
+   JBW: Professor Cantoni, I thank you so much for your time and
+   consideration. I can speak on behalf of all my colleagues at AHE and
+   say that we are looking forward to cementing a proactive and vigorous
+   relationship with you and everyone associated with UNESCO's ICT Chair
+   at the Università della Svizzera italiana.
+
+   LC: I am also very much looking forward to a fruitful collaboration
+   with AHE and its community!
+
+   Ancient History Encyclopedia is delighted to announce that the
+   publication of this interview coincides with the formation of a new
+   partnership with the UNESCO Chair in ICT at the Università della
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites.
+
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni (Copyright)
+
+   Dr. Lorenzo Cantoni graduated in Philosophy and holds a PhD in
+   Education and Linguistics. He is a full professor at USI - Universit�
+   della Svizzera italiana (Lugano, Switzerland), Faculty of Communication
+   Sciences, where he is director of the Institute for Communication
+   Technologies. Lorenzo Cantoni is scientific director of the
+   laboratories webatelier.net, NewMinE Lab: New Media in Education Lab,
+   and eLab: eLearning Lab. His research interests are where
+   communication, education, and new media overlap, ranging from
+   computer-mediated communication to usability, from eLearning to
+   eTourism and digital Fashion, from ICT4D to eGovernment. He is chair
+   holder of the UNESCO chair in ICT to develop and promote sustainable
+   tourism in World Heritage Sites, established at USI in 2013. Dr.
+   Lorenzo Cantoni has been Dean of the Faculty (2010-2014) and President
+   of IFITT - International Federation for IT in Travel and Tourism (2014
+   - January 2018). At USI, he is director of the Master in Digital
+   Fashion Communication, done in collaboration with the Université Paris
+   1 Panthéon-Sorbonne, and member of the board of the Master in
+   International Tourism. His personal twitter account: @lorenzocantoni.
+   Did you like this interview?
+
+   Bibliography Related Content Books Cite This Work License
+   Editorial Review This article has been reviewed by our editorial team
+   before publication to ensure accuracy, reliability and adherence to
+   academic standards in accordance with our editorial policy.
+   Remove Ads
+   Advertisement
+
+About the Author
+
+   James Blake Wiener
+   James Blake Wiener
+   James is a writer and former Professor of History. He holds an MA in
+   World History with a particular interest in cross-cultural exchange and
+   world history. He is a co-founder of World History Encyclopedia and
+   formerly was its Communications Director.
+
+Translations
+
+   We want people all over the world to learn about history. Help us and
+   translate this article into another language!
+
+Related Content
+
+   Filters:
+   All
+   Definitions91
+   Articles136
+   Images49
+   Videos19
+   Books2
+   Collections2
+   Madhubani Paintings: People’s Living Cultural Heritage
+   Article
+
+Madhubani Paintings: People’s Living Cultural Heritage
+
+   Mithila, a region in the state of Bihar, northern India (and also...
+   ArchaeoConcept Interview
+   Interview
+
+ArchaeoConcept Interview
+
+   ArchaeoConcept is an independent company based in Biel, Switzerland...
+   Indigenous Intercultural Health in Chile
+   Article
+
+Indigenous Intercultural Health in Chile
+
+   Since the return to democracy in Chile in 1990 CE, the new
+   governments...
+   Greek World Heritage Sites
+   Article
+
+Greek World Heritage Sites
+
+   Greece, the 'cradle of western civilization', is home to a large...
+   Rome's Egyptian Heritage
+   Article
+
+Rome's Egyptian Heritage
+
+   The Eternal City of Rome is one of the places in the world with...
+   Cultural links between India & the Greco-Roman world
+   Article
+
+Cultural links between India & the Greco-Roman world
+
+   Cyrus the Great (558-530 BCE) built the first universal empire...
+
+   1 2 3 4 5 6 7 8 9 10 Next › Last »
+
+Free for the World, Supported by You
+
+   World History Encyclopedia is a non-profit organization. For only $5
+   per month you can become a member and support our mission to engage
+   people with cultural heritage and to improve history education
+   worldwide.
+   Become a Member   Donate
+
+Recommended Books
+
+     *
+
+   Information and Communication Technologies in Tourism 2021: Proceedings
+   of the ENTER 2021 eTourism Conference, January 19–22, 2021
+
+   Information and Communication Technologies in Tourism 2021:
+   Proceedings...
+
+   Written by Wörndl, Wolfgang & Koo, Chulmo & Stienmetz, Jason L.,
+   published by Springer (2021)
+
+   $49.99
+     *
+
+   Theories of the Information Society (International Library of
+   Sociology)
+
+   Theories of the Information Society
+
+   Written by Webster, Frank, published by Routledge (2014)
+
+   $89.95
+     *
+
+   Information and Communication Technologies in Tourism 2020: Proceedings
+   of the International Conference in Surrey, United Kingdom, January
+   08–10, 2020
+
+   Information and Communication Technologies in Tourism 2020:
+   Proceedings...
+
+   Written by Neidhardt, Julia & Wörndl, Wolfgang, published by Springer
+   (2019)
+
+   $141.36
+     *
+
+   Information and Communication Technologies in Tourism 2000: Proceedings
+   of the International Conference in Barcelona, Spain, 2000
+
+   Information and Communication Technologies in Tourism 2000:
+   Proceedings...
+
+   Written by Fesenmaier, Daniel R. & Klein, Stefan & Buhalis, Dimitrios,
+   published by Springer (2000)
+
+   $54.99
+     *
+
+   Information & Communication Technologies in Tourism 2001
+
+   Information & Communication Technologies in Tourism 2001
+
+   Written by Sheldon, Pauline J., Ph.D. & Wober, Karl W. & Fesenmaier,
+   Daniel R., published by Springer Verlag Wien (2001)
+
+   $86.95
+
+
+   World History Encyclopedia is an Amazon Associate and earns a
+   commission on qualifying book purchases.
+
+Cite This Work
+
+APA Style
+
+   Wiener, J. B. (2018, June 13). Information & Communication Technologies
+   in Cultural Heritage & Tourism. World History Encyclopedia. Retrieved
+   from
+   https://www.worldhistory.org/article/1242/information--communication-te
+   chnologies-in-cultura/
+
+Chicago Style
+
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. Last modified
+   June 13, 2018.
+   https://www.worldhistory.org/article/1242/information--communication-te
+   chnologies-in-cultura/.
+
+MLA Style
+
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. World History
+   Encyclopedia, 13 Jun 2018. Web. 02 Jan 2024.
+
+License & Copyright
+
+   Submitted by James Blake Wiener, published on 13 June 2018. The
+   copyright holder has published this content under the following
+   license: Creative Commons Attribution-NonCommercial-ShareAlike. This
+   license lets others remix, tweak, and build upon this content
+   non-commercially, as long as they credit the author and license their
+   new creations under the identical terms. When republishing on the web a
+   hyperlink back to the original content source URL must be included.
+   Please note that content linked from this page may have different
+   licensing terms.
+
+   Remove Ads
+   Advertisement
+   Weekly Newsletter
+
+Free Newsletter
+
+   Our latest articles delivered to your inbox, once a week:
+   ____________________
+
+   Are you a...?
+   (*) History Enthusiast
+   ( ) Teacher
+   ( ) Student
+   ( ) Librarian
+   Subscribe
+   ____________________
+   Remove Ads
+   Advertisement
+
+Support Us
+
+   We are a non-profit organization.
+
+   Our mission is to engage people with cultural heritage and to improve
+   history education worldwide. Please support World History Encyclopedia.
+   Thank you!
+   Donate Membership
+   Remove Ads
+   Advertisement
+
+
+   Membership
+
+   Numerous educational institutions recommend us, including Oxford
+   University. Our publication has been reviewed for educational use by
+   Common Sense Education, Internet Scout (University of Wisconsin),
+   Merlot (California State University), OER Commons and the School
+   Library Journal. Please note that some of these recommendations are
+   listed under our old name, Ancient History Encyclopedia.
+   Our Mission Our mission is to engage people with cultural heritage and
+   to improve history education worldwide.
+   Follow Us
+   About • Contact • Advertise • Privacy Policy • Partners • Supporters •
+   Newsletter • Settings
+
+   World History Publishing is a non-profit company registered in the
+   United Kingdom.
+   World History Foundation is a non-profit organization registered in
+   Canada.
+
+   We care about our planet! We contribute a share of our revenue to
+   remove carbon from the atmosphere.
+
+   Some Rights Reserved (2009-2024) under Creative Commons
+   Attribution-NonCommercial-ShareAlike license unless otherwise noted.
+
+   The World History Encyclopedia logo is a registered trademark.
+   Featured Partner UNESCO Archives

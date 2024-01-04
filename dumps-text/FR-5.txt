@@ -46,8 +46,8 @@ Info
        Accueil Afrique
        CONGO, Rép. démocratique du
        SÉNÉGAL
-       CÔTE D'IVOIRE
        ÉTHIOPIE
+       CÔTE D'IVOIRE
        NIGER
        TCHAD
        NIGERIA
@@ -76,9 +76,9 @@ Nos dossiers du moment
 Nos dossiers du moment
        Violences faites aux femmes
        Sport au féminin
-       Les métiers ont-ils un sexe ?
-       Santé des femmes
+       Femmes photographes, un autre regard
        Femmes en politique
+       Les métiers ont-ils un sexe ?
      * Sport
        Accueil Sports
 

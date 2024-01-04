@@ -76,7 +76,7 @@ Dictionary Entries Near heritage
 --
 
    “heritage.” Merriam-Webster.com Dictionary, Merriam-Webster,
-   https://www.merriam-webster.com/dictionary/heritage. Accessed 3 Jan.
+   https://www.merriam-webster.com/dictionary/heritage. Accessed 4 Jan.
    2024.
 --
 
@@ -109,15 +109,15 @@ Shaping the Future of heritage
 --
 
    Gaslighting heritage
-   [Statues_eNews-1-black-1024x569.png]
---
-
-   Canberra’s mid-century heritage
    [MG_8417-web-e1704236779291-1024x645.webp]
 --
 
+   Canberra’s mid-century heritage
+   [DSCN8864-web-1024x687.jpg]
+--
+
    Join our Melbourne team: Archaeologist/heritage Consultant
-   [SLNSW_FL9545722-e1701130567596.jpg]
+   [04-Website-Fairfax-FXB47153--1024x690.jpg]
 --
 
    Walking tour—Sydney’s ever changing heritage
@@ -133,10 +133,6 @@ Shaping the Future of heritage
 --
 
    Winner – Best heritage Consulting Firm
-   [DSC_4663_2-1024x684.jpg]
---
-
-   Parramatta Square heritage interpretation
    [Mooramong-storm-damage-Oct-2021-1024x633.jpg]
 --
 
@@ -218,9 +214,6 @@ Australia’s biggest community driven heritage Festival
    days out and learn about the work we do to protect Victoria’s heritage.</text>
 </page> §
 <page="EN-12">
-<text></text>
-</page> §
-<page="EN-13">
 <text>
    (BUTTON) Toggle navigation heritage Bank - People First
      * Banking
@@ -318,7 +311,7 @@ ABN 11 087 651 125
 
 About heritage</text>
 </page> §
-<page="EN-14">
+<page="EN-13">
 <text>    1. Culture and Creativity
     2. Cultural heritage
 
@@ -387,7 +380,7 @@ Main actors on cultural heritage
      * European heritage Label National Coordinators
      * Creative Europe on Facebook</text>
 </page> §
-<page="EN-15">
+<page="EN-14">
 <text>
 Center for Art, Museum  Cultural heritage Law
 
@@ -407,7 +400,7 @@ Center for Art, Museum  Cultural heritage Law
    requirements page along with a full list of required and elective
    courses for the International Cultural heritage Law Concentration.​</text>
 </page> §
-<page="EN-16">
+<page="EN-15">
 <text>    3. UK/Ireland
     4. Cultural heritage And art law
 
@@ -424,12 +417,12 @@ Cultural heritage And art law
    and heritage law, unfortunately the deadline for the llm is now closed,
    but the same course is also available with the MSc in Law, Anthropology</text>
 </page> §
-<page="EN-17">
+<page="EN-16">
 <text>   "Sars-CoV-2, the virus that causes the COVID-19 disease, was not
    created in the laboratory. We see this by studying the genetic heritage
    of the virus, which has been sequenced by Chinese teams and then</text>
 </page> §
-<page="EN-18">
+<page="EN-17">
 <text>   #Biodiversity heritage Library Atom Feed Biodiversity heritage Library
    » Feed Biodiversity heritage Library » Comments Feed
 
@@ -468,7 +461,7 @@ Welcome to the Biodiversity heritage Library Blog
    The Biodiversity heritage Library makes it easier than ever for you to
    access the information you need to study and explore life on Earth…for</text>
 </page> §
-<page="EN-19">
+<page="EN-18">
 <text>
    heritage____________
    (BUTTON) (BUTTON) English (BUTTON)
@@ -661,35 +654,7 @@ More meanings of heritage
    Add heritage to one of your lists below, or create a new one.
    (BUTTON)</text>
 </page> §
-<page="EN-2">
-<text>
-   European Fashion heritage Association European Fashion heritage
-   Association
---
-
-Unveiling the Future: Highlights from the 'Future heritage' EFHA Conference
-
---
-   Libraries, Archives and Museums) and brands share their digital
-   heritage assets and their experiences and best practices in the field
-   of digitisation, access and valorisation of fashion heritage resources.
-   Read more
---
-
-   The European Fashion heritage Association brings together more than 50
-   institutions coming from 15 European countries, creating the largest
-   fashion heritage network in the world.
-   Read more
---
-   European Fashion
-   heritage Association
-   Via di Brozzi 274, 50145
---
-   We make it easier for fashion GLAMs and brands to get better value from
-   their heritage assets by opening them up and connecting with new
-   audiences.</text>
-</page> §
-<page="EN-20">
+<page="EN-19">
 <text>          +
                o Cultural heritage crime
           +
@@ -732,7 +697,35 @@ Cultural heritage crime
 
 Cultural heritage crime: INTERPOL’s ID-Art app in the news</text>
 </page> §
-<page="EN-21">
+<page="EN-2">
+<text>
+   European Fashion heritage Association European Fashion heritage
+   Association
+--
+
+Unveiling the Future: Highlights from the 'Future heritage' EFHA Conference
+
+--
+   Libraries, Archives and Museums) and brands share their digital
+   heritage assets and their experiences and best practices in the field
+   of digitisation, access and valorisation of fashion heritage resources.
+   Read more
+--
+
+   The European Fashion heritage Association brings together more than 50
+   institutions coming from 15 European countries, creating the largest
+   fashion heritage network in the world.
+   Read more
+--
+   European Fashion
+   heritage Association
+   Via di Brozzi 274, 50145
+--
+   We make it easier for fashion GLAMs and brands to get better value from
+   their heritage assets by opening them up and connecting with new
+   audiences.</text>
+</page> §
+<page="EN-20">
 <text>          + PA Community Prediction Tool
           + County Natural heritage Inventories
           + Conservation Opportunity Area Tool
@@ -761,7 +754,7 @@ Cultural heritage crime: INTERPOL’s ID-Art app in the news</text>
    Natural heritage Inventory, Conservation Opportunity Area tool, Plant
    Factsheets, iMap Invasives, Conservation Case Studies and more.</text>
 </page> §
-<page="EN-22">
+<page="EN-21">
 <text>
    Culture and Cultural heritage
 
@@ -822,7 +815,7 @@ European heritage Days 2023
      * Compendium of Cultural Policies and Trends in Europe
      * HEREIN: heritage Network</text>
 </page> §
-<page="EN-23">
+<page="EN-22">
 <text>     * ARCHES
      * What is Cultural heritage?
      * Cultural heritage “in Crisis”
@@ -972,7 +965,7 @@ Whose cultural heritage?
             as easily say that is part of Gay cultural heritage.
             (BUTTON) CommentButton navigates to signup page</text>
 </page> §
-<page="EN-24">
+<page="EN-23">
 <text>     * (Top)
      * 1Types of heritage
        (BUTTON) Toggle Types of heritage subsection
@@ -1477,7 +1470,7 @@ Cultural heritage digital preservation[edit]
      * Museology
      * Conservation and restoration of cultural heritage</text>
 </page> §
-<page="EN-25">
+<page="EN-24">
 <text>
    The heritage Foundation
 
@@ -1578,7 +1571,7 @@ Hold Washington’s feet to the fire with your gift to heritage Action today!
    © 2024 The heritage Foundation
    Conservative policy research since 1973</text>
 </page> §
-<page="EN-26">
+<page="EN-25">
 <text>   An internal U.S. Customs and Border Protection (CBP) memo obtained by
    the heritage Foundation's Oversight Project and shared with Fox News
    Digital prohibits agents from using "he, him, she, her" pronouns when
@@ -1591,7 +1584,7 @@ Hold Washington’s feet to the fire with your gift to heritage Action today!
    The memo follows an earlier report by heritage's Oversight Project that
    the Department of Health and Human Services (HHS) rolled out a similar</text>
 </page> §
-<page="EN-27">
+<page="EN-26">
 <text>
 Cultural heritage Informatics
 
@@ -1618,7 +1611,7 @@ Cultural heritage Informatics
 
 Faculty Supporting the Cultural heritage Informatics Area</text>
 </page> §
-<page="EN-28">
+<page="EN-27">
 <text>
 Information  Communication Technologies in Cultural heritage  Tourism
 
@@ -1758,7 +1751,7 @@ Rome's Egyptian heritage
    Our Mission Our mission is to engage people with cultural heritage and
    to improve history education worldwide.</text>
 </page> §
-<page="EN-29">
+<page="EN-28">
 <text>   Networks and Stories. Analyzing the Transmission of the Feminist
    Intangible Cultural heritage on Twitter
 
@@ -2066,6 +2059,39 @@ Present, and the Future
    [_] heritage
    [_] Histories</text>
 </page> §
+<page="EN-29">
+<text>
+Forum on Information Standards in heritage
+
+--
+     * About
+     * MIDAS heritage
+          + Other Guidance
+--
+          + Chronology
+     * heritage Information
+     * FISH-HEIRNET
+--
+
+   Welcome to the Forum on Information Standards in heritage (FISH). This
+   site presents the work of the forum and contains links to recommended
+   information resources that support best practice in recording cultural
+   heritage.
+
+--
+logo        Britiish-Museum-Logo                      Cadw logo
+heritage-England-Logo RCAHMW new logo
+ALGAO logo       HES logo       dyfedarch logo          National Trust logo
+--
+   of these include British  Irish Archaeological Bibliography
+   (BIAB), Manx National heritage, Museum of London, the National
+   Archives, Northern Ireland Environment and heritage Service, the
+   Portable Antiquities Scheme and the Victoria  Albert Museum.
+--
+
+   For more information on Scottish heritage, please visit the HER Forum
+   Scotland website. Like FISH, The SMR Forum enables its members to keep</text>
+</page> §
 <page="EN-3">
 <text>          + IUCN Green List of Protected and Conserved Areas
           + IUCN World heritage Outlook
@@ -2212,39 +2238,6 @@ World heritage
    All World heritage</text>
 </page> §
 <page="EN-30">
-<text>
-Forum on Information Standards in heritage
-
---
-     * About
-     * MIDAS heritage
-          + Other Guidance
---
-          + Chronology
-     * heritage Information
-     * FISH-HEIRNET
---
-
-   Welcome to the Forum on Information Standards in heritage (FISH). This
-   site presents the work of the forum and contains links to recommended
-   information resources that support best practice in recording cultural
-   heritage.
-
---
-logo        Britiish-Museum-Logo                      Cadw logo
-heritage-England-Logo RCAHMW new logo
-ALGAO logo       HES logo       dyfedarch logo          National Trust logo
---
-   of these include British  Irish Archaeological Bibliography
-   (BIAB), Manx National heritage, Museum of London, the National
-   Archives, Northern Ireland Environment and heritage Service, the
-   Portable Antiquities Scheme and the Victoria  Albert Museum.
---
-
-   For more information on Scottish heritage, please visit the HER Forum
-   Scotland website. Like FISH, The SMR Forum enables its members to keep</text>
-</page> §
-<page="EN-31">
 <text>    4. Targeted Analyses
     5. 9-Material Cultural heritage- heritage
 
@@ -2318,7 +2311,7 @@ heritage_Scientific Annex
      * 9-Material Cultural heritage- heritage
      * 10-Cross-border Public Services - CPS</text>
 </page> §
-<page="EN-32">
+<page="EN-31">
 <text>
 Defining culture, heritage and identity
 
@@ -2416,7 +2409,7 @@ Defining culture, heritage and identity
 
    heritage day, Braai Day or Shaka Day: Whose heritage is it Anyway?</text>
 </page> §
-<page="EN-33">
+<page="EN-32">
 <text>   Identical to classic terracotta roof tiles, the Invisible Solar
    Rooftile finally brings solar energy on heritage assets.
    Learn more
@@ -2438,7 +2431,7 @@ Defining culture, heritage and identity
    architectural and aesthetical integration in the heritage's town
    centers too.</text>
 </page> §
-<page="EN-34">
+<page="EN-33">
 <text>   Whilst we may associate it more with aesthetics than antiquity,
    collagen is central in some cultural heritage objects. Indeed, this
    vital protein is a key structural molecule holding bodily tissues
@@ -2455,7 +2448,7 @@ Collagen in cultural heritage
    biomedical field (cornea, skin) and for the study of heritage objects.
    *LOB: a joint research unit CNRS, École Polytechnique - Institut</text>
 </page> §
-<page="EN-35">
+<page="EN-34">
 <text>   Difference Between Similar Terms » Comments Feed Compare the Difference
    Between Similar Terms » Difference Between Ancestry and heritage
    Comments Feed alternate alternate
@@ -2544,7 +2537,7 @@ Characteristics of Ancestry and heritage
        Thank you so much I am excited to find my heritage through my
        ancestry my grandfather I knew of him I thank you for your help</text>
 </page> §
-<page="EN-36">
+<page="EN-35">
 <text>
 The Finnish Genetic Disease heritage
 
@@ -2571,7 +2564,7 @@ The Finnish Genetic Disease heritage
    Hinttala R. The Finnish genetic heritage in 2022 - from diagnosis to
    translational research. Dis Model Mech. 2022 Oct 1;15(10):dmm049490.</text>
 </page> §
-<page="EN-37">
+<page="EN-36">
 <text>
    heritage LEGAL
    760.325.2020
@@ -2618,7 +2611,7 @@ We’re Here When You Need Us
    ©  heritage Legal, P.C.| Privacy Policy | Disclaimer | Terms of Service
    | Attorney Website Design by Omnizant</text>
 </page> §
-<page="EN-38">
+<page="EN-37">
 <text>    #World Dance heritage Research Centre » Feed World Dance heritage
    Research Centre » Comments Feed alternate alternate alternate
 
@@ -2708,7 +2701,7 @@ Embodiment, the Body and heritage
    Copyright © 2015 to 2023 WorldDanceheritage.org | Privacy Policy | As
    an Amazon Associate I earn from qualifying purchases.</text>
 </page> §
-<page="EN-39">
+<page="EN-38">
 <text>   Many communities, many populations indeed celebrate their cultural
    heritage through literature, art, sports, traditions, food, even their
    daily routine and gestures: each difference, each particularity can be
@@ -2766,6 +2759,38 @@ A memorial heritage
    their cultural heritage.
    ( ) ok Major political events can also be considered as symbols of</text>
 </page> §
+<page="EN-39">
+<text>
+   Christy Pease and Erin Watson, both of heritage Thermal, serve up the
+   soup at the United Way of Southern Columbiana/heritage Thermal Hungry
+   Bowls fundraiser held at the Salvation Army to raise money for agencies
+--
+   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
+   conjunction with heritage Environmental Services to raise money for
+   three area agencies supported by United Way had a low turnout last
+--
+
+   Raymond Wayne, heritage Thermal, didn’t know whether to attribute the
+   low turnout to unseasonably warm weather or other area fundraisers
+--
+   soup kitchen style meal consisting of homemade soups made by United Way
+   board members and heritage Thermal employees and served by staff of
+   heritage Environmental Services along with a bottle of water, a dinner
+   roll and cookies to approximately 40 people.
+--
+   The event also featured a Chinese auction, with baskets donated by
+   Columbiana County commissioners, heritage Thermal employees and the
+   board members for the United Way of Southern Columbiana, which brought
+   in approximately $1,000, according to Karen Montgomery, heritage
+   Environmental Services/heritage Thermal.
+
+   Montgomery noted that the Columbiana County commissioners and heritage
+   Thermal each donated $2,500, bringing the total raised for the event to
+--
+
+   “The United Way would like to thank HTS (heritage Thermal) employees
+   for donating auction items, making soups and assisting at the event,”</text>
+</page> §
 <page="EN-4">
 <text>
    DIGITIZING heritage FOR
@@ -2811,38 +2836,6 @@ MISSION - TO IMPROVE THE METHODS OF CULTURAL heritage PRESERVATION
    BUSINESSES AND CULTURAL INSTITUTIONS</text>
 </page> §
 <page="EN-40">
-<text>
-   Christy Pease and Erin Watson, both of heritage Thermal, serve up the
-   soup at the United Way of Southern Columbiana/heritage Thermal Hungry
-   Bowls fundraiser held at the Salvation Army to raise money for agencies
---
-   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
-   conjunction with heritage Environmental Services to raise money for
-   three area agencies supported by United Way had a low turnout last
---
-
-   Raymond Wayne, heritage Thermal, didn’t know whether to attribute the
-   low turnout to unseasonably warm weather or other area fundraisers
---
-   soup kitchen style meal consisting of homemade soups made by United Way
-   board members and heritage Thermal employees and served by staff of
-   heritage Environmental Services along with a bottle of water, a dinner
-   roll and cookies to approximately 40 people.
---
-   The event also featured a Chinese auction, with baskets donated by
-   Columbiana County commissioners, heritage Thermal employees and the
-   board members for the United Way of Southern Columbiana, which brought
-   in approximately $1,000, according to Karen Montgomery, heritage
-   Environmental Services/heritage Thermal.
-
-   Montgomery noted that the Columbiana County commissioners and heritage
-   Thermal each donated $2,500, bringing the total raised for the event to
---
-
-   “The United Way would like to thank HTS (heritage Thermal) employees
-   for donating auction items, making soups and assisting at the event,”</text>
-</page> §
-<page="EN-41">
 <text>
 Key Issues in Cultural heritage
      __________________________________________________________________
@@ -3056,7 +3049,7 @@ Managing heritage in Africa: Who Cares?
    cultural landscapes, heritage...
      * 1</text>
 </page> §
-<page="EN-42">
+<page="EN-41">
 <text>          + Travel with WMF
           + Jewish heritage Program
           + Ukraine heritage Response Fund
@@ -3165,7 +3158,7 @@ Underrepresented heritage
           + heritage from Home
      * Give</text>
 </page> §
-<page="EN-43">
+<page="EN-42">
 <text>     * (Top)
      * 1World heritage Sites
 
@@ -3596,7 +3589,7 @@ World heritage Sites[edit]
      * Lists of World heritage Sites
      * Historic preservation in India</text>
 </page> §
-<page="EN-44">
+<page="EN-43">
 <text>   #Center for heritage  Society » Feed Center for heritage  Society »
    Comments Feed Center for heritage  Society » Home Comments Feed
    alternate alternate
@@ -3708,7 +3701,7 @@ Climate Change and Cultural heritage in Scotland
    Center for heritage  Society
    210 Design Building, University of Massachusetts Amherst MA, 01003</text>
 </page> §
-<page="EN-45">
+<page="EN-44">
 <text>     * ARCHES
      * What is Cultural heritage?
      * Cultural heritage “in Crisis”
@@ -3832,7 +3825,7 @@ natural disasters
        won't recognize the value of heritage either cultural or of any
        other kind, there would be no point trying to save it.</text>
 </page> §
-<page="EN-46">
+<page="EN-45">
 <text>   #heritage » Feed heritage » Comments Feed heritage » iCal Feed
    alternate alternate alternate alternate
 
@@ -3870,7 +3863,7 @@ heritage Community
    © 2023 heritage Community of Kalamazoo. All Rights Reserved.
    Privacy Policy</text>
 </page> §
-<page="EN-47">
+<page="EN-46">
 <text>   #heritage University » Feed heritage University » Comments Feed
    heritage University » iCal Feed alternate alternate alternate alternate
    heritage University RSS2 Feed
@@ -4073,7 +4066,7 @@ We invite you to invest in heritage University!
    advancement@heritage.edu or (509) 865-8587.
      __________________________________________________________________</text>
 </page> §
-<page="EN-48">
+<page="EN-47">
 <text>   #resilience » Feed resilience » Comments Feed resilience » Loss and
    damage: How can culture and heritage loss be measured and addressed?
    Comments Feed alternate alternate alternate
@@ -4224,6 +4217,68 @@ talks?
 
    Tags: cultural heritage, culture, environmental effect of climate
    change, loss and damage</text>
+</page> §
+<page="EN-48">
+<text>     * Corporate
+          + heritage at a Glance
+          + Vision  Mission
+--
+               o Exports
+               o heritage Parlour
+               o heritage Distribution Centre
+               o Locations
+--
+          + Subsidiary
+               o heritage Nutrivet Limited
+          + JV
+               o heritage Novandie Foods Pvt Ltd
+     * Investors
+--
+
+   heritage Foods was founded to create and share wealth ethically among
+   the farming community in a structured manner
+--
+
+   CAUTION: heritage Foods Limited. Since it’s incorporation (i.e.
+   05/06/1992) is not accepting any type of deposits from the public, if
+   anybody is asking any type of deposits in the name of heritage Foods
+   Limited. Don't believe such false assurance.
+--
+   [probiotic.jpg]
+   heritage Total Curd | #MakesYourDay (తెలుగు) #heritageFoods
+
+--
+
+A heritage of
+
+--
+   Families Consume
+   heritage Products Daily
+
+--
+
+   heritage Parlours Operated
+   by Our Franchisees
+--
+
+   Retail Outlets Sell heritage
+   Products From Their Stores
+--
+
+heritage Foods limited
+
+   The heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
+   the year 1992, which is one of the fastest growing Public Listed
+   Companies in India, with two business divisions - Dairy and Renewable
+   Energy. The annual turnover of heritage Foods stood at INR 32,087
+   million in the financial year 2022-23.
+--
+   Corporate
+     * heritage at a Glance
+     * Corporate Management Team
+--
+
+   Copyright © , heritage Foods Limited. Designed by Pixel Studios</text>
 </page> §
 <page="EN-49">
 <text>     * Corporate

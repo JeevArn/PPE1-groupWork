@@ -136,7 +136,7 @@ Contact
        __________________________________________________
        __________________________________________________
      *
-     * Name
+     * Email
        ____________________
        This field is for validation purposes and should be left unchanged.
 
