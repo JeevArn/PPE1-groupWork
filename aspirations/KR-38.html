@@ -1090,7 +1090,7 @@ var contextPath = '';
 		
 		 function setWeather(){
 				$.ajax({
-					url: "/kmaRest.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192",
+					url: "/kmaRest.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991",
 					type: "POST",
 					cache: false,
 					dataType: "json",
@@ -1871,7 +1871,7 @@ $(document).ready(function() {
 
 
 
-<script type="text/javascript" src="/validator.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192"></script>
+<script type="text/javascript" src="/validator.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991"></script>
 <script type="text/javascript"> 
 
      var bCancel = false; 
@@ -1903,7 +1903,7 @@ function fn_egov_insert_satisfactionList_BAK() {
 	}
 
 	if (confirm('등록하시겠습니까?')) {
-		document.frm.action = "/kr/cop/stf/insertSatisfaction.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192";
+		document.frm.action = "/kr/cop/stf/insertSatisfaction.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991";
 		document.frm.submit();
 	}
 }
@@ -1921,7 +1921,7 @@ function fn_egov_insert_satisfactionList(){
 		var stsfdgCn = $("#stsfdgCn").val();
 		
 		$.ajax({
-			url:"/kr/cop/stf/insertSatisfaction.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192",
+			url:"/kr/cop/stf/insertSatisfaction.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991",
 			dataType: "JSON",
 			type : "POST",
 			data : {
@@ -1951,7 +1951,7 @@ function fn_egov_updt_satisfactionList() {
 
 	if (confirm('수정하시겠습니까?')) {
 		document.frm.modified.value = "true";
-		document.frm.action = "/kr/cop/stf/updateSatisfaction.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192";
+		document.frm.action = "/kr/cop/stf/updateSatisfaction.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991";
 		document.frm.submit();
 	}
 }
@@ -1959,7 +1959,7 @@ function fn_egov_updt_satisfactionList() {
 function fn_egov_selectSatisfactionForupdt(satisfactionNo, index) {
 	
 	document.frm.stsfdgNo.value = satisfactionNo;
-	document.frm.action = "/kr/cop/bbs/selectArticleDetail.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192";
+	document.frm.action = "/kr/cop/bbs/selectArticleDetail.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991";
 	document.frm.submit();
 }
 
@@ -1969,7 +1969,7 @@ function fn_egov_deleteSatisfactionList(satisfactionNo, index) {
 	if (confirm('삭제하시겠습니까?')) {
 		document.frm.modified.value = "true";
 		document.frm.stsfdgNo.value = satisfactionNo;
-		document.frm.action = "/kr/cop/stf/deleteSatisfaction.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192";
+		document.frm.action = "/kr/cop/stf/deleteSatisfaction.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991";
 		document.frm.submit();
 	}
 }
@@ -1977,7 +1977,7 @@ function fn_egov_deleteSatisfactionList(satisfactionNo, index) {
 function fn_egov_select_satisfactionList(pageNo) {
 	document.frm.subPageIndex.value = pageNo;
 	document.frm.stsfdgNo.value = '';
-	document.frm.action = "/kr/cop/bbs/selectArticleDetail.do;jsessionid=71C561B0EB39A3D4D71694CD1B3F3192";
+	document.frm.action = "/kr/cop/bbs/selectArticleDetail.do;jsessionid=3D7113CF3DF267D546FCB9F2C9B5F991";
 	document.frm.submit();
 }
 </script>

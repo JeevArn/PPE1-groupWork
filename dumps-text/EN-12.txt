@@ -1,493 +1,300 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KPR8BWH
+   #Merriam-Webster Dictionary
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WW4KHXF
+
+   (BUTTON) Menu Toggle
+
+   (BUTTON)
+   heritage____________ (BUTTON) (BUTTON)
+
+     * Games & Quizzes
+     * Games & Quizzes
+     * Word of the Day
+     * Grammar
+     * Wordplay
+     * Word Finder
+     * Thesaurus
+     * Join MWU
+     *
+          + Shop
+          + Books link icon
+          + Merch link icon
+     *
+          + Settings
+          + My Words
+          + Recents
+          + Account
+          + Log Out
+     * More
+          + Thesaurus
+          + Join MWU link icon
+          + Shop
+          + Books link icon
+          + Merch link icon
+          + Log In
+          + Username
+          + My Words
+          + Recents
+          + Account
+          + Log Out
+
+   Est. 1828
+
+   (BUTTON)
+   Dictionary
+     * Definition
+     * Definition
+     *
+     * Synonyms
+     * Example Sentences
+     * Word History
+     * Entries Near
 
      *
+          + Cite this EntryCitation
+          + Share
+          + Kids DefinitionKids
+          + More from M-W
+       Show more
+     * Show more
+          + Citation
+          + Share
+          + Kids
+          + More from M-W
 
-     * Call us
-     * Email us
-     * Live chat
-     * Find a branch
-
-   (BUTTON) Toggle navigation Heritage Bank - People First
-     * Banking
-
-Accounts
-          + Interest rates
-          + Ways to bank with us
-          + Business Accounts
-          + Calculators
-          + Open an account
-          +
-          + Budget Planner
-          + Savings Calculator
-          + Term Deposit Calculator
-
-Credit Cards
-          + Find the card that fits you
-          + Compare all cards
-          + Balance transfer
-          + Rewards
-          + Credit Card enquiry
-          +
-
-More
-          + Term Deposits
-          + Insurance
-          + Business Banking
-          + International & Travel Banking
-          + Financial planning
-          + Contact us 24/7
-          +
-     * Loans
-
-Home Loans
-          + Find the loan that fits you
-          + Interest rates
-          + Calculators
-          + Compare all Home Loans
-          + Home Loan enquiry
-          +
-          + Buy your first home
-          + Buy your next home
-          + Refinance to Heritage
-          + Buy an investment property
-          + Fixed rates
-          + Variable rates
-          + All interest rates
-          + Home Loan repayment calculator
-          + Borrowing power calculator
-          + Refinance calculator
-          + Extra repayment calculator
-          + All Calculators
-
-Personal Loans
-          + Car Loan
-          + Calculators
-          + Compare all Personal Loans
-          + Personal Loan enquiry
-          +
-          + Borrowing power calculator
-          + Personal Loan repayment calculator
-          + Car Loan repayment calculator
-
-Business Loans
-          + Business Equipment Loan
-          + Interest rates
-          + Business Loan enquiry
-          +
-     * Business
-
-Business Banking
-          + Business Accounts
-          + Business Visa Credit Card
-          + Business Loans
-          + Interest rates
-          + Business enquiry
-          +
-
-Support
-          + Activate a card
-          + Business Payment Tools
-          + Hardship Assistance
-          + Internet Banking Assistance
-          + Financial Tips
-          + Guide to starting a business
-          +
-     * Calculators
-
-Savings Calculators
-          + Budget planner
-          + Savings calculator
-          + Income tax calculator
-          + Term deposit calculator
-          + Expense planner
-          +
-
-Home Loan Calculators
-          + Home loan calculator
-          + Borrowing power calculator
-          + Refinance calculator
-          + Extra repayment calculator
-          +
-
-Personal Loan Calculators
-          + Borrowing power calculator
-          + Personal loan repayment calculator
-          + Car loan repayment calculator
-          +
-     * Support
-
-Support
-          + Scam alerts & fraud help
-          + Account help
-          + Card Account Help
-          + Internet banking help
-          + Hardship assistance
-          + FAQs
-          + Forms & brochures
-          +
-          + Activate a card
-          + Activate a gift card
-          + Change your card PIN
-          + Losing a loved one
-          + Forms
-          + Brochures
-
-I want to...
-          + Switch to Heritage
-          + Buy a home
-          + Buy a car
-          + Invest in property
-          + Start a business
-          + Travel more
-          + Apply for sponsorship
-          +
-     * Financial Tips
-
-All financial tips
-          + Business
-          + Buying a car
-          + Buying a home
-          + Credit
-          + Home renovation
-          + Investing
-          + Kids & Teens
-          + Retirement
-          + Migrant banking
-          + Over 65 support
-          + Saving & budgeting
-          + Security & scams
-          + Travelling
-          +
-     * About
-
-About us
-          + Our locations
-          + News
-          + Customer Owned Banking
-          + Careers
-          + Member centre
-          + Merger news
-          +
-
-Heritage in the community
-          + Heritage Bank Stadium
-          + Photographic Awards
-          + Community Branches
-          + Refer a friend
-          + Sustainability
-          + Our Charitable Foundation
-          +
-
-Follow us
-          + Facebook
-          + Youtube
-          + Instagram
-          + LinkedIn
-          + X (Twitter)
-          +
-
-   Login
-   ____________________
-   Submit
-     * Internet Banking
-     * Internet Banking
-     * Download the app
-     * Online Share Trading
-     * Business Netbanking
-
-   Back
-   Home
-   Call us
-   Chat
-   Email us
-   Locations
-
-Say hello to banking that puts you first.
-
-   At Heritage, we’ve been committed to Australian communities since 1875.
-   In a world where so much has changed, our mission to put people before
-   profits, never has.
-
-   Awards for Bank of the Year - Customer Service and Customer-Owned
-   Institution of the Year
-   Switch to Heritage
-
-About this Rate
+     * (BUTTON) Save Word
+          + To save this word, you'll need to log in.
+            Log In
 
    (BUTTON)
 
-   (BUTTON) Close this Window
+heritage
+
+noun
+
+   her·​i·​tage ˈher-ə-tij  How to pronounce heritage (audio)
+   ˈhe-rə-
+   Synonyms of heritage next
+   1
+   : property that descends to an heir
+   2
+   a
+   : something transmitted by or acquired from a predecessor : legacy,
+   inheritance
+   proud of her Chinese heritage
+   a rich heritage of folklore
+   The battlefields are part of our heritage and should be preserved.
+   b
+   : tradition
+   the party's heritage of secularism
+   3
+   : something possessed as a result of one's natural situation or birth :
+   birthright
+   the heritage of natural freedom was long since cast away— V. L.
+   Parrington
+
+Synonyms
+
+     * convention
+     * custom
+     * prescription
+     * rubric
+     * rule
+     * tradition
+
+   See all Synonyms & Antonyms in Thesaurus
+
+Examples of heritage in a Sentence
+
+   hospitality is a cherished Southern heritage this farm is my heritage
+   from my father, as it was for him from his father
+   Recent Examples on the Web Mutton’s distinctive heritage, retained even
+   as Europeans were encroaching on the Pacific Northwest, is particularly
+   striking. — Meghan Bartels, Scientific American, 18 Dec. 2023 While
+   Christmas is widely commemorated, the month also features a tapestry of
+   festivities that highlight the rich cultural heritage, unity and
+   resilience of Black people across the globe. — Melissa Noel, Essence,
+   18 Dec. 2023 Remedy’s games are increasingly leaning into the studio’s
+   Finnish heritage, something that fills Lake with immense pride. — Gene
+   Park, Washington Post, 16 Dec. 2023 Over the next 11 months, the couple
+   had several conversations with the Ministry of Tourism and Antiquities
+   of Egypt, which aims to protect and preserve the heritage and ancient
+   history of Egypt. — Sadiba Hasan, New York Times, 15 Dec. 2023 Buy on
+   Amazon Real Cajun Chef Donald Link lives, breathes, and cooks his
+   heritage daily. — Southern Living Editors, Southern Living, 14 Dec.
+   2023 The vow came amid a spate of violent and hateful incidents
+   targeting Jews and people of Arab heritage against the backdrop of the
+   Israel-Hamas war. — NBC News, 14 Dec. 2023 Despite its 41-year
+   heritage, Gulf Craft is still relatively unknown in North America. —
+   Kevin Koenig, Robb Report, 13 Dec. 2023 Like many of her peers, she had
+   been inspired by the civil rights movement to think about organizing on
+   behalf of her cultural heritage as a Mexican American. — Penelope
+   Green, New York Times, 9 Dec. 2023 See More
+
+   These examples are programmatically compiled from various online
+   sources to illustrate current usage of the word 'heritage.' Any
+   opinions expressed in the examples do not represent those of
+   Merriam-Webster or its editors. Send us feedback about these examples.
+
+Word History
+
+   Etymology
 
-Heritage Bank can help you with
+   Middle English heritage, eritage, borrowed from Anglo-French, from
+   heriter "to inherit, make an heir" (going back to Late Latin hērēditāre
+   "to leave as an inheritance, inherit, make an heir," from Latin hērēd-,
+   hērēs heir entry 1 + -itāre, verb suffix) + -age -age
 
-   ""
-
-Banking >
-
-     * Accounts
-     * Credit cards
-     * International
-
-   ""
-
-Loans >
-
-     * Home loans
-     * Personal loans
-     * Business loans
-
-   ""
-
-Insurance >
-
-     * Car insurance
-     * Home insurance
-     * Landlord insurance
+   Note: The Latin verb suffix -itāre normally has repetitive or
+   frequentative value (cf. hesitate, meditate, palpitate), not factitive
+   or causative value, so in this instance it may be of distinct origin. A
+   possible model is the adjective hērēditārius (see hereditary), in the
+   formation of which a stem hērēdit- appears to have been extracted from
+   the noun hērēditāt-, hērēditās "succession to an heir, inheritance," by
+   construing the suffix as -āt-, -ās (or, alternatively, *hērēditātārius
+   was shortened by haplology to hērēditārius).
+   First Known Use
 
-   ""
-
-Business >
-
-     * Accounts
-     * Business loans
-     * Business credit card
-
-   ""
-
- Investment >
-
-     * Term deposits
-     * Financial planning
-     * Superannuation
-
-   ""
-
-Calculators >
-
-     * Home loan calculators
-     * Personal loan calculators
-     * Savings calculators
-
-     Heritage Bank can help you with...
-     * "" Accounts
-     * "" Loans
-     * "" Insurance
-     * "" Credit cards
-     * International & travel banking
-     * "" Business Banking
-     * "" Investment
-     * "" Calculators and tools
-     * Support Help with my account
-
-   Personal loans
-
-   Our personal loans are packed with features like low interest rates,
-   unlimited extra repayments and free online redraw.
-
-   Starlight Christmas Appeal
-   Help fulfil Starlight’s mission of brightening the lives of sick kids
-   and teens around Australia by donating a gift in the Heritage and
-   People’s Choice National Christmas Appeal.
+   13th century, in the meaning defined at sense 1
+   Time Traveler
+   The first known use of heritage was in the 13th century
+   See more words from the same century
 
-   Research tools
-   Calculators Guides Interest rates
-   Home loan repayment calculator
-   Borrowing power calculator
-   Personal loan repayment calculator
-   The home loan application process
-   Buying a car
-   Switch to Heritage
-   Home loan interest rates
-   Account interest rates
-   Compare credit cards
+Dictionary Entries Near heritage
 
-   These articles may help you
-   How to choose the best savings account for you
-   Saving throughout your lifetime is important, so making sure you have
-   the right account is key.
-   Ready for a sneak peek?
-   Heritage and People's Choice have officially merged to create a new
-   national mutual that offers a compelling alternative to the big banks,
-   and we'd like to share our new brand with you.
+   heritably
 
-   Contact us 24/7
-   Our local Australian contact centre is waiting for you. Call us 24/7 on
-   13 14 22. If overseas, call +617 4690 9000.
-   Learn more
-   Our locations
-   Visit us in branch today. Our branch locator can help you find the
-   closest Heritage Bank branch or ATM near you.
-   Learn more
-   Scam help
-   Fight scammers with the help of Heritage. Report scams to us 24/7 on 13
-   14 22 and keep up to date with our latest scam alerts.
-   Learn more
-   Sustainability
-   We understand that the longevity of our society depends on the
-   sustainability of our environment, communities and business practices.
-   Learn more
+   heritage
 
-Proudly supporting people's firsts.
+   heritance
+   See More Nearby Entries
 
-   Helping our customers achieve their firsts in life and reach their
-   financial dreams is at the heart of all we do. Whether it's your first
-   car, home or business, we're proud to support your journey every step
-   of the way.
-   Awards for Bank of the Year - Customer Service and Customer-Owned
-   Institution of the Year
-   Learn about our member's firsts
+Cite this Entry
 
-   Top
+   Style
+   [MLA____________]
 
-Things you should know
+   “Heritage.” Merriam-Webster.com Dictionary, Merriam-Webster,
+   https://www.merriam-webster.com/dictionary/heritage. Accessed 4 Jan.
+   2024.
+   Copy Citation
 
-   *
+Share
 
-   This material has been prepared without taking into account your
-   objectives, financial situation or needs ('your circumstances'). Before
-   making a decision, consider whether any advice given is appropriate to
-   your circumstances, and read the relevant terms and conditions and
-   Product Disclosure Statement (available in-branch or at
-   heritage.com.au). Lending criteria, limits, conditions, fees and
-   charges apply. Target Market Determinations available at
-   www.heritage.com.au/TMD. Information could change without notice.
+   Post the Definition of heritage to Facebook Facebook Facebook
+   Share the Definition of heritage on Twitter Twitter Twitter
 
-   �
+Kids Definition
 
-   Heritage Bank, a trading name of Heritage and People’s Choice Ltd ABN
-   11 087 651 125, AFSL and Australian Credit Licence 244310 arranges this
-   insurance as agent for the insurer Allianz Australia Insurance Limited
-   ABN 15 000 122 850 AFSL No 234708. We do not provide any advice based
-   on any consideration of your objectives, financial situation or needs.
-   Policy terms, conditions, limits and exclusions apply. Before making a
-   decision, please consider the relevant Product Disclosure Statement
-   available from heritage.com.au. The relevant Target Market
-   Determination is available at heritage.com.au/TMD. If you purchase this
-   insurance, we will receive a commission that is a percentage of the
-   premium as disclosed in our Financial Services Guide. Ask us for more
-   details before we provide you with services.
-     __________________________________________________________________
+   heritage
+   noun
+   her·​i·​tage ˈher-ət-ij  How to pronounce heritage (audio)
+   1
+   : property that is handed down to an heir
+   2
+   : something acquired from the past
+   a rich heritage of folklore
 
-   Logo
+More from Merriam-Webster on heritage
 
-   Climate Active Carbon Neutral Organisation
+   Nglish: Translation of heritage for Spanish Speakers
 
-We acknowledge and honour the Traditional Owners of the land on which we
-meet, work and live. We pay our respect to Aboriginal and Torres Strait
-Islander cultures and to Elders past, present and emerging.
+   Britannica English: Translation of heritage for Arabic Speakers
+   Last Updated: 27 Dec 2023 - Updated example sentences
+   Love words? Need even more definitions?
 
-Heritage and People's Choice Limited ©
-ABN 11 087 651 125
-AFSL and Australian Credit Licence 244310
+   Subscribe to America's largest dictionary and get thousands more
+   definitions and advanced search—ad free!
+   Merriam-Webster unabridged
+   Play Quordle: Guess all four words in a limited number of tries. Each
+   of your guesses must be a real 5-letter word.
 
-   1.8.2
+Can you solve 4 words at once?
 
-About Heritage
+   (BUTTON) Play (BUTTON) Play
 
-   About us
+Can you solve 4 words at once?
 
-   Get in touch
+   (BUTTON) Play (BUTTON) Play
 
-   Careers
+Word of the Day
 
-   Site map
+skulk
 
-   Our locations
+   Listen to the pronunciation of skulk
 
-Assistance
+   See Definitions and Examples »
 
-   Financial Tips
+   Get Word of the Day daily email!
+   SUBSCRIBE ____________________
 
-   Scam & Fraud Protection
+Popular in Grammar & Usage
 
-   Privacy policy
+   See All
 
-   Site Disclaimer
+8 Grammar Terms You Used to Know, But Forgot
 
-   Terms & Conditions
+Homophones, Homographs, and Homonyms
 
-   Accessibility
+Commonly Misspelled Words
 
-Talk to us
+A Guide to Em Dashes, En Dashes, and Hyphens
 
-Call 13 14 22
+Absent Letters That Are Heard Anyway
 
-   Find a branch or ATM
-   Email us
+   See All
 
-Talk to us
+Popular in Wordplay
 
-Call 13 14 22
+   See All
 
-   Call 13 14 22 Find a branch or ATM Email us
+10 Words for Lesser-Known Games and Sports
 
-Things you should know
+The Words of the Week - Dec. 29
 
-   *
+Your Favorite Band is in the Dictionary
 
-   This material has been prepared without taking into account your
-   objectives, financial situation or needs ('your circumstances'). Before
-   making a decision, consider whether any advice given is appropriate to
-   your circumstances, and read the relevant terms and conditions and
-   Product Disclosure Statement (available in-branch or at
-   heritage.com.au). Lending criteria, limits, conditions, fees and
-   charges apply. Target Market Determinations available at
-   www.heritage.com.au/TMD. Information could change without notice.
+Etymologies for Every Day of the Week
 
-   �
+7 Common Idioms That Come from Chickens
 
-   Heritage Bank, a trading name of Heritage and People’s Choice Ltd ABN
-   11 087 651 125, AFSL and Australian Credit Licence 244310 arranges this
-   insurance as agent for the insurer Allianz Australia Insurance Limited
-   ABN 15 000 122 850 AFSL No 234708. We do not provide any advice based
-   on any consideration of your objectives, financial situation or needs.
-   Policy terms, conditions, limits and exclusions apply. Before making a
-   decision, please consider the relevant Product Disclosure Statement
-   available from heritage.com.au. The relevant Target Market
-   Determination is available at heritage.com.au/TMD. If you purchase this
-   insurance, we will receive a commission that is a percentage of the
-   premium as disclosed in our Financial Services Guide. Ask us for more
-   details before we provide you with services.
-   Logo
+   See All
 
-   Climate Active Carbon Neutral Organisation
+Games & Quizzes
 
-We acknowledge and honour the Traditional Owners of the land on which we
-meet, work and live. We pay our respect to Aboriginal and Torres Strait
-Islander cultures and to Elders past, present and emerging.
+   See All
+   Play Quordle: Guess all four words in a limited number of tries. Each
+   of your guesses must be a real 5-letter word.
+   Quordle Can you solve 4 words at once?
+   (BUTTON) Play
+   Play Blossom: Solve today's spelling word game by finding as many words
+   as you can using just 7 letters. Longer words score more points.
+   Blossom Word Game You can make only 12 words. Pick the best ones!
+   (BUTTON) Play
+   Play Missing Letter: a crossword with a twist. Each of the 25 puzzle
+   words start with a different letter of the alphabet. Which letter is
+   missing?
+   Missing Letter A crossword with a twist
+   (BUTTON) Play
+   winning words from the national spelling bee logo
+   Spelling Bee Quiz Can you outdo past winners of the National Spelli...
+   (BUTTON) Take the quiz
 
-Heritage and People's Choice Limited ©
-ABN 11 087 651 125
-AFSL and Australian Credit Licence 244310
+   Merriam Webster
 
-   1.8.2
+   Learn a new word every day. Delivered to your inbox!
+   ____________________ SUBSCRIBE >
+     * Help
+     * About Us
+     * Advertising Info
+     * Contact Us
+     * Diversity
+     * Privacy Policy
+     * Terms of Use
 
-About Heritage
+     * Facebook
+     * Twitter
+     * YouTube
+     * Instagram
 
-   About us
-
-   Careers
-
-   Get in touch
-
-   Our locations
-
-   Community & Sponsorship
-
-   Site map
-
-Assistance
-
-   Financial Tips
-
-   Scam & Fraud Protection
-
-   Privacy policy
-
-   Site Disclaimer
-
-   Terms & Conditions
-
-   Accessibility
-
-   TOP
+   © 2024 Merriam-Webster, Incorporated

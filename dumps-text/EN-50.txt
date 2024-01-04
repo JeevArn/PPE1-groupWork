@@ -1,553 +1,255 @@
-   [tr?id=889870088554345&ev=PageView&noscript=1]
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PFDJN3H
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5KT8D9
-
-   (BUTTON) Toggle navigation logo
-     * Corporate
-          + Heritage at a Glance
-          + Vision & Mission
-          + Corporate Management Team
-          + Functional Heads
-          + Our Commitments
-          + Awards & Recognitions
-          + CSR Activities
-               o CSR Activities for the Financial Year 2023-24
-          + GSTN Numbers
-     * Business Verticals
-          + Dairy
-               o Dairy Home
-               o Exports
-               o Heritage Parlour
-               o Heritage Distribution Centre
-               o Locations
-               o Excellence in Quality
-          + Renewable Energy
-     * Products
-          + Milk
-          + UHT Milk
-          + Curd
-          + Frozen Desserts
-          + Lassi
-          + Ice-Creams
-          + Buttermilk
-          + Milkshake
-          + Paneer
-          + Sweets
-          + Ghee
-          + Butter
-          + Cheese
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-          + Whey Drink
-          + Skimmed Milk Powder
-          + [bf-milk.jpg]
-            Buffalo Milk
-          + [tonemilk.jpg]
-            Toned Milk
-          + [fullcream-milk.jpg]
-            Full Cream Milk
-          + [standardized-milk.jpg]
-            Standardized Milk
-          + [dbtoned-milk.jpg]
-            Double Toned Milk
-          + [cowmilk.jpg]
-            Cow Milk
-          + [slim-milk.jpg]
-            Slim Milk
-          + [a2fullcreammilk.jpg]
-            A2 Full Cream Milk
-          + [uhtmilk.jpg]
-            UHT Milk
-          + [totalcurd.jpg]
-            Total Curd
-          + [probioticcurd.jpg]
-            Probiotic Curd
-          + [creamilicious.png]
-            Creamilicious Curd
-          + [cones.jpg]
-            Cones
-          + [cups.jpg]
-            Cups
-          + [juicy_bars.jpg]
-            Juicy Bars
-          + [familypack.jpg]
-            Family Packs
-          + [sweet-lassi.png]
-            Sweet Lassi
-          + [mango-lassi.png]
-            Mango Lassi
-          + [straberry.png]
-            Strawberry Lassi
-          + [subjalassi.jpg]
-            Sabja Lassi
-          + [tubs.jpg]
-            Tubs
-          + [icbars.jpg]
-            Bars
-          + [kulfi.jpg]
-            Kulfi
-          + [buttermilk.jpg]
-            Spiced Buttermilk
-          + [plain-buttermilk.png]
-            Plain Buttermilk
-          + [milkshake-vanilla.jpg]
-            Vanilla
-          + [milkshake-chocolate.jpg]
-            Chocolate & Caramel
-          + [chok.jpg]
-            Chocolate
-          + [biscuit.jpg]
-            Cookies Cream
-          + [milkshake-strawberry.jpg]
-            Strawberry
-          + [paneer-fresh.jpg]
-            Fresh Paneer
-          + [paneer.jpg]
-            Lite Paneer
-          + [doodhpedas.jpg]
-            Doodh Peda
-          + [milkcake.jpg]
-            Milk Cake
-          + [gulab-jamun1.png]
-            Gulab Jamun
-          + [rasagulla1.png]
-            Rasagulla
-          + [cow-ghee1.jpg]
-            Cow Ghee
-          + [buffalo-ghee1.jpg]
-            Buffalo Ghee
-          + [special-ghee.jpg]
-            Hi Aroma Ghee
-          + [table-butter.jpg]
-            Table Butter
-          + [cooking-butter.jpg]
-            Cooking Butter
-          + [processedcheese.jpg]
-            Processed Cheese
-          + [mozzarellacheese.jpg]
-            Mozzarella Cheese
-          + [processedcheeseslice.jpg]
-            Processed Cheese Slice
-          + [processedcheesespread.jpg]
-            Processed Cheese Spread
-          + [freshcream.jpg]
-            Fresh Cream
-          + [coldcoffee.jpg]
-            Cold Coffee
-          + [Cafe-Latte.jpg]
-            Cafe Latte
-          + [Cafe_Mocha_1.jpg]
-            Cafe Mocha
-          + [fmilk-pbadam.jpg]
-            Badam Charger
-          + [fmilk-badam.jpg]
-            Badam
-          + [fmilk-pista.jpg]
-            Pista
-          + [fmilk-chocolate.jpg]
-            Chocolate
-          + [fmilk-elachi.jpg]
-            Elachi
-          + [fmilk-pineapple.jpg]
-            Pineapple
-          + [fmilk-strawberry.jpg]
-            Strawberry
-          + [fmilk-vanilla.jpg]
-            Vanilla
-          + [gluco-shakti.png]
-            Gluco Shakti Orange
-          + [gluco-shakti-lemon.png]
-            Gluco Shakti Lemon
-          + [gluco-shakti-pineapple.png]
-            Gluco Shakti Pineapple
-          + [smpowder.jpg]
-            Milk Powder
-     * Products
-          + Milk
-               o Buffalo Milk
-               o A2 Full Cream Milk
-               o Toned milk
-               o Double Toned Milk
-               o Full cream milk
-               o Standardized Milk
-               o Cow milk
-               o Slim Milk
-          + UHT Milk
-          + Curd
-               o Total Curd
-               o Premium Curd
-               o Probiotic Curd
-               o class="">Creamilicious Curd
-          + Buttermilk
-          + Lassi
-               o Sweet Lassi
-               o Mango Lassi
-               o Strawberry Lassi
-               o Subja Lassi
-          + Icecreams
-               o Tubs
-               o Bars
-               o Kulfi
-          + Frozen Desserts
-               o Cones
-               o Cups
-               o Juicy Bars
-               o Family Packs
-          + Milkshake
-               o Vanilla
-               o Chocolate
-               o Strawberry
-          + Paneer
-               o Fresh Paneer
-               o Lite Paneer
-          + Sweets
-               o Doodh Peda
-               o Milk Cake
-          + Ghee
-               o Cow Ghee
-               o Buffalo Ghee
-               o Hi Aroma Ghee
-          + Butter
-               o Cooking Butter
-               o Table Butter
-          + Cheese
-               o Processed Cheese
-               o Mozzarella Cheese
-               o Processed Cheese Slice
-               o Processed Cheese Spread
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-               o Badam Charger
-               o Badam
-               o Pista
-               o Chocolate
-               o Elachi
-          + Skimmed Milk Powder
-     * Subsidiary/JV
-          + Subsidiary
-               o Heritage Nutrivet Limited
-          + JV
-               o Heritage Novandie Foods Pvt Ltd
-     * Investors
-          + Listing Information
-          + Board of Directors
-               o Brief Profile of Directors
-               o Board Committees
-               o Independent Director
-                    # Code for Independent Director
-               o Familiarization Programme
-          + Financial
-               o Annual Report
-                    # Annual Report
-                    # Annual Report 2022-23 flip book
-                    # Subsidiary / Associate / JV Annual Reports
-               o Financial Report
-                    # Quarterly Financial Results
-                    # Shareholder/ Investor Presentation
-          + Statutory Information
-               o Meetings
-                    # Annual General Meetings
-                    # EGM / Postal Ballot
-                    # Notice of Board Meetings
-               o Stock Exchange
-                    # Notice for Closure of Trading Window
-                    # Outcome of Board Meeting
-                    # Stock Exchange Clarifications
-                    # Concall
-                    # Reconciliation of Share Capital Audit Report
-                    # Investor Grievances Report
-                    # BRSR
-                    # RTA Certificate 74(5)
-                    # Yearly Disclosures
-                    # Regulation 40(9 & 10)
-                    # Regulation 7(3)
-                    # Communication to Shareholders
-                    # Related Party Transaction
-               o MOA & AOA
-               o Management Discussion & Analysis
-               o Research Reports
-               o Rights Issue
-               o Scheme of Arrangement
-               o Annual Disclosure Formats
-               o Annual Return
-          + Policies
-          + Corporate Governance
-               o Shareholding Pattern
-               o Corporate Governance Reports
-               o RTA & Compliance Officer
-               o Newspaper Publications
-               o Familiarization Program
-               o Secretarial Reports
-                    # Secretarial Audit Report
-                    # Annual Secretarial Compliance Report
-          + Dividend/ IEPF
-               o Dividend/Unclaimed Dividend
-                    # Dividend History
-                    # Unclaimed Dividend
-                    # Unclaimed Dividend from FY 2014-15 to 2022-23 (1st
-                      Int Div)
-                    # Unclaimed Dividend Register
-               o IEPF
-                    # Shares Transfer to IEPFA
-               o Nodal Officer
-          + Investor Contacts
-               o Investor Grievance
-               o Designated Official
-               o KMP Details
-          + Credit Rating
-          + Investor Service Request
-     * News & Events
-     * Gallery
-     * Contact Us
-     *
-     *
-
-   Heritage Foods was founded to create and share wealth ethically among
-   the farming community in a structured manner
-   The farming community was fragmented with no guidance and voice
-   I am proud we have achieved our objective with our vision and mission
-   for economic growth
-   I promise as trustees our moral compass will remain to true north
-   always
-   Smt. Bhuvaneswari Nara
-   Vice Chairperson & Managing Director
-
-I BELIEVE
-
-   Smt. Bhuvaneswari Nara
-
-Buy Now
-
-   buy on amazon
-     * buy on bigbasket
-
-   Important: We have moved to H.No.8-2-293/82/A/1286, Plot No: 1286, Road
-   No. 1 & 65, Jubilee Hills, Hyderabad- 500033, Telangana, India w.e.f
-   1-12-2022
-
-   CAUTION: Heritage Foods Limited. Since it’s incorporation (i.e.
-   05/06/1992) is not accepting any type of deposits from the public, if
-   anybody is asking any type of deposits in the name of Heritage Foods
-   Limited. Don't believe such false assurance.
-
-Give your family
-
-The Goodness of Ghee
-
-   Make your cooking ultra-delicious
-   and provide a golden treat to your taste buds
-   Explore More
-   [ghee-icon-1.png]
-
-   Great
-   for taste
-   [ghee-icon-2.png]
-
-   Rich in
-   Vitamins A & E
-   [ghee-icon-3.png]
-
-   Promotes
-   Better Digestion
-   [ghee-icon-4.png]
-
-   Improves
-   Immunity
-
-   [paneer-lite.png]
-   Lite Paneer
-   Explore
-   [paneer-fresh.png]
-   Fresh Paneer
-   Explore
-
-Milk
-
-Toned Milk
-
-   Fresh & pure milk is procured from our farmers and processed,
-   pasteurized, homogenized and packed at state-of-the-art processing
-   plants with utmost care to ensure goodness.
-   Explore More
-     * [mlk-icon-1.png]
-
-3.0%
-       [snf-blue.png]
-
-8.5%
-     * [milk-1.png]
-     * [mlk-icon-5.png]
-
-Vitamin A & D
-       [storage-icon.png]
-
-48hrs at 4^ C
-
-Milk
-
-Full cream milk
-
-   Full Cream Milk is rich in fat, so it is suitable for those with a low
-   BMI.What’s more, it is at its purest and best because it is processed
-   at our state-of-the-art processing plants.
-   Explore More
-     * [fat-ora.png]
-
-6.0%
-       [snf-do.png]
-
-9.0%
-     * [milk-2.png]
-     * [storage-icon-do.png]
-
-48hrs at 4^ C
-
-Milk
-
-Cow Milk
-
-   Golden Cow Milk is the culmination of a series of step such as
-   procurement, processing, pasteurization, homogenization and packaging
-   at state-of-the-art processing plants with utmost care to ensure
-   goodness.
-   Explore More
-     * [fat-gold.png]
-
-3.5%
-       [snf-gold.png]
-
-8.5%
-     * [milk-3.png]
-     * [deg-gold.png]
-
-48hrs at 4^ C
-
-Our goodness
-
-   Comes in many types!
-
-   UHT Milk
-   View All
-
-   Curd
-   View All
-
-   A-one Butter Milk
-   View All
-
-   Lassi
-   View All
-
-   Flavoured Milk
-   View All
-
-   Paneer
-   View All
-
-   Butter
-   View All
-
-   Sweets
-   View All
-
-   [probiotic.jpg]
-   Heritage Total Curd | #MakesYourDay (తెలుగు) #HeritageFoods
-
-   View All
-
-A Heritage of
-
-Happiness
-
-   Goodness comes in many milky ways.
-
-15,00,000
-
-   Families Consume
-   Heritage Products Daily
-
-859
-
-   Heritage Parlours Operated
-   by Our Franchisees
-
-3,00,000
-
-   Farmers Supply Fresh,
-   Pure Milk Twice a Day
-
-1,25,000
-
-   Retail Outlets Sell Heritage
-   Products From Their Stores
-
-187
-
-   Bulk Coolers, Mini Chilling
-   & Chilling Centres
-   Procure Milk Daily
-
-Heritage Foods limited
-
-   The Heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
-   the year 1992, which is one of the fastest growing Public Listed
-   Companies in India, with two business divisions - Dairy and Renewable
-   Energy. The annual turnover of Heritage Foods stood at INR 32,087
-   million in the financial year 2022-23.
-   View More
-
-     * Follow us :
-     * [fb.png]
-     * [tw.png]
-     * [lk.png]
-     * [is.png]
-     * [yt.png]
-
-   Download Our App
-
-   *Currently Available in Hyderabad
-
-   Corporate
-     * Heritage at a Glance
-     * Corporate Management Team
-     * Our Commitments
-     * Awards & Recognitions
-     * CSR Activities
-     * GSTN Numbers
-     * Caution Notice
-
-   Products
-     * Milk
-     * UHT Milk
-     * Curd
-     * Buttermilk
-     * Ice-Creams
-     * Frozen Desserts
-     * Lassi
-     * Flavoured Milk
-     * View All
-
-   Investors
-     * Listing Information
-     * Investor Contacts
-     * Quarterly Financials
-     * Annual Reports
-     * Research Reports
-     * Policies
-
-   Business verticals
-     * Dairy
-     * Renewable Energy
-
-   Quick links
-     * News & Events
-     * Gallery
-     * Blog
-     * Careers
-     * Contact Us
-
-   Copyright © , Heritage Foods Limited. Designed by Pixel Studios
+   #alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TX5H48V
+
+   newslink
+
+   MORNING JOURNAL×
+     * News
+          + Local News
+          + Police News
+          + Court News
+          + Obituaries
+          + Ohio News
+          + National News
+          + International News
+     * Sports
+          + Local Sports
+          + Sports Columns
+          + Ohio Sports
+          + National Sports
+     * Opinion
+          + Editorials
+          + Letters to the Editor
+     * Life
+          + Engagements
+          + Weddings
+          + Anniversaries
+          + Births/Birthdays
+     * Obituaries
+     * Classifieds
+     * Jobs
+     * Garage Sales
+     * Contact Information
+          + Contact Us
+          + Subscribe
+          + Advertise
+          + Terms of Service
+     * Submit News
+     * Public Notices
+          + Browse notices
+          + Place a notice
+
+   ____________________
+
+   homepage logo
+
+     * News
+     * Sports
+     * Opinion
+     * Life
+     * Obituaries
+     * Classifieds
+     * Jobs
+     * Legal Notices
+
+     * [search_icon_black.png]
+     * SUBSCRIBE
+
+   ____________________
+
+   homepage logo
+
+     * January 03, 2024
+     * |
+     * Today's Paper
+     * |
+     * Submit News
+     * |
+     * Subscribe Today
+     * |
+     * ...
+
+     * Today's Paper
+     * |
+     * Subscribe Today
+     * |
+     * ...
+
+Money raised for food insecurity despite low turnout for United Way Hungry
+Bowls event
+
+   Local News
+
+   Nov 21, 2023
+
+   [facebook_article_icon.png] [twitter_article_icon.png]
+     * [email_icon.png]
+     * [print_icon.png]
+
+   Christy Pease and Erin Watson, both of Heritage Thermal, serve up the
+   soup at the United Way of Southern Columbiana/Heritage Thermal Hungry
+   Bowls fundraiser held at the Salvation Army to raise money for agencies
+   supported by United Way to stock their food pantries. (Photo by Kristi
+   R. Garabrandt)
+
+   EAST LIVERPOOL — The United Way’s Hungry Bowl fundraising event held in
+   conjunction with Heritage Environmental Services to raise money for
+   three area agencies supported by United Way had a low turnout last
+   week.
+
+   Raymond Wayne, Heritage Thermal, didn’t know whether to attribute the
+   low turnout to unseasonably warm weather or other area fundraisers
+   being held on the same night.
+
+   The event held at the East Liverpool Salvation Army served for $10 a
+   soup kitchen style meal consisting of homemade soups made by United Way
+   board members and Heritage Thermal employees and served by staff of
+   Heritage Environmental Services along with a bottle of water, a dinner
+   roll and cookies to approximately 40 people.
+
+   The event also featured a Chinese auction, with baskets donated by
+   Columbiana County commissioners, Heritage Thermal employees and the
+   board members for the United Way of Southern Columbiana, which brought
+   in approximately $1,000, according to Karen Montgomery, Heritage
+   Environmental Services/Heritage Thermal.
+
+   Montgomery noted that the Columbiana County commissioners and Heritage
+   Thermal each donated $2,500, bringing the total raised for the event to
+   just under $6,000.
+
+   Last year, the fundraiser brought in over $8,000 with many more tickets
+   being sold.
+
+   The money raised will be divided among Family & Community Service,
+   Community Resource Center and the Salvation Army and will be used by
+   each agency to stock their food pantries.
+
+   Those who attended the fundraiser were asked to bring a food donation
+   with them. The donated canned goods were given to the Salvation Army
+   and some of the perishable leftovers were given to Catholic Charities
+   for use in their meal delivery program, Montgomery said.
+
+   “These are just a few of the nine local agencies the United Way of
+   Southern Columbiana County supports,” she noted.
+
+   “The United Way would like to thank HTS (Heritage Thermal) employees
+   for donating auction items, making soups and assisting at the event,”
+   Montgomery said. “A big thank you to those in the community that
+   supported the fundraiser by donating or attending. Together we change
+   lives and impact communities.”
+
+NEWSLETTER
+
+   Today's breaking news and more in your inbox
+   ____________________
+   I'm interested in (please check all that apply)
+     * [ ] Daily Newsletter
+     * [ ] Breaking News
+     * [ ] Obituaries
+
+   Are you a paying subscriber to the newspaper? *
+     * (*) Yes
+     * ( ) No
+
+   ____________________
+
+   Subscribe
+
+COMMENTS
+
+Local News
+
+EP still waiting for long-term health monitoring
+
+   EAST PALESTINE — When a Norfolk Southern train derailed and led to a
+   chemical spill and intentional release and ...
+
+Goshen trustees OK Police Fund changes
+
+   GOSHEN TOWNSHIP — Township trustees approved Police Fund changes in its
+   final meeting of the year Thursday. ...
+
+Columbiana looks at raising water, sewer rates
+
+   COLUMBIANA — The city is looking into the possibility of raising water
+   and sewer rates in the future. City ...
+
+Columbiana PD gets grant for tasers
+
+   COLUMBIANA — The city’s police department has been awarded a grant for
+   new tasers. The city was recently ...
+
+   [johnson-2-246x300.jpg]
+
+Bill Johnson to resign Jan. 21 from Congress for YSU presidency
+
+Lisbon BOE bids farewell to two longtime members
+
+   LISBON — When the Lisbon school board meets to reorganize for the new
+   year at 5 p.m. Jan. 11, board President ...
+
+     * MOST READ
+
+Man shot in chest in Ellsworth Township
+
+Words for East Liverpool residents
+
+Municipal
+
+COMMUNITY CALENDAR
+
+Salem
+
+County Sheriff
+
+                                   Newsletter
+
+   Today's breaking news and more in your inbox
+
+   ____________________
+   I'm interested in (please check all that apply)
+     * [ ] Daily Newsletter
+     * [ ] Breaking News
+     * [ ] Obituaries
+
+   Are you a paying subscriber to the newspaper? *
+     * (*) Yes
+     * ( ) No
+
+   ____________________
+
+   Subscribe
+
+Starting at $4.39/week.
+
+Subscribe Today
+
+   homepage logo
+
+   twitter icon facebook icon
+
+     * News
+          + Local News
+          + Obituaries
+          + Police News
+          + Court News
+     * Sports
+          + Local Sports
+          + Sports Columns
+          + Ohio Sports
+     * Opinion
+          + Editorials
+          + Letters to the Editor
+     * Life
+          + Engagements
+          + Weddings
+          + Anniversaries
+          + Births/Birthdays
+     * Contact
+          + Submit News
+          + Advertise
+          + Contact Us
+
+   Copyright © Morning Journal | https://www.morningjournalnews.com | 308
+   Maple Street, Lisbon, OH 44432 | 330-424-9541

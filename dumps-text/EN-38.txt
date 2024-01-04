@@ -1,335 +1,619 @@
-   ASP assistance scolaire personnalisée
-   un partenariat [logo-RDE.svg?1585573849]
-   [logo-maif.svg?1585573849]
+   #World History Encyclopedia RSS Feed
 
-   (BUTTON) Toggle navigation
-   (BUTTON) Terminale
-     * Petite section
-     * Moyenne section
-     * Grande section
-     * CP
-     * CE1
-     * CE2
-     * CM1
-     * CM2
-     * 6^e
-     * 5^e
-     * 4^e
-     * 3^e
-     * Seconde
-     * Première
-     * Première STMG
-     * Première ST2S
-     * Terminale
-     * Terminale STMG
-     * Terminale STI2D
-     * Terminale ST2S
+   [c3po.jpg?hash=583da8995f3bf53448b13ddf790ada6c]
 
-   (BUTTON) Spécialité anglais
-     * Philosophie
-     * Histoire
-     * Géographie
-     * Anglais
-     * Spécialité anglais
-     * Spécialité SES
-     * Spécialité SVT
-     * Spécialité mathématiques
-     * Spécialité physique-chimie
-     * Grand oral
-     * Spécialité Histoire-géo.-Géopolitique.-Sciences politiques
-     * Enseignement scientifique
+   Membership No ads
+   ____________________
 
-   (BUTTON) Révisions Réviser le cours
-     * Programme Consulter le programme
-     * Révisions Réviser le cours
-     * Sujets du bac Travailler sur des sujets du bac
-     * Méthodologie Consulter la méthodologie
+     * Encyclopedia
+          + Index
+          + Timeline
+          + Maps
+          + Book Reviews
+          + Weights & Measures
+          + Translations
+     * Education
+          + Teaching Materials
+          + Link Database
+          + Quizzes
+          + Primary Sources
+          + Collections
+          + School Subscription
+     * Media
+          + Media Library
+          + Audio Articles
+          + Podcast
+          + Youtube Channel
+     * Contribute
+          + Submissions
+          + Needed Content
+          + Style Guide
+          + Terms & Conditions
+          + Volunteer
+          + Donate
+     * Shop
+          + Books
+          + Map Posters
+          + Magazines
+          + Wall Charts
+          + Clothing
+     * About
+          + About
+          + Our Team
+          + Editorial Policy
+          + Annual Reports
+          + Membership
+          + Contact
+     * Login
+          + Login
+          + Register
 
-     * Accueil
-     * Se connecter
-     * Créer un compte
+Information & Communication Technologies in Cultural Heritage & Tourism
 
-   Notion précédente
+Contents
 
-Ancrage et héritage
+Article
 
-   Notion suivante
-   Nouveau message
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Destinataire : []
-     __________________________________________________________________
+   James Blake Wiener
+   by James Blake Wiener
+   published on 13 June 2018
+   headphones Listen to this article
+   X
 
-   Message :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Envoyer le message
-   Message envoyé avec succès ! Envoyer un nouveau message
-   t_speang_08_________ T___________________ specialite-anglais__
-   student_____________
-   Signaler une erreur
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Vous avez repéré une erreur, une faute d'orthographe, une réponse
-   erronée... Signalez-nous la et nous nous chargerons de la corriger.
-   Description du problème :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Signaler le problème
-   Problème signalé avec succès ! Signaler un autre problème
-   ____________________ ____________________
-   Imprimer
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Choisir ce que vous souhaitez imprimer :
-   Vous devez sélectionner au moins une valeur.
-   [X] La fiche
-   [ ] Les exercices
-   [ ] Le corrigé
-   Imprimer
-   Revoir la notion Notion
-   Faire les exercices Exercices
-   précédent1[1] suivant
-   The English-speaking world has known numerous waves of immigration and
-   its territory has been built through generations of people coming from
-   different regions of the world. A legacy, an origin, roots are most of
-   the time a subject of pride and of recognition. They claim their sense
-   of belonging, they assert their cultural and ethnic origins.; This is
-   patriotism, that is to say a love and a respect for their homeland.
+   Information and communication technologies (ICT) are revolutionizing
+   the ways in which the public interacts, understands, and appreciates
+   the importance of cultural heritage around the world. They are
+   additionally enabling sustainable tourism to flourish in an era of
+   unprecedented globalization. In this interview, James Blake Wiener of
+   Ancient History Encyclopedia speaks to Professor Lorenzo Cantoni - the
+   chair holder of the UNESCO Chair in ICT at the Università della
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites - about the ways in which ICT is altering how we see the
+   past and travel around the world.
 
-Celebration of a legacy
+   Machu Picchu Aerial View
+   Machu Picchu Aerial View
+   Dan Merino (CC BY)
 
-   Many communities, many populations indeed celebrate their cultural
-   heritage through literature, art, sports, traditions, food, even their
-   daily routine and gestures: each difference, each particularity can be
-   a proof of their singularity.
-   For instance, Walter Scott, in his novels and poems, such as Rob Roy or
-   Ivanhoe, enhances the national narrative. Through his characters, he
-   pays tribute to his homeland, Scotland, using the great figures of the
-   nation to put forward the pride of being a Scot, of having a Scottish
-   lineage. This was shown in the movie Braveheart by Mel Gibson when he
-   extols the merits of William Wallace who became the hero of the nation.
-   The recognition of a Scottish spirit is also expressed in cultural
-   movements like the Celtic Revival, a variety of movements and
-   traditions in the 19^th and 20^th centuries that saw a renewed interest
-   in aspects of Celtic culture. Artists and writers drew on the contents
-   of Gaelic literature or Welsh-language literature. Traditions like the
-   Highland Games can also be a proof of an assertion of a certain
-   heritage: it aims at celebrating the Scottish culture through sport. It
-   consists in watching bagpipes players parading, people wearing kilts,
-   tug of war, toss the caber, etc.
+   JBW: Professor Cantoni, I bid you a warm welcome to Ancient History
+   Encyclopedia (AHE). Please tell us more about UNESCO's ICT Chair at USI
+   – Università della Svizzera italiana in Lugano, Switzerland. When was
+   it established and what are its general aims? How did you become
+   involved in the Chair's genesis?
+   Remove Ads
+   Advertisement
 
-A memorial heritage
+   LC: I am really happy we can have this conversation!
 
-   This legacy is also prominent through the construction for the
-   preservation of a memorial heritage, passed on from one generation to
-   another, a beacon of knowledge whose aim is to enlighten the world,
-   with architecture, culture, art or nature The preservation of the great
-   national parks in the USA like Yellowstone for example, are part of the
-   heritage that needs to be kept intact in order to show to the future
-   populations the grandeur of a nation and the beauty of a country; that
-   is why the park rangers were created.
-   Furthermore, in the United Kingdom, organizations like the National
-   Trust still exist, and commemoration days like the Poppy Day are
-   preserved. They are landmarks, or milestones in the History and the
-   culture of a country. It is even more important for the immigrant
-   communities as it helps them maintain a link with their homeland while
-   enriching the culture of the country hosting them. This is what we can
-   find in events like the Notting Hill Festival in London. It celebrates
-   and illustrates multiculturalism in the UK. We can refer to Columbus
-   Day in the US that is quite controversial because it only shows one
-   aspect of the American culture while putting aside another, that of the
-   natives and their longing to have their Indigenous Day. Through the
-   celebration of their origins, we can frankly wonder if the idea of
-   multiculturalism is at stake in the UK and in the USA.
+   The UNESCO Chair in ICT to develop and promote sustainable tourism in
+   World Heritage Sites has been established at USI in 2013. But the
+   process started earlier, with the preparation of the application
+   dossier, its evaluation and approval by UNESCO, up to the agreement
+   between UNESCO and USI university. I have been involved since the very
+   beginning, together with several young colleagues and with the
+   assistance of the Swiss Commission for UNESCO. We believed that the
+   extensive experience we got throughout the years doing research and
+   development in three related areas – eTourism, eLearning, and ICT4D
+   (ICT for Sustainable Development) – could be of interest for UNESCO
+   enlisted World Heritage Sites. Hence the proposed Chair, whose goals
+   are to conduct extensive research and development activities in the
+   field, as well as to do training and to promote knowledge sharing among
+   relevant stakeholders.
+   Follow us on YouTube!
 
-Celebration as a fight
+   Remove Ads
+   Advertisement
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni (Copyright)
 
-   Besides, this celebration can go beyond a simple claim and can rapidly
-   become a fight, a struggle to defend a territory or a border or to
-   preserve a threatened heritage or culture as is the case with Native
-   populations or minorities. In fact, the Stolen Generation in Australia
-   greatly harmed the Aborigine culture. White people had indeed
-   orchestrated an organized abduction, consisting in taking the Aborigine
-   children away from their families to place them in white institutions
-   with the aim of assimilating and converting them to Christianize: it
-   was a way to "whiten" them and to make this native population
-   disappear. The same happened with other native populations, such as the
-   Maoris in New Zealand, the Native Americans in the USA, the Inuit in
-   Greenland and in Canada, for whom the respect of their cultural and
-   environmental heritage is a question of survival.
-   Closer to us, the fight between Northern Ireland and The Republic of
-   Ireland concerning their border and their territories is quite
-   symptomatic of this notion of cultural anchoring. The period of the
-   Troubles has indeed marked the landscape and the spirits of many Irish
-   men and women since each one of them had a member of their family
-   touched, wounded or even killed during this conflict for the
-   reunification of the two Irelands. Songs like Bloody Sunday by U2 or
-   Zombie by the Cranberries or even Nothing compares by Sinead O'Connor
-   are examples of the mounting tension between the protestants and the
-   Catholics, a tension that is still perceptible nowadays. It has become
-   a matter of pride and territory and neither side wants to retreat since
-   it would mean the end of their dreams and the end of their identity.
-   The identification of a territory is essential for many artists or
-   writers who spend much of their time and career representing their
-   homeland, their mother country, whether to praise it through odes and
-   eulogies or to give a nostalgic if not critical vision. For instance,
-   Willa Cather in My Antonia relates the toughness and the determination
-   of pioneers and the nostalgia linked to this past. It is the story of a
-   young orphan, Jim Burden (Burden like having a weight on his shoulders)
-   who goes to live in the great plains of Nebraska with his grandparents.
-   Once there, he meets the elder daughter of a Czech family, Antonia and
-   the novel follows the life of these two characters while describing the
-   way America was built by the first immigrants and pioneers.
+   JBW: What are the specific programs and initiatives that the ICT Chair
+   is currently overseeing? Could you also share with our audience some
+   further details about the 2018 Summer School of the UNESCO chair in
+   ICT, which will be held at the University of Turku, in Finland?
 
-Withdrawing into ourselves?
+   LC: At the UNESCO Chair in USI we do research and development
+   activities, involving Master and PhD students from USI, as well as
+   several visiting scholars who join us from all over the world.
+   Remove Ads
+   Advertisement
 
-   Actually, claiming a part of the territory and asserting our cultural
-   origin can lead to some polemics, and can make people stray from their
-   mainstream path. It can even lead to xenophobia or to people
-   withdrawing into their shells. We can for instance allude to the
-   confederate legacy in the southern states of the USA, a legacy that is
-   symbolized by what happened in Charlottesville a couple of years ago.
-   Afro- Americans and Civil Rights activists wanted to remove the statue
-   of General Lee, the hero of the Confederacy during the Civil War. This
-   figure was indeed controversial because it still symbolizes a period
-   when slavery was tolerated and accepted in the southern states;
-   therefore, it still reinforces the idea of a rampant racism. White
-   supremacists refused to remove the statue and it ended with a
-   confrontation between the KKK and the black activists that resulted in
-   the killing of a young lawyer who was run over by a racist lunatic.
-   We can also quote all the events that are linked to the Brexit which
-   was a way for the conservatives and the Ukip (the far-right movement
-   led by Nigel Farage in the UK) to preserve their insularity, their
-   singularity and above all their identity and national sovereignty.
-   Exercice n°1
-   Are these sentences true or false according to the text, or is there no
-   information in the text?
-   Faites glisser les étiquettes dans les zones prévues à cet effet.
-   No information
-   False
-   True
-   English-speaking countries have witnessed very little immigration and
-   have remained closed to the world.
-   imcAnswer1?
-   Culture heritage is often used to celebrate a region's identity.
-   imcAnswer2|imcAnswer3|imcAnswer5?
-   The purpose of a memorial heritage is to help the rest of the world
-   aspire to greater cultural values.
-   imcAnswer2|imcAnswer3|imcAnswer5?
-   The cultural heritage of the Maoris is the same as that of the Inuit.
-   imcAnswer4?
-   Cultural heritage can cause problems when people want to assert their
-   right to it.
-   imcAnswer2|imcAnswer3|imcAnswer5?
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°2
-   What does the writer mean by ”Traditions like the Highland Games can
-   also be a proof of an assertion of a certain heritage…“?
-   Cochez la bonne réponse.
-   (*) The Highland Games are traditional sports that the community
-   enjoys.
-   ( ) Communities need to have more sports competitions to demonstrate
-   their cultural identity.
-   ( ) Community-based festivals and competitions are the best way to
-   assert their heritage.
-   ( ) ok It is through competitions like the Highland Games that a
-   cultural identity can be confirmed.
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°3
-   What does the writer mean by ”It has become a matter of pride and
-   territory and neither side wants to retreat since it would mean the end
-   of their dreams and the end of their identity“?
-   Cochez la bonne réponse.
-   (*) Both sides are willing to compromise on their respective cultural
-   positions.
-   ( ) Cultural heritage is not linked to the pride of their history or
-   territory.
-   ( ) Cultural heritage can enable members of a community to dream.
-   ( ) ok Giving up on one's cultural heritage could lead to its
-   extinction.
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°4
-   How do you understand the assertion that ”We can also quote all the
-   events that are linked to the Brexit which was a way for the
-   conservatives and the Ukip (the far-right movement led by Nigel Farage
-   in the UK) to preserve their insularity, their singularity and above
-   all their identity and national sovereignty“?
-   Cochez la bonne réponse.
-   (*) Nigel Farage is proud to be European and wants to fight for its
-   cultural identity.
-   ( ) Brexit means that Britain can remain open to outside cultural
-   influences.
-   ( ) Events such as Brexit mean that liberal voters can also maintain
-   their cultural heritage.
-   ( ) ok Major political events can also be considered as symbols of
-   cultural assertion and preservation.
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Nouveau message
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Destinataire : []
-     __________________________________________________________________
+   Several educational and training activities are also organized: regular
+   courses at USI's Master in International Tourism and a Summer School
+   organized every year in a different place. In 2018 we have partnered
+   with the University of Turku, in Finland, to run a very innovative
+   travelling Summer School: we will visit five World Heritage Sites and
+   two UNESCO Biosphere Reserves in the southern part of Finland,
+   co-creating with local stakeholders technical solutions in line with
+   our mission: to orchestrate ICT in order to support and promote
+   sustainable tourism in World Heritage Sites (we are still accepting
+   late applications and it is possible also to participate online).
 
-   Message :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Envoyer le message
-   Message envoyé avec succès ! Envoyer un nouveau message
-   t_speang_08_________ T___________________ specialite-anglais__
-   student_____________
-   Signaler une erreur
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Vous avez repéré une erreur, une faute d'orthographe, une réponse
-   erronée... Signalez-nous la et nous nous chargerons de la corriger.
-   Description du problème :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Signaler le problème
-   Problème signalé avec succès ! Signaler un autre problème
-   ____________________ ____________________
-   Imprimer
-   Spécialité anglais - Réviser le cours
-   Ancrage et héritage
-   Choisir ce que vous souhaitez imprimer :
-   Vous devez sélectionner au moins une valeur.
-   [X] La fiche
-   [ ] Les exercices
-   [ ] Le corrigé
-   Imprimer
-   []
+   Besides face to face training activities, we are leveraging on ICT to
+   offer online training. In particular, we have launched the first ever
+   MOOC – Massive Open Online Course – titled “eTourism: Communication
+   Perspectives” (with more than 8,000 learners), and recently, as part of
+   the activities of the UNESCO-UNITWIN Network “Culture, Tourism, and
+   Development”, led by Paris 1 Panthéon-Sorbonne University, the MOOC
+   “Tourism Management of UNESCO World Heritage Sites”. This MOOC will
+   remain open until the end of 2018 and has attracted so far about 5,000
+   learners from 159 countries.
 
-   L'assistance scolaire personnalisée utilise des cookies pour vous
-   offrir le meilleur service (en savoir plus) . En continuant la
-   navigation vous acceptez l'utilisation de ceux-ci. (BUTTON) Continuer
+   JBW: What is “sustainable tourism” and how can it improve the public's
+   awareness and understanding of cultural heritage, Professor Cantoni?
+   Remove Ads
+   Advertisement
 
-   un partenariat [logo-RDE.svg?1585573849]
-   [logo-maif.svg?1585573849]
-   Nos sites
-   Mon espace éducation
-   Cap Concours
-   Il était une histoire
-   Apprendre à porter secours
-   La quinte juste
-   Les solutions éducatives MAIF
-   Le fonds MAIF pour l'éducation
-   L'espace enseignant MAIF
+   LC: The term “sustainable” suggests that something should be kept
+   available not only for our generation but also for the future ones –
+   this is the very meaning of its French equivalent: “durable” –
+   something that lasts.
 
-   Informations légales Contact © 2000-2024, rue des écoles
+   If we think of Tourism and Heritage, we can refer to three areas of
+   sustainability: environmental, economic, and socio-cultural.
+
+   Environmental/ecological sustainability refers to the fact that
+   tourists should not damage the natural resources. They should avoid
+   behaviors that create excessive pollution or irreversible damage to the
+   biodiversity. In some critical areas, in order not to exceed the
+   carrying capacity of a place, quotas might be applied.
+   Tourists should not damage the natural resources. They should avoid
+   behaviors that create excessive pollution or irreversible damage to the
+   biodiversity.
+
+   Economic sustainability refers to the fact that tourism players, and in
+   general the local populations, should be able to make a reasonable
+   profit out of the tourism-related activities. In general, we know that
+   most of the tourism/hospitality enterprises are micro, small, and
+   medium ones, frequently small family businesses. They are very
+   resilient and tend to look after the place and its correct management
+   also for the future generations. Companies focused only on making huge
+   profits might be less sustainable and might start and end activities
+   only based on short-term fluctuations, or be less interested in sharing
+   the profits with workers and the community at large. For instance, a
+   company might build and operate a hotel, and then leave the building
+   empty as soon as the business becomes not profitable, or less
+   profitable than in other places.
+   Remove Ads
+   Advertisement
+
+   Socio-cultural sustainability refers to the fact that tourism is, by
+   nature, based on hosting people from outside a community – be they from
+   the same country (domestic tourism), or from other countries
+   (international tourism). It is very important that visitors do not
+   damage the quality of life of locals, nor their lifestyles and peculiar
+   traditions. We have studied, for instance, the case of Lalibela, a
+   World Heritage Site in Ethiopia. It consists of eleven medieval
+   monolithic cave churches of the 13th century CE, still actively used as
+   places of worship by Christian Copts. Tourists cannot, and should not
+   disturb or disrupt the life of the monks and of the local communities
+   living there and looking after such property. In fact, what we look for
+   in cultural tourism – and in tourism in general – is authentic
+   experiences: if tourism destroys or deeply alters life at a
+   destination, what remains is a kind of “fake copy”, something we
+   usually refer to as “Disneyfication”.
+
+   St. George, Rock-hewn Church
+   St. George, Rock-hewn Church
+   Rod Waddington (CC BY-SA)
+
+   Analogous situations can be found in places experiencing the so-called
+   “overtourism”. Their tourists do not bring the usual economic and
+   social benefits any longer; on the contrary, they put the very quality
+   of locals' life at risk.
+
+   JBW: In your own words, how do media, technology, tourism, and cultural
+   heritage intersect? Which technologies do you believe will play a
+   commanding role in safeguarding cultural heritage and promoting
+   sustainable tourism in the future?
+   Love History?
+
+   Sign up for our free weekly email newsletter!
+   ____________________ Sign Up
+   ____________________
+
+   LC: In the UNESCO Chair in Lugano we have proposed the “ABCDE”
+   framework, which refers to five main areas of relevance: Access,
+   Better, Connect, Dis-intermediate, and Educate.
+     * Access: ICT can offer endless opportunities to provide good quality
+       information about heritage sites, through websites, videos, social
+       media, mobile apps, and the like. Definitely, AHE is a major player
+       in this area, providing extensive information about so many places
+       and their historical relevance.
+     * Better: once the travelers reach the destination, they can make the
+       best of it thanks to mobile apps (so-called Location Based
+       Services), augmented reality, gamification applications, etc. For
+       instance, when it comes to archeological sites, augmented reality
+       can help the visitor to better understand how the place might have
+       looked like. But it can also be used to recognize trees and animals
+       or to better interpret paintings in a museum, just to mention some
+       other applications. Angkor Wat, Cambodia
+       Angkor Wat, Cambodia
+       Dennis Jarvis (CC BY-SA)
+     * Connect: ICT can help to connect the three main players in this
+       relationship: locals, visitors, and the heritage itself. For
+       instance, we assisted RETOSA, the Regional Tourism Organisation of
+       Southern Africa, developing an offline/online digital game to help
+       the young generations to know more about the World Heritage Sites
+       of the 15 countries of the Southern African Development Community
+       (SADC) and to reflect on how sustainable tourism might be a major
+       component of local development. Nowadays such a tool has become an
+       app everyone can use. In fact, for the first time ever, the United
+       Nations named 2017 as the International Year of Sustainable Tourism
+       for Development. We should think of ICT not only as tools to spread
+       voices, to speak aloud, but also – I would say: first of all – as
+       tools to listen to what travelers are sharing about their
+       experience at a destination. ICT enables us to have much deeper
+       insights into travelers' experiences, expectations, satisfaction
+       (or not). We are then in a better position to improve or redesign
+       touristic offers.
+     * Dis-intermediate: as I mentioned above, in order to be sustainable,
+       tourism should bring a reasonable profit to the local communities.
+       In some regions of the Global South, there is a risk that
+       international visitors pay most of their travel money to travel
+       operators located outside of the destination country. Thanks to
+       ICT, some relationships between prospect travelers and players at
+       the destination can be dis-intermediated so that the destination
+       itself benefits from most of the money spent. For instance, we
+       partnered with local players in the Island of Mozambique – a World
+       Heritage Site – to develop their online presence: a super simple
+       website listing local B&Bs and their telephone numbers. After a few
+       years, more than 60% of the bookings to such B&Bs are done directly
+       and not through external tour operators/travel agents. Island of
+       Mozambique
+       Island of Mozambique
+       Stig Nygaard (CC BY)
+     * Educate: ICT can also be used to help tourism players to learn and
+       upskill, especially in such a fast-moving context. In fact, due to
+       the very nature of hospitality and tourism, many operators cannot
+       afford to attend regular courses, hence the need for more flexible
+       learning offers. Here, free online courses like the MOOC I already
+       mentioned above can make the difference.
+
+   If you want to see a summary of the ABCDE framework, you can refer to
+   this short 90-seconds animation video.
+
+   JBW: Could you share further information about the #faces4heritage
+   campaign? How and when was this initiative started, and what are its
+   aims? I believe that the #faces4heritage campaign has been active for
+   several years if I am not mistaken.
+
+   LC: Right, happy to share something about this initiative. In 2015,
+   UNESCO launched the global #Unite4Heritage campaign, aimed at raising
+   awareness about the destruction of heritage done by violent extremists,
+   e.g. in Syria and Iraq, but also in Lybia, Mali, and elsewhere. At the
+   chair, we wanted to support such a campaign and developed
+   #faces4heritage, an online tool that enables you to combine half of
+   your face with half of the face of a destroyed statue. The created
+   image can then be used as your profile picture on social media so that
+   your friends/followers are invited to reflect on such a dramatic issue.
+   #faces4heritage has been and is still very active on Twitter, being
+   among the most used hashtags in combination with #Unite4Heritage.
+
+   Palmyra, Syria
+   Palmyra, Syria
+   Erik Hermans (CC BY-NC-SA)
+
+   JBW: Professor Cantoni, how can the average citizen become more
+   involved in the processes of preservation and valorization with regard
+   to cultural heritage? Do you have any specific recommendations or
+   personal suggestions?
+
+   LC: Just a couple of recommendations and a further reflection. First of
+   all, I would definitely recommend to prepare yourself before the trip;
+   AHE and other resources will definitely help. Additionally, try to have
+   meaningful interactions with local people and to buy/use local products
+   as much as possible. In general, invest more in quality than in
+   quantity: visiting a place should not be just aimed at adding it to our
+   “visited list” but to deeply understand its nature, history, and
+   culture.
+
+   Athens Acropolis
+   Athens Acropolis
+   Mark Cartwright (CC BY-NC-SA)
+
+   Readers of AHE might find it useful to reflect on the very origin of
+   the word 'culture', which comes from the ancient Latin Language. Its
+   root is the verb 'colo', meaning 'look after', 'care'. It had three
+   main areas of application.
+
+   The first one is looking after our natural environment: 'agriculture'
+   (which means cultivating the fields). While visiting a place we should
+   pay attention to the way locals interact with their environment,
+   including their local ingredients and cuisine.
+
+   The second one is cultivating ourselves as human beings: what we
+   usually refer to as 'culture'. Think of the way we inhabit places from
+   architecture and urban planning to the way we dress and behave, the
+   schooling systems, all visual and performative arts, socio-political
+   systems, and so on. By the way, thinking of Latin again, 'habitus'
+   coming from the verb 'habeo' (to have) is closely connected with living
+   places ('habitare': living), fashion and costumes ('habitus': garment),
+   as well as ways of living ('habitus': habit).
+
+   The third area is the way we cultivate our relationship with God:
+   'cult', religion.
+
+   All of those dimensions should be considered by a responsible and
+   sustainable traveler. A well-traveled person, I would say.
+
+   JBW: Professor Cantoni, I thank you so much for your time and
+   consideration. I can speak on behalf of all my colleagues at AHE and
+   say that we are looking forward to cementing a proactive and vigorous
+   relationship with you and everyone associated with UNESCO's ICT Chair
+   at the Università della Svizzera italiana.
+
+   LC: I am also very much looking forward to a fruitful collaboration
+   with AHE and its community!
+
+   Ancient History Encyclopedia is delighted to announce that the
+   publication of this interview coincides with the formation of a new
+   partnership with the UNESCO Chair in ICT at the Università della
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites.
+
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni
+   Dr Lorenzo Cantoni (Copyright)
+
+   Dr. Lorenzo Cantoni graduated in Philosophy and holds a PhD in
+   Education and Linguistics. He is a full professor at USI - Universit�
+   della Svizzera italiana (Lugano, Switzerland), Faculty of Communication
+   Sciences, where he is director of the Institute for Communication
+   Technologies. Lorenzo Cantoni is scientific director of the
+   laboratories webatelier.net, NewMinE Lab: New Media in Education Lab,
+   and eLab: eLearning Lab. His research interests are where
+   communication, education, and new media overlap, ranging from
+   computer-mediated communication to usability, from eLearning to
+   eTourism and digital Fashion, from ICT4D to eGovernment. He is chair
+   holder of the UNESCO chair in ICT to develop and promote sustainable
+   tourism in World Heritage Sites, established at USI in 2013. Dr.
+   Lorenzo Cantoni has been Dean of the Faculty (2010-2014) and President
+   of IFITT - International Federation for IT in Travel and Tourism (2014
+   - January 2018). At USI, he is director of the Master in Digital
+   Fashion Communication, done in collaboration with the Université Paris
+   1 Panthéon-Sorbonne, and member of the board of the Master in
+   International Tourism. His personal twitter account: @lorenzocantoni.
+   Did you like this interview?
+
+   Bibliography Related Content Books Cite This Work License
+   Editorial Review This article has been reviewed by our editorial team
+   before publication to ensure accuracy, reliability and adherence to
+   academic standards in accordance with our editorial policy.
+   Remove Ads
+   Advertisement
+
+About the Author
+
+   James Blake Wiener
+   James Blake Wiener
+   James is a writer and former Professor of History. He holds an MA in
+   World History with a particular interest in cross-cultural exchange and
+   world history. He is a co-founder of World History Encyclopedia and
+   formerly was its Communications Director.
+
+Translations
+
+   We want people all over the world to learn about history. Help us and
+   translate this article into another language!
+
+Related Content
+
+   Filters:
+   All
+   Definitions91
+   Articles136
+   Images49
+   Videos19
+   Books2
+   Collections2
+   Madhubani Paintings: People’s Living Cultural Heritage
+   Article
+
+Madhubani Paintings: People’s Living Cultural Heritage
+
+   Mithila, a region in the state of Bihar, northern India (and also...
+   ArchaeoConcept Interview
+   Interview
+
+ArchaeoConcept Interview
+
+   ArchaeoConcept is an independent company based in Biel, Switzerland...
+   Indigenous Intercultural Health in Chile
+   Article
+
+Indigenous Intercultural Health in Chile
+
+   Since the return to democracy in Chile in 1990 CE, the new
+   governments...
+   Greek World Heritage Sites
+   Article
+
+Greek World Heritage Sites
+
+   Greece, the 'cradle of western civilization', is home to a large...
+   Rome's Egyptian Heritage
+   Article
+
+Rome's Egyptian Heritage
+
+   The Eternal City of Rome is one of the places in the world with...
+   Cultural links between India & the Greco-Roman world
+   Article
+
+Cultural links between India & the Greco-Roman world
+
+   Cyrus the Great (558-530 BCE) built the first universal empire...
+
+   1 2 3 4 5 6 7 8 9 10 Next › Last »
+
+Free for the World, Supported by You
+
+   World History Encyclopedia is a non-profit organization. For only $5
+   per month you can become a member and support our mission to engage
+   people with cultural heritage and to improve history education
+   worldwide.
+   Become a Member   Donate
+
+Recommended Books
+
+     *
+
+   Information and Communication Technologies in Tourism 2021: Proceedings
+   of the ENTER 2021 eTourism Conference, January 19–22, 2021
+
+   Information and Communication Technologies in Tourism 2021:
+   Proceedings...
+
+   Written by Wörndl, Wolfgang & Koo, Chulmo & Stienmetz, Jason L.,
+   published by Springer (2021)
+
+   $49.99
+     *
+
+   Information and Communication Technologies in Tourism 2020: Proceedings
+   of the International Conference in Surrey, United Kingdom, January
+   08–10, 2020
+
+   Information and Communication Technologies in Tourism 2020:
+   Proceedings...
+
+   Written by Neidhardt, Julia & Wörndl, Wolfgang, published by Springer
+   (2019)
+
+   $167.71
+     *
+
+   Information and Communication Technologies in Tourism 2000: Proceedings
+   of the International Conference in Barcelona, Spain, 2000
+
+   Information and Communication Technologies in Tourism 2000:
+   Proceedings...
+
+   Written by Fesenmaier, Daniel R. & Klein, Stefan & Buhalis, Dimitrios,
+   published by Springer (2000)
+
+   $54.99
+     *
+
+   Information & Communication Technologies in Tourism 2001
+
+   Information & Communication Technologies in Tourism 2001
+
+   Written by Sheldon, Pauline J., Ph.D. & Wober, Karl W. & Fesenmaier,
+   Daniel R., published by Springer Verlag Wien (2001)
+
+   $86.95
+     *
+
+   Human Computer Interaction, Tourism and Cultural Heritage: First
+   International Workshop, HCITOCH 2010, Brescello, Italy, September 7-8,
+   2010 Revised ... (Lecture Notes in Computer Science, 6529)
+
+   Human Computer Interaction, Tourism and Cultural Heritage: First
+   International...
+
+   Written by Cipolla Ficarra, Francisco & de Castro Lozano, Carlos &
+   Nicol, Emma & Kratky, Andreas & Cipolla-Ficarra, Miguel, published by
+   Springer (2011)
+
+   $54.99
+
+
+   World History Encyclopedia is an Amazon Associate and earns a
+   commission on qualifying book purchases.
+
+Cite This Work
+
+APA Style
+
+   Wiener, J. B. (2018, June 13). Information & Communication Technologies
+   in Cultural Heritage & Tourism. World History Encyclopedia. Retrieved
+   from
+   https://www.worldhistory.org/article/1242/information--communication-te
+   chnologies-in-cultura/
+
+Chicago Style
+
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. Last modified
+   June 13, 2018.
+   https://www.worldhistory.org/article/1242/information--communication-te
+   chnologies-in-cultura/.
+
+MLA Style
+
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. World History
+   Encyclopedia, 13 Jun 2018. Web. 04 Jan 2024.
+
+License & Copyright
+
+   Submitted by James Blake Wiener, published on 13 June 2018. The
+   copyright holder has published this content under the following
+   license: Creative Commons Attribution-NonCommercial-ShareAlike. This
+   license lets others remix, tweak, and build upon this content
+   non-commercially, as long as they credit the author and license their
+   new creations under the identical terms. When republishing on the web a
+   hyperlink back to the original content source URL must be included.
+   Please note that content linked from this page may have different
+   licensing terms.
+
+   Remove Ads
+   Advertisement
+   Weekly Newsletter
+
+Free Newsletter
+
+   Our latest articles delivered to your inbox, once a week:
+   ____________________
+
+   Are you a...?
+   (*) History Enthusiast
+   ( ) Teacher
+   ( ) Student
+   ( ) Librarian
+   Subscribe
+   ____________________
+   Remove Ads
+   Advertisement
+
+Support Us
+
+   We are a non-profit organization.
+
+   Our mission is to engage people with cultural heritage and to improve
+   history education worldwide. Please support World History Encyclopedia.
+   Thank you!
+   Donate Membership
+   Remove Ads
+   Advertisement
+
+
+   Membership
+
+   Numerous educational institutions recommend us, including Oxford
+   University. Our publication has been reviewed for educational use by
+   Common Sense Education, Internet Scout (University of Wisconsin),
+   Merlot (California State University), OER Commons and the School
+   Library Journal. Please note that some of these recommendations are
+   listed under our old name, Ancient History Encyclopedia.
+   Our Mission Our mission is to engage people with cultural heritage and
+   to improve history education worldwide.
+   Follow Us
+   About • Contact • Advertise • Privacy Policy • Partners • Supporters •
+   Newsletter • Settings
+
+   World History Publishing is a non-profit company registered in the
+   United Kingdom.
+   World History Foundation is a non-profit organization registered in
+   Canada.
+
+   We care about our planet! We contribute a share of our revenue to
+   remove carbon from the atmosphere.
+
+   Some Rights Reserved (2009-2024) under Creative Commons
+   Attribution-NonCommercial-ShareAlike license unless otherwise noted.
+
+   The World History Encyclopedia logo is a registered trademark.
+   Featured Partner UNESCO Archives

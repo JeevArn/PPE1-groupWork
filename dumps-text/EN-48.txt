@@ -1,553 +1,262 @@
-   [tr?id=889870088554345&ev=PageView&noscript=1]
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PFDJN3H
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5KT8D9
-
-   (BUTTON) Toggle navigation logo
-     * Corporate
-          + Heritage at a Glance
-          + Vision & Mission
-          + Corporate Management Team
-          + Functional Heads
-          + Our Commitments
-          + Awards & Recognitions
-          + CSR Activities
-               o CSR Activities for the Financial Year 2023-24
-          + GSTN Numbers
-     * Business Verticals
-          + Dairy
-               o Dairy Home
-               o Exports
-               o Heritage Parlour
-               o Heritage Distribution Centre
-               o Locations
-               o Excellence in Quality
-          + Renewable Energy
-     * Products
-          + Milk
-          + UHT Milk
-          + Curd
-          + Frozen Desserts
-          + Lassi
-          + Ice-Creams
-          + Buttermilk
-          + Milkshake
-          + Paneer
-          + Sweets
-          + Ghee
-          + Butter
-          + Cheese
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-          + Whey Drink
-          + Skimmed Milk Powder
-          + [bf-milk.jpg]
-            Buffalo Milk
-          + [tonemilk.jpg]
-            Toned Milk
-          + [fullcream-milk.jpg]
-            Full Cream Milk
-          + [standardized-milk.jpg]
-            Standardized Milk
-          + [dbtoned-milk.jpg]
-            Double Toned Milk
-          + [cowmilk.jpg]
-            Cow Milk
-          + [slim-milk.jpg]
-            Slim Milk
-          + [a2fullcreammilk.jpg]
-            A2 Full Cream Milk
-          + [uhtmilk.jpg]
-            UHT Milk
-          + [totalcurd.jpg]
-            Total Curd
-          + [probioticcurd.jpg]
-            Probiotic Curd
-          + [creamilicious.png]
-            Creamilicious Curd
-          + [cones.jpg]
-            Cones
-          + [cups.jpg]
-            Cups
-          + [juicy_bars.jpg]
-            Juicy Bars
-          + [familypack.jpg]
-            Family Packs
-          + [sweet-lassi.png]
-            Sweet Lassi
-          + [mango-lassi.png]
-            Mango Lassi
-          + [straberry.png]
-            Strawberry Lassi
-          + [subjalassi.jpg]
-            Sabja Lassi
-          + [tubs.jpg]
-            Tubs
-          + [icbars.jpg]
-            Bars
-          + [kulfi.jpg]
-            Kulfi
-          + [buttermilk.jpg]
-            Spiced Buttermilk
-          + [plain-buttermilk.png]
-            Plain Buttermilk
-          + [milkshake-vanilla.jpg]
-            Vanilla
-          + [milkshake-chocolate.jpg]
-            Chocolate & Caramel
-          + [chok.jpg]
-            Chocolate
-          + [biscuit.jpg]
-            Cookies Cream
-          + [milkshake-strawberry.jpg]
-            Strawberry
-          + [paneer-fresh.jpg]
-            Fresh Paneer
-          + [paneer.jpg]
-            Lite Paneer
-          + [doodhpedas.jpg]
-            Doodh Peda
-          + [milkcake.jpg]
-            Milk Cake
-          + [gulab-jamun1.png]
-            Gulab Jamun
-          + [rasagulla1.png]
-            Rasagulla
-          + [cow-ghee1.jpg]
-            Cow Ghee
-          + [buffalo-ghee1.jpg]
-            Buffalo Ghee
-          + [special-ghee.jpg]
-            Hi Aroma Ghee
-          + [table-butter.jpg]
-            Table Butter
-          + [cooking-butter.jpg]
-            Cooking Butter
-          + [processedcheese.jpg]
-            Processed Cheese
-          + [mozzarellacheese.jpg]
-            Mozzarella Cheese
-          + [processedcheeseslice.jpg]
-            Processed Cheese Slice
-          + [processedcheesespread.jpg]
-            Processed Cheese Spread
-          + [freshcream.jpg]
-            Fresh Cream
-          + [coldcoffee.jpg]
-            Cold Coffee
-          + [Cafe-Latte.jpg]
-            Cafe Latte
-          + [Cafe_Mocha_1.jpg]
-            Cafe Mocha
-          + [fmilk-pbadam.jpg]
-            Badam Charger
-          + [fmilk-badam.jpg]
-            Badam
-          + [fmilk-pista.jpg]
-            Pista
-          + [fmilk-chocolate.jpg]
-            Chocolate
-          + [fmilk-elachi.jpg]
-            Elachi
-          + [fmilk-pineapple.jpg]
-            Pineapple
-          + [fmilk-strawberry.jpg]
-            Strawberry
-          + [fmilk-vanilla.jpg]
-            Vanilla
-          + [gluco-shakti.png]
-            Gluco Shakti Orange
-          + [gluco-shakti-lemon.png]
-            Gluco Shakti Lemon
-          + [gluco-shakti-pineapple.png]
-            Gluco Shakti Pineapple
-          + [smpowder.jpg]
-            Milk Powder
-     * Products
-          + Milk
-               o Buffalo Milk
-               o A2 Full Cream Milk
-               o Toned milk
-               o Double Toned Milk
-               o Full cream milk
-               o Standardized Milk
-               o Cow milk
-               o Slim Milk
-          + UHT Milk
-          + Curd
-               o Total Curd
-               o Premium Curd
-               o Probiotic Curd
-               o class="">Creamilicious Curd
-          + Buttermilk
-          + Lassi
-               o Sweet Lassi
-               o Mango Lassi
-               o Strawberry Lassi
-               o Subja Lassi
-          + Icecreams
-               o Tubs
-               o Bars
-               o Kulfi
-          + Frozen Desserts
-               o Cones
-               o Cups
-               o Juicy Bars
-               o Family Packs
-          + Milkshake
-               o Vanilla
-               o Chocolate
-               o Strawberry
-          + Paneer
-               o Fresh Paneer
-               o Lite Paneer
-          + Sweets
-               o Doodh Peda
-               o Milk Cake
-          + Ghee
-               o Cow Ghee
-               o Buffalo Ghee
-               o Hi Aroma Ghee
-          + Butter
-               o Cooking Butter
-               o Table Butter
-          + Cheese
-               o Processed Cheese
-               o Mozzarella Cheese
-               o Processed Cheese Slice
-               o Processed Cheese Spread
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-               o Badam Charger
-               o Badam
-               o Pista
-               o Chocolate
-               o Elachi
-          + Skimmed Milk Powder
-     * Subsidiary/JV
-          + Subsidiary
-               o Heritage Nutrivet Limited
-          + JV
-               o Heritage Novandie Foods Pvt Ltd
-     * Investors
-          + Listing Information
-          + Board of Directors
-               o Brief Profile of Directors
-               o Board Committees
-               o Independent Director
-                    # Code for Independent Director
-               o Familiarization Programme
-          + Financial
-               o Annual Report
-                    # Annual Report
-                    # Annual Report 2022-23 flip book
-                    # Subsidiary / Associate / JV Annual Reports
-               o Financial Report
-                    # Quarterly Financial Results
-                    # Shareholder/ Investor Presentation
-          + Statutory Information
-               o Meetings
-                    # Annual General Meetings
-                    # EGM / Postal Ballot
-                    # Notice of Board Meetings
-               o Stock Exchange
-                    # Notice for Closure of Trading Window
-                    # Outcome of Board Meeting
-                    # Stock Exchange Clarifications
-                    # Concall
-                    # Reconciliation of Share Capital Audit Report
-                    # Investor Grievances Report
-                    # BRSR
-                    # RTA Certificate 74(5)
-                    # Yearly Disclosures
-                    # Regulation 40(9 & 10)
-                    # Regulation 7(3)
-                    # Communication to Shareholders
-                    # Related Party Transaction
-               o MOA & AOA
-               o Management Discussion & Analysis
-               o Research Reports
-               o Rights Issue
-               o Scheme of Arrangement
-               o Annual Disclosure Formats
-               o Annual Return
-          + Policies
-          + Corporate Governance
-               o Shareholding Pattern
-               o Corporate Governance Reports
-               o RTA & Compliance Officer
-               o Newspaper Publications
-               o Familiarization Program
-               o Secretarial Reports
-                    # Secretarial Audit Report
-                    # Annual Secretarial Compliance Report
-          + Dividend/ IEPF
-               o Dividend/Unclaimed Dividend
-                    # Dividend History
-                    # Unclaimed Dividend
-                    # Unclaimed Dividend from FY 2014-15 to 2022-23 (1st
-                      Int Div)
-                    # Unclaimed Dividend Register
-               o IEPF
-                    # Shares Transfer to IEPFA
-               o Nodal Officer
-          + Investor Contacts
-               o Investor Grievance
-               o Designated Official
-               o KMP Details
-          + Credit Rating
-          + Investor Service Request
-     * News & Events
-     * Gallery
-     * Contact Us
-     *
-     *
-
-   Heritage Foods was founded to create and share wealth ethically among
-   the farming community in a structured manner
-   The farming community was fragmented with no guidance and voice
-   I am proud we have achieved our objective with our vision and mission
-   for economic growth
-   I promise as trustees our moral compass will remain to true north
-   always
-   Smt. Bhuvaneswari Nara
-   Vice Chairperson & Managing Director
-
-I BELIEVE
-
-   Smt. Bhuvaneswari Nara
-
-Buy Now
-
-   buy on amazon
-     * buy on bigbasket
-
-   Important: We have moved to H.No.8-2-293/82/A/1286, Plot No: 1286, Road
-   No. 1 & 65, Jubilee Hills, Hyderabad- 500033, Telangana, India w.e.f
-   1-12-2022
-
-   CAUTION: Heritage Foods Limited. Since it’s incorporation (i.e.
-   05/06/1992) is not accepting any type of deposits from the public, if
-   anybody is asking any type of deposits in the name of Heritage Foods
-   Limited. Don't believe such false assurance.
-
-Give your family
-
-The Goodness of Ghee
-
-   Make your cooking ultra-delicious
-   and provide a golden treat to your taste buds
-   Explore More
-   [ghee-icon-1.png]
-
-   Great
-   for taste
-   [ghee-icon-2.png]
-
-   Rich in
-   Vitamins A & E
-   [ghee-icon-3.png]
-
-   Promotes
-   Better Digestion
-   [ghee-icon-4.png]
-
-   Improves
-   Immunity
-
-   [paneer-lite.png]
-   Lite Paneer
-   Explore
-   [paneer-fresh.png]
-   Fresh Paneer
-   Explore
-
-Milk
-
-Toned Milk
-
-   Fresh & pure milk is procured from our farmers and processed,
-   pasteurized, homogenized and packed at state-of-the-art processing
-   plants with utmost care to ensure goodness.
-   Explore More
-     * [mlk-icon-1.png]
-
-3.0%
-       [snf-blue.png]
-
-8.5%
-     * [milk-1.png]
-     * [mlk-icon-5.png]
-
-Vitamin A & D
-       [storage-icon.png]
-
-48hrs at 4^ C
-
-Milk
-
-Full cream milk
-
-   Full Cream Milk is rich in fat, so it is suitable for those with a low
-   BMI.What’s more, it is at its purest and best because it is processed
-   at our state-of-the-art processing plants.
-   Explore More
-     * [fat-ora.png]
-
-6.0%
-       [snf-do.png]
-
-9.0%
-     * [milk-2.png]
-     * [storage-icon-do.png]
-
-48hrs at 4^ C
-
-Milk
-
-Cow Milk
-
-   Golden Cow Milk is the culmination of a series of step such as
-   procurement, processing, pasteurization, homogenization and packaging
-   at state-of-the-art processing plants with utmost care to ensure
-   goodness.
-   Explore More
-     * [fat-gold.png]
-
-3.5%
-       [snf-gold.png]
-
-8.5%
-     * [milk-3.png]
-     * [deg-gold.png]
-
-48hrs at 4^ C
-
-Our goodness
-
-   Comes in many types!
-
-   UHT Milk
-   View All
-
-   Curd
-   View All
-
-   A-one Butter Milk
-   View All
-
-   Lassi
-   View All
-
-   Flavoured Milk
-   View All
-
-   Paneer
-   View All
-
-   Butter
-   View All
-
-   Sweets
-   View All
-
-   [probiotic.jpg]
-   Heritage Total Curd | #MakesYourDay (తెలుగు) #HeritageFoods
-
-   View All
-
-A Heritage of
-
-Happiness
-
-   Goodness comes in many milky ways.
-
-15,00,000
-
-   Families Consume
-   Heritage Products Daily
-
-859
-
-   Heritage Parlours Operated
-   by Our Franchisees
-
-3,00,000
-
-   Farmers Supply Fresh,
-   Pure Milk Twice a Day
-
-1,25,000
-
-   Retail Outlets Sell Heritage
-   Products From Their Stores
-
-187
-
-   Bulk Coolers, Mini Chilling
-   & Chilling Centres
-   Procure Milk Daily
-
-Heritage Foods limited
-
-   The Heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
-   the year 1992, which is one of the fastest growing Public Listed
-   Companies in India, with two business divisions - Dairy and Renewable
-   Energy. The annual turnover of Heritage Foods stood at INR 32,087
-   million in the financial year 2022-23.
-   View More
-
-     * Follow us :
-     * [fb.png]
-     * [tw.png]
-     * [lk.png]
-     * [is.png]
-     * [yt.png]
-
-   Download Our App
-
-   *Currently Available in Hyderabad
-
-   Corporate
-     * Heritage at a Glance
-     * Corporate Management Team
-     * Our Commitments
-     * Awards & Recognitions
-     * CSR Activities
-     * GSTN Numbers
-     * Caution Notice
-
-   Products
-     * Milk
-     * UHT Milk
-     * Curd
-     * Buttermilk
-     * Ice-Creams
-     * Frozen Desserts
-     * Lassi
-     * Flavoured Milk
-     * View All
-
-   Investors
-     * Listing Information
-     * Investor Contacts
-     * Quarterly Financials
-     * Annual Reports
-     * Research Reports
-     * Policies
-
-   Business verticals
-     * Dairy
-     * Renewable Energy
-
-   Quick links
-     * News & Events
-     * Gallery
-     * Blog
-     * Careers
-     * Contact Us
-
-   Copyright © , Heritage Foods Limited. Designed by Pixel Studios
+    #World Dance Heritage Research Centre » Feed World Dance Heritage
+   Research Centre » Comments Feed alternate alternate alternate
+
+   World Dance Heritage Research Centre
+
+     * Home
+     * DANCE RESEARCH
+     * Dance Tourism
+     * Articles
+          + All Posts
+          + DANCE STYLES
+          + Books on Dance
+     * ABOUT
+     * CONTACT
+
+   Select Page
+   ____________________
+
+   Home » Dance Research » Conceptual Framework » The Missing Body and
+   Embodiment in Heritage Studies (3.3)
+
+The Missing Body and Embodiment in Heritage Studies (3.3)
+
+   Last Updated on July 14, 2023
+
+   Table of Contents
+   Toggle [X]
+
+     * Embodiment, the Body and Heritage
+          + Safeguarding ICH and Maintaining Cultural Diversity
+          + Embracing Cultural Embodiment and Body-Mind Unity
+          + Audiences, Choreographers and Dance Production
+     * Replacing Dualism With Post-Dualist Duality
+          + Related posts:
+
+Embodiment, the Body and Heritage
+
+   In the previous section, Kirshenblatt-Gimblett (2004, p. 53) was quoted
+   as suggesting that the model of ICH accords value to the carriers of
+   oral traditions, to their ‘habitus and habit’ and that intangible
+   heritage is alive.
+
+   This is an important point, but the carriers are also individuals who
+   have/are bodies. Ruggles and Silverman (2009, p. 11) argue that:
+
+     Place and performance are bound together through the human body . .
+     . The dramatic shift in values implied in the Intangible Heritage
+     Convention . . . represents a radical paradigm shift from the
+     objective nature of material culture to the subjective experience of
+     the human being.
+     Ruggles and Silverman (2009)
+
+Safeguarding ICH and Maintaining Cultural Diversity
+
+   In addition to Skounti (2008) and Ruggles and Silverman (2009), Logan
+   (2007, p. 33) (investigating the links between safeguarding ICH,
+   maintaining cultural diversity and enforcing human rights) opines that
+   intangible heritage is:
+
+     ‘embodied in people rather than in inanimate objects’ and that
+     ‘managing intangible heritage . . . we are dealing with embodied and
+     living heritage’.
+     Logan (2012, p.236)
+
+   Graeff (2014, p. 12) also draws attention to the body in ICH, with
+   regards to music, by pointing out that, ‘even if material objects like
+   musical instruments, scores and recordings may be essential components
+   of musical traditions . . . learning an instrument and a musical
+   practice always implies the use of the body’.
+
+   Graeff (ibid.) posits that musical repertoires can be archived within
+   bodies, even when there are no external records and this is
+   particularly true for ‘Afro-Brazilian traditions, which having been
+   violently oppressed on the one hand, and scarcely documented on the
+   other, did not cease to live and to be transmitted’.
+
+Embracing Cultural Embodiment and Body-Mind Unity
+
+   The field of dance, instead, embraces cultural embodiment and body-mind
+   unity. In 2.3 (dance study approach), I mentioned Novack (1988) and her
+   embodied approach to the study of dance in relation to culture.
+
+   Since the late 1980s, the dance field has been engaging more and more
+   with sociological theories of embodiment (Daly, 1991; Kapchan, 1994;
+   Reed, 1998; Buckland, 2001; Giurchescu, 2001; Sklar, 2001; Thomas,
+   2003, 2013; David, 2012; Fensham and Kelada, 2012b; Stock, 2012).
+
+   Indeed, in dance, the body becomes a carrier of cultural heritage in a
+   tangible way.
+
+   As Buckland (2001, p. 1) argues, dance ‘has a particular propensity to
+   foreground cultural memory as embodied practice by virtue of its
+   predominantly somatic modes of transmission’.
+
+   Grau (2007, p. 193) posits:
+
+     Cultures and histories are embodied in all of our activities. . . .
+     These in-corporations of world-views are often incarnated in a more
+     “distilled” way in the extra-ordinary activities of dancers and
+     other movement specialists.
+     Grau (2007)
+
+   Giurchescu (2001) argues that dancers can never be separated from their
+   socio-cultural background, which is interlocked with the individual’s
+   physical and mental features.
+
+   She observes that dance is cultural and it is alive in the body of the
+   performer, ‘as a psychosomatic entity, the dancer is the “soul and
+   body” of dance’ (2001, p. 109).
+
+Audiences, Choreographers and Dance Production
+
+   Audiences, choreographers, and other people involved in the production
+   and fruition of dance also experience it in an embodied and culturally
+   influenced way, with their senses, as argued by Reason and Reynolds
+   (2010).
+
+   These senses include the kinaesthetic sense and the kinaesthetic
+   empathy that an observer feels by looking at movement.
+
+   Indeed, there is a scientific basis to these assertions, as the
+   neuroscientist, Damasio posits (2012, p. 103), ‘mirror neurons are . .
+   . the ultimate as-if body device . . . the simulation, in the brain’s
+   body maps, of a body state that is not actually taking place in the
+   organism’.
+
+   In the following sections, I will build the conceptual framework of
+   holistic dance/heritage, by turning to the theories of Merleau-Ponty,
+   Bourdieu, and Giddens.
+
+   These will give me the theoretical tools to gradually integrate all the
+   tangible and intangible elements of heritage into a fluid,
+   comprehensive model, in which material and immaterial elements
+   interact.
+
+Replacing Dualism With Post-Dualist Duality
+
+   The first step to achieve this is to ‘replace the dualism (two divided
+   and distinct entities) of tangible vs intangible with the post-dualist
+   idea of duality (a unity of two divergent aspects of the same reality)’
+   (Lo Iacono and Brown, 2016, p. 88).
+
+   The concept of duality is borrowed from Giddens’ Structuration Theory,
+   in which social structures and individual agency are combined to form a
+   duality.
+
+   The first dualism that will need overcoming is that of mind and body,
+   as the body is the main channel through which material and immaterial
+   life interact.
+
+   As Shilling (2005, p. 11) posits, in sociology, the body is ‘a source
+   of, a location for and a means by which individuals are oriented
+   towards society’.
+
+   For Shilling, drawing on his analysis of Simmel, Marx, and Durkheim,
+   the body is a source of society because the body creates:
+     * social life
+     * a location because society expresses itself on people’s bodies (for
+       example, the way they move and dress)
+     * a means because the body is a medium through which individuals
+       interact with society and position themselves within it, either in
+       accordance with or in opposition to it.
+
+   Merleau-Ponty’s phenomenology will be the first theoretical tool that
+   will help me to overcome the tangible/intangible dualism by means of a
+   holistic view of mind and body, linked through habit.
+
+   Next Page >> Using Merleau-Ponty and phenomenology for heritage
+   studies.
+     * About
+     * Latest Posts
+
+   Valeria Valeria Valeria
+   Valeria
+   Hi - I'm Dr Valeria Lo Iacono and I am a dance researcher with a PhD in
+   dance as a form of living heritage. I also teach belly dance and love
+   to travel to discover new dances around the world. I have worked also
+   as an academic and in the UK and in Korea. Thank you for visiting my
+   site.
+
+   Valeria Valeria Valeria
+   Latest posts by Valeria (see all)
+     * 5 Dancers Time Management Tips – Do You Also Struggle to Find Time
+       To Dance? - December 3, 2020
+     * Belly Dance Around the World by Caitlin E. McDonald – Book Review -
+       November 14, 2020
+     * Tips on Managing Stage Fright - October 19, 2020
+
+   Facebook0Pin0LinkedIn0
+
+Related posts:
+
+   Dance intro framework Dance intro framework Dance intro framework
+   Conceptual Framework Intro (3.1) The debate over what is tangible
+   versis intangible heritage. The debate over what is tangible versis
+   intangible heritage. The debate over what is tangible versis intangible
+   heritage. Tangible vs Intangible Divide Critique (3.2) Phenomenology of
+   dance Phenomenology of dance Phenomenology of dance Using
+   Merleau-Ponty: Phenomenology for Dance Heritage (3.4) Theoryt of
+   practice and dance. Theoryt of practice and dance. Theoryt of practice
+   and dance. Using Bourdieu’s Theory of Practice for Dance and Heritage
+   Research (3.5) Dance and structuration theory Dance and structuration
+   theory Dance and structuration theory Using Giddens Structuration
+   Theory for Dance Heritage and Subjectivity vs Objectivity Dichotomy
+   (3.6) Cultural heritage model Cultural heritage model Cultural heritage
+   model Moving to a Model of Living Cultural Heritage (3.7) Dance project
+   questions Dance project questions Dance project questions
+   Dance/Heritage Research Questions and Summary (3.8)
+   Search for: ____________________ Search
+   Dr Valeria Lo Iacono banner
+   Dance research and theory table of contents
+   Dance PhD references
+     * Tahia Carioca belly dancer Tahia Carioca belly dancer Tahia Carioca
+       Bint al Balad Laban Movements Analysis (5.3.1)
+     * Raqs sharqi in the United States and its history. Raqs sharqi in
+       the United States and its history. USA and the History of Raqs
+       Sharqi Belly Dance from the 1960s (5.4.1. Continued)
+     * Dance as living cultural heritage Dance as living cultural heritage
+       Beyond Binarism: Exploring a Model of Living Cultural Heritage for
+       Dance
+     * Laban research for dancing Laban research for dancing Laban
+       Movements Analysis of Belly Dancers from the 2000s (5.7.9)
+
+   Valeria of world dance heritage Valeria of world dance heritage
+
+   Hi – I’m Dr Valeria Lo Iacono. I have created this site to talk about
+   dance heritage around the world. If you love dance, this site is for
+   you!
+
+   CONTACT ME
+
+Social Media
+
+   Pinterest Pinterest Facebook Facebook Linkedin Linkedin
+
+Top Posts & Pages
+
+   Books about Dance
+
+   Dance Research
+
+   Managing Stage Fright
+
+Newsletter
+
+   First Name ____________________
+
+   Last Name ____________________
+
+   Email address: ____________________
+
+   Sign up
+   Leave this field empty if you're human: ____________________
+     * Time management for dancers Time management for dancers 5 Dancers
+       Time Management Tips – Do You Also Struggle to Find Time To Dance?
+     * Belly dance around the world book review Belly dance around the
+       world book review Belly Dance Around the World by Caitlin E.
+       McDonald – Book Review
+     * Solo dancer Solo dancer Tips on Managing Stage Fright
+
+   Copyright © 2015 to 2023 WorldDanceheritage.org | Privacy Policy | As
+   an Amazon Associate I earn from qualifying purchases.

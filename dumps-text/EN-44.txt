@@ -1,720 +1,350 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSX5PBP
+   #alternate alternate
 
-   If you're seeing this message, it means we're having trouble loading
-   external resources on our website.
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TKZ2B4M
 
-   If you're behind a web filter, please make sure that the domains
-   *.kastatic.org and *.kasandbox.org are unblocked.
+     * FR
+     * EN
 
-   To log in and use all the features of Khan Academy, please enable
-   JavaScript in your browser.
-   (BUTTON) Courses
-   Search
-   Get AI GuideDonateLog inSign up
-   Search for courses, skills, and videos
+   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+     * Columns
+     * Braincamps
+
+     * FR
+     * EN
+
+   (BUTTON) Sign up for the newsletter
+   Subscribe to our weekly newsletter
+   ____________________
+   [ ]
+   I have read and accepted the privacy policy.
+   Sign up
+     * π Planet
+     * π Energy
+     * π Health and biotech
+     * π Digital
+     * π Space
+     * π Economics
+     * π Industry
+     * π Science and technology
+     * π Society
+     * π Geopolitics
+     * π Videos
+
+   Polytechnique insights A REVIEW BY INSTITUT POLYTECHNIQUE DE PARIS
+   ____________________ Submit
+
+   Share twitter linkedin facebook
+   Copié !
+   Subscribe to our weekly newsletter Newsletter
+   Subscribe to our weekly newsletter
+   ____________________ Valider
+   [ ]
+   I have read and accepted the privacy policy.
+   Sign up
+   (BUTTON) (BUTTON)
+   Home / Chroniques / Collagen: a key to preserving historical parchments
+   Blank parchment
+   On the same topic:
+     * The Institut Polytechnique de Paris launches a review
+     * Towards a quantum internet thanks to teleportation
+     * Haptics: why give machines a sense of touch?
+
+   π Science and technology
+
+Collagen: a key to preserving historical parchments
+
+   On September 8th, 2021
+   5 min reading time
+   Marie-Claire Schanne-Klein
+   Marie-Claire Schanne-Klein
+   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
+   IP Paris
+   Gael Latour
+   Gaël Latour
+   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
+   and Biosciences Laboratory (LOB*), IP Paris
+
+   Whilst we may associate it more with aesthetics than antiquity,
+   collagen is central in some cultural heritage objects. Indeed, this
+   vital protein is a key structural molecule holding bodily tissues
+   together to support cells. And since animal skin was used in centuries
+   gone by to make parchments, the pages of many historical documents are
+   full of collagen, too.
+
+Collagen, collagen everywhere…
+
+   “There are around 26 different types of collagen, that are found in
+   many organs – tendons, skin, cornea, arteries, lungs and so on,” says
+   Marie-Claire Schanne-Klein a physicist at École polytechnique. She
+   specialises in biophotonics, which essentially means that she uses
+   techniques from physics to study living tissues. In her case, she works
+   with advanced optical imaging, known as multi-photon microscopy.
+
+   She explains, “we use fluorescent markers in biological samples to
+   label different cellular components so we can see them under a
+   microscope. But collagen doesn’t need a marker as it naturally
+   generates harmonics detected in multi-photon microscopy which makes it
+   glow without further intervention on our behalf.” Hence, this protein,
+   which creates a ‘fibrillary matrix’ supporting cells, can be observed
+   thanks to its harmonic signal. “These intrinsic imaging modalities,
+   without any labelling are a speciality of our lab.”
+   Analysis using the multiphoton microscope from the Laboratoire
+   d’Optique et Biosciences with a medieval manuscript on parchment from
+   the Chartres’ library (Photo credit: M. Schmeltz, LOB).
+
+   “Collagen forms fibrils that are arranged differently depending on the
+   tissue we are studying,” she clarifies. “In skin, for example, we would
+   expect to see tangled bundles of large fibrils, which are responsible
+   for its supple texture. Whereas in the cornea collagen fibrils are very
+   thin and highly ordered, arranged in layers (or lamellae) that make it
+   rigid, giving it the property of focusing light correctly onto the
+   retina.” However, collagen may degrade, losing its fibrillar structure
+   ultimately, forming a gelatine that no longer generates a harmonic
+   signature, but still fluorescence.
+
+   Marie-Claire Schanne-Klein and her colleagues study the collagen
+   principally for biomedical purposes. “Collagen structure plays an
+   important role in many diseases. It can change in certain extreme
+   situations like skin burns or scarring, which leave visible traces. But
+   also, in certain cancers because tumours seem to form around structures
+   of collagen as a scaffold. We tend to study them for that reason, to
+   better understand the pathologies associated to collagen.”
+
+Collagen in cultural heritage
+
+   Interestingly, collagen is found in other places too, including many
+   historical manuscripts written on parchments that are made from animal
+   skin. Gaël Latour from Université Paris-Saclay studies these materials.
+   “Parchments can degrade over time due to storage conditions, and as
+   they do so they become increasingly transparent and rigid, leading to
+   the loss of the readability of the writing,” he outlines. This
+   transparent material is, in fact, degraded collagen, often referred to
+   as gelatine.
+
+   “It is common knowledge in the world of cultural heritage that objects
+   or documents made from skin will ‘gelatinise’ in this way. And now we
+   know that this happens because the collagen fibres in the parchment
+   unwind as it degrades, progressively transforming the material into
+   gelatine. In doing so, the parchment gradually becomes more
+   homogeneous, letting more light through.” Moreover, the process is
+   irreversible: once the collagen-to-gelatine process has occurred the
+   document is lost forever.
+
+   With his colleagues they have been studying documents used in Western
+   Europe in the 13^th Century, at a time before paper, when parchments
+   were commonly used. But they have analysed documents that go as far
+   back at the 8^th Century. “Remarkably, some of the documents are still
+   very well preserved, with just damage at the borders of the pages where
+   they have been handled over the hundreds of years since they
+   were made.”
+
+   Due to the collagen content of parchment, the team realised that they
+   could use multi-photon microscopy to study it. “Currently, the main
+   method for testing degradation of parchments is called differential
+   scanning calorimetry; it’s a method that requires taking a sample from
+   the page that is crushed into a pulp to be tested destroying a part –
+   however small – of the document,” he explains. “But if we use
+   multi-photon microscopy to study the collagen, we can do this in a
+   non-invasive way.” In 2016
+   ^1, Latour, Schanne-Klein and colleagues, published a report showing
+   that it was possible to see whether a parchment was degraded using
+   their technique.
+
+     The researchers show that this method can be used to analyse the
+     level of degradation – or ‘gelatinisation’ – of parchments.
+
+   Copié !
+   (Left) Picture of a medieval manuscript on parchment from the Chartres’
+   library (photo credit: CNRS–IRHT). (Right) Multiphoton microscopy
+   images with well-preserved collagen in the center (Second harmonic
+   signals in green) and degraded collagen on the periphery (two-photon
+   excited fluorescence in red).
+
+Preserving history
+
+   “Initially the idea was to show that we could see degraded collagen in
+   the parchments. So, in the beginning the idea was a simple ‘yes’ or
+   ‘no’,” he says. “But now, we are seeking to look at how we can quantify
+   the amount of degradation. It could help us keep an eye on which
+   documents need to be taken care of more effectively or help towards
+   restoration efforts.”
+
+   Going further, they recently published another study
+   ^2 in which they show that the technique can be used to analyse the
+   amount of degradation – or gelatinisation – of parchments. They used
+   these techniques to analyse custom documents, then historical ones
+   preserved since the 13^th Century from the archives of the Library of
+   Chartres, France. In this particular case, over 200 of the documents
+   had been exposed to heat from a fire during a bomb raid during World
+   War II, resulting in extensive damage and gelatinisation. Gaël Latour
+   and his colleagues used these invaluable pages to provide evidence that
+   it is possible to quantify the amount degradation using multi-photon
+   microscopy, whilst causing them no further harm.
+
+   “Now we want to also understand how the degradation happens,” Gaël
+   Latour adds. We have been starting from modern parchments that we have
+   artificially degraded. The team expose them to dry conditions and
+   temperatures above 100°C as if they were ‘aging’ and then analyse them
+   using microscopy to quantify the degradation. Marie-Claire
+   Schanne-Klein adds, “normally, gelatine is formed from exposing
+   collagenous animal tissue to high temperatures – that’s how gelatine
+   used for candy is made, for example, and in the case of these
+   documents. But we know that in most cases, the parchments haven’t been
+   exposed to such heat. So, in other cases, it is likely the result of
+   acidification due to bacterial activity on the documents, which can
+   produce an acidic fluid due to humid conditions during storage.” The
+   team are setting about studying how this happens in more detail and to
+   challenge this hypothesis.
+
+   And they don’t plan on stopping at parchments. “There are many other
+   historical objects that contain collagen, too.” Indeed, in museums skin
+   can be found in range of materials including rawhide or leather that
+   was used to make clothes or in natural history specimens. There are
+   other biomolecules that exhibit harmonics, notably cellulosis in
+   plants, so that we can analyse old fabrics and musical instruments made
+   of wood and more generally a range of other objects – each with their
+   own story to tell for years to come.
+
+   For further reading
+     * https://​por​tail​.poly​tech​nique​.edu/​l​o​b​/​f​r​/​r​e​c​h​e​r​
+       c​h​e​/​m​i​c​r​o​s​c​o​p​i​e​s​-​a​v​a​n​c​e​e​s​/​m​u​l​t​i​p​h​o
+       ​t​o​n​-​c​h​a​r​a​c​t​e​r​i​z​a​t​i​o​n​-​c​u​l​t​u​r​a​l​-​h​e​r​
+       i​t​a​g​e​-​a​r​t​e​facts
+     * https://​hal​.archives​-ouvertes​.fr/​h​a​l​-​0​3​0​2​8​0​9​1​/​d​o
+       ​c​ument
+
+Interview by James Bowers
+
+   1https://​www​.nature​.com/​a​r​t​i​c​l​e​s​/​s​r​e​p​26344↑
+   2https://​advances​.sci​encemag​.org/​c​o​n​t​e​n​t​/​7​/​2​9​/​e​a​b​g
+   ​1​0​9​0​.​a​b​s​tract↑
+
+Contributors
+
+   Marie-Claire Schanne-Klein
+
+Marie-Claire Schanne-Klein
+
+   CNRS research director at the Optics and Biosciences Laboratory (LOB*),
+   IP Paris
+
+   After studying at the Ecole Polytechnique and completing a thesis in
+   physics, Marie-Claire Schanne-Klein teaches in the physics department
+   of the Ecole Polytechnique and is responsible for physics at the
+   Doctoral School of IP Paris. She was awarded the CNRS silver medal in
+   2019. *LOB: a joint research unit CNRS, École Polytechnique - Institut
+   Polytechnique de Paris, Inserm
+   Gael Latour
+
+Gaël Latour
+
+   Senior lecturer, University of Paris-Saclay, Researcher at the Optics
+   and Biosciences Laboratory (LOB*), IP Paris
+
+   Gaël Latour is a physicist specialising in optics, and a lecturer at
+   the science department of the University of Paris-Saclay. He teaches
+   physics, and more particularly optics, from bachelors to masters level.
+   His research activities at the Optics and Biosciences Laboratory are
+   focused on the development of new imaging modalities, in particular
+   non-linear optical microscopy, and on their applications in the
+   biomedical field (cornea, skin) and for the study of heritage objects.
+   *LOB: a joint research unit CNRS, École Polytechnique - Institut
+   Polytechnique de Paris, Inserm
+
+More on this topic
+
+   Précédent
+   Suivant
+   Pierre-Pol Liebgott
+   π Energy π Science and technology
+
+Transforming organic waste into hydrogen using marine bacteria
+
+   Pierre-Pol Liebgott,
+
+   Researcher in Microbiology at IRD
+   On October 18th, 2023
+   3 min reading time
+   Laure COLIN
+   π Geopolitics π Science and technology
+
+Military drones: current trends in the market
+
+   Laure Colin,
+
+   PhD student at the Centre for Management Research (I³-CRG*) at École
+   Polytechnique (IP Paris)
+   On October 11th, 2022
+   5 min reading time
+   QUERE_David
+   π Science and technology
+
+Soft matter: a physical state you probably don’t know you know
+
+   David Quéré,
+
+   CNRS Research Director and Professor at École Polytechnique (IP Paris)
+   On January 25th, 2023
+   4 min reading time
+   Franck MULTON
+   π Science and technology π Digital
+
+Using virtual reality to boost skills in Olympic boxers
+
+   Franck Multon,
+
+   Professor at Université de Rennes2 at Institut de Recherche en
+   Informatique et Systèmes Aléatoires (IRISA)
+   On October 4th, 2022
+   3 min reading time
+   Bernadette Dorizzi Biometrics
+   π Science and technology π Digital
+
+Beyond security: the future of biometrics is behaviour
+
+   Bernadette Dorizzi,
+
+   Emeritus Professor at Télécom SudParis
+   On March 30th, 2021
+   4 min reading time
+
+   Subscribe to our weekly newsletter Subscribe to our weekly newsletter
+   ____________________ Sign up
+   [ ]
+   I have read and accepted the privacy policy.
+
+Our selection of braincamps
+
+   0_BIOMIMETISME
+   π Science and technology π Health and biotech π Planet
+
+Biomimicry: when science draws inspiration from nature
+
+   3 episodes
+   0_transition‑énergétique
+   π Energy π Planet π Science and technology
+
+Energy transition: there is still a lot of unexploited potential
+
+   3 episodes
+   0_oceanClimat
+   π Planet π Science and technology π Energy
+
+Is the ocean the last bastion against climate change?
+
+   3 episodes
+
+   facebook twitter linkedin instagram
+     * About us
+     * Sponsors
+     * Contributors
+     * Legal notices
+     * Contact
+     * (BUTTON) Cookie Settings
+
+   Logo Institut Polytechnique de Paris
+
    (BUTTON)
-   Main content
 
-Special topics in art history
-
-   (BUTTON)
-
-Course: Special topics in art history > Unit 1
-
-   Lesson 1: A beginner's guide
-   (BUTTON)
-     * ARCHES
-     * What is Cultural Heritage?
-     * Cultural heritage “in Crisis”
-     * Blow it up: cultural heritage and film
-     * ARCHES advisors
-
-   Arts and humanities>
-   Special topics in art history>
-   ARCHES (At Risk Cultural Heritage Education Series)>
-   A beginner's guide
-   © 2024 Khan Academy
-   Terms of usePrivacy PolicyCookie Notice
-   (BUTTON)
-
-Cultural heritage “in Crisis”
-
-   Google Classroom
-   By Dr. Stephennie Mulder and Dr. Debora Trein
-   Shell bursting on the cathedral at Reims, from Collier's New
-   Photographic History of the World's War, 1918
-   Shell bursting on the cathedral at Reims, from Collier's New
-   Photographic History of the World's War, 1918
-
-Have you seen the phrase “Culture in Crisis"?
-
-   In recent years, particularly since the rise of ISIS’ destructive
-   activities in the Middle East, it’s become common to see articles in
-   the news media as well as in academic journals on the theme of
-   “cultural heritage in crisis.” You could say it’s a booming field.
-   But how true is it?
-   It’s certainly true that cultural heritage is in danger of destruction,
-   looting, or illicit trafficking in many places around the world. It’s
-   also true that new types of threats to cultural heritage have developed
-   in the last few decades.
-   They include,
-     * the easier movement of goods across national borders via online
-       marketplaces like eBay
-     * the spread of global banking
-     * the outbreak of war and other forms of political instability and
-       poverty
-     * the widespread availability of heavy machinery and explosives
-
-   Some regions—most recently the heritage-rich areas of the Middle
-   East—have certainly experienced a marked increase in illicit
-   trafficking in the context of ongoing political upheavals and
-   conflicts.
-   But usage of the term “crisis” to describe the destruction of cultural
-   heritage around the world is perhaps a misleading one. “Crisis” is a
-   term that indicates a problem that has an urgent, yet temporary
-   quality. However, the loss and destruction of cultural heritage is not
-   new in human history and is not restricted by the duration of political
-   instability in faraway lands. Many regions of the world, including the
-   United States, face a longstanding and ongoing struggle to protect
-   heritage in the face of numerous challenges, regardless of political,
-   social, or economic security. It may be worth considering that the idea
-   of “crisis” deceptively frames the destruction of heritage as a product
-   of temporary instabilities that cease to be a problem once conflicts
-   are over. In reality, conditions of “crisis” only really provide new
-   opportunities for heritage destruction processes that were already
-   happening and will continue happening after the “crisis” is over.
-
-Threats to cultural heritage: war
-
-   Let’s take a closer look at these processes. Broadly speaking, there
-   are two types of threats:
-     * destruction of heritage sites and objects caused by war, poverty,
-       and development initiatives
-     * the looting and trafficking of objects that frequently arises out
-       of those contexts
-
-   In wartime, destruction of heritage sites can be a result of collateral
-   damage, for example, when a bomb targeting one location inadvertently
-   hits another; or it can be the result of intentional damage, aimed to
-   demoralize and insult the values and religious and cultural symbols of
-   an enemy. It is often difficult to distinguish between collateral and
-   intentional damage, and perpetrators may claim deliberate destruction
-   was an accident in an attempt to avoid prosecution. In the Syria
-   conflict, for example, you’ve probably heard about the destruction
-   caused by ISIS. However, the majority of damage to cities and to
-   heritage has in fact not been caused by ISIS, but by the Syrian
-   government’s campaign of relentless aerial bombardment, which has
-   destroyed up to 70% of the fabric of the ancient city of Aleppo, a
-   UNESCO World Heritage site.
-   Walter Hahn, Dresden: view of the destroyed inner city from the town
-   hall tower with sculpture, 1945 (CC BY-SA 3.0 DE)
-   Walter Hahn, Dresden: view of the destroyed inner city from the town
-   hall tower with sculpture, 1945 (CC BY-SA 3.0 DE)
-   And though it’s easy to demonize a regime in a country far away, it’s
-   important to remember that similar levels of destruction were caused by
-   both the Axis powers and the Allies in World War II — for the Allies,
-   most famously in Dresden, where a British and American aerial campaign
-   in 1945 left more than 70% of the city in ruins. The neglect of the
-   occupying U.S. forces in Iraq in 2003 famously led to the looting of
-   the National Museum of Iraq, with thousands of objects lost, only half
-   of which have returned, as well as the burning and destruction of
-   Iraq’s magnificent national library, including hundreds of priceless
-   manuscripts dating back to the 16th century. Deliberate or neglectful
-   destruction of heritage has long been a key strategy of war, and
-   perpetrators are rarely prosecuted for it.
-   The long history of the destruction of heritage shows us that the
-   elimination of culture has always been viewed as a powerful tool of
-   domination and as a key strategy for eliminating the value humans
-   accord to their lives. In recent years, the destruction of heritage —
-   whether through war, commercial exploitation, and/or looting — has been
-   defined by UNESCO as a form of cultural cleansing. In taking human
-   lives, oppressors erase the existence of individual people: but in
-   destroying culture, the memory and identity of entire peoples are
-   erased. It is not surprising to note, therefore, that the destruction
-   of heritage is often a precursor to genocide. This is because in
-   denying people their past, perpetrators also deny them a future.
-
-Threats to cultural heritage: development, climate change, tourism, and
-natural disasters
-
-   Nevertheless, wartime destruction of heritage is only a small fraction
-   of the overall loss of cultural heritage around the world. Much more
-   significant and long-lasting is destruction due to urban development,
-   mineral and resource extraction, climate change, tourism, and even
-   natural disasters. For example, the ancient Buddhist site of Mes Aynak
-   in Afghanistan is now threatened by Chinese mining interests, a
-   situation made famous in a recent documentary. Similarly, the push to
-   expand resource extraction on public lands in the United States is also
-   causing widespread loss of heritage, as at the Bears Ears National
-   Monument, which was controversially reduced by 85% in a decision signed
-   by President Trump in December 2017.
-   Crowds in Venice (photo: Gary Bembridge, CC BY 2.0)
-   Crowds in Venice (photo: Gary Bembridge, CC BY 2.0)
-   Although many heritage sites are preserved in order to encourage
-   tourist revenue, tourism can also cause massive destruction because of
-   the large numbers of people it can attract and also because
-   transforming a site into a tourist-friendly locale often profoundly
-   transforms its meaning for local people, who may find their connections
-   to a place have been erased. Such is the case at Dubrovnik, a city that
-   was reconstructed by an international consortium of donors after the
-   Balkan war and which now finds itself managing a Game of
-   Thrones-inspired tourist influx that threatens to leave little of the
-   original city behind, a destruction that some residents have
-   characterized as worse than that during wartime.
-
-Looting
-
-   If destruction of heritage during wartime is akin to a relatively
-   sudden death, looting is like a cancer that slowly erodes it. Looting
-   is the theft of heritage items for sale on the antiquities market, most
-   often to wealthy private buyers in the United States and Europe. As art
-   history professor Nathan Elkins has shown, the consequences of
-   purchasing even small items like coins can be devastating for our
-   knowledge about the past. Once an object is removed from its original
-   environment, it instantly loses much of its ability to convey
-   information about how people once lived.
-   Pedestal with feet fragments, Prasat Chen, Koh Ker, photo: © Simon
-   Warrack, by permission, all rights reserved
-   Pedestal with feet fragments, Prasat Chen, Koh Ker, photo: © Simon
-   Warrack, by permission, all rights reserved
-   Archaeologists call the environment in which an object is found, its
-   context. Context is the object and its relationship to all the other
-   objects and material in an archaeological site. The relationships
-   between these objects is what enables archaeologists to recreate the
-   past (objects that have been looted, and thereby robbed of this context
-   can be called “ungrounded“). As such, even the smallest objects, such
-   as ancient coins, can provide powerful evidence about the lives of
-   people in the past. While locals are often blamed for looting, it is
-   important to point out that local looting is often subsistence looting
-   — looting carried out to supplement meagre incomes — and that it is
-   only profitable because it responds to demand in wealthy countries. The
-   antiquities market is vast, and as the Wall Street Journal reported
-   last year, it has consequences far beyond just loss of our knowledge
-   about the past, since much like drug trafficking, its profits fuel
-   terrorism, criminal enterprises, and many other forms of criminal
-   activity.
-
-What can be done?
-
-   In repositioning the discussion of the “current crisis” to a discussion
-   of how we are in fact currently experiencing the latest iteration of a
-   long-standing problem with global reach, we can avoid simplistic
-   solutions that propose that squashing the “bad guys” — for example,
-   ISIS — will solve the destruction and looting problem once and for all.
-   Most importantly, it allows us to focus on the real driver of
-   destruction: the demand in wealthy countries for heritage objects — a
-   demand that ultimately fuels the entire antiquities trade — and the lax
-   legislation that enables that trade to flourish. It also permits a
-   conversation about related issues, for example the lack of public
-   education about the antiquities trade, or problematic distinctions such
-   as that between art — largely considered to be a private commodity
-   subject to market demand, versus heritage — which is typically framed
-   as “universal” and the patrimony of all.
-   Understanding that cultural heritage has been under threat for a very
-   long time allows us to avoid short-term, crisis-based responses, and
-   enables us to craft long-lasting, systemic solutions.
-     __________________________________________________________________
-
-   Additional resources
-   Zainab Bahrani, “Desecrating history,” The Guardian, April 9, 2008.
-   K. Kris Hirst, “Context is Everything – What Does Context Mean to
-   Archaeologists?,” ThoughtCo., March 8, 2017.
-   Georgi Kantchev, “Buyer Beware: Looted Antiquities Flood Online Sites
-   Like Amazon, Facebook,” The Wall Street Journal, November 1, 2017.
-   Trinidad Rico, "Heritage at Risk: The Authority and Autonomy of a
-   Dominant Preservation Framework," in Heritage Keywords: Rhetoric and
-   Redescription in Cultural Heritage, Kathryn Lafrenz Samuels and
-   Trinidad Rico, editors, Boulder, University of Colorado Press, 2015,
-   pages 147–162.
-   (BUTTON) Questions (BUTTON) Tips & Thanks
-
-Want to join the conversation?
-
-   Log in
-   Sort by:
-   (BUTTON) Top Voted
-     * blobby green style avatar for user Marius Lennox
-       Marius Lennox
-       6 years ago
-       Posted 6 years ago. Direct link to Marius Lennox's post “Not really
-       a question but...”
-       (BUTTON)
-       more
-       Not really a question but rather a compliment
-       ..."in destroying culture, the memory and identity of entire
-       peoples are erased. It is not surprising to note, therefore, that
-       the destruction of heritage is often a precursor to genocide. This
-       is because in denying people their past, perpetrators also deny
-       them a future"
-       Very well said!
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Marius Lennox's post “Not really a question
-       but...”
-       (39 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * aqualine tree style avatar for user Ana Hillary
-       Ana Hillary
-       6 years ago
-       Posted 6 years ago. Direct link to Ana Hillary's post “Would the
-       outbreak of war...”
-       (BUTTON)
-       more
-       Would the outbreak of war be a new type of threat, per se? War has
-       been around from Adam, and it has always involved destruction of
-       history, has it not?
-       If I have in any way misunderstood, please let me know.
-       Thanks- Rose
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 3
-       commentsComment on Ana Hillary's post “Would the outbreak of
-       war...”
-       (11 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            6 years ago
-            Posted 6 years ago. Direct link to David Alexander's post “War
-            has certainly always ...”
-            Good Answer
-            (BUTTON)
-            more
-            War has certainly always been a threat. But wars fought with
-            bows and arrows are less destructive of artifacts and cultures
-            than wars fought with high explosive devices and thermonuclear
-            devices.
-            (BUTTON) 1 commentComment on David Alexander's post “War has
-            certainly always ...”
-            (17 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * starky seed style avatar for user Marianna Wysmułek
-       Marianna Wysmułek
-       5 years ago
-       Posted 5 years ago. Direct link to Marianna Wysmułek's post “Not a
-       question, but somet...”
-       (BUTTON)
-       more
-       Not a question, but something to add. Poland's capital, Warsaw, was
-       totally destroyed during the World War II. It could be rebuilt only
-       thanks to Academy of Fine Arts' students who was sketching city
-       before the war.
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Marianna Wysmułek's post “Not a question, but
-       somet...”
-       (12 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            5 years ago
-            Posted 5 years ago. Direct link to David Alexander's post
-            “Here's a superb podcast a...”
-            (BUTTON)
-            more
-            Here's a superb podcast about that process. Well worth a
-            listen:
-            https://99percentinvisible.org/episode/episode-72-new-old-town
-            /
-            (BUTTON) CommentButton navigates to signup page
-            (8 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * aqualine ultimate style avatar for user LJMRoche
-       LJMRoche
-       5 years ago
-       Posted 5 years ago. Direct link to LJMRoche's post “This article
-       makes good p...”
-       (BUTTON)
-       more
-       This article makes good points and is well said, though it seems to
-       repeat itself, like when talking about looting being a problem. Was
-       it purposely written that way, perhaps to make sure the reader
-       understands?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 5
-       commentsComment on LJMRoche's post “This article makes good p...”
-       (6 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            5 years ago
-            Posted 5 years ago. Direct link to David Alexander's post “I
-            agree that it repeats i...”
-            (BUTTON)
-            more
-            I agree that it repeats itself. I've no idea whether that was
-            purposeful. Maybe it was just poor writing. My suggestion was
-            that you, who identified it a poor writing, take a chance on
-            improving it, and then seeing if that improvement might not be
-            recognized by the guy in charge of the course.
-            (BUTTON) CommentButton navigates to signup page
-            (6 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * blobby green style avatar for user CharleneHoeppner
-       CharleneHoeppner
-       4 years ago
-       Posted 4 years ago. Direct link to CharleneHoeppner's post “how
-       many articles are the...”
-       (BUTTON)
-       more
-       how many articles are there
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (4 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + blobby green style avatar for user drszucker
-            drszucker
-            4 years ago
-            Posted 4 years ago. Direct link to drszucker's post “There are
-            about 2,000 art...”
-            (BUTTON)
-            more
-            From the author:There are about 2,000 art history essays on
-            Khan Academy
-            (BUTTON) CommentButton navigates to signup page
-            (6 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-     * leaf green style avatar for user Monica Adams
-       Monica Adams
-       5 years ago
-       Posted 5 years ago. Direct link to Monica Adams's post “Hi.the
-       statement regardin...”
-       (BUTTON)
-       more
-       Hi.the statement regarding destroying the culture, memory and
-       identity of entire peoples is so true and in a society like we have
-       in South Africa, is one of the dividing factors in our society. We
-       have university students who take a statue down in front of a
-       university because he symbolizes white supremacy. I am talking
-       about the 'Rhodes' memorial , a lifesize statue of Cecil John
-       Rhodes, who most certainly was not a saint but he had dreams for
-       southern Africa that have in part still to be built. He was
-       involved in the Gold and diamond trade, which no doubt exploited
-       the labour force, but it did bring a prosperity to the land. He was
-       the founder of the university of Cape town to which the students in
-       question were hopefully being educated. The names of Towns and
-       cities, not to mention the roads are all being changed by the
-       incumbent government that just causes dismay as the people to which
-       the names are being changed have no place in a democratic country.
-       so, the destruction of heritage is certainly causing a psycological
-       genocide where one fears any discussion.
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (6 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * winston baby style avatar for user Element12_95
-       Element12_95
-       6 years ago
-       Posted 6 years ago. Direct link to Element12_95's post “Does that
-       mean that is li...”
-       (BUTTON)
-       more
-       Does that mean that is like a war for keeping art and sculptures
-       safe and secure?
-       Just curious,
-       Thanks!
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON) 1
-       commentComment on Element12_95's post “Does that mean that is
-       li...”
-       (5 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * starky seedling style avatar for user Arya Wright
-       Arya Wright
-       5 years ago
-       Posted 5 years ago. Direct link to Arya Wright's post “At 11:21,
-       but in this que...”
-       (BUTTON)
-       more
-       At
-       11:21
-       , but in this quest to save cultural heritage, aren't we fighting a
-       losing battle? As long as people, who are the basis of everything,
-       won't recognize the value of heritage either cultural or of any
-       other kind, there would be no point trying to save it.
-       Even during all sorts of conflicts, everyday, every hour we lose
-       something valuable. I recognize the importance in trying to save
-       it, but what about the situations beyond our control? For example,
-       we can't force the govt. of America to cease it's military
-       operations. We can't compromise with international security to stop
-       this destruction at any cost. What can we do about that?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (5 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * aqualine ultimate style avatar for user hikaru hijame
-       hikaru hijame
-       5 years ago
-       Posted 5 years ago. Direct link to hikaru hijame's post “wat it
-       takes for our comm...”
-       (BUTTON)
-       more
-       wat it takes for our community?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (4 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-     * aqualine sapling style avatar for user Taya
-       Taya
-       a year ago
-       Posted a year ago. Direct link to Taya's post “What is ISIS? Some
-       sort o...”
-       (BUTTON)
-       more
-       What is ISIS? Some sort of organization? The article didn't explain
-       who they were or what it was?
-       Also, does this "Art History" Course only talk about the looting
-       and breakage of artifacts?
-       (BUTTON) AnswerButton navigates to signup page• (BUTTON)
-       CommentButton navigates to signup page
-       (2 votes)
-          + (BUTTON)
-            Upvote
-            Button navigates to signup page
-          + (BUTTON)
-            Downvote
-            Button navigates to signup page
-          + (BUTTON)
-            Flag
-            Button navigates to signup page
-       (BUTTON)
-       more
-       Answer
-       Default Khan Academy avatar avatar for user
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       ____________________________________________________________
-       (BUTTON) Show preview (BUTTON) Show formatting options
-       (BUTTON) Post answer
-          + aqualine tree style avatar for user David Alexander
-            David Alexander
-            a year ago
-            Posted a year ago. Direct link to David Alexander's post “ISIS
-            is a convenient acro...”
-            (BUTTON)
-            more
-            ISIS is a convenient acronym for "Islamic State in Syria". The
-            same movement was elsewhere known as ISIL and, internally, as
-            Daish. It is mentioned here because it was a "current thing"
-            when the lesson was made a few years ago.
-            Because artifacts are often artistic expressions, discussion
-            of them is right and proper in a course on Art History.
-            You are at the entry point of this course. Why not skip ahead
-            to the more chronological parts of the course (there are 16
-            different topics), or to one of the particular areas or eras
-            that might interest you more. When you finish those, you might
-            also return to Special Topics or ARCHES, because the
-            instruction is valuable all the way through.
-            (BUTTON) 1 commentComment on David Alexander's post “ISIS is a
-            convenient acro...”
-            (3 votes)
-               o (BUTTON)
-                 Upvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Downvote
-                 Button navigates to signup page
-               o (BUTTON)
-                 Flag
-                 Button navigates to signup page
-            (BUTTON)
-            more
-
-   (BUTTON) Loading...
+   Our world explained with science. Every week, in your inbox.
+   Get the newsletter

@@ -1,405 +1,139 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KW3LJ3D
+   #FISH » Feed FISH » Comments Feed alternate alternate alternate
+
+FISH
+
+Forum on Information Standards in Heritage
+
+   (BUTTON) Menu Skip to content
+     * News
+     * About
+     * MIDAS Heritage
+          + Other Guidance
+          + FISH Toolkit
+     * Terminology
+          + FISH Vocabularies
+          + Submit a Candidate Term
+          + Other Terminology Resources
+          + Chronology
+     * Heritage Information
+     * FISH-HEIRNET
+     * Working Groups
+     * Development
+     * glossary
+
+   Search for: ____________________ Search
+
+About
+
+   Membership & current member organizations
 
-   Skip to main content
+   Welcome to the Forum on Information Standards in Heritage (FISH). This
+   site presents the work of the forum and contains links to recommended
+   information resources that support best practice in recording cultural
+   heritage.
+
+   We hope the site will give you an overview of the different
+   documentation guidance and indexing tools available and used by our
+   members. Please help us keep the website current and update us on
+   any additional or future resources, initiatives and conferences.
 
-   Free standard shipping on all orders
+   FISH logo in the shape of a green fish.
 
-   Routledge Home
-   Search ____________________ (BUTTON)
-   To hear autocomplete suggestions tab past the search button after
-   typing keywords.
+   The forum is guided by the FAIR principles for data management and
+   stewardship. This seeks to make data Findable, Accessible,
+   Interoperable and Reusable. For more information on the FAIR
+   principles, please visit their website:
 
-     * Shop By Subject
-     * New & Bestselling
-     * Instructors & Students
-     * Professional Practice
-     * Publish With Us
-     * Sale & Offers
+   https://www.go-fair.org/fair-principles/
 
-   View All Book Series
+Become a member
 
-BOOK SERIES
-     __________________________________________________________________
+   Membership is free. Join by subscribing to the FISH Mailing List and
+   participate in our forum discussions where all meeting papers and
+   presentations are also made available. To join, go to JISCMail and
+   select one of the three methods on how to
+   subscribe: https://www.jiscmail.ac.uk/help/subscribers/groupsubscriptio
+   ns.html
 
-Key Issues in Cultural Heritage
-     __________________________________________________________________
+   Link to FISH JISCMAIL
 
-About the Series
+   Forum meetings are held twice a year, to discuss strategic and
+   technical issues and developments. The meetings combine the efforts of
+   both FISH and HEIRNET (Historic Environment Information Resources
+   Network), two organisations with similar interests and aims.
 
-   Key Issues in Cultural Heritage is a new and unique series which aims
-   to identify interdisciplinary debates within the changing and
-   under-theorized field of Heritage Studies and to explore how they
-   impact on the practices not only of heritage management and
-   conservation, but also the processes of production, consumption and
-   engagement with heritage in its many and varied forms. Each volume
-   brings together a selection of international contributors and global
-   case studies, providing a balance of theoretical and empirical content.
-     * Series Titles
-     * Authors
+   A smaller Terminology Working Group also meets regularly, to discuss
+   vocabulary issues and candidate terms for the collection of thesauri
+   and authority files produced by or on behalf of FISH.
 
-23 Series Titles
+   FISH was established in 1998 as a non for profit organization. We are a
+   formally convened group with terms of reference and a national profile.
+   FISH is not a legal entity and we have no employed staff, income or
+   budget. There are currently over 400 members.
 
-   AJAX loader
-   Per Page
-   [12]
-   Sort
-   [Publication Date]
-     __________________________________________________________________
+   Download Terms of Reference (2001)
 
-   [X] Include Forthcoming Titles [X]
-   Display
-   Heritage, Conflict, and Peace-Building
-   Forthcoming
+CBA / Council for British Archaeology logo     ADS / Archaeology Data Service
+logo        Britiish-Museum-Logo                      Cadw logo
+Heritage-England-Logo RCAHMW new logo
+ALGAO logo       HES logo       dyfedarch logo          National Trust logo
+         national museum wales logo        Logo01-blue+CPAT_2094x2907
 
-   Heritage, Conflict, and Peace-Building
+Current member organisations
 
-1st Edition
+     * Archaeology Data Service (ADS)
+     * Association of Local Government Archaeological Officers (ALGAO)
+     * British Museum
+     * Cadw (Wales)
+     * Clwyd-Powys Archaeological Trust
+     * Council for British Archaeology (CBA)
+     * Dyfed Archaeological Trust
+     * Historic England
+     * Historic Environment Scotland
+     * Local government Historic Environment Records (HERs)
+     * National Museum Wales
+     * National Trust
+     * Royal Commission on the Ancient and Historical Monuments of Wales
+       (RCAHMW)
 
-   Intangible Cultural Heritage and Sustainable Development Inside a
-   UNESCO Convention
+   Many organisations have helped develop FISH products of the years, some
+   of these include British & Irish Archaeological Bibliography
+   (BIAB), Manx National Heritage, Museum of London, the National
+   Archives, Northern Ireland Environment and Heritage Service, the
+   Portable Antiquities Scheme and the Victoria & Albert Museum.
 
-   Intangible Cultural Heritage and Sustainable Development Inside a
-   UNESCO Convention
+SMR Forum Scotland SMR Forum Scotland logo
 
-1st Edition
+   For more information on Scottish heritage, please visit the HER Forum
+   Scotland website. Like FISH, The SMR Forum enables its members to keep
+   in touch with the latest developments and opportunities within the
+   historic environment sector, and to develop a coordinated national
+   approach. Member organizations include Historic Environment Scotland,
+   the National Trust for Scotland, local authority Historic Environment
+   Records (HERs) and Sites and Monuments Records (SMRs), and others.
 
-   Toxic Heritage Legacies, Futures, and Environmental Injustice
 
-   Toxic Heritage Legacies, Futures, and Environmental Injustice
+   Banner image: Whitby Abbey © Paul Adams.
 
-1st Edition
+Contact FISH via
 
-   Design and Heritage The Construction of Identity and Belonging
+   terminologies@HistoricEngland.org.uk
 
-   Design and Heritage The Construction of Identity and Belonging
+Search the website
 
-1st Edition
+   Search for: ____________________ Search
 
-   Migrant, Multicultural and Diasporic Heritage Beyond and Between
-   Borders
+Recent Posts
 
-   Migrant, Multicultural and Diasporic Heritage Beyond and Between
-   Borders
+     * FISH Vocabularies page November 22, 2023
+     * FISH Thesauri Version 26 Released April 27, 2023
+     * CAA 2020 Conference – 14th to 17th April 2020, Oxford January 21,
+       2020
 
-1st Edition
+Archives
 
-   Urban Heritage in Divided Cities Contested Pasts
+   Archives [Select Month__]
 
-   Urban Heritage in Divided Cities Contested Pasts
+Recent Comments
 
-1st Edition
-
-   World Heritage and Sustainable Development New Directions in World
-   Heritage Management
-
-   World Heritage and Sustainable Development New Directions in World
-   Heritage Management
-
-1st Edition
-
-   Safeguarding Intangible Heritage Practices and Politics
-
-   Safeguarding Intangible Heritage Practices and Politics
-
-1st Edition
-
-   Emotion, Affective Practices, and the Past in the Present
-
-   Emotion, Affective Practices, and the Past in the Present
-
-1st Edition
-
-   Gender and Heritage Performance, Place and Politics
-
-   Gender and Heritage Performance, Place and Politics
-
-1st Edition
-
-   Intellectual Property, Cultural Property and Intangible Cultural
-   Heritage
-
-   Intellectual Property, Cultural Property and Intangible Cultural
-   Heritage
-
-1st Edition
-
-   Managing Heritage in Africa Who Cares?
-
-   Managing Heritage in Africa Who Cares?
-
-1st Edition
-
-   Heritage, Conflict, and Peace-Building
-
-Heritage, Conflict, and Peace-Building
-
-1st Edition
-
-   Forthcoming
-
-   Edited By Lucas Lixinski, Yujie Zhu
-   April 30, 2024
-
-   Heritage, Conflict, and Peace-Building examines the possibilities
-   arising from, and challenges associated with, transforming heritage
-   from a casualty of conflict into an opportunity for peacebuilding. The
-   contributors to this book, who hail from academia and practice, present
-   case studies that shed...
-   Intangible Cultural Heritage and Sustainable Development Inside a
-   UNESCO Convention
-
-Intangible Cultural Heritage and Sustainable Development: Inside a UNESCO
-Convention
-
-1st Edition
-
-   Edited By Chiara Bortolotto, Ahmed Skounti
-   December 19, 2023
-
-   Drawing on debates about intangible cultural heritage (ICH)
-   safeguarding at the local and international levels, Intangible Cultural
-   Heritage and Sustainable Development: Inside a UNESCO Convention,
-   explores the theoretical and practical implications of the
-   intertwinement between these policy fields...
-   Toxic Heritage Legacies, Futures, and Environmental Injustice
-
-Toxic Heritage: Legacies, Futures, and Environmental Injustice
-
-1st Edition
-
-   Edited By Elizabeth Kryder-Reid, Sarah May
-   July 21, 2023
-
-   Toxic Heritage addresses the heritage value of contamination and toxic
-   sites and provides the first in-depth examination of toxic heritage as
-   a global issue. Bringing together case studies, visual essays, and
-   substantive chapters written by leading scholars from around the world,
-   the volume ...
-   Design and Heritage The Construction of Identity and Belonging
-
-Design and Heritage: The Construction of Identity and Belonging
-
-1st Edition
-
-   Edited By Grace Lees-Maffei, Rebecca Houze
-   December 30, 2021
-
-   Design and Heritage provides the first extended study of heritage from
-   the point of view of design history. Exploring the material objects and
-   spaces that contribute to our experience of heritage, the volume also
-   examines the processes and practices that shape them. Bringing together
-   18 case ...
-   Migrant, Multicultural and Diasporic Heritage Beyond and Between
-   Borders
-
-Migrant, Multicultural and Diasporic Heritage: Beyond and Between Borders
-
-1st Edition
-
-   Edited By Alexandra Dellios, Eureka Henrich
-   July 21, 2020
-
-   Migrant, Multicultural and Diasporic Heritage explores the role
-   heritage has played in representing, contesting and negotiating the
-   history and politics of ethnic, migrant, multicultural, diasporic or
-   ‘other’ heritages in, within, between and beyond nations and national
-   boundaries. Containing ...
-   Urban Heritage in Divided Cities Contested Pasts
-
-Urban Heritage in Divided Cities: Contested Pasts
-
-1st Edition
-
-   Edited By Mirjana Ristic, Sybille Frank
-   October 04, 2019
-
-   Urban Heritage in Divided Cities explores the role of contested urban
-   heritage in mediating, subverting and overcoming sociopolitical
-   conflict in divided cities. Investigating various examples of
-   transformations of urban heritage around the world, the book analyses
-   the spatial, social and political...
-   World Heritage and Sustainable Development New Directions in World
-   Heritage Management
-
-World Heritage and Sustainable Development: New Directions in World Heritage
-Management
-
-1st Edition
-
-   Edited By Peter Bille Larsen, William Logan
-   July 09, 2018
-
-   In 2015, the General Assembly of State Parties to the World Heritage
-   Convention passed a ground-breaking Sustainable Development policy that
-   seeks to bring the World Heritage system into line with the UN’s
-   sustainable development agenda (UNESCO 2015). World Heritage and
-   Sustainable Development ...
-   Safeguarding Intangible Heritage Practices and Politics
-
-Safeguarding Intangible Heritage: Practices and Politics
-
-1st Edition
-
-   Edited By Natsuko Akagawa, Laurajane Smith
-   June 27, 2018
-
-   The UNESCO Convention for the Safeguarding of the Intangible Cultural
-   Heritage came into force in 2006, framing the international and
-   national practices and policies associated with intangible cultural
-   heritage. This volume critically and reflexively examines these
-   practices and policies, providing...
-   Emotion, Affective Practices, and the Past in the Present
-
-Emotion, Affective Practices, and the Past in the Present
-
-1st Edition
-
-   Edited By Laurajane Smith, Margaret Wetherell, Gary Campbell
-   June 11, 2018
-
-   Emotion, Affective Practices, and the Past in the Present is a response
-   to debates in the humanities and social sciences about the use of
-   emotion. This timely and unique book explores the ways emotion is
-   embroiled and used in contemporary engagements with the past,
-   particularly in contexts such as ...
-   Gender and Heritage Performance, Place and Politics
-
-Gender and Heritage: Performance, Place and Politics
-
-1st Edition
-
-   Edited By Wera Grahn, Ross J. Wilson
-   February 07, 2018
-
-   Gender and Heritage brings together a group of international scholars
-   to examine the performance, place and politics of gender within
-   heritage. Through a series of case studies, models and assessments, the
-   significance of understanding and working with concepts of gender is
-   demonstrated as a ...
-   Intellectual Property, Cultural Property and Intangible Cultural
-   Heritage
-
-Intellectual Property, Cultural Property and Intangible Cultural Heritage
-
-1st Edition
-
-   Edited By Christoph Antons, William Logan
-   December 21, 2017
-
-   Intellectual Property, Cultural Property and Intangible Cultural
-   Heritage examines various notions of property in relation to intangible
-   cultural heritage and discusses how these ideas are employed in rights
-   discourses by governments and indigenous and local communities around
-   the world. There is ...
-   Managing Heritage in Africa Who Cares?
-
-Managing Heritage in Africa: Who Cares?
-
-1st Edition
-
-   Edited By Webber Ndoro, Shadreck Chirikure, Janette Deacon
-   August 15, 2017
-
-   Managing Heritage in Africa provides a wide-ranging, up-to-date
-   synthesis of heritage management practice in Africa, covering a broad
-   spectrum of heritage issues such as archaeology, living traditions,
-   sacred sites, heritage of pain (slavery), international conventions
-   cultural landscapes, heritage...
-     * 1
-     * 2
-     * >
-
-   1-12 of 23
-   AJAX loader
-
-Series Editors
-
-     * Laurajane Smith
-       Australian National University
-     * Gönül Bozoğlu
-       Newcastle University, UK
-
-Attention Authors
-
-   Interested in proposing a book for a book series?
-
-   Learn how to become a Taylor & Francis author »
-
-   Back To Top
-
-   Routledge Logo
-
-   © Informa UK Limited, an Informa Plc company
-
-Contact Us
-
-     * Customer Service
-     * Editorial Contacts
-     * Sales Contacts
-     * Rights and Permissions
-     * Become an Affiliate Partner Opens in new tab or window
-
-FAQs
-
-Partners
-
-Customer Resources
-
-     * Authors
-     * Booksellers
-     * Instructors
-     * Librarians
-     * Press and Media
-     * Professionals
-     * Societies and Associations
-     * Students
-
-Our Products
-
-     * eBooks
-     * eBook+
-     * Book Series
-     * Online Platforms
-     * Open Access Books
-     * Focus Shortform Books
-
-About Us
-
-     * About Routledge
-     * About Taylor & Francis Opens in new tab or window
-     * Taylor & Francis Journals Opens in new tab or window
-     * Careers Opens in new tab or window
-
-Blog
-
-Topics
-
-Policies
-
-     * Shipping Information
-     * Returns and Cancellations
-     * Terms and Conditions
-     * Inspection Copies
-     * Cookie Policy
-     * Accessibility
-     * Privacy Policy Opens in new tab or window
-
-SOCIAL NETWORKS
-
-   Facebook - Opens in new tab or window LinkedIn - Opens in new tab or
-   window Twitter - Opens in new tab or window YouTube - Opens in new tab
-   or window
-
-   We use cookies to improve your website experience. To learn how to
-   manage your cookie settings, please see our Cookie Policy. By
-   continuing to use the website, you consent to our use of cookies.
-   Accept
-
-The country you have selected will result in the following:
-
-     * Product pricing will be adjusted to match the corresponding
-       currency.
-     * The title Perception will be removed from your cart because it is
-       not available in this region.
-
-   (BUTTON) Continue (BUTTON) Cancel
+   Proudly powered by WordPress

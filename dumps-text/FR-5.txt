@@ -47,16 +47,16 @@ Info
        CONGO, Rép. démocratique du
        SÉNÉGAL
        ÉTHIOPIE
-       CÔTE D'IVOIRE
-       NIGER
        TCHAD
-       NIGERIA
+       CÔTE D'IVOIRE
+       GUINÉE
        AFRIQUE DU SUD
+       NIGER
 
 Nos dossiers du moment
        RDC : Election présidentielle 2023
-       RDC les défis d'un géant africain
        L'actualité en Éthiopie
+       RDC les défis d'un géant africain
        L'actualité au Niger
        Sénégal
      * International
@@ -76,9 +76,9 @@ Nos dossiers du moment
 Nos dossiers du moment
        Violences faites aux femmes
        Sport au féminin
-       Femmes photographes, un autre regard
-       Femmes en politique
        Les métiers ont-ils un sexe ?
+       Santé des femmes
+       Femmes en politique
      * Sport
        Accueil Sports
 
@@ -89,8 +89,8 @@ Nos dossiers du moment
 
 Nos dossiers du moment
        La musique sur TV5MONDE
-       [Culture à domicile]
        Un livre, délivre
+       [Culture à domicile]
      * Science
        Accueil Sciences
      * Société
@@ -169,32 +169,35 @@ Mode : le styliste Alphadi nous charme depuis 40 ans
 
 À la une
 
-   ISRAËL-HAMAS
+   ISRAËL-GAZA
 
-DIRECT : les craintes d'extension du conflit se renforcent après un attentat
-en Iran
+DIRECT : Blinken au Moyen-Orient pour éviter l'embrasement régional
 
-   Ukraine-Russie
+   UKRAINE-RUSSIE
 
-DIRECT : Moscou et Kiev échangent plus de 230 prisonniers de guerre
+DIRECT : bombardement de Kiev du 29 décembre, le bilan record grimpe à 32
+morts
 
-   Contestation
+   Tensions régionales
 
-Israël : que signifie la décision de la Cour suprême à propos de la réforme
-judiciaire ?
+Tensions Ethiopie-Somalie : l'Union africaine appelle au "respect mutuel" et
+au "calme"
 
-   Ça grince
+   Afrique
 
-Entre l'Éthiopie et le Somaliland, un accord qui exaspère la Somalie
+Guinée : la télévision nationale diffuse une vidéo de présumés putschistes
+
+   International
+
+Iran : attentat de Kerman, Téhéran accuse Israël
+
+   numéro deux du Hamas
+
+Qui était Saleh al-Arouri, haut responsable du Hamas tué au Liban ?
 
    post-référendum
 
 Tchad : qui est Succès Masra, nouveau Premier ministre de transition ?
-
-   Politique
-
-Présidentielle en RDC : quelles options de contestation pour les candidats
-d'opposition ?
 
    Plan du site
 

@@ -1,107 +1,72 @@
-          + Travel with WMF
-          + Jewish Heritage Program
-          + Ukraine Heritage Response Fund
-          + Heritage from Home
-     * Give
---
-          + Travel with WMF
-          + Jewish Heritage Program
-          + Ukraine Heritage Response Fund
-          + Heritage from Home
-     * Give
+    4. Targeted Analyses
+    5. 9-Material Cultural Heritage- HERITAGE
+
+HERITAGE - The Material Cultural Heritage as a Strategic Territorial
+Development Resource: Mapping Impacts Through a Set of Common European
 --
 
-Looking to the Future: Global Challenges to Cultural Heritage Preservation
+   Theme: cultural heritage, territorial impact, indicators, monitoring
+   and evaluation
+--
+   The service shall attempt to quantify the contribution (impact) of
+   material cultural heritage to economical development in the stakeholder
+   countries and regions over the past 5 years. Building on the work done
+   by the European Heritage Heads Forum’s Economic Task Force and the
+   European Commission, this research activity will define a list of
+   economic sectors on which the material cultural heritage has an impact
+   and perform data collection on the selected impact indicators.
+--
+   The main outcome should be a common theoretical framework, defining the
+   most important economic sectors on which the material cultural heritage
+   has an impact and developing the empirical evidence of such impact.
+--
+   This study is named as one of the key studies by the “European
+   Framework for Action on Cultural Heritage” (adopted by the European
+   Commission in December 2018). Economic statistics and indicators
+   produced will be useful for understanding the economic contribution of
+   the material cultural heritage. Overall the results will promote
+   evidence-based decision making related to protection and promotion of
+   material cultural heritage.
 
 --
-   After decades working to underscore, preserve, and rehabilitate key
-   cultural heritage in countries around the world from Albania to
-   Zimbabwe, our commitment to our planet’s monuments of cultural
-   expression and human ingenuity is as strong as ever. We must, however,
-   recognize that the global challenges facing the cultural heritage we
-   endeavor to protect have changed and created a new landscape across
---
-   the groundswell call to remove these monuments associated with historic
-   injustice has helped showcase that celebrated heritage often represents
-   privilege. Some stories are told in stone and bronze for the world to
+     * A common theoretical framework defining the economic sectors on
+       which material cultural heritage has an impact.
+     * A common methodological framework describing how to determine the
+       impact material cultural heritage has on these economic sectors.
+     * Evidence (collected data and set of indicators) on the economic
+       impact of cultural heritage in stakeholder territories / regions
+       over the past 5 years (for example e.g. cultural heritage-related
+       gross value added in tourism, construction, etc.).
 --
 
-   While our relationships with our cultural heritage evolved over the
-   past year, changing rainfall patterns, intensifying storms, and rising
+     * Norwegian Directorate for Cultural Heritage (lead stakeholder)
+     * Brussels Capital region (Heritage Department)
+     * Flanders Heritage Agency
+     * Swedish National Heritage Board
+     * Cultural Heritage Agency of the Netherlands
+     * European Council of Spatial Planners
 --
-   potential of imbalanced tourism. In strengthening our commitment to
-   work with unrecognized heritage places and integrate diverse
-   perspectives, we will bolster the role of underrepresented heritage in
-   global discussions and preservation decision-making. Through developing
---
-   preservation professionals, since the field has long struggled to
-   promote patterns of visitation that can sustainably support heritage
-   places with adequate revenue and minimally impact the physical fabric
---
-   changes the composition of local communities and the character of the
-   heritage.
-
---
-   tourism at a regional scale and help reach new audiences and supporters
-   of cultural heritage. A commitment to balanced tourism enhances our
-   efforts to support the places we work.
-
-Underrepresented Heritage
-
-   As the debate over monuments this year has clearly demonstrated, power
-   and privilege are often tied to celebrated cultural heritage. The
-   architectural marvels of the past that regale throngs of visitors with
---
-   protection because they have been sidelined for generations. These
-   heritage places hold incredible importance for the communities that
-   value them and often represent unique facets of human ingenuity,
---
-   crucial path forward to recognizing and protecting humanity’s rich
-   heritage. The most iconic historic places comprise countless unheard
-   stories and unrecognized contributions by disenfranchised communities.
-   World Monuments Fund renews our commitment to the heritage of
-   underrepresented groups exemplified through previous work in Essaouira
---
-   projects, the narratives of minority communities were recorded and
-   disseminated to raise awareness of the significant role their heritage
-   plays in local identity. Current projects at the Woolworth Building in
---
-   underscore the wealth and distinctiveness of so many underrepresented
-   heritage sites and the threats they face, ranging from lack of
-   recognition to targeted destruction associated with genocide.
---
-   accomplishments while denouncing past and current injustice. Ensuring
-   that recognized cultural heritage embodies our diversity and portrays
-   the complexities of history enhances its relevance for communities
---
-
-   Our built heritage has always contended with the elements. Crucial
-   components of local architecture, sense of place, and even cultural
---
-   global nature of our changing climate underscores the need for
-   pragmatic, replicable strategies to safeguard our cultural heritage.
+     * Monuments Board of the Slovak Republic
+     * Institute for the Protection of Cultural Heritage of Slovenia
+     * Austrian Federal office for Cultural Heritage
 
 --
 
-   Cultural heritage is also emblematic of the urgency of climate
-   change—iconic places are dramatically swallowed by the sea or destroyed
---
-   Mosques (Maldives), World Monuments Fund has aimed to highlight the
-   plight of our heritage in the face of climate change and work closely
-   with local stakeholders and international institutions to develop
+Societal value of cultural heritage in Iceland.pdf
+
 --
 
-   We have the duty to protect the world’s cultural heritage from the
-   immediate effects of climate change and the opportunity to emphasize
+HERITAGE_Synthesis Report
+
 --
-   where he oversaw a large portfolio of projects that included
-   archaeological research and cultural heritage. Over the course of his
-   career, he worked with the Getty Conservation Institute on World
-   Heritage Sites in China and Egypt, evaluated cultural site
-   management from Kazakhstan to Colombia, and oversaw strategic planning
+
+HERITAGE_Main Report
+
 --
-          + Travel with WMF
-          + Jewish Heritage Program
-          + Ukraine Heritage Response Fund
-          + Heritage from Home
-     * Give
+
+HERITAGE_Scientific Annex
+
+--
+     * 8-Future Digital Health - eHEALTH
+     * 9-Material Cultural Heritage- HERITAGE
+     * 10-Cross-border Public Services - CPS

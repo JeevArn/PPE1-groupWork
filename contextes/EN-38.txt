@@ -1,56 +1,146 @@
-   Many communities, many populations indeed celebrate their cultural
-   heritage through literature, art, sports, traditions, food, even their
-   daily routine and gestures: each difference, each particularity can be
+
+Information & Communication Technologies in Cultural Heritage & Tourism
+
 --
-   Highland Games can also be a proof of an assertion of a certain
-   heritage: it aims at celebrating the Scottish culture through sport. It
-   consists in watching bagpipes players parading, people wearing kilts,
+   the ways in which the public interacts, understands, and appreciates
+   the importance of cultural heritage around the world. They are
+   additionally enabling sustainable tourism to flourish in an era of
+--
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites - about the ways in which ICT is altering how we see the
+   past and travel around the world.
+--
+   The UNESCO Chair in ICT to develop and promote sustainable tourism in
+   World Heritage Sites has been established at USI in 2013. But the
+   process started earlier, with the preparation of the application
+--
+   (ICT for Sustainable Development) – could be of interest for UNESCO
+   enlisted World Heritage Sites. Hence the proposed Chair, whose goals
+   are to conduct extensive research and development activities in the
+--
+   with the University of Turku, in Finland, to run a very innovative
+   travelling Summer School: we will visit five World Heritage Sites and
+   two UNESCO Biosphere Reserves in the southern part of Finland,
+--
+   our mission: to orchestrate ICT in order to support and promote
+   sustainable tourism in World Heritage Sites (we are still accepting
+   late applications and it is possible also to participate online).
+--
+   Development”, led by Paris 1 Panthéon-Sorbonne University, the MOOC
+   “Tourism Management of UNESCO World Heritage Sites”. This MOOC will
+   remain open until the end of 2018 and has attracted so far about 5,000
+--
+   JBW: What is “sustainable tourism” and how can it improve the public's
+   awareness and understanding of cultural heritage, Professor Cantoni?
+   Remove Ads
 --
 
-A memorial heritage
+   If we think of Tourism and Heritage, we can refer to three areas of
+   sustainability: environmental, economic, and socio-cultural.
+--
+   traditions. We have studied, for instance, the case of Lalibela, a
+   World Heritage Site in Ethiopia. It consists of eleven medieval
+   monolithic cave churches of the 13th century CE, still actively used as
+--
+   JBW: In your own words, how do media, technology, tourism, and cultural
+   heritage intersect? Which technologies do you believe will play a
+   commanding role in safeguarding cultural heritage and promoting
+   sustainable tourism in the future?
+--
+     * Access: ICT can offer endless opportunities to provide good quality
+       information about heritage sites, through websites, videos, social
+       media, mobile apps, and the like. Definitely, AHE is a major player
+--
+     * Connect: ICT can help to connect the three main players in this
+       relationship: locals, visitors, and the heritage itself. For
+       instance, we assisted RETOSA, the Regional Tourism Organisation of
+       Southern Africa, developing an offline/online digital game to help
+       the young generations to know more about the World Heritage Sites
+       of the 15 countries of the Southern African Development Community
+--
+       partnered with local players in the Island of Mozambique – a World
+       Heritage Site – to develop their online presence: a super simple
+       website listing local B&Bs and their telephone numbers. After a few
+--
 
-   This legacy is also prominent through the construction for the
-   preservation of a memorial heritage, passed on from one generation to
-   another, a beacon of knowledge whose aim is to enlighten the world,
+   JBW: Could you share further information about the #faces4heritage
+   campaign? How and when was this initiative started, and what are its
+   aims? I believe that the #faces4heritage campaign has been active for
+   several years if I am not mistaken.
 --
-   national parks in the USA like Yellowstone for example, are part of the
-   heritage that needs to be kept intact in order to show to the future
-   populations the grandeur of a nation and the beauty of a country; that
+   LC: Right, happy to share something about this initiative. In 2015,
+   UNESCO launched the global #Unite4Heritage campaign, aimed at raising
+   awareness about the destruction of heritage done by violent extremists,
+   e.g. in Syria and Iraq, but also in Lybia, Mali, and elsewhere. At the
+   chair, we wanted to support such a campaign and developed
+   #faces4heritage, an online tool that enables you to combine half of
+   your face with half of the face of a destroyed statue. The created
 --
-   become a fight, a struggle to defend a territory or a border or to
-   preserve a threatened heritage or culture as is the case with Native
-   populations or minorities. In fact, the Stolen Generation in Australia
+   your friends/followers are invited to reflect on such a dramatic issue.
+   #faces4heritage has been and is still very active on Twitter, being
+   among the most used hashtags in combination with #Unite4Heritage.
+
 --
-   Greenland and in Canada, for whom the respect of their cultural and
-   environmental heritage is a question of survival.
-   Closer to us, the fight between Northern Ireland and The Republic of
+   involved in the processes of preservation and valorization with regard
+   to cultural heritage? Do you have any specific recommendations or
+   personal suggestions?
 --
-   imcAnswer1?
-   Culture heritage is often used to celebrate a region's identity.
-   imcAnswer2|imcAnswer3|imcAnswer5?
-   The purpose of a memorial heritage is to help the rest of the world
-   aspire to greater cultural values.
-   imcAnswer2|imcAnswer3|imcAnswer5?
-   The cultural heritage of the Maoris is the same as that of the Inuit.
-   imcAnswer4?
-   Cultural heritage can cause problems when people want to assert their
-   right to it.
+   Svizzera italiana to develop and promote sustainable tourism in World
+   Heritage Sites.
+
 --
-   What does the writer mean by ”Traditions like the Highland Games can
-   also be a proof of an assertion of a certain heritage…“?
-   Cochez la bonne réponse.
+   holder of the UNESCO chair in ICT to develop and promote sustainable
+   tourism in World Heritage Sites, established at USI in 2013. Dr.
+   Lorenzo Cantoni has been Dean of the Faculty (2010-2014) and President
 --
-   ( ) Community-based festivals and competitions are the best way to
-   assert their heritage.
-   ( ) ok It is through competitions like the Highland Games that a
+   Collections2
+   Madhubani Paintings: People’s Living Cultural Heritage
+   Article
+
+Madhubani Paintings: People’s Living Cultural Heritage
+
 --
-   positions.
-   ( ) Cultural heritage is not linked to the pride of their history or
-   territory.
-   ( ) Cultural heritage can enable members of a community to dream.
-   ( ) ok Giving up on one's cultural heritage could lead to its
-   extinction.
+   governments...
+   Greek World Heritage Sites
+   Article
+
+Greek World Heritage Sites
+
+   Greece, the 'cradle of western civilization', is home to a large...
+   Rome's Egyptian Heritage
+   Article
+
+Rome's Egyptian Heritage
+
 --
-   ( ) Events such as Brexit mean that liberal voters can also maintain
-   their cultural heritage.
-   ( ) ok Major political events can also be considered as symbols of
+   per month you can become a member and support our mission to engage
+   people with cultural heritage and to improve history education
+   worldwide.
+--
+
+   Human Computer Interaction, Tourism and Cultural Heritage: First
+   International Workshop, HCITOCH 2010, Brescello, Italy, September 7-8,
+--
+
+   Human Computer Interaction, Tourism and Cultural Heritage: First
+   International...
+--
+   Wiener, J. B. (2018, June 13). Information & Communication Technologies
+   in Cultural Heritage & Tourism. World History Encyclopedia. Retrieved
+   from
+--
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. Last modified
+   June 13, 2018.
+--
+   Wiener, James Blake. "Information & Communication Technologies in
+   Cultural Heritage & Tourism." World History Encyclopedia. World History
+   Encyclopedia, 13 Jun 2018. Web. 04 Jan 2024.
+--
+
+   Our mission is to engage people with cultural heritage and to improve
+   history education worldwide. Please support World History Encyclopedia.
+--
+   listed under our old name, Ancient History Encyclopedia.
+   Our Mission Our mission is to engage people with cultural heritage and
+   to improve history education worldwide.

@@ -1,340 +1,335 @@
-   #The Heritage Management Organization » Feed The Heritage Management
-   Organization » Comments Feed The Heritage Management Organization »
-   HERITΛGE Comments Feed alternate alternate alternate
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ
 
-     *
-     *
-     *
+   Skip to main content
 
-   DONATE NOW!
+   Advertisement
+   SpringerLink
+   Log in
+   Menu
+   Find a journal Publish with us Track your research
+   Search
+   Cart
+   Book cover
 
-     * About
-          + About us
-          + Director’s Greeting
-          + Mission Statement
-          + Quality Policy
-          + Our Team
-          + Our Faculty
-          + Our Board
-          + African Committee
-          + Partner Organizations
-          + Publications
-          + Join Us
-          + Employment Opportunities
-     * EDUCATION
-          + Executive Leadership
-          + Summer Field School
-     * CERTIFICATE
-     * OPEN COURSES
-     * Projects
-     * Conference
-          + Conference
-          + CONTACT/ΕΠΙΚΟΙΝΩΝΙΑ
-          + Archive
-               o 1st Conference
-               o 2nd Conference
-               o 3rd Conference
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 4th Conference
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 5th Conference
-                    # Communication
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 6th Conference
-                    # Συνέδριο
-                    # Πρόγραμμα
-                    # Προσκεκλημένοι Ομιλητές
-                    # Προσκεκλημένες Ομάδες
-                    # Πρόσβαση
-                    # Επικοινωνία
-               o 7th Conference
-                    # Round Table
-                    # Invited Speakers
-                    # Invited Initiatives
-                    # Register
-                    # Contact
-               o 8th Conference
-     * News
-          + Blog
-          + Newsletters
+   Euro-Mediterranean Conference
 
-     * About
-          + About us
-          + Director’s Greeting
-          + Mission Statement
-          + Quality Policy
-          + Our Team
-          + Our Faculty
-          + Our Board
-          + African Committee
-          + Partner Organizations
-          + Publications
-          + Join Us
-          + Employment Opportunities
-     * EDUCATION
-          + Executive Leadership
-          + Summer Field School
-     * CERTIFICATE
-     * OPEN COURSES
-     * Projects
-     * Conference
-          + Conference
-          + CONTACT/ΕΠΙΚΟΙΝΩΝΙΑ
-          + Archive
-               o 1st Conference
-               o 2nd Conference
-               o 3rd Conference
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 4th Conference
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 5th Conference
-                    # Communication
-                    # Organising & Scientific Committee
-                    # Session Abstracts
-                    # Invited Speakers
-                    # The Venue
-                    # Authors Instructions
-                    # Side Events
-                    # Programme
-               o 6th Conference
-                    # Συνέδριο
-                    # Πρόγραμμα
-                    # Προσκεκλημένοι Ομιλητές
-                    # Προσκεκλημένες Ομάδες
-                    # Πρόσβαση
-                    # Επικοινωνία
-               o 7th Conference
-                    # Round Table
-                    # Invited Speakers
-                    # Invited Initiatives
-                    # Register
-                    # Contact
-               o 8th Conference
-     * News
-          + Blog
-          + Newsletters
+   EuroMed 2018: Digital Heritage. Progress in Cultural Heritage:
+   Documentation, Preservation, and Protection pp 616–622Cite as
+    1. Home
 
-   HERITΛGE HERITΛGE HERITΛGE HERITΛGE HERITΛGE HERITΛGE
+     Digital Heritage. Progress in Cultural Heritage: Documentation,
+   Preservation, and Protection
 
-   December 14, 2023
+     Conference paper
 
-Empowering Communities: Innovative Workshops on Community and Economic
-Development in Rwanda
+The Role of Heritage Data Science in Digital Heritage
 
-   December 14, 2023
+     * Alejandra Albuerne  ORCID: orcid.org/0000-0001-6444-9120^19,
+     * Josep Grau-Bove^19 &
+     * Matija Strlic^19
 
-Bridging Heritage and Climate Action: New Workshop creates a generation of
-ambassadors
+     * Conference paper
+     * First Online: 16 October 2018
 
-   December 12, 2023
+     * 3362 Accesses
+     * 1 Citations
 
-Europe Mapping: Survey
+   Part of the Lecture Notes in Computer Science book series (LNISA,volume
+   11196)
 
-   Learn
-   Donate
-   Join Us
+Abstract
 
-Training
+   The advance of all forms of digital and virtual heritage alongside
+   numerous heritage science and management applications have led to the
+   generation of growing amounts of heritage data. This data is
+   increasingly rich, diverse and powerful. To get the most out of
+   heritage data, there is an evident need to effectively understand,
+   manage and exploit it in a way that is sensitive towards its context,
+   responding to its singularities, and that can allow heritage to keep up
+   with global changes regarding expansion of digital technologies and the
+   increasing role of data in decision making and policy development.
+   Through conversations with industry and academia, as well as through
+   their personal research in the field of cultural heritage, the authors
+   have identified a need for enhanced training for data scientists to
+   prepare them for working in the heritage sector. This paper first
+   proposes a definition of the term heritage data, so far missing from
+   the literature, and then presents the academic rationale behind the
+   identified need for targeted training in data science for cultural
+   heritage.
 
-   Executive Leadership Workshops
-   Summer Workshops
-   Projects
+Keywords
 
-     Empower Yourself and your Organization through training
+     * Heritage data
+     * Data science
+     * Cultural heritage
 
-   Find out more
+   This is a preview of subscription content, log in via an institution.
 
-Instagram Feed
+Buying options
 
-the_heritage_nation
+   Chapter
+          EUR   29.95
+          Price includes VAT (France)
 
-   n a rapidly changing world, the preservation and m n a rapidly changing
-   world, the preservation and management of cultural heritage require
-   strategic planning and effective decision-making. HERITΛGE’s latest
-   transformative 3-day online workshop titled “Strategic Planning for
-   Heritage Managers” led by Alexandros Papalexandris @aueb.gr , took
-   place in mid-May and brought together 14 heritage managers from Africa,
-   Asia, and Europe, providing them with essential strategic planning
-   skills and knowledge. Read more on our blog 👆 link in bio #strategy
-   #HMOworkshop#heritage #heritagemanagement #heritage
-   #culturalheritagemanagement #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   “A museum is a not-for-profit, permanent institu “A museum is a
-   not-for-profit, permanent institution in the service of society that
-   researches, collects, conserves, interprets and exhibits tangible and
-   intangible heritage. Open to the public, accessible and inclusive,
-   museums foster diversity and sustainability. They operate and
-   communicate ethically, professionally and with the participation of
-   communities, offering varied experiences for education, enjoyment,
-   reflection and knowledge sharing.” Today it’s #InternationalMuseumDay!
-   Let's celebrate this day and raise awareness for the most valuable
-   means of cultural exchange and heritage preservation! Visit your local
-   #museum or check out @icomofficiel 's interactive map and participate
-   in this year's #IMD activities 👆 link in bio #museums
-   #heritagemanagement #heritage #culture #culturalheritage
-   #communityengagement #culturalheritagemanagement #heritagenation
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   What can cultural heritage do for business in Afri What can cultural
-   heritage do for business in Africa? HERITΛGE celebrated African
-   Heritage Day on May 5th by taking part in an online webinar organized
-   by the @women_in_africa. Dr. Evangelos Kyriakidis, HERITΛGE Director,
-   and the organization’s Head of Africa Programmes, Mina Morou, both
-   contributed to the webinar, sharing tips and good practices on how to
-   make heritage preservation the basis for building a successful
-   business. Find out more and watch the webinar (attended by around 1000
-   people on the day!)👆 link in bio #heritage #heritagemanagement
-   #africanheritage #africa #womeninafrica #womeninbusiness
-   #heritagebusiness #business #hermapAfrica #heritage
-   #culturalheritagemanagement #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   HERITΛGE is happy to support the upcoming Colloqu HERITΛGE is happy to
-   support the upcoming Colloquium & Workshops on “Decoloniality,
-   Inclusivity, and the Greek Past”, organized by the @canellopoulosmuseum
-   and the @isawnyu. #canellopoulosmuseum #camugr #greekmuseum #athens
-   #greece #heritagemanagement #heritage #culturalheritagemanagement
-   #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization
-   Launch and develop your career in heritage managem Launch and develop
-   your career in heritage management by mastering the General Principles
-   of Cultural Heritage Conservation. Apply by May 17 for our 3-day
-   workshop with Alexis Stefanis 👆 link in bio #conservation #workshop
-   #training #heritagemanagement #heritage #culturalheritagemanagement
-   #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   HERITΛGE is trying to make cultural heritage more HERITΛGE is trying to
-   make cultural heritage more inclusive and accessible by working
-   together with another 13 partners on SHIFT, a EU-funded project. Meet
-   our team and find out more about the project at the National Conference
-   of ANBPR Asociatia Nationala - BiblioNEXT, with the theme "Public
-   library - source of promotion and preservation of local memory", which
-   takes place between May 10-14, 2023, in Craiova. #shift #technology
-   #accessibility #inclusion #heritagemanagement #heritage
-   #culturalheritagemanagement #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   Happy #EuropeDay! Europe Day held on 9 May every y Happy #EuropeDay!
-   Europe Day held on 9 May every year celebrates peace and unity in
-   Europe. The date marks the anniversary of the historic 'Schuman
-   declaration' that set out his idea for a new form of political
-   cooperation in Europe, which would make war between Europe's nations
-   unthinkable. Schuman's proposal is considered to be the beginning of
-   what is now the #EuropeanUnion. #heritage #culturalheritagemanagement
-   #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   Acquire essential digital skills for any restorati Acquire essential
-   digital skills for any restoration, documentation or visualization
-   project. We have a limited number of places left for those wishing to
-   attend our “Digital Tools for Heritage Management” summer school
-   online. Find out more and apply now 👆 link in bio #summerschool
-   #training #digitaltools #heritagemanagement #heritage
-   #culturalheritagemanagement #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   May Day! This historic holiday dates back to ancie May Day! This
-   historic holiday dates back to ancient times and was traditionally used
-   to celebrate springtime and new life. Traditions often include
-   gathering wildflowers and green branches, weaving floral garlands, and
-   setting up a Maypole. However, it also marks the International Workers’
-   Day, commemorating the historic struggles and gains made by workers and
-   the labour movement. In dozens of countries around the world, it serves
-   as the occasion for demonstrations and rallies in support of workers.
-   #workersday #mayday #InternationalWorkersDay #heritagemanagement
-   #heritage #culturalheritagemanagement #culturalheritage #heritagenation
-   #culture #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   Conservation is critical to preserving the physica Conservation is
-   critical to preserving the physical and cultural characteristics of
-   heritage objects, and ensuring their value is not diminished. Our new
-   3-day “Introduction to the General Principles of Cultural Heritage
-   Conservation” course on 26-28 May 2023 is led by Alexis Stefanis, an
-   Assistant Professor at the Department of Conservation of Antiquities
-   and Works of Art of Πανεπιστήμιο Δυτικής Αττικής / University of West
-   Attica, Greece, who will provide heritage professionals with an
-   overview of the principles and objectives of conservation, outlining
-   its methodology, ethics, evolution, and contemporary international
-   context. 🔹 Apply for the workshop by May 7 👆 link in bio #conservation
-   #workshop #training #heritagemanagement #heritage
-   #culturalheritagemanagement #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   Are you a student, just graduated, or a young prof Are you a student,
-   just graduated, or a young professional and want to enrich your
-   expertise with essential spatial technology skills? The new academic
-   certificate Digital Tools for Heritage Management offered by HERITΛGE
-   and @hogeschool_gent is for you! This exchange program awards 30 ECTS
-   credit units, equivalent to 50% of a full year. Apply by May 1 for the
-   academic year starting October 2023 👆 link in bio #ects #digitaltools
-   #certificate #heritagemanagement #heritage #culturalheritagemanagement
-   #culturalheritage #heritagenation #culture
-   #heritagemanagementorganization #spatialdata #GIS #laserscanning
-   #3Dmodeling #communitymanagement
-   In March, a three-day online workshop on “Succes In March, a three-day
-   online workshop on “Successful Fundraising for Heritage Managers:
-   Strategies and Best Practices” was held, aimed at equipping heritage
-   managers with fundraising skills and strategies to start-up and build
-   their organizations’ contributed revenue for increased impact in the
-   world. The workshop had 13 participants from Africa (Egypt, Ethiopia,
-   Kenya, Namibia, Sudan), Asia (India), and Europe (Greece, Norway,
-   Serbia, United Kingdom), who were trained on fundraising best
-   practices. #workshop #fundraising #training #heritagemanagement
-   #heritage #culturalheritagemanagement #culturalheritage #heritagenation
-   #culture #heritagemanagementorganization #intangibleculturalheritage
-   #unite4heritage #heritage4generations
-   Load More Follow on Instagram
+     * Available as PDF
+     * Read on any device
+     * Instant download
+     * Own it forever
 
-CONTACT US
+   (Submit) Buy Chapter
 
-     * ADDRESS
-       US: 810W Washington Blvd,
-       Suite 260, Chicago IL 60607,
-       GR: 3-5 Anaxagora str., Athens, 105 52,
-       Gambia: Barra, North Bank Region
-     * PHONE NO
-       +30 216 700 33 25 #301
-     * EMAIL ID
-       [email protected]
-     * WEB ADDRESS
-       https://heritagemanagement.org/
+   eBook
+          EUR   96.29
+          Price includes VAT (France)
 
-Follow us
+     * Available as EPUB and PDF
+     * Read on any device
+     * Instant download
+     * Own it forever
 
-   Copyright 2015-23. All rights reserved.
-     * Privacy Policy
-     * Contact Us
+   (Submit) Buy eBook
 
-   Newsletter Sign-up
+   Softcover Book
+          EUR   126.59
+          Price includes VAT (France)
+
+     * Compact, lightweight edition
+     * Dispatched in 3 to 5 business days
+     * Free shipping worldwide - see info
+
+   (Submit) Buy Softcover Book
+
+   Tax calculation will be finalised at checkout
+
+   Purchases are for personal use only
+   Learn about institutional subscriptions
+
+References
+
+    1. Harrison, R., Morel, H., Maricevic, M., Penrose, S.: Heritage and
+       Data: Challenges and Opportunities for the Heritage Sector
+       Google Scholar
+    2. Loukides, M.: What is Data Science? O’Reilly Media, Sebastopol
+       (2011)
+       Google Scholar
+    3. Meyer, E., Grussenmeyer, P., Perrin, J.P., Durand, A., Drap, P.:
+       Integration of heterogeneous cultural heritage data in a web-based
+       information system: a case study from Vianden Castle, Luxembourg.
+       In: CAA 2006 Proceedings (2006)
+       Google Scholar
+    4. Reilly, P., Rahtz, S. (eds.): Archaeology in the Information Age: A
+       Global Perspective. One World Archaeology, vol. 21. Routledge,
+       London (1992)
+       Google Scholar
+    5. Richards, J.D.: Recent trends in computer applications in
+       archaeology. J. Archaeol. Res. 6(4), 331–382 (1998)
+       Google Scholar
+    6. Vincent, M.L., López-Menchero Bendicho, V.M., Ioannides, M., Levy,
+       T.E. (eds.): Heritage and Archaeology in the Digital Age:
+       Acquisition, Curation, and Dissemination of Spatial Cultural
+       Heritage Data. QMHSS. Springer, Cham (2017).
+       https://doi.org/10.1007/978-3-319-65370-9
+       CrossRef  Google Scholar
+    7. Lercari, N., Shiferaw, E., Forte, M., Kopper, R.: Immersive
+       visualization and curation of archaeological heritage data:
+       Çatalhöyük and the Dig@IT App. J. Archaeol. Method Theory 25(2),
+       368–392 (2017)
+       CrossRef  Google Scholar
+    8. http://www.heritagedata.org/blog/vocabularies-provided/
+    9. Klic, L., Nelson, J.K., Pattuelli, M.C., Provo, A.: Florentine
+       renaissance drawings: a linked catalog for the semantic web. Art
+       Doc. J. Art Libr. Soc. North Am. 37(1), 33–43 (2018)
+       Google Scholar
+   10. UNESCO: Charter on the preservation of digital heritage (2003)
+       Google Scholar
+
+   Download references
+
+Acknowledgements
+
+   We are grateful to all interviewees and questionnaire respondents for
+   their generous collaboration and to Yujia Luo for her help with
+   Mendeley.
+
+Author information
+
+Authors and Affiliations
+
+    1. Institute for Sustainable Heritage, University College London,
+       London, UK
+       Alejandra Albuerne, Josep Grau-Bove & Matija Strlic
+
+   Authors
+    1. Alejandra Albuerne
+       View author publications
+       You can also search for this author in PubMed Google Scholar
+    2. Josep Grau-Bove
+       View author publications
+       You can also search for this author in PubMed Google Scholar
+    3. Matija Strlic
+       View author publications
+       You can also search for this author in PubMed Google Scholar
+
+Corresponding author
+
+   Correspondence to Alejandra Albuerne .
+
+Editor information
+
+Editors and Affiliations
+
+    1. Cyprus University of Technology, Limassol, Cyprus
+       Marinos Ioannides
+    2. American Art Collaborative Linked Open Data Initiative, Arlington,
+       VA, USA
+       Eleanor Fink
+    3. Politecnico di Milano, Milan, Italy
+       Raffaella Brumana
+    4. The Aristotle University, Thessaloniki, Greece
+       Petros Patias
+    5. National Technical University of Athens, Athens, Greece
+       Anastasios Doulamis
+    6. CTS-UNINOVA, Caparica, Portugal
+       João Martins
+    7. University of the Peloponnese, Tripoli, Greece
+       Manolis Wallace
+
+Rights and permissions
+
+   Reprints and permissions
+
+Copyright information
+
+   © 2018 Springer Nature Switzerland AG
+
+About this paper
+
+   Check for updates. Verify currency and authenticity via CrossMark
+
+Cite this paper
+
+   Albuerne, A., Grau-Bove, J., Strlic, M. (2018). The Role of Heritage
+   Data Science in Digital Heritage. In: Ioannides, M., et al. Digital
+   Heritage. Progress in Cultural Heritage: Documentation, Preservation,
+   and Protection. EuroMed 2018. Lecture Notes in Computer Science(), vol
+   11196. Springer, Cham. https://doi.org/10.1007/978-3-030-01762-0_54
+
+Download citation
+
+     * .RIS
+     * .ENW
+     * .BIB
+
+     * DOI: https://doi.org/10.1007/978-3-030-01762-0_54
+     * Published: 16 October 2018
+     * Publisher Name: Springer, Cham
+     * Print ISBN: 978-3-030-01761-3
+     * Online ISBN: 978-3-030-01762-0
+     * eBook Packages: Computer ScienceComputer Science (R0)
+
+Share this paper
+
+   Anyone you share the following link with will be able to read this
+   content:
+   (BUTTON) Get shareable link
+
+   Sorry, a shareable link is not currently available for this article.
+
+   (BUTTON) Copy to clipboard
+
+   Provided by the Springer Nature SharedIt content-sharing initiative
+
+Publish with us
+
+   Policies and ethics
+
+   Access via your institution
+
+Buying options
+
+   Chapter
+          EUR   29.95
+          Price includes VAT (France)
+
+     * Available as PDF
+     * Read on any device
+     * Instant download
+     * Own it forever
+
+   (Submit) Buy Chapter
+
+   eBook
+          EUR   96.29
+          Price includes VAT (France)
+
+     * Available as EPUB and PDF
+     * Read on any device
+     * Instant download
+     * Own it forever
+
+   (Submit) Buy eBook
+
+   Softcover Book
+          EUR   126.59
+          Price includes VAT (France)
+
+     * Compact, lightweight edition
+     * Dispatched in 3 to 5 business days
+     * Free shipping worldwide - see info
+
+   (Submit) Buy Softcover Book
+
+   Tax calculation will be finalised at checkout
+
+   Purchases are for personal use only
+   Learn about institutional subscriptions
+
+search
+
+   Search by keyword or author
+   ____________________ (BUTTON) Search
+
+Navigation
+
+     * Find a journal
+     * Publish with us
+     * Track your research
+
+Discover content
+
+     * Journals A-Z
+     * Books A-Z
+
+Publish with us
+
+     * Publish your research
+     * Open access publishing
+
+Products and services
+
+     * Our products
+     * Librarians
+     * Societies
+     * Partners and advertisers
+
+Our imprints
+
+     * Springer
+     * Nature Portfolio
+     * BMC
+     * Palgrave Macmillan
+     * Apress
+
+     * (BUTTON) Your privacy choices/Manage cookies
+     * Your US state privacy rights
+     * Accessibility statement
+     * Terms and conditions
+     * Privacy policy
+     * Help and support
+
+   91.164.203.135
+
+   Not affiliated
+   Springer Nature
+
+   © 2024 Springer Nature

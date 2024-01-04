@@ -1,320 +1,558 @@
-   [tr?id=451368485840920&ev=PageView&noscript=1] Skip to main content
-   Skip to navigation
+   Skip to main content Skip to main navigation
+     * Giving
+     * Corporate
+     * Alumni
+     * iSchool Connect
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KTR8VW
-
-   NSW Department of Planning and Environment
-
-   (BUTTON) Open navigation - further below
-   NSW Government logo (BUTTON) Show search overlay
-   NSW Government logo
-   NSW Government logo
-   (BUTTON) Show search overlay
-     * Home
-     * Topics
-          +
-               o Back
-               o Heritage
-               o Animals and plants
-               o Parks, reserves and protected areas
-               o Air
-               o Water
-               o Fire
-               o Land and soil
-               o Energy
-               o Sustainability
-
-Heritage
-               o Back
-               o Go to Heritage
-               o About heritage
-               o Request a heritage listing
-               o Manage heritage items
-               o Search heritage databases
-               o Apply for heritage approvals and permits
-               o Heritage grants
-               o Celebrate heritage
-               o Aboriginal Cultural Heritage Advisory Committee
-               o Heritage Council of NSW
-
-Animals and plants
-               o Back
-               o Go to Animals and plants
-               o Biodiversity conservation
-               o Biodiversity Offsets Scheme
-               o Conservation programs
-               o Surveys, monitoring and records
-               o Native animals
-               o Threatened species
-               o Wildlife management
-               o Wildlife licences
-               o Native vegetation
-               o Pest animals and weeds
-
-Parks, reserves and protected areas
-               o Back
-               o Go to Parks, reserves and protected areas
-               o Visit a national park
-               o Types of protected areas
-               o Establishing new parks and protected areas
-               o Park management
-               o Park policies
-               o Commercial activities in parks
-               o Development guidelines
-               o Current park closures, fire and safety alerts
-
-Air
-               o Back
-               o Go to Air
-               o NSW Clean Air Strategy
-               o About the Air program
-               o Current air quality
-               o Sydney forecast
-               o Air quality data services
-               o Air pollution episodes
-               o Air quality monitoring network
-               o Understanding air quality data
-               o Air quality basics
-               o Research
-               o NSW air quality statements
-               o Publications
-
-Water
-               o Back
-               o Go to Water
-               o Coasts
-               o Estuaries
-               o Floodplains
-               o Wetlands
-               o Water for the environment
-               o Water quality
-               o Beaches
-
-Fire
-               o Back
-               o Go to Fire
-               o Fire facts
-               o Managing fire
-               o Fire management strategies
-               o Fire safety in parks
-               o Plants, animals and fire
-               o Park recovery and rehabilitation
-               o Research
-               o
-
-Land and soil
-               o Back
-               o Go to Land and soil
-               o Managing land and soil
-               o
-               o Soil degradation
-               o Land and soil information
-               o Soil publications
-               o Geodiversity
-
-Energy
-               o Back
-               o Go to Energy
-               o Households
-               o Business
-               o Government and regulation
-
-Sustainability
-               o Back
-               o Go to Sustainability
-               o Sustainability Advantage
-     * Research & publications
-          + Back
-          + Your research
-          + Our science and research
-          + SEED data portal
-          + BioNet biodiversity data
+   University of Illinois Urbana-Champaign
+   School of Information Sciences
+   [ ] Menu
+     * Visit
+          + What is an iSchool?
+          + Request Information
+          + Upcoming Events
+          + Tuition & Financial Support
+          + Recruitment & Admissions Staff
+          + iSchool Ambassadors
+          + Student Videos
+     * Degrees & Programs
+          + Undergraduate
+          + Graduate
+          + Informatics Programs
+          + Course Catalog
+     * People
+          + School Leadership
+          + Faculty
+          + Staff
+          + Adjuncts & Affiliates
+          + Emeriti Faculty
+          + Doctoral Students
+          + Committees
+          + School Directory
+     * Research
+          + Areas
+          + Projects
+          + Vision
+          + Services
+          + Showcase
+          + Research Fellows
+          + Scholars-in-Residence
+          + Postdoctoral Researchers
+          + Videos
+     * Engage
+          + Corporate
+          + Giving
+          + Alumni
+     * Student Life
+          + Academic Support Center
+          + Student Development Opportunities
+          + Student Organizations
+          + Convocation
+          + Practicum & Career Courses
+          + Career Support
+          + Help Desk
+     * News & Events
+          + News Feed
+          + Events Calendar
           + Publications
-          + Image library
-     * Funding & support
-          + Back
-          + Grants
-          + NSW Environmental Trust
-          + Sponsorship
-     * Licences & permits
-          + Back
-          + Wildlife licences
-          + Scientific licences
-          + Protected native plant licences
-          + Threatened species impact licences
-          + Aboriginal heritage impact permit
-          + Heritage permits and applications
-          + Native vegetation clearing approvals
-          + National parks passes and permits
-          + Commercial activities in parks
-     * About us
-          + Back
-          + Who we are
-          + Careers
-          + Commercial activities in parks
-          + Find information
-          + Report a problem or incident
-          + Access to information
-          + News
-          + Videos of us at work
-          + Contact us
-          + Our website
-          + Privacy and security
-          + Copyright and disclaimer
+          + Upcoming Events
+          + Lectures
+          + Awards
+     * Our School
+          + 130th Anniversary
+          + Strategic Plan
+          + History
+          + Data and Reporting
+          + iSchool at a Glance
+          + Building Facilities
+          + Diversity & Inclusion
+          + Job Openings
+          + Contact Us
 
-     * News & media
-
-     * News & media
-
-   Dialog start
-   What are you looking for? Start typing, then use the up and down arrows
-   to select an option from the list
+   [ ] Search
    ____________________
+   (BUTTON)
+   Research
+   In This Section
+     * Home
+     * Research
+     * Research Areas
+     * Cultural Informatics and Heritage
 
-   (BUTTON) "Search"
-   Dialog end
-   open description
-   icon camera
+Cultural Informatics and Heritage
 
-   close description
-   close description
+   Understanding the role of information technology in preserving,
+   transmitting, and shaping human culture and heritage
 
-   Environment and Heritage
+Researchers Working in this Area
 
-   Thriving, sustainable and resilient NSW
+     * Anita Say Chan
+       Anita Say Chan
+       Associate Professor
+     * Emily Maemura
+       Emily Maemura
+       Assistant Professor
+     * Stephen Downie
+       J. Stephen Downie
+       Professor, Associate Dean for Research, and Co-Director of the
+       HathiTrust Research Center
+     * Judith Pintar
+       Judith Pintar
+       Teaching Associate Professor
+     * Kate Williams
+       Kate Williams
+       Associate Professor Emerita
+     * Kathryn La Barre
+       Kathryn La Barre
+       Associate Professor
+     * Lori Kendall
+       Lori Kendall
+       Associate Professor
+     * Professor Michael Twidale
+       Michael Twidale
+       Professor and PhD Program Director
+     * Ryan Cordell
+       Ryan Cordell
+       Associate Professor
+     * Travis Wagner
+       Travis L. Wagner
+       Assistant Professor
 
-What would you like to do today?
+Related Research Projects
 
-     * Apply for a licence
-     * Get involved
-     * Find information
-     * Report a problem
-     * Teach and learn
-     * Explore local resources
+Children, Comics, and Print Culture
 
-   Scroll for more
+   Time frame
+          2015-2018
 
-Stay up to date
+   Investigator
+          Carol Tilley
 
-   Beach with rip shown as gap in waves
+   Total funding to date
+          $19,036.00
 
-School holiday safety in seaside national parks
+   Funding agency
+          University of Illinois Research Board
 
-   NPWS ranger showing a preschool aged child how to trace around a leaf
+   This project expands Tilley’s investigation of comics from the
+   perspective of readers, a much-neglected group in both contemporary and
+   historical research. Comics readership among young people peaked in the
+   mid-twentieth century with levels reaching near 100%, yet there has
+   been little scholarly investigation of this phenomenon. Funding for
+   this project will enable archival research trips and…
 
-Pick your ho-ho-holiday adventure in Hunter and Central Coast national parks
+Donna Haraway is our "Friend": Reconfiguring Friendship Bracelets and
+Bibliography
 
-   Belmore Falls from Belmore lookout, Morton National Park
+   Time frame
+          2016-Present
 
-Warning when visiting waterfalls
+   This project uses the friendship bracelet as a way to "re-weave" the
+   academic canon. Friendship bracelets are handmade macramé bracelets of
+   embroidery thread, intended to be worn as a sign of lasting friendship.
+   In this collaboration with Julia Pollack (MS '12), bracelets have been
+   woven with bibliographical references to important work of women in the
+   field of knowledge-production.
 
-   Young koala (Phascolarctos cinereus) in Red Rum Forest, Lismore
+   …
 
-NSW Koala Summit puts koalas in the spotlight
+Implications of a Digital Revolution
 
-   NPWs staff overseeing box with eggs sacked in it
+   Total funding to date
+          $14,000.00
 
-First known sea turtle nesting of the season on NSW Mid North Coast
+   Funding agency
+          Illinois Program for Research in the Humanities
 
-   Solar farm solar panels
+   Notably absent in the current rush to digitize newspapers and books are
+   critical investigations of the processes and products of this work.
+   Such examinations are forestalled, Bonnie Mak argues, by a rhetoric of
+   revolution that determines how the phenomenon should be constituted and
+   studied, just as it continues to do for the so-called printing
+   revolution of the fifteenth century. Her analysis…
 
-NSW secures more renewable energy projects
+Information's Allure
 
-   Major slip on Baranbali Road, Mooball National Park
+   Time frame
+          2016-Present
 
-Dangerous excursion into national park flood recovery works zone costs
-four-wheel driver almost $5,000
+   One of the enduring attractions of books is their ability to stand
+   witness to their own presence through time and space. A history of
+   social interaction is marked on the pages of a book; a folded corner, a
+   stain from a careless reader's cup of coffee, and a thoughtful comment
+   in the margin accrue and transmit something of where the book has been,
+   with whom, and under what circumstances.…
 
-   Palm forest walking track, Border Ranges National Park
+Metadata Poems
 
-Current park closures, fire and safety alerts
+   Time frame
+          2017-Present
 
-   Clouds, weather pattern
+   Although standardized vocabularies and languages are often invoked as a
+   way to ensure interoperability in the management of informational
+   resources, these conventions prioritize particular ways of representing
+   the world. This project situates metadata as an infrastructure of
+   information, and examines how such descriptive practices have
+   configured the production of knowledge for centuries—from…
+   Metadata Poems project
 
-Current air quality
+Preserving Intangible Cultural Heritage
 
-   Old post office building with verandah looking over the garden, Hartley
-   Historic Site
+   Time frame
+          2015-2017
 
-Unique national parks commercial locations up for lease
+   Investigators
+          Lori Kendall, Maria Bonn
 
-   See all
+   Total funding to date
+          $25,500.00
 
-Connect with us
+   Funding agency
+          Andrew W. Mellon Foundation
 
-   Skip Connect with us
+   The past decade has seen tremendous progress in the field of
+   preservation, particularly with respect to preservation of digital
+   materials. To date, however, there has been only minimal research
+   activity within North America on the preservation of intangible
+   cultural heritage—such as language, cuisine, performing arts, and
+   traditional craftsmanship—and its relationship to the preservation of…
 
-Your local environment
+Temporal Factors
 
-Explore your region
+   Time frame
+          2012-2016
 
-   Choose one of the options below to learn more about your region.
+   Total funding to date
+          $408,908.00
 
-Select a region from the map:
+   Funding agency
+          National Science Foundation
 
-Choose from the list:
+   Time affects information retrieval in many ways. Collections of
+   documents change as new items are indexed. The content of documents
+   themselves may change. Users submit queries at particular moments in
+   time. And perhaps most importantly, people’s assessment of a document’s
+   relevance to a query is often time-dependent. For example, searchers of
+   news archives might seek information on a past…
 
-     * Metropolitan Sydney
-     * Central West and Orana
-     * Hunter
-     * Murray-Murrumbidgee
-     * North Coast
+Text Mining the Novel: Establishing the Foundations of a New Discipline
 
-     * Central Coast
-     * Far West
-     * Illawarra
-     * New England-North West
-     * South East and Tablelands
+   Time frame
+          2014-2020
 
-Enter your address:
+   Investigators
+          Ted Underwood, J. Stephen Downie
 
-   search
-   ____________________
-   (BUTTON) Search for my region
+   Total funding to date
+          $142,000.00
 
-   Unable to find matching region in New South Wales. Please choose a
-   region from the list.
-   (BUTTON) Locate me
+   Funding agency
+          Social Sciences and Humanities Research Council of Canada
 
-Air quality
+   This HathiTrust Research Center (HTRC) project seeks to produce the
+   first large-scale cross-cultural study of the novel according to
+   quantitative methods. Ever since its putative rise in the eighteenth
+   century, the novel has emerged as a central means of expressing what it
+   means to be modern. And yet despite this cultural significance, we
+   still lack a comprehensive study of the novel’s place…
 
-Regional information
+The Computer Music Project
 
-     * Metropolitan Sydney
-     * Central Coast
-     * Central West and Orana
-     * Far West
-     * Hunter
-     * Illawarra
-     * Murray-Murrumbidgee
-     * New England-North West
-     * North Coast
-     * South East and Tablelands
+   Time frame
+          1984-Present
 
-Policy and law
+   Investigator
+          Sever Tipei
 
-     * Legislation
-     * Policies
-     * Public registers
-     * Litigation
-     * Compliance and enforcement
+   Funding agency
+          National Endowment for the Arts, UIUC Campus Research Board,
+          School of Music
 
-About this website
+   Founded in 1984, the Computer Music Project is a facility dedicated to
+   computer music research and teaching. Through its existence, it has
+   supported the development of new tools for composition, sound design,
+   sound analysis, sonification, sound visualization and automatic
+   notation along with the creation of new musical compositions. Software
+   created at CMP benefits, in turn, classroom and…
+   computer music at U of I
 
-     * Who we are
-     * Our website
-     * Privacy and security
-     * Copyright and disclaimer
+News Stories
 
-Contact us
+Guo defends dissertation
 
-     * Email
-     * Office
-     * Have your say
-     * Feedback or complaint
+   December 6 2023
 
-   We pay respect to the Traditional Custodians and the First people of
-   NSW, and acknowledge their continued connection to their Country and
-   culture.
-   (BUTTON) Top
-   Please consider the environment before printing.
+   Doctoral candidate Qiuyan Guo successfully defended her dissertation,
+   "Exploring Chinese Celebrity Fans’ Online Information Behaviors and
+   Understandings of Their Practices," on December 6.
+   Qiuyan Guo
+
+iSchool researchers present at 4S 2023
+
+   November 20 2023
+
+   iSchool faculty, staff, and students presented their research at the
+   Society for Social Studies of Science (4S) annual conference, which was
+   held from November 8-11 in Honolulu, Hawaii. The society is an
+   international, nonprofit association that fosters interdisciplinary
+   scholarship in social studies of science, technology, and medicine.
+
+Wagner to join iSchool faculty
+
+   August 4 2023
+
+   The iSchool is pleased to announce that Travis L. Wagner will join the
+   faculty as an assistant professor in August 2023. They currently serve
+   as a lecturer in the College of Information Studies at the University
+   of Maryland.
+   Travis Wagner
+
+Gabriel to deliver keynote on building resilient collections
+
+   April 11 2023
+
+   PhD student Jamillah R. Gabriel will give the keynote address at the
+   17th Annual Digital Commonwealth Conference, which will be held
+   virtually on April 11. Digital Commonwealth provides resources and
+   services to support the creation, management, and dissemination of
+   cultural heritage materials held by libraries, museums, historical
+   societies, archives, and other cultural institutions in Massachusetts.
+   The theme of this year's conference is "Facing the Digital Future:
+   Addressing Systemic Issues in Cultural Heritage."
+   Jamillah Gabriel
+
+Han to host workshop for youth to learn Chinese American history
+
+   February 7 2023
+
+   PhD student Yingying Han is helping youth learn about Chinese American
+   history and take action to preserve their cultural heritage. Through a
+   multi-session workshop, which will take place the next four Saturdays
+   from 10:00-11:30 a.m. at the University YMCA in Champaign, Han hopes to
+   teach children about the contributions of Chinese immigrants and
+   Chinese Americans to the history of the United States.
+   Yingying Han
+
+Project to study anti-Black violence in newspapers receives support from
+Mellon Foundation
+
+   January 24 2023
+
+   A project to examine the circulation of newspaper reports about
+   anti-Black violence in nineteenth- and early twentieth-century U.S.
+   newspapers could provide context to the spread of white supremacist
+   ideologies in social media today.
+   St. Louis newspaper from early 1900s
+
+iSchool presents research at Digital Humanities 2022
+
+   August 3 2022
+
+   iSchool faculty, staff, and students presented their research at
+   Digital Humanities 2022, the annual conference of the International
+   Alliance of Digital Humanities Organizations. The theme of this year's
+   conference, which was held online on July 25-29, was "Responding to
+   Asian Diversity."
+
+Guo receives dissertation fellowship
+
+   July 6 2022
+
+   Doctoral candidate Qiuyan Guo has received a 2022 Eugene Garfield
+   Doctoral Dissertation Fellowship from Beta Phi Mu, the international
+   library and information studies honor society. Beta Phi Mu awarded six
+   fellowships, valued at $3,000 each, to doctoral students who are
+   working on their dissertations in LIS, information studies,
+   informatics, or a related field. Guo received the fellowship for her
+   dissertation, "Exploring Chinese Celebrity Fans' Online Information
+   Behaviors and Understandings of Their Fandom."
+   Qiuyan Guo
+
+New HRI Research Clusters include iSchool faculty
+
+   June 1 2022
+
+   Two projects led by iSchool faculty members have been selected as
+   Humanities Research Institute (HRI) Research Clusters for 2022-2023.
+   Formerly known as the Illinois Program for Research in the Humanities,
+   HRI fosters interdisciplinary study in the humanities, arts, and social
+   sciences at the University of Illinois. HRI Research Clusters enable
+   faculty and graduate students to "develop questions or subjects of
+   inquiry that require or would be enhanced by collaborative work."
+   Projects selected as clusters receive grants of $2,500 to support their
+   activities.
+
+Kacunguzi defends dissertation
+
+   April 5 2022
+
+   Doctoral candidate Dianah T. Kacunguzi successfully defended her
+   dissertation, "Knowledge Preservation Practices of Herbalists in
+   Uganda: An Ethnographic Study," on March 31
+   Dianah Kacunguzi
+
+Cordell to deliver keynote on Viral Texts project
+
+   October 14 2021
+
+   Associate Professor Ryan Cordell will deliver the keynote address at
+   the Marbach-Weimar-Wolfenbüttel (MWW) Research Association Mid-Term
+   Conference, which will be held virtually from Germany on October 14-15.
+   The goal of the MWW is "to provide future-oriented impulses for
+   collaboration in the field of humanities and cultural studies
+   research." The association's mid-term conference will focus on
+   engagement with material and medial losses in the archive and library.
+   Ryan Cordell
+
+Han’s paper named a finalist for iConference award
+
+   January 29 2021
+
+   A paper coauthored by Ruohua Han, iSchool doctoral candidate, and
+   Linqing Ma (Renmin University of China) has been named one of five
+   finalists for the Best Short Research Paper Award at iConference 2021.
+   The winner will be announced during the conference, which will take
+   place online from March 17-31.
+   Ruohua Han
+
+New role for Pintar
+
+   August 22 2019
+
+   The iSchool is pleased to announce that Judith Pintar is now a teaching
+   associate professor. In her new position, in addition to teaching core
+   courses in the BS in information sciences (BS/IS) program, she will
+   develop and teach courses related to game studies and interactive
+   narrative design for both undergraduates and graduate students.
+   Judith Pintar
+
+Chan selected as a Data & Society Faculty Fellow
+
+   July 3 2019
+
+   Associate Professor Anita Say Chan has been selected as a 2019-2020
+   Data & Society Faculty Fellow. Data & Society is a research institute
+   focused on the social and cultural issues arising from automation and
+   data-centric technology. Its programs draw together researchers and a
+   broad network of practitioners to bring new perspectives and
+   intellectual breadth to the institute's work.
+   Anita Say Chan
+
+Book chapter co-authored by Bettivia examines digital heritage
+
+   June 5 2019
+
+   Postdoctoral Research Associate Rhiannon Bettivia (PhD '16) is the
+   co-author of a chapter in Politics of Scale: New Directions in Critical
+   Heritage Studies, a newly published book edited by Tuuli Lähdesmäki,
+   Suzie Thomas, and Yujie Zhu. In the chapter, "The Dynamics of Scale in
+   Digital Heritage Cultures," Bettivia and Elizabeth Stainforth, a
+   lecturer at the University of Leeds, examine scalar politics as enacted
+   through Europeana, the EU digital platform for cultural heritage, and
+   the Digital Public Library of America.
+   Rhiannon Bettivia
+
+Chan joins iSchool faculty
+
+   March 19 2019
+
+   The iSchool is pleased to announce that Anita Say Chan has joined the
+   faculty. She also holds a joint appointment with the College of Media,
+   where she is an associate professor of communications in the Department
+   of Media and Cinema Studies.
+   Anita Say Chan
+
+Cloonan publishes book on cultural heritage preservation
+
+   September 20 2018
+
+   Michèle Valerie Cloonan (MS '84, PhD '88), iSchool research associate
+   professor and professor of the School of Library and Information
+   Science at Simmons University, has authored a book addressing the
+   social, cultural, and political issues in cultural heritage
+   preservation. Her book, The Monumental Challenge of Preservation: The
+   Past in a Volatile World, was recently published by The MIT Press.
+   The Monumental Challenge of Preservation
+
+New book 'beginning' of New Philadelphia story
+
+   September 11 2018
+
+   Professor Emeritus Gerald McWorter (Abdul Alkalimat) and Associate
+   Professor Kate Williams have coauthored a book on New Philadelphia, the
+   first known town planned and legally registered in the U.S. by an
+   African American, Gerald's great-great-grandfather, Free Frank
+   McWorter.
+   New Philadelphia book cover
+
+Kacunguzi to discuss preserving indigenous knowledge at QQML 2018
+
+   May 21 2018
+
+   Doctoral candidate Dianah T. Kacunguzi will present her research at the
+   10th Quantitative and Qualitative Methods in in Libraries International
+   Conference (QQML 2018), which will be held on May 22-25 in Chania,
+   Greece.
+   Doctoral candidate Dianah Kacunguzi
+
+Benson and Green share expertise in copyright, digital publishing at SCI 2017
+
+   November 2 2017
+
+   Master's student Sara Benson, copyright librarian and assistant
+   professor at the University Library, and Harriett Green, affiliated
+   faculty member and head of scholarly communication and publishing at
+   the University Library, have been invited to present at the 2017
+   Triangle Scholarly Communication Institute (SCI 2017).
+    1. 1
+    2. 2
+    3. 3
+
+   NEXT
+
+Research
+
+     * Areas
+     * Projects
+     * Vision
+     * Services
+     * Showcase
+     * Research Fellows
+     * Scholars-in-Residence
+     * Postdoctoral Researchers
+     * Videos
+
+   Back to top
+   School of Information Sciences
+     *
+     *
+     *
+     *
+     *
+     *
+
+   501 E. Daniel St. MC-493
+   Champaign, IL 61820-6211
+   Voice (217) 333-3280
+   Fax (217) 244-3302
+   ischool@illinois.edu
+
+quick links
+
+     * School Directory
+     * Visit
+     * Help Desk
+     * Course Login
+     * iSchool Connect
+     * IS Virtual Library
+
+campus resources
+
+     * Privacy Notice
+     * Campus Directory
+     * Graduate College
+     * University Library
+     * University of Illinois
+
+   ©2024 University of Illinois Board of Trustees
+   Cookie Settings

@@ -464,7 +464,7 @@ User Contributed Notes 8 notes
    down
    -3
    niemans at pbsolo dot nl ¶
-   3 years ago
+   4 years ago
    Inheritance works at create time, i.e. using the keyword 'new'. Static
    properties confused my understanding, so in order tho show the effect
    of visibility to inherintence I've created a simple demo script along

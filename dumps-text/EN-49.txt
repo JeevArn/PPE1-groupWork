@@ -1,553 +1,335 @@
-   [tr?id=889870088554345&ev=PageView&noscript=1]
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PFDJN3H
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5KT8D9
-
-   (BUTTON) Toggle navigation logo
-     * Corporate
-          + Heritage at a Glance
-          + Vision & Mission
-          + Corporate Management Team
-          + Functional Heads
-          + Our Commitments
-          + Awards & Recognitions
-          + CSR Activities
-               o CSR Activities for the Financial Year 2023-24
-          + GSTN Numbers
-     * Business Verticals
-          + Dairy
-               o Dairy Home
-               o Exports
-               o Heritage Parlour
-               o Heritage Distribution Centre
-               o Locations
-               o Excellence in Quality
-          + Renewable Energy
-     * Products
-          + Milk
-          + UHT Milk
-          + Curd
-          + Frozen Desserts
-          + Lassi
-          + Ice-Creams
-          + Buttermilk
-          + Milkshake
-          + Paneer
-          + Sweets
-          + Ghee
-          + Butter
-          + Cheese
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-          + Whey Drink
-          + Skimmed Milk Powder
-          + [bf-milk.jpg]
-            Buffalo Milk
-          + [tonemilk.jpg]
-            Toned Milk
-          + [fullcream-milk.jpg]
-            Full Cream Milk
-          + [standardized-milk.jpg]
-            Standardized Milk
-          + [dbtoned-milk.jpg]
-            Double Toned Milk
-          + [cowmilk.jpg]
-            Cow Milk
-          + [slim-milk.jpg]
-            Slim Milk
-          + [a2fullcreammilk.jpg]
-            A2 Full Cream Milk
-          + [uhtmilk.jpg]
-            UHT Milk
-          + [totalcurd.jpg]
-            Total Curd
-          + [probioticcurd.jpg]
-            Probiotic Curd
-          + [creamilicious.png]
-            Creamilicious Curd
-          + [cones.jpg]
-            Cones
-          + [cups.jpg]
-            Cups
-          + [juicy_bars.jpg]
-            Juicy Bars
-          + [familypack.jpg]
-            Family Packs
-          + [sweet-lassi.png]
-            Sweet Lassi
-          + [mango-lassi.png]
-            Mango Lassi
-          + [straberry.png]
-            Strawberry Lassi
-          + [subjalassi.jpg]
-            Sabja Lassi
-          + [tubs.jpg]
-            Tubs
-          + [icbars.jpg]
-            Bars
-          + [kulfi.jpg]
-            Kulfi
-          + [buttermilk.jpg]
-            Spiced Buttermilk
-          + [plain-buttermilk.png]
-            Plain Buttermilk
-          + [milkshake-vanilla.jpg]
-            Vanilla
-          + [milkshake-chocolate.jpg]
-            Chocolate & Caramel
-          + [chok.jpg]
-            Chocolate
-          + [biscuit.jpg]
-            Cookies Cream
-          + [milkshake-strawberry.jpg]
-            Strawberry
-          + [paneer-fresh.jpg]
-            Fresh Paneer
-          + [paneer.jpg]
-            Lite Paneer
-          + [doodhpedas.jpg]
-            Doodh Peda
-          + [milkcake.jpg]
-            Milk Cake
-          + [gulab-jamun1.png]
-            Gulab Jamun
-          + [rasagulla1.png]
-            Rasagulla
-          + [cow-ghee1.jpg]
-            Cow Ghee
-          + [buffalo-ghee1.jpg]
-            Buffalo Ghee
-          + [special-ghee.jpg]
-            Hi Aroma Ghee
-          + [table-butter.jpg]
-            Table Butter
-          + [cooking-butter.jpg]
-            Cooking Butter
-          + [processedcheese.jpg]
-            Processed Cheese
-          + [mozzarellacheese.jpg]
-            Mozzarella Cheese
-          + [processedcheeseslice.jpg]
-            Processed Cheese Slice
-          + [processedcheesespread.jpg]
-            Processed Cheese Spread
-          + [freshcream.jpg]
-            Fresh Cream
-          + [coldcoffee.jpg]
-            Cold Coffee
-          + [Cafe-Latte.jpg]
-            Cafe Latte
-          + [Cafe_Mocha_1.jpg]
-            Cafe Mocha
-          + [fmilk-pbadam.jpg]
-            Badam Charger
-          + [fmilk-badam.jpg]
-            Badam
-          + [fmilk-pista.jpg]
-            Pista
-          + [fmilk-chocolate.jpg]
-            Chocolate
-          + [fmilk-elachi.jpg]
-            Elachi
-          + [fmilk-pineapple.jpg]
-            Pineapple
-          + [fmilk-strawberry.jpg]
-            Strawberry
-          + [fmilk-vanilla.jpg]
-            Vanilla
-          + [gluco-shakti.png]
-            Gluco Shakti Orange
-          + [gluco-shakti-lemon.png]
-            Gluco Shakti Lemon
-          + [gluco-shakti-pineapple.png]
-            Gluco Shakti Pineapple
-          + [smpowder.jpg]
-            Milk Powder
-     * Products
-          + Milk
-               o Buffalo Milk
-               o A2 Full Cream Milk
-               o Toned milk
-               o Double Toned Milk
-               o Full cream milk
-               o Standardized Milk
-               o Cow milk
-               o Slim Milk
-          + UHT Milk
-          + Curd
-               o Total Curd
-               o Premium Curd
-               o Probiotic Curd
-               o class="">Creamilicious Curd
-          + Buttermilk
-          + Lassi
-               o Sweet Lassi
-               o Mango Lassi
-               o Strawberry Lassi
-               o Subja Lassi
-          + Icecreams
-               o Tubs
-               o Bars
-               o Kulfi
-          + Frozen Desserts
-               o Cones
-               o Cups
-               o Juicy Bars
-               o Family Packs
-          + Milkshake
-               o Vanilla
-               o Chocolate
-               o Strawberry
-          + Paneer
-               o Fresh Paneer
-               o Lite Paneer
-          + Sweets
-               o Doodh Peda
-               o Milk Cake
-          + Ghee
-               o Cow Ghee
-               o Buffalo Ghee
-               o Hi Aroma Ghee
-          + Butter
-               o Cooking Butter
-               o Table Butter
-          + Cheese
-               o Processed Cheese
-               o Mozzarella Cheese
-               o Processed Cheese Slice
-               o Processed Cheese Spread
-          + Fresh Cream
-          + Cold Coffee
-          + Flavoured Milk
-               o Badam Charger
-               o Badam
-               o Pista
-               o Chocolate
-               o Elachi
-          + Skimmed Milk Powder
-     * Subsidiary/JV
-          + Subsidiary
-               o Heritage Nutrivet Limited
-          + JV
-               o Heritage Novandie Foods Pvt Ltd
-     * Investors
-          + Listing Information
-          + Board of Directors
-               o Brief Profile of Directors
-               o Board Committees
-               o Independent Director
-                    # Code for Independent Director
-               o Familiarization Programme
-          + Financial
-               o Annual Report
-                    # Annual Report
-                    # Annual Report 2022-23 flip book
-                    # Subsidiary / Associate / JV Annual Reports
-               o Financial Report
-                    # Quarterly Financial Results
-                    # Shareholder/ Investor Presentation
-          + Statutory Information
-               o Meetings
-                    # Annual General Meetings
-                    # EGM / Postal Ballot
-                    # Notice of Board Meetings
-               o Stock Exchange
-                    # Notice for Closure of Trading Window
-                    # Outcome of Board Meeting
-                    # Stock Exchange Clarifications
-                    # Concall
-                    # Reconciliation of Share Capital Audit Report
-                    # Investor Grievances Report
-                    # BRSR
-                    # RTA Certificate 74(5)
-                    # Yearly Disclosures
-                    # Regulation 40(9 & 10)
-                    # Regulation 7(3)
-                    # Communication to Shareholders
-                    # Related Party Transaction
-               o MOA & AOA
-               o Management Discussion & Analysis
-               o Research Reports
-               o Rights Issue
-               o Scheme of Arrangement
-               o Annual Disclosure Formats
-               o Annual Return
-          + Policies
-          + Corporate Governance
-               o Shareholding Pattern
-               o Corporate Governance Reports
-               o RTA & Compliance Officer
-               o Newspaper Publications
-               o Familiarization Program
-               o Secretarial Reports
-                    # Secretarial Audit Report
-                    # Annual Secretarial Compliance Report
-          + Dividend/ IEPF
-               o Dividend/Unclaimed Dividend
-                    # Dividend History
-                    # Unclaimed Dividend
-                    # Unclaimed Dividend from FY 2014-15 to 2022-23 (1st
-                      Int Div)
-                    # Unclaimed Dividend Register
-               o IEPF
-                    # Shares Transfer to IEPFA
-               o Nodal Officer
-          + Investor Contacts
-               o Investor Grievance
-               o Designated Official
-               o KMP Details
-          + Credit Rating
-          + Investor Service Request
-     * News & Events
-     * Gallery
-     * Contact Us
-     *
-     *
-
-   Heritage Foods was founded to create and share wealth ethically among
-   the farming community in a structured manner
-   The farming community was fragmented with no guidance and voice
-   I am proud we have achieved our objective with our vision and mission
-   for economic growth
-   I promise as trustees our moral compass will remain to true north
-   always
-   Smt. Bhuvaneswari Nara
-   Vice Chairperson & Managing Director
-
-I BELIEVE
-
-   Smt. Bhuvaneswari Nara
-
-Buy Now
-
-   buy on amazon
-     * buy on bigbasket
-
-   Important: We have moved to H.No.8-2-293/82/A/1286, Plot No: 1286, Road
-   No. 1 & 65, Jubilee Hills, Hyderabad- 500033, Telangana, India w.e.f
-   1-12-2022
-
-   CAUTION: Heritage Foods Limited. Since it’s incorporation (i.e.
-   05/06/1992) is not accepting any type of deposits from the public, if
-   anybody is asking any type of deposits in the name of Heritage Foods
-   Limited. Don't believe such false assurance.
-
-Give your family
-
-The Goodness of Ghee
-
-   Make your cooking ultra-delicious
-   and provide a golden treat to your taste buds
-   Explore More
-   [ghee-icon-1.png]
-
-   Great
-   for taste
-   [ghee-icon-2.png]
-
-   Rich in
-   Vitamins A & E
-   [ghee-icon-3.png]
-
-   Promotes
-   Better Digestion
-   [ghee-icon-4.png]
-
-   Improves
-   Immunity
-
-   [paneer-lite.png]
-   Lite Paneer
-   Explore
-   [paneer-fresh.png]
-   Fresh Paneer
-   Explore
-
-Milk
-
-Toned Milk
-
-   Fresh & pure milk is procured from our farmers and processed,
-   pasteurized, homogenized and packed at state-of-the-art processing
-   plants with utmost care to ensure goodness.
-   Explore More
-     * [mlk-icon-1.png]
-
-3.0%
-       [snf-blue.png]
-
-8.5%
-     * [milk-1.png]
-     * [mlk-icon-5.png]
-
-Vitamin A & D
-       [storage-icon.png]
-
-48hrs at 4^ C
-
-Milk
-
-Full cream milk
-
-   Full Cream Milk is rich in fat, so it is suitable for those with a low
-   BMI.What’s more, it is at its purest and best because it is processed
-   at our state-of-the-art processing plants.
-   Explore More
-     * [fat-ora.png]
-
-6.0%
-       [snf-do.png]
-
-9.0%
-     * [milk-2.png]
-     * [storage-icon-do.png]
-
-48hrs at 4^ C
-
-Milk
-
-Cow Milk
-
-   Golden Cow Milk is the culmination of a series of step such as
-   procurement, processing, pasteurization, homogenization and packaging
-   at state-of-the-art processing plants with utmost care to ensure
-   goodness.
-   Explore More
-     * [fat-gold.png]
-
-3.5%
-       [snf-gold.png]
-
-8.5%
-     * [milk-3.png]
-     * [deg-gold.png]
-
-48hrs at 4^ C
-
-Our goodness
-
-   Comes in many types!
-
-   UHT Milk
-   View All
-
-   Curd
-   View All
-
-   A-one Butter Milk
-   View All
-
-   Lassi
-   View All
-
-   Flavoured Milk
-   View All
-
-   Paneer
-   View All
-
-   Butter
-   View All
-
-   Sweets
-   View All
-
-   [probiotic.jpg]
-   Heritage Total Curd | #MakesYourDay (తెలుగు) #HeritageFoods
-
-   View All
-
-A Heritage of
-
-Happiness
-
-   Goodness comes in many milky ways.
-
-15,00,000
-
-   Families Consume
-   Heritage Products Daily
-
-859
-
-   Heritage Parlours Operated
-   by Our Franchisees
-
-3,00,000
-
-   Farmers Supply Fresh,
-   Pure Milk Twice a Day
-
-1,25,000
-
-   Retail Outlets Sell Heritage
-   Products From Their Stores
-
-187
-
-   Bulk Coolers, Mini Chilling
-   & Chilling Centres
-   Procure Milk Daily
-
-Heritage Foods limited
-
-   The Heritage Foods Limited was founded by Mr. Nara Chandrababu Naidu in
-   the year 1992, which is one of the fastest growing Public Listed
-   Companies in India, with two business divisions - Dairy and Renewable
-   Energy. The annual turnover of Heritage Foods stood at INR 32,087
-   million in the financial year 2022-23.
-   View More
-
-     * Follow us :
-     * [fb.png]
-     * [tw.png]
-     * [lk.png]
-     * [is.png]
-     * [yt.png]
-
-   Download Our App
-
-   *Currently Available in Hyderabad
-
-   Corporate
-     * Heritage at a Glance
-     * Corporate Management Team
-     * Our Commitments
-     * Awards & Recognitions
-     * CSR Activities
-     * GSTN Numbers
-     * Caution Notice
-
-   Products
-     * Milk
-     * UHT Milk
-     * Curd
-     * Buttermilk
-     * Ice-Creams
-     * Frozen Desserts
-     * Lassi
-     * Flavoured Milk
-     * View All
-
-   Investors
-     * Listing Information
-     * Investor Contacts
-     * Quarterly Financials
-     * Annual Reports
-     * Research Reports
-     * Policies
-
-   Business verticals
-     * Dairy
-     * Renewable Energy
-
-   Quick links
-     * News & Events
-     * Gallery
-     * Blog
-     * Careers
-     * Contact Us
-
-   Copyright © , Heritage Foods Limited. Designed by Pixel Studios
+   ASP assistance scolaire personnalisée
+   un partenariat [logo-RDE.svg?1585573849]
+   [logo-maif.svg?1585573849]
+
+   (BUTTON) Toggle navigation
+   (BUTTON) Terminale
+     * Petite section
+     * Moyenne section
+     * Grande section
+     * CP
+     * CE1
+     * CE2
+     * CM1
+     * CM2
+     * 6^e
+     * 5^e
+     * 4^e
+     * 3^e
+     * Seconde
+     * Première
+     * Première STMG
+     * Première ST2S
+     * Terminale
+     * Terminale STMG
+     * Terminale STI2D
+     * Terminale ST2S
+
+   (BUTTON) Spécialité anglais
+     * Philosophie
+     * Histoire
+     * Géographie
+     * Anglais
+     * Spécialité anglais
+     * Spécialité SES
+     * Spécialité SVT
+     * Spécialité mathématiques
+     * Spécialité physique-chimie
+     * Grand oral
+     * Spécialité Histoire-géo.-Géopolitique.-Sciences politiques
+     * Enseignement scientifique
+
+   (BUTTON) Révisions Réviser le cours
+     * Programme Consulter le programme
+     * Révisions Réviser le cours
+     * Sujets du bac Travailler sur des sujets du bac
+     * Méthodologie Consulter la méthodologie
+
+     * Accueil
+     * Se connecter
+     * Créer un compte
+
+   Notion précédente
+
+Ancrage et héritage
+
+   Notion suivante
+   Nouveau message
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Destinataire : []
+     __________________________________________________________________
+
+   Message :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Envoyer le message
+   Message envoyé avec succès ! Envoyer un nouveau message
+   t_speang_08_________ T___________________ specialite-anglais__
+   student_____________
+   Signaler une erreur
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Vous avez repéré une erreur, une faute d'orthographe, une réponse
+   erronée... Signalez-nous la et nous nous chargerons de la corriger.
+   Description du problème :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Signaler le problème
+   Problème signalé avec succès ! Signaler un autre problème
+   ____________________ ____________________
+   Imprimer
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Choisir ce que vous souhaitez imprimer :
+   Vous devez sélectionner au moins une valeur.
+   [X] La fiche
+   [ ] Les exercices
+   [ ] Le corrigé
+   Imprimer
+   Revoir la notion Notion
+   Faire les exercices Exercices
+   précédent1[1] suivant
+   The English-speaking world has known numerous waves of immigration and
+   its territory has been built through generations of people coming from
+   different regions of the world. A legacy, an origin, roots are most of
+   the time a subject of pride and of recognition. They claim their sense
+   of belonging, they assert their cultural and ethnic origins.; This is
+   patriotism, that is to say a love and a respect for their homeland.
+
+Celebration of a legacy
+
+   Many communities, many populations indeed celebrate their cultural
+   heritage through literature, art, sports, traditions, food, even their
+   daily routine and gestures: each difference, each particularity can be
+   a proof of their singularity.
+   For instance, Walter Scott, in his novels and poems, such as Rob Roy or
+   Ivanhoe, enhances the national narrative. Through his characters, he
+   pays tribute to his homeland, Scotland, using the great figures of the
+   nation to put forward the pride of being a Scot, of having a Scottish
+   lineage. This was shown in the movie Braveheart by Mel Gibson when he
+   extols the merits of William Wallace who became the hero of the nation.
+   The recognition of a Scottish spirit is also expressed in cultural
+   movements like the Celtic Revival, a variety of movements and
+   traditions in the 19^th and 20^th centuries that saw a renewed interest
+   in aspects of Celtic culture. Artists and writers drew on the contents
+   of Gaelic literature or Welsh-language literature. Traditions like the
+   Highland Games can also be a proof of an assertion of a certain
+   heritage: it aims at celebrating the Scottish culture through sport. It
+   consists in watching bagpipes players parading, people wearing kilts,
+   tug of war, toss the caber, etc.
+
+A memorial heritage
+
+   This legacy is also prominent through the construction for the
+   preservation of a memorial heritage, passed on from one generation to
+   another, a beacon of knowledge whose aim is to enlighten the world,
+   with architecture, culture, art or nature The preservation of the great
+   national parks in the USA like Yellowstone for example, are part of the
+   heritage that needs to be kept intact in order to show to the future
+   populations the grandeur of a nation and the beauty of a country; that
+   is why the park rangers were created.
+   Furthermore, in the United Kingdom, organizations like the National
+   Trust still exist, and commemoration days like the Poppy Day are
+   preserved. They are landmarks, or milestones in the History and the
+   culture of a country. It is even more important for the immigrant
+   communities as it helps them maintain a link with their homeland while
+   enriching the culture of the country hosting them. This is what we can
+   find in events like the Notting Hill Festival in London. It celebrates
+   and illustrates multiculturalism in the UK. We can refer to Columbus
+   Day in the US that is quite controversial because it only shows one
+   aspect of the American culture while putting aside another, that of the
+   natives and their longing to have their Indigenous Day. Through the
+   celebration of their origins, we can frankly wonder if the idea of
+   multiculturalism is at stake in the UK and in the USA.
+
+Celebration as a fight
+
+   Besides, this celebration can go beyond a simple claim and can rapidly
+   become a fight, a struggle to defend a territory or a border or to
+   preserve a threatened heritage or culture as is the case with Native
+   populations or minorities. In fact, the Stolen Generation in Australia
+   greatly harmed the Aborigine culture. White people had indeed
+   orchestrated an organized abduction, consisting in taking the Aborigine
+   children away from their families to place them in white institutions
+   with the aim of assimilating and converting them to Christianize: it
+   was a way to "whiten" them and to make this native population
+   disappear. The same happened with other native populations, such as the
+   Maoris in New Zealand, the Native Americans in the USA, the Inuit in
+   Greenland and in Canada, for whom the respect of their cultural and
+   environmental heritage is a question of survival.
+   Closer to us, the fight between Northern Ireland and The Republic of
+   Ireland concerning their border and their territories is quite
+   symptomatic of this notion of cultural anchoring. The period of the
+   Troubles has indeed marked the landscape and the spirits of many Irish
+   men and women since each one of them had a member of their family
+   touched, wounded or even killed during this conflict for the
+   reunification of the two Irelands. Songs like Bloody Sunday by U2 or
+   Zombie by the Cranberries or even Nothing compares by Sinead O'Connor
+   are examples of the mounting tension between the protestants and the
+   Catholics, a tension that is still perceptible nowadays. It has become
+   a matter of pride and territory and neither side wants to retreat since
+   it would mean the end of their dreams and the end of their identity.
+   The identification of a territory is essential for many artists or
+   writers who spend much of their time and career representing their
+   homeland, their mother country, whether to praise it through odes and
+   eulogies or to give a nostalgic if not critical vision. For instance,
+   Willa Cather in My Antonia relates the toughness and the determination
+   of pioneers and the nostalgia linked to this past. It is the story of a
+   young orphan, Jim Burden (Burden like having a weight on his shoulders)
+   who goes to live in the great plains of Nebraska with his grandparents.
+   Once there, he meets the elder daughter of a Czech family, Antonia and
+   the novel follows the life of these two characters while describing the
+   way America was built by the first immigrants and pioneers.
+
+Withdrawing into ourselves?
+
+   Actually, claiming a part of the territory and asserting our cultural
+   origin can lead to some polemics, and can make people stray from their
+   mainstream path. It can even lead to xenophobia or to people
+   withdrawing into their shells. We can for instance allude to the
+   confederate legacy in the southern states of the USA, a legacy that is
+   symbolized by what happened in Charlottesville a couple of years ago.
+   Afro- Americans and Civil Rights activists wanted to remove the statue
+   of General Lee, the hero of the Confederacy during the Civil War. This
+   figure was indeed controversial because it still symbolizes a period
+   when slavery was tolerated and accepted in the southern states;
+   therefore, it still reinforces the idea of a rampant racism. White
+   supremacists refused to remove the statue and it ended with a
+   confrontation between the KKK and the black activists that resulted in
+   the killing of a young lawyer who was run over by a racist lunatic.
+   We can also quote all the events that are linked to the Brexit which
+   was a way for the conservatives and the Ukip (the far-right movement
+   led by Nigel Farage in the UK) to preserve their insularity, their
+   singularity and above all their identity and national sovereignty.
+   Exercice n°1
+   Are these sentences true or false according to the text, or is there no
+   information in the text?
+   Faites glisser les étiquettes dans les zones prévues à cet effet.
+   No information
+   False
+   True
+   English-speaking countries have witnessed very little immigration and
+   have remained closed to the world.
+   imcAnswer1?
+   Culture heritage is often used to celebrate a region's identity.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   The purpose of a memorial heritage is to help the rest of the world
+   aspire to greater cultural values.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   The cultural heritage of the Maoris is the same as that of the Inuit.
+   imcAnswer4?
+   Cultural heritage can cause problems when people want to assert their
+   right to it.
+   imcAnswer2|imcAnswer3|imcAnswer5?
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°2
+   What does the writer mean by ”Traditions like the Highland Games can
+   also be a proof of an assertion of a certain heritage…“?
+   Cochez la bonne réponse.
+   (*) The Highland Games are traditional sports that the community
+   enjoys.
+   ( ) Communities need to have more sports competitions to demonstrate
+   their cultural identity.
+   ( ) Community-based festivals and competitions are the best way to
+   assert their heritage.
+   ( ) ok It is through competitions like the Highland Games that a
+   cultural identity can be confirmed.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°3
+   What does the writer mean by ”It has become a matter of pride and
+   territory and neither side wants to retreat since it would mean the end
+   of their dreams and the end of their identity“?
+   Cochez la bonne réponse.
+   (*) Both sides are willing to compromise on their respective cultural
+   positions.
+   ( ) Cultural heritage is not linked to the pride of their history or
+   territory.
+   ( ) Cultural heritage can enable members of a community to dream.
+   ( ) ok Giving up on one's cultural heritage could lead to its
+   extinction.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Exercice n°4
+   How do you understand the assertion that ”We can also quote all the
+   events that are linked to the Brexit which was a way for the
+   conservatives and the Ukip (the far-right movement led by Nigel Farage
+   in the UK) to preserve their insularity, their singularity and above
+   all their identity and national sovereignty“?
+   Cochez la bonne réponse.
+   (*) Nigel Farage is proud to be European and wants to fight for its
+   cultural identity.
+   ( ) Brexit means that Britain can remain open to outside cultural
+   influences.
+   ( ) Events such as Brexit mean that liberal voters can also maintain
+   their cultural heritage.
+   ( ) ok Major political events can also be considered as symbols of
+   cultural assertion and preservation.
+   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
+   (BUTTON) Montrer la correction
+   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
+   Nouveau message
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Destinataire : []
+     __________________________________________________________________
+
+   Message :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Envoyer le message
+   Message envoyé avec succès ! Envoyer un nouveau message
+   t_speang_08_________ T___________________ specialite-anglais__
+   student_____________
+   Signaler une erreur
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Vous avez repéré une erreur, une faute d'orthographe, une réponse
+   erronée... Signalez-nous la et nous nous chargerons de la corriger.
+   Description du problème :
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Signaler le problème
+   Problème signalé avec succès ! Signaler un autre problème
+   ____________________ ____________________
+   Imprimer
+   Spécialité anglais - Réviser le cours
+   Ancrage et héritage
+   Choisir ce que vous souhaitez imprimer :
+   Vous devez sélectionner au moins une valeur.
+   [X] La fiche
+   [ ] Les exercices
+   [ ] Le corrigé
+   Imprimer
+   []
+
+   L'assistance scolaire personnalisée utilise des cookies pour vous
+   offrir le meilleur service (en savoir plus) . En continuant la
+   navigation vous acceptez l'utilisation de ceux-ci. (BUTTON) Continuer
+
+   un partenariat [logo-RDE.svg?1585573849]
+   [logo-maif.svg?1585573849]
+   Nos sites
+   Mon espace éducation
+   Cap Concours
+   Il était une histoire
+   Apprendre à porter secours
+   La quinte juste
+   Les solutions éducatives MAIF
+   Le fonds MAIF pour l'éducation
+   L'espace enseignant MAIF
+
+   Informations légales Contact © 2000-2024, rue des écoles

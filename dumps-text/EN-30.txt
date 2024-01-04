@@ -1,437 +1,277 @@
-   Skip to main content
+   #alternate alternate alternate alternate
 
-   (BUTTON) Toggle navigation
-     * ESPON 2030
+   Interpol Logo Interpol Logo
+
+   (BUTTON)
+     * Who we are
           +
-               o ESPON 2030 Programme
-               o
+               o What is INTERPOL?
+               o INTERPOL – Five actions for a safer world
           +
-               o ESPON 2030
-               o ESPON 2030 Programme
-               o Previous Programmes
-               o ESPON 2020
-               o ESPON 2013
-               o ESPON 2006
+               o General Secretariat
+               o Secretary General
+               o Official visitors to the General Secretariat
+               o Jürgen Stock biography
+               o Values and ethics
           +
-               o Thematic Action Plans
-               o Climate Neutral Territories
-               o Governance of New Geographies
-               o Places Resilient to Crises
-               o Perspectives for All People and Places
+               o Governance
+               o General Assembly
+               o Executive Committee
+               o President
           +
-               o
-               o Living, Working and Travelling Across Borders
-               o Smart Connectivity
-               o European Territories in Global Interactions
-               o Adapting to the Impacts of Climate Change
-     * What's New
+               o Member countries
+               o National Central Bureaus (NCBs)
           +
-               o News & Events
-               o
+               o Strategy
+               o Strategic Framework 2022-2025
+               o Global Policing Goals
           +
-               o News
-               o Latest News
-               o ESPON Blog
-               o
-               o Newsletter Subscribe
-               o
-               o Publications
-               o
-                    #
-
-Working paper and Policy brief: Territorial perspective on green
-industrialisation
-                      October 19, 2023
-                    #
-
-Functional rural areas in Romania
-                      January 12, 2023
+               o Legal framework
+               o Data protection
+               o Legal documents
+               o Cooperation agreements
+               o Membership of INTERPOL
+               o Name and logo
+               o Information, communications and technology (ICT) law
+                 projects
           +
-               o Events
-               o Seminars
-               o Workshops
-               o ESPON at Events
-               o
-               o Case Studies
-               o
-                    #
-
-MSP-LSI in Estonia
-                      October 14, 2022
-                    #
-
-MSP-LSI–on demand service for Luxembourg
-                      September 27, 2022
+               o Our funding
           +
-               o Press
-               o Press Releases
-               o Press Clippings
-               o
-               o Stay Connected
-               o   Facebook
-               o   Twitter
-               o   LinkedIn
-               o   YouTube
-               o  RSS Feed
+               o INTERPOL 100
+               o 1923 – how our history started
+               o Key dates
+               o INTERPOL then and now
           +
-               o Spotlight
-               o  Spatial implications of climate change risk in Europe
-               o [climate%20adaptation.jpg]
-                 World leaders at the COP 28 climate summit reached an
-                 agreement that could speed up the tra
-               o more »
-     * Tools & Maps
-     * Participate
+               o Commission for the Control of INTERPOL’s Files
+               o About the CCF
+               o How to submit a request
+               o CCF sessions and decisions
+               o Frequently Asked Questions
+     * Crimes
           +
-               o Participate
-               o
+               o Corruption
           +
-               o Calls
-               o Public Procurement FAQ
-               o Open Calls
-               o Pre-Announcements
-               o Previous Calls
-               o e-Tendering Platform
-               o List of Contractors
+               o Counterfeit currency and documents
           +
-               o Vacancies
-               o Vacancies
-               o Previous Vacancies
-               o Opportunities for Students
-               o
-               o Invitations for Stakeholders
-               o
-               o Consultations
+               o Crimes against children
           +
-               o Spotlight
-               o  Open invitation to submit proposals for Targeted
-                 Analyses - 3rd cut off date
-               o [to%20the%20target.jpg]
-                 We are pleased to announce the third cut-off date for the
-                 submission of proposals for Targeted Analyses for the
-                 ESPON Programme 2030: 29 March 2024
-               o more »
-     * In your Country
+               o Cultural heritage crime
           +
-               o In your Country
-               o
+               o Cybercrime
           +
-               o
-                    # Austria flag  Austria
-                    # Belgium flag  Belgium
-                    # Bulgaria flag  Bulgaria
-                    # Croatia flag  Croatia
-                    # Cyprus flag  Cyprus
-                    # Czech Republic flag  Czech Republic
-                    # Denmark flag  Denmark
-                    # Estonia flag  Estonia
-                    # Finland flag  Finland
-                    # France flag  France
-                    # Germany flag  Germany
-                    # Greece flag  Greece
-                    # Hungary flag  Hungary
-                    # Ireland flag  Ireland
-                    # Italy flag  Italy
-                    # Latvia flag  Latvia
-                    # Lithuania flag  Lithuania
-                    # Luxembourg flag  Luxembourg
-                    # Malta flag  Malta
-                    # Netherlands flag  Netherlands
-                    # Poland flag  Poland
-                    # Portugal flag  Portugal
-                    # Romania flag  Romania
-                    # Slovakia flag  Slovakia
-                    # Slovenia flag  Slovenia
-                    # Spain flag  Spain
-                    # Sweden flag  Sweden
-               o
-               o
-                    # Iceland flag  Iceland
-                    # Liechtenstein flag  Liechtenstein
-                    # Norway flag  Norway
-                    # Switzerland flag  Switzerland
-               o
-     * [search-icon.png]
+               o Drug Trafficking
+          +
+               o Environmental crime
+          +
+               o Financial crime
+          +
+               o Firearms trafficking
+          +
+               o Human trafficking and migrant smuggling
+          +
+               o Illicit goods
+          +
+               o Maritime crime
+          +
+               o Organized crime
+          +
+               o Terrorism
+          +
+               o Vehicle crime
+          +
+               o War crimes
+     * How we work
+          +
+               o COVID-19
+          +
+               o Border management
+          +
+               o Capacity building
+          +
+               o Command and coordination centre
+          +
+               o Criminal intelligence analysis
+          +
+               o Databases
+          +
+               o Forensics
+          +
+               o Fugitive investigative support
+          +
+               o I-CORE: our vision for change
+          +
+               o Innovation
+          +
+               o INTERPOL response teams
+          +
+               o Major event security
+          +
+               o Notices
+          +
+               o The Dialogue
+     * Our partners
+          +
+               o Government partners
+          +
+               o International organization partners
+               o INTERPOL and the European Union
+               o INTERPOL and the African Union
+               o INTERPOL and the United Nations
+          +
+               o Our partnerships with regional policing bodies
+               o Support for AFRIPOL
+          +
+               o INTERPOL Foundation for a Safer World
+          +
+               o Private sector partners
+          +
+               o General Assembly Exhibition
+          +
+               o How to become a partner
+     * What you can do
+          +
+               o Stay safe
+               o Beware of scams using INTERPOL’s name
+          +
+               o Help us find
+          +
+               o If you need help
+          +
+               o Honouring the world's police
+          +
+               o Work for us
+     * News
+     * Wanted persons
 
-Targeted Analyses
+   en
+     * en
+     * fr
+     * es
+     * ar
 
-    1. Home
-    2. Projects
-    3. ESPON 2020
-    4. Targeted Analyses
-    5. 9-Material Cultural Heritage- HERITAGE
+What are you searching for ?
 
-HERITAGE - The Material Cultural Heritage as a Strategic Territorial
-Development Resource: Mapping Impacts Through a Set of Common European
-Socio-economic Indicators
+   ____________________ (BUTTON) icon-loupe
 
-   IFRAME: //www.youtube.com/embed/1BYiYroo8mU
+Cultural heritage crime
 
-   Theme: cultural heritage, territorial impact, indicators, monitoring
-   and evaluation
-
-Scope
-
-   The service shall attempt to quantify the contribution (impact) of
-   material cultural heritage to economical development in the stakeholder
-   countries and regions over the past 5 years. Building on the work done
-   by the European Heritage Heads Forum’s Economic Task Force and the
-   European Commission, this research activity will define a list of
-   economic sectors on which the material cultural heritage has an impact
-   and perform data collection on the selected impact indicators.
-
-   The main outcome should be a common theoretical framework, defining the
-   most important economic sectors on which the material cultural heritage
-   has an impact and developing the empirical evidence of such impact.
-   This research activity will also develop a blueprint or in other words
-   a step-by-step plan on how to build a monitoring system in the
-   stakeholder countries that includes all actions necessary to obtain and
-   maintain data for the defined impact indicators in the future.
-
-   This study is named as one of the key studies by the “European
-   Framework for Action on Cultural Heritage” (adopted by the European
-   Commission in December 2018). Economic statistics and indicators
-   produced will be useful for understanding the economic contribution of
-   the material cultural heritage. Overall the results will promote
-   evidence-based decision making related to protection and promotion of
-   material cultural heritage.
-
-Main outcomes
-
-     * A common theoretical framework defining the economic sectors on
-       which material cultural heritage has an impact.
-     * A common methodological framework describing how to determine the
-       impact material cultural heritage has on these economic sectors.
-     * Evidence (collected data and set of indicators) on the economic
-       impact of cultural heritage in stakeholder territories / regions
-       over the past 5 years (for example e.g. cultural heritage-related
-       gross value added in tourism, construction, etc.).
-     * Step-by-step plan on how to develop a monitoring system (at the
-       territorial level) to be used in the stakeholder countries, that
-       includes all actions necessary to obtain data of the defined
-       socio-economic impact indicators, building time series and checking
-       and reporting the status of the indicators on a regular basis. It
-       should also include an operational description of the data
-       generating and reporting procedures
+   Home
+   >
+   Crimes
+   >
+   Cultural heritage crime
+   Print this page Facebook INTERPOL Twitter INTERPOL Scroll to top
+   [SELECT A PAGE___________________________________________________]
      *
-
-Stakeholders
-
-     * Norwegian Directorate for Cultural Heritage (lead stakeholder)
-     * Brussels Capital region (Heritage Department)
-     * Flanders Heritage Agency
-     * Swedish National Heritage Board
-     * Cultural Heritage Agency of the Netherlands
-     * European Council of Spatial Planners
-     * Romanian Ministry of Culture and National Identity
-     * Monuments Board of the Slovak Republic
-     * Institute for the Protection of Cultural Heritage of Slovenia
-     * Austrian Federal office for Cultural Heritage
-
-Observer
-
-   European Commission, Directorate-General for Education, Youth, Sport
-   and Culture
-
-Contractors
-
-     * Valdani Vicari & Associati: IT (lead contractor)
-     * KEA European Affairs, BE
-
-   Budget: € 214.600,00
-
-   Lifetime: April 2018 – July 2019
-
-Deliveries
-
-     * Inception delivery, 11 June 2018
-     * Interim delivery, 13 August 2018
-     * Draft Final delivery, 5 February 2019
-     * Final delivery, 31 July 2019
-
-   Contact: Zintis Hermansons (Project Expert) [email protected], Johannes
-   Kiersch (Financial Expert) [email protected]
-
-Documents
-
-   [3d5d96f1223095588c8040298496a93e.jpg]
-
-Societal value of cultural heritage in Iceland.pdf
-
-     * Acrobat Document | 978KB
-
-   (BUTTON) Preview
-   [116730e1d59f46e52fec412af17c7d69.jpg]
-
-HERITAGE_Synthesis Report
-
-     * Acrobat Document | 707KB
-
-   (BUTTON) Preview
-   [a1b024577034f20b3f2fa909d41f4c95.jpg]
-
-HERITAGE_Main Report
-
-     * Acrobat Document | 3.03MB
-
-   (BUTTON) Preview
-   [346973567aa3901161dbee702928c15a.jpg]
-
-HERITAGE_Scientific Annex
-
-     * Acrobat Document | 1.91MB
-
-   (BUTTON) Preview
-
-Targeted Analyses
-
-     * Policy themes
-     * Applied Research
-     * Targeted Analyses
-
-     * ***ESPON Cross-border Public Services 2.0 (CPS 2.0)
-     * 1-Regional Strategies for Sustainable and Inclusive Territorial
-       Development - ReSSI
-     * 2-Thinking and Planning in Areas of Territorial Cooperation -
-       ACTAREA
-     * 3-Spatial Dynamics and Strategic Planning in Metropolitan Areas -
-       SPIMA
-     * 4-Linking Networks of Protected Areas to Territorial Development -
-       LinkPas
-     * 5-Territorial and Urban Potentials Connected to Migration and
-       Refugee Flows - MIGRATUP
-     * 6-Territorial Scenarios for the Baltic Sea Region - BT2050
-     * 7-Common spatial perspectives for the Alpine area - Alps 2050
-     * 8-Future Digital Health - eHEALTH
-     * 9-Material Cultural Heritage- HERITAGE
-     * 10-Cross-border Public Services - CPS
-     * 11-Cross-Border Cooperation - TIA CBC
-     * 12-Maritime spatial planning - MSP LSI
-     * 13-BIG DATA
-     * 14-Urban-rural connections in non-metropolitan areas - URRUC
-     * 15-EuropeaN Sustainable Urbanisation through port city REgeneration
-       - ENSURE
-     * 16-Adapting European Cities to Population Ageing: Policy Challenges
-       and Best Practices - ACPA
-     * 17-SHARING – Stocktaking and assessment of typologies of Urban
-       Circular Collaborative Economy initiatives
-     * 18-MISTA – Metropolitan Industrial Strategies & Economic Sprawl
-     * 19-TOURISM - Carrying capacity methodology for tourism
-     * 20-BusDev - Business Development Opportunities at External EU
-       Borders
-     * 21- ERMES - ESPON European Research for Maritime Eco(nomic)clusters
-       governance Strategy
-     * 22-IMAGINE - Developing a metropolitan-regional imaginary in
-       Milan-Bologna urban region
-     * 23-CE FLOWS – Spatial dynamics and integrated territorial
-       development scenarios for the functional area of Central Europe
-     * 24-DIGIPLAN - Evaluating Spatial Planning Practices with Digital
-       Plan Data
-     * 25-STISE - Sustainable Transport Infrastructure in the Strategic
-       urban region Eurodelta
-     * 26-ESPON METRO | The role and future perspectives of Cohesion
-       Policy in the planning of Metropolitan Areas and Cities
-     * 27- LAKES - territorial analysis of spatial progress and integrated
-       development opportunities of large lakes in Europe
-     * 28-QGasSP - Quantitative Greenhouse Gas Impact Assessment Method
-       for Spatial Planning Policy
-     * *TEVI – Territorial Evidence Support of European Territorial
-       Cooperation Programmes
-     * **Territorial Scenarios for the Danube and Adriatic Ionian
-       Macro-regions (TEVI 2050)
-
-
-
-Monitoring and Tools
-
-
-
-Transnational Outreach
-
-Preview (BUTTON) ×
-
-   (BUTTON) Close
-
-   © ESPON
-     * FAQ
-     * Contact
-     * Site Map
-     * Links
-     * Legal Notice
-
-   ESPON EGTC
-
-   ESPON is an EU funded programme that delivers quality expertise to
-   public authorities responsible for designing territorial policies.
-
-Stay Connected
-
+          + The issues – cultural property
      *
+          + How we fight cultural heritage crime
      *
+          + ID-Art mobile app
+          +
+               o ID-Art: success stories
+               o Privacy Policy - ID-Art Application
+               o Cookie Policy - ID-Art Application
+               o ID Art application - Terms of Use
      *
+          + Stolen Works of Art Database
+          +
+               o Application form to access INTERPOL’s Works of Art
+                 Database
      *
+          + Object ID
      *
+          + Partnerships
+     *
+          + Protecting cultural heritage
 
-   ESPON IN YOUR COUNTRY
-   Austria flag  AT
-   Belgium flag  BE
-   Bulgaria flag  BG
-   Croatia flag  HR
-   Cyprus flag  CY
-   Czech Republic flag  CZ
-   Denmark flag  DK
-   Estonia flag  EE
-   Finland flag  FI
-   France flag  FR
-   Germany flag  DE
-   Greece flag  EL
-   Hungary flag  HU
-   Ireland flag  IE
-   Italy flag  IT
-   Latvia flag  LV
-   Lithuania flag  LT
-   Luxembourg flag  LU
-   Malta flag  MT
-   Netherlands flag  NL
-   Poland flag  PL
-   Portugal flag  PT
-   Romania flag  RO
-   Slovakia flag  SK
-   Slovenia flag  SI
-   Spain flag  ES
-   Sweden flag  SE
-   Iceland flag  IS
-   Liechtenstein flag  LI
-   Norway flag  NO
-   Switzerland flag  CH
-     * Austria
-     * Belgium
-     * Bulgaria
-     * Croatia
-     * Cyprus
-     * Czech Republic
-     * Denmark
-     * Estonia
-     * France
-     * Finland
-     * Germany
-     * Greece
-     * Hungary
-     * Iceland
-     * Ireland
-     * Italy
-     * Latvia
-     * Liechtenstein
-     * Lithuania
-     * Luxembourg
-     * Malta
-     * Netherlands
-     * Norway
-     * Poland
-     * Portugal
-     * Romania
-     * Slovakia
-     * Slovenia
-     * Spain
-     * Sweden
-     * Switzerland
+   Cultural property is part of our heritage, history and identity. It
+   needs protecting from criminals.
+
+   Trafficking in cultural property is a low-risk, high-profit business
+   for criminals with links to organized crime.
+
+   From stolen artwork to historical artefacts, this crime can affect all
+   countries, either as origin, transit or destinations.
+
+Activities
+
+   CrimesThe issues – cultural property
+
+   There is a lucrative black market in cultural property with strong
+   links to organized crime.
+   CrimesHow we fight cultural heritage crime
+
+   Our specialized officers share their expertise and passion for
+   protecting cultural heritage.
+   CrimesID-Art mobile app
+
+   Capture the art, capture the criminals
+   CrimesStolen Works of Art Database
+
+   The Stolen Works of Art database is our main tool to tackle the traffic
+   in cultural property.
+   What you can doProtecting cultural heritage
+
+   Individuals and countries can all do more to protect cultural heritage.
+   CrimesObject ID
+   Our partnersPartnerships
+
+   Combined action with partners strengthens our efforts to protect
+   cultural heritage.
+
+Related news
+
+International art trafficking operation leads to 60 arrests and over 11,000
+objects recovered
+
+   4 May 2023
+
+ID-Art, INTERPOL’s first App, turns one year old
+
+   12 July 2022
+
+Cultural heritage crime: INTERPOL’s ID-Art app in the news
+
+   14 April 2022
+
+52 arrests in operation across 28 countries targeting trafficking in cultural
+goods
+
+   9 March 2022
+
+Cultural property crime thrives throughout pandemic says new INTERPOL survey
+
+   18 October 2021
+
+   Interpol Logo
+   Connect with us
+     * Contact INTERPOL
+     * Careers
+     * Procurement
+     * About the CCF
+
+   Resources
+     * News and Events
+     * Information for journalists
+     * Multimedia
+     * Documents
+
+   Policies
+     * Cookie policy
+     * Privacy policy
+     * Terms of use
+     * Name and logo
+
+   Social media
+     * Facebook INTERPOL
+     * Twitter INTERPOL
+     * Youtube INTERPOL
+     * Instagram INTERPOL
+     * LinkedIn INTERPOL
+
+   Site Map INTERPOL 2024. All Rights Reserved.
+
+   Our site uses cookies to ensure technical functionality, gather
+   statistics and enable sharing on social media platforms.
+   OK Tell me more
