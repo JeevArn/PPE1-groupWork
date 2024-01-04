@@ -117,12 +117,28 @@
     		<p>Ainsi, ces cooccurrences avec le mot « héritage » couvrent de nombreuses perspectives différentes sur le sens de ce mot en français.</p>
     		
     		<h1>Anglais</h1>
-    		<p>
-    		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    		</p>
-
-    		<p>
-    		Sagittis nisl rhoncus mattis rhoncus. Bibendum neque egestas congue quisque egestas. Velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Velit scelerisque in dictum non consectetur. Elementum tempus egestas sed sed risus. Leo vel orci porta non pulvinar neque laoreet suspendisse interdum. Integer quis auctor elit sed. Dui accumsan sit amet nulla facilisi. Dapibus ultrices in iaculis nunc sed. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a. Vitae congue eu consequat ac felis donec et odio pellentesque. Feugiat sed lectus vestibulum mattis ullamcorper velit. Ut consequat semper viverra nam libero justo laoreet sit. Odio aenean sed adipiscing diam donec adipiscing. Et odio pellentesque diam volutpat commodo. Enim eu turpis egestas pretium aenean pharetra magna. Elit sed vulputate mi sit amet. Egestas sed tempus urna et pharetra pharetra massa massa. Nulla porttitor massa id neque. Egestas diam in arcu cursus euismod quis viverra nibh.
+            <div class="columns">
+                <div class="column is-one-third">
+                    <figure class="image is-1600×1155">
+                        <img src="../images/nuage_EN.jpeg">
+                    </figure>
+                </div>
+                <div class="column is-one-third">
+                    <figure class="image is-1284×810">
+                        <img src="../images/cooc_EN.png">
+                    </figure>
+                </div>
+            
+            </div>            
+    		<p>Pour réaliser cette analyse, nous avons utilisé le site internet itrameur. J'ai fais en sorte de ne pas avoir de stopword dans mes cooccurrences, en modifiant un paramètre d'itrameur. Nous ne rencontrons pas de problèmes avec les majuscules et le pluriel, car nous avons dans notre script fait en sorte que les autres formes de notre motif se changent en "heritage" pour avoir absolument toutes les cooccurrences autour de toutes les formes de notre terme.</p>
+            <p>En ce qui concerne l'anglais les occurrences les plus présentes (du rouge foncé au rouge clair) sont "World", "cultural", "Cultural", "Centre", "https", "Feed", "UNESCO". Dans le ton de couleur en dessous, on distingue des termes tels que "Food", "politics", "Intangible", "society", "comment", "sites", "Bank" etc. Je pense qu'il n'est pas nécessaire de prendre en compte uniquement les mots les plus fréquemment rencontrés, car cela peut être trompeur. En effet, nous sommes conscientes que sur une page internet, les mots trouvés peuvent être présents uniquement dans un titre ou dans le nom attribué à un lien URL, ce qui n'est pas représentatif du contenu réel des textes.<br>
+            Pour cette raison, j'ai décidé de ne considérer que les mots qui semblent être plus pertinents (pour "heritage") et ayant une fréquence de cooccurrence importante, tels que "Cultural"(287 occurences), "UNESCO" (147), "European" (45), "Bank" (14), "Ancestry" (20) "natural" (38), "people" (19), "climate" (13), "informatics" (4), "loss" (25), "preservation" (23), "protection"(23), "conservation", "tourism" (9), destruction (23). Je vais m'attarder sur quelques mots variés.</p>
+            <p>En examinant la cooccurrence "Ancestry", on peut supposer que cela évoque l'héritage familial et les liens entre générations, en touchant des sujets tels que la préservation et la transmission des origines et traditions quelles soient familiales et/ou ancestrales, ou encore les enjeux liés à la généalogie.</p>
+            <p>La cooccurrence fréquente de "Cultural" suggère un aspect artistique et sociale dans la réflexion sur l'héritage culturel. Cela pourrait concerner la préservation des pratiques culturelles, ou encore les patrimoines culturels et sociaux qui contribuent à la richesse d'une société.</p>
+            <p>L'acronyme "UNESCO" apparait aussi très souvent. En particulier avec des termes comme "word" et "cultural" cela montre un lien fort avec la préservation du patrimoine culturel au niveau mondiale. Cela pourrait entraîner des discussions sur la protection du patrioine reconnu par l'UNESCO, la transmission des valeurs culturelles mondiales et les efforts de préservation à l'échelle internationale</p>
+            <p>Le terme "Bank", laisse penser à un heritage financier et économique. A travers les banque, on peut trouver tout ce qui tourne autour du patrimoine financier, le don de biens matériels.</p>
+            <p>En regardant ces termes, je constate que le mot "heritage" est réellement utilisé dans des domaines et sujets variés (est ce étonnant ? nous avons fait en sorte que ça le soit lors de la recherche d'URLs). Il peut être associé à la culture des personnes, au tourisme, au patrimoine mondial, au climat et à la préservation qui peut éventuellement évoquer la préservation de la planète. Nous pouvons affirmer que la planète, ce que nous laissons comme héritage aux générations futures, est une notion importante. Le terme "protection" peut concerner à la fois les personnes qui héritent d'un bien, mais aussi la protection de la planète. On y trouve aussi le domaine informatique, mais en moindre mesure.<br>
+            En ce qui concerne le nuage de mots, nous avons utilisé le code Bash fourni par les enseignants, en y ajoutant une liste de stopwords pour éliminer le bruit. Cela nous renvoie à peu près aux mêmes termes que le tableau des cooccurrences dans itrameur, ce qui est logique en réalité. Les deux méthodes fournissent essentiellement les mêmes résultats, mais sous une forme différente.
     		</p>
     		
     		<h1>Coréen</h1>
