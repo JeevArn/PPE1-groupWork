@@ -106,10 +106,10 @@ rm itrameur/*
 ./programmes/make_itrameur_corpus.sh dumps-text contextes EN
 ./programmes/make_itrameur_corpus.sh dumps-text contextes KR
 
-fullcontext="itrameur/contexte.txt"
+fullcontext=&quot;itrameur/contexte.txt&quot;
 for fichier in itrameur/contexte*.txt; do
-	copie=$(cat "$fichier")
-	echo "$copie" &gt;&gt; "$fullcontext"
+	copie=$(cat &quot;$fichier&quot;)
+	echo &quot;$copie&quot; &gt;&gt; &quot;$fullcontext&quot;
 done
 			</code>
     		</pre>
@@ -117,7 +117,6 @@ done
 			<script>hljs.highlightAll();</script>
     	</div>
 	</section>
-   
 
 </body>
 
