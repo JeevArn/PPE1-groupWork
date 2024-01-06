@@ -93,75 +93,63 @@
     	<div class="content">
     		<pre>
     		<code>
-#!/bin/bash
+dossier_context=&quot;$2&quot;
+lang=&quot;$3&quot;
 
-if [ "$#" -ne 3 ]; then
-    echo "le script nécessite 3 arguments : le chemin du dossier dumps-txt, le chemin du dossier contextes et la langue"
-    exit 1
-fi
+output_dump=&quot;itrameur/dump-${lang}.txt&quot;
+echo &quot;&lt;lang=\&quot;${lang}\&quot;&gt;&quot; &gt; &quot;$output_dump&quot;
 
-dossier_dump="$1"
-dossier_context="$2"
-lang="$3"
-
-output_dump="itrameur/dump-${lang}.txt"
-echo "&lt;lang=\"${lang}\"&gt;" &gt; "$output_dump"
-
-output_context="itrameur/contexte-${lang}.txt"
-echo "&lt;lang=\"${lang}\"&gt;" &gt; "$output_context"
+output_context=&quot;itrameur/contexte-${lang}.txt&quot;
+echo &quot;&lt;lang=\&quot;${lang}\&quot;&gt;&quot; &gt; &quot;$output_context&quot;
 
 #pour la normalisation
-if [[ $lang = 'FR' ]]; then mot="héritage" motif="[Hh][ée]ritages?|H[ÉE]RITAGES?";
-elif [[ $lang = 'EN' ]]; then mot="heritage" motif="[Hh]eritage|HERITAGE";
-else mot="상속" motif="상속|상속은|상속이|상속울";
+if [[ $lang = 'FR' ]]; then mot=&quot;h&eacute;ritage&quot; motif=&quot;[Hh][&eacute;e]ritages?|H[&Eacute;E]RITAGES?&quot;;  
+elif [[ $lang = 'EN' ]]; then mot=&quot;heritage&quot; motif=&quot;[Hh]eritage|HERITAGE&quot;;
+else mot=&quot;상속&quot; motif=&quot;상속|상속은|상속이|상속울&quot;; 
 fi
 
 # Parcours de tous les fichiers du dossier dump en fonction de la langue
-for fichier in "$dossier_dump"/"${lang}"*.txt; do
-    if [ -f "$fichier" ]; then
-        # Extraction du numéro de page à partir du nom du fichier
-		page=$(basename "$fichier" .txt)
-        # Suppression des &&lt;&gt;§
-        texte=$(cat "$fichier" | tr -d '&&lt;&gt;§')
+for fichier in &quot;$dossier_dump&quot;/&quot;${lang}&quot;*.txt; do
+    if [ -f &quot;$fichier&quot; ]; then
+        # Extraction du num&eacute;ro de page &agrave; partir du nom du fichier
+		page=$(basename &quot;$fichier&quot; .txt)
+        # Suppression des &amp;&lt;&gt;&sect;
+        texte=$(cat &quot;$fichier&quot; | tr -d '&amp;&lt;&gt;&sect;')
         # Ajout des balises au fichier de sortie
-        echo "&lt;page=\"${page}\"&gt;" &gt;&gt; "$output_dump"
-        # Substitution des caractères spéciaux xml dans le texte
-        #echo "&lt;text&gt;$(sed -e 's/&/\&amp;/g' -e 's/&lt;/\&lt;/g' -e 's/&gt;/\&gt;/g' "$fichier")&lt;/text&gt;" &gt;&gt; "$output"
-        echo "&lt;text&gt;${texte}&lt;/text&gt;" &gt;&gt; "$output_dump"
-        echo "&lt;/page&gt; §" &gt;&gt; "$output_dump"
+        echo &quot;&lt;page=\&quot;${page}\&quot;&gt;&quot; &gt;&gt; &quot;$output_dump&quot;
+        # Substitution des caract&egrave;res sp&eacute;ciaux xml dans le texte
+        #echo &quot;&lt;text&gt;$(sed -e 's/&amp;/\&amp;amp;/g' -e 's/&lt;/\&amp;lt;/g' -e 's/&gt;/\&amp;gt;/g' &quot;$fichier&quot;)&lt;/text&gt;&quot; &gt;&gt; &quot;$output&quot;
+        echo &quot;&lt;text&gt;${texte}&lt;/text&gt;&quot; &gt;&gt; &quot;$output_dump&quot;
+        echo &quot;&lt;/page&gt; &sect;&quot; &gt;&gt; &quot;$output_dump&quot;
     fi
 done
-echo "&lt;/lang&gt;" &gt;&gt; "$output_dump"
-
+echo &quot;&lt;/lang&gt;&quot; &gt;&gt; &quot;$output_dump&quot;
 
 # Parcours de tous les fichiers du dossier context en fonction de la langue
-for fichier in "$dossier_context"/"${lang}"*.txt; do
-    if [ -f "$fichier" ]; then
-        # Extraction du numéro de page à partir du nom du fichier
-		page=$(basename "$fichier" .txt)
-        # Suppression des &&lt;&gt;§
-        texte=$(cat "$fichier" | tr -d '&&lt;&gt;§' | sed -E "s/$motif/$mot/g")
+for fichier in &quot;$dossier_context&quot;/&quot;${lang}&quot;*.txt; do
+    if [ -f &quot;$fichier&quot; ]; then
+        # Extraction du num&eacute;ro de page &agrave; partir du nom du fichier
+		page=$(basename &quot;$fichier&quot; .txt)
+        # Suppression des &amp;&lt;&gt;&sect;
+        #on utilisera les fichiers contextes pour faire notre analyse sur itrameur
+		#mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suite
+		#avec sed -E &quot;s/$motif/$mot/g&quot;
+        texte=$(cat &quot;$fichier&quot; | tr -d '&amp;&lt;&gt;&sect;' | sed -E &quot;s/$motif/$mot/g&quot;)
         # Ajout des balises au fichier de sortie
-        echo "&lt;page=\"${page}\"&gt;" &gt;&gt; "$output_context"
-        # Substitution des caractères spéciaux xml dans le texte
-        #echo "&lt;text&gt;$(sed -e 's/&/\&amp;/g' -e 's/&lt;/\&lt;/g' -e 's/&gt;/\&gt;/g' "$fichier")&lt;/text&gt;" &gt;&gt; "$output_context"
-        echo "&lt;text&gt;${texte}&lt;/text&gt;" &gt;&gt; "$output_context"
-        echo "&lt;/page&gt; §" &gt;&gt; "$output_context"
+        echo &quot;&lt;page=\&quot;${page}\&quot;&gt;&quot; &gt;&gt; &quot;$output_context&quot;
+        # Substitution des caract&egrave;res sp&eacute;ciaux xml dans le texte
+        #echo &quot;&lt;text&gt;$(sed -e 's/&amp;/\&amp;amp;/g' -e 's/&lt;/\&amp;lt;/g' -e 's/&gt;/\&amp;gt;/g' &quot;$fichier&quot;)&lt;/text&gt;&quot; &gt;&gt; &quot;$output_context&quot;
+        echo &quot;&lt;text&gt;${texte}&lt;/text&gt;&quot; &gt;&gt; &quot;$output_context&quot;
+        echo &quot;&lt;/page&gt; &sect;&quot; &gt;&gt; &quot;$output_context&quot;
     fi
 done
-echo "&lt;/lang&gt;" &gt;&gt; "$output_context"
-
-#on utilisera les fichiers contextes pour faire notre analyse sur itrameur
-#mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suit
-#sed -E "s/$motif/$mot/g" "$output_contex
+echo &quot;&lt;/lang&gt;&quot; &gt;&gt; &quot;$output_context&quot;
     		</code>
     		</pre>
     		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
 			<script>hljs.highlightAll();</script>
     	</div>
 	</section>
-   
-
 
 </body>
 

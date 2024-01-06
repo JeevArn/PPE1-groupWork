@@ -38,13 +38,15 @@ for fichier in "$dossier_dump"/"${lang}"*.txt; do
 done
 echo "</lang>" >> "$output_dump"
 
-
 # Parcours de tous les fichiers du dossier context en fonction de la langue
 for fichier in "$dossier_context"/"${lang}"*.txt; do
     if [ -f "$fichier" ]; then
         # Extraction du numéro de page à partir du nom du fichier
 		page=$(basename "$fichier" .txt)
         # Suppression des &<>§
+        #on utilisera les fichiers contextes pour faire notre analyse sur itrameur
+		#mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suite
+		#avec sed -E "s/$motif/$mot/g"
         texte=$(cat "$fichier" | tr -d '&<>§' | sed -E "s/$motif/$mot/g")
         # Ajout des balises au fichier de sortie
         echo "<page=\"${page}\">" >> "$output_context"
@@ -55,12 +57,3 @@ for fichier in "$dossier_context"/"${lang}"*.txt; do
     fi
 done
 echo "</lang>" >> "$output_context"
-
-#on utilisera les fichiers contextes pour faire notre analyse sur itrameur
-#mais itrameur ne supporte pas les regex donc on remplace toutes les variations par un seul mot pour obtenir toutes les cooccurrences par la suit
-#sed -E "s/$motif/$mot/g" "$output_contex
-
-
-
-
-

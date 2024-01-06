@@ -95,7 +95,7 @@
     		<code>
 #!/usr/bin/env bash
 
-#V&eacute;rifier le nombre d'argument
+# V&eacute;rifier le nombre d'argument
 if [ $# -ne 1 ]; then
     echo &quot;Ce script n&eacute;cessite un argument : chemin du fichier txt avec les urls&quot;
     exit 
@@ -128,7 +128,6 @@ echo &quot;&lt;!DOCTYPE html&gt;
     &lt;title&gt;PPE Projet - Tableau&lt;/title&gt;
     &lt;!-- Inclure la feuille de style Bulma --&gt;
     &lt;link rel=\&quot;stylesheet\&quot; href=\&quot;https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\&quot;&gt;
-
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -145,26 +144,21 @@ echo &quot;&lt;!DOCTYPE html&gt;
                 &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../index.html\&quot;&gt;
                     Accueil
                 &lt;/a&gt;
-                
                 &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/equipe.html\&quot;&gt;
                     Equipe
                 &lt;/a&gt;
-                
                 &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/demarche.html\&quot;&gt;
                     D&eacute;marche
                 &lt;/a&gt;
-                
                 &lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/analyse.html\&quot;&gt;
                     Analyse
                 &lt;/a&gt;
-                
-                
+    
                 &lt;div class=\&quot;navbar-item has-dropdown is-hoverable\&quot;&gt;
                 	&lt;a class=\&quot;navbar-link\&quot;&gt;
           				Tableaux
         			&lt;/a&gt;
                 	&lt;div class=\&quot;navbar-dropdown\&quot;&gt;
-                
                 		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;tableau-FR.html\&quot;&gt;
                     		Tableau FR
                 		&lt;/a&gt;
@@ -182,7 +176,6 @@ echo &quot;&lt;!DOCTYPE html&gt;
           				Code
         			&lt;/a&gt;
                 	&lt;div class=\&quot;navbar-dropdown\&quot;&gt;
-                		
                 		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/scriptPrincipale.html\&quot;&gt;
                     		Script principale
                 		&lt;/a&gt;
@@ -192,11 +185,8 @@ echo &quot;&lt;!DOCTYPE html&gt;
                 		&lt;a class=\&quot;navbar-item\&quot; href=\&quot;../pages/scriptMain.html\&quot;&gt;
                     		Script \&quot;main\&quot;
                 		&lt;/a&gt;
- 
                 	&lt;/div&gt;
                 &lt;/div&gt;
-                
-
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/nav&gt;
@@ -241,10 +231,10 @@ do
 	#charset=$(curl -s -I -L -w &quot;%{content_type}&quot; -o /dev/null $line | grep -E -o &quot;(charset=[\&quot;\']?)(.{,15})([\&quot;\'&gt;/ ])&quot; | awk -F '[()]' '{print $2}')
 	charset=$(curl -s -I -L -w &quot;%{content_type}&quot; -o /dev/null $line | grep -E -o &quot;(charset=)([^\&quot;\'&gt;/ ]+)&quot; | awk -F= '{print $2}' | tr -d '\r' | tr '[:lower:]' '[:upper:]') #| awk -F '[()]' '{print $2}')
 	
-
 	echo &quot;charset pre iconv : $charset&quot; #pour debug
 	echo &quot;num : $N&quot; #pour debug
 	
+	#Si le site fonctionne
 	if [ $code -eq 200 ]; then
 		#Construire les chemins des fichiers en fonction de la langue et du num&eacute;ro de ligne
 		html=&quot;aspirations/${lang}-${N}.html&quot; 
@@ -252,24 +242,14 @@ do
 		context=&quot;contextes/${lang}-${N}.txt&quot;
 		concord=&quot;concordances/${lang}-${N}.html&quot;
 	
-		#T&eacute;l&eacute;charger le contenu de l'URL de la ligne et l'enregistrer dans $html
-		#curl -Lo &quot;$html&quot; $line
-		#curl -Lo &quot;$html&quot; -b /dev/null &quot;$line&quot; 
-		#if [ &quot;$charset&quot; != &quot;UTF-8&quot; ] &amp;&amp; [ &quot;$charset&quot; != &quot;utf-8&quot; ]; then 
-		#if [ &quot;$charset&quot; != &quot;UTF-8&quot; ] || [ &quot;$charset&quot; != &quot;utf-8&quot; ]; then 
+		#T&eacute;l&eacute;charger le contenu de l'URL de la ligne et l'enregistrer dans $html si UTF-8 sinon conversion
+
 		if [ ! $charset == &quot;UTF-8&quot; ]; then #corr
 			curl &quot;$line&quot; | iconv -f &quot;$charset&quot; -t utf-8 &gt; &quot;$html&quot;;
 		else 
 			curl -Lo &quot;$html&quot; -b /dev/null &quot;$line&quot;;
 		fi
-		
-		#### Les m&eacute;thodes qu'on a test&eacute; mais qui ne fonctionnaient pas pour tous les liens ########
-		#encodage=$(cat &quot;$html&quot; | grep -E -o &quot;charset=\S+&quot; | cut -d&quot;=&quot; -f2 | tail -n 1)
-		#charset=$(curl -s -I &quot;$line&quot; | grep -i &quot;Content-Type&quot; | sed -n 's/.*charset=\([^;]*\).*/\1/p')
-		#encodage=$(cat &quot;$html&quot; | ggrep -oP &quot;(?i)&lt;[ ]?meta[ ]?charset=[ ]?[\'\&quot;]\K[^\'\&quot;&gt;]+&quot; | head -1)
-		#encodage=$(ggrep -oP '(?i)&lt;meta\s+charset\s*=\s*[\&quot;\']?\K[^\&quot;\'&gt;]+' &quot;$html&quot; | head -1 | sed 's/^[ \t]*//;s/[ \t]*$//')
-		#encodage=$(ggrep -Po &quot;charset=\S+&quot; &quot;$html&quot;| sed -E &quot;s/charset=[\&quot;']?(.*)[\&quot;']?/\1/g&quot; | head -1)
-		
+
 		#Extraire l'encodage apr&egrave;s conversion en utf-8
 		while read -r ligne; do
     	if [[ $ligne == *charset=* ]]; then
@@ -285,35 +265,23 @@ do
 		lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 &quot;$html&quot; &gt; &quot;$txt&quot;
 		
 		#Compter le nombre d'occurrences de $mot
-		#grep -ci
+		#on adapte le nom de la commande en fonction de si on est sur mac ou linux
 		
 		if command -v ggrep &gt; /dev/null; then
     		compte=$(cat &quot;$txt&quot; | ggrep -Poi &quot;${motif}&quot; | wc -l)
 		else
     		compte=$(cat &quot;$txt&quot; | grep -Poi &quot;${motif}&quot; | wc -l)
     	fi 
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-		#compte=$(cat &quot;$txt&quot; | ggrep -Poi &quot;${motif}&quot; | wc -l)
-		
-		#Extraire le contexte
-		#ggrep -Poi &quot;.*${mot}.*&quot; &quot;$txt&quot; &gt; &quot;$context&quot;
-		#cat &quot;$txt&quot; | tr '^$' ' ' | ggrep -Pi &quot;^.*$.*${mot}.*^.*$&quot; &gt; &quot;$context&quot;
-		#grep -i -A 1 -B 1 &quot;${mot}&quot; &quot;$txt&quot; &gt; &quot;$context&quot;
-		
+
+		#Extraire les contextes
 		if command -v ggrep &gt; /dev/null; then
     		cat &quot;$txt&quot; | ggrep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
 		else
     		cat &quot;$txt&quot; | grep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
     	fi 
-		
-		#cat &quot;$txt&quot; | ggrep -P -i -A 1 -B 1 &quot;${motif}&quot; &gt; &quot;$context&quot;
-	else
+
+	else 
+		# on passe l'url si elle ne fonctionne pas, si le code n'est pas &eacute;gale &agrave; 200
 		continue
   	fi
 	
@@ -325,7 +293,6 @@ do
 	# Parcourir le fichier $context
 	while read -r ligne; do
    	 	# Recherche du mot cible dans la ligne
-    	#if [[ $ligne =~ .*&quot;$motif&quot;.* ]]; then # si la ligne contient le mot
     		#ATTENION ne pas mettre $motif entre guillemets car la regex ne fonctionnera pas dans une condition if [[..]]
         	if [[ $ligne =~ (.*)($motif)(.*) ]]; then #on capture les contextes avec les parenth&egrave;ses 
            	 	contexte_gauche=${BASH_REMATCH[1]} #on extrait le contexte gauche (1ere parenth&egrave;se)
@@ -333,7 +300,6 @@ do
             	contexte_droit=${BASH_REMATCH[3]} #on extrait le contexte droit (3eme parenth&egrave;se)
            	 	concordance+=(&quot;$contexte_gauche;$cible;$contexte_droit&quot;) #on ajoute une nouvelle entr&eacute;e au tableau s&eacute;par&eacute; par des ;
         	fi
-   	 	#fi
 	done &lt; &quot;$context&quot;
 
 	# Rediriger la sortie vers le fichier html $concord
@@ -367,8 +333,6 @@ do
             
         		&lt;/tr&gt;&quot; &gt;&gt; &quot;$output_file&quot;	
     
-        		     			
-	
 	N=$((N + 1)) #Incr&eacute;menter le compteur
 done &lt; $URLS #Fin de la boucle
 
@@ -381,7 +345,6 @@ echo &quot;&lt;/tbody&gt;
 &lt;/html&gt;&quot; &gt;&gt; &quot;$output_file&quot;
 
 echo &quot;Le fichier HTML a &eacute;t&eacute; cr&eacute;&eacute; : $output_file&quot;
-
     		</code>
     		</pre>
     		<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
@@ -389,8 +352,6 @@ echo &quot;Le fichier HTML a &eacute;t&eacute; cr&eacute;&eacute; : $output_file
     	</div>
 	</section>
    
-
-
 </body>
 
 </html>

@@ -33,7 +33,6 @@ echo "<!DOCTYPE html>
     <title>PPE Projet - Tableau</title>
     <!-- Inclure la feuille de style Bulma -->
     <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">
-
 </head>
 
 <body>
@@ -50,26 +49,21 @@ echo "<!DOCTYPE html>
                 <a class=\"navbar-item\" href=\"../index.html\">
                     Accueil
                 </a>
-                
                 <a class=\"navbar-item\" href=\"../pages/equipe.html\">
                     Equipe
                 </a>
-                
                 <a class=\"navbar-item\" href=\"../pages/demarche.html\">
                     Démarche
                 </a>
-                
                 <a class=\"navbar-item\" href=\"../pages/analyse.html\">
                     Analyse
                 </a>
-                
-                
+    
                 <div class=\"navbar-item has-dropdown is-hoverable\">
                 	<a class=\"navbar-link\">
           				Tableaux
         			</a>
                 	<div class=\"navbar-dropdown\">
-                
                 		<a class=\"navbar-item\" href=\"tableau-FR.html\">
                     		Tableau FR
                 		</a>
@@ -87,7 +81,6 @@ echo "<!DOCTYPE html>
           				Code
         			</a>
                 	<div class=\"navbar-dropdown\">
-                		
                 		<a class=\"navbar-item\" href=\"../pages/scriptPrincipale.html\">
                     		Script principale
                 		</a>
@@ -97,11 +90,8 @@ echo "<!DOCTYPE html>
                 		<a class=\"navbar-item\" href=\"../pages/scriptMain.html\">
                     		Script \"main\"
                 		</a>
- 
                 	</div>
                 </div>
-                
-
             </div>
         </div>
     </nav>
@@ -146,10 +136,10 @@ do
 	#charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=[\"\']?)(.{,15})([\"\'>/ ])" | awk -F '[()]' '{print $2}')
 	charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $line | grep -E -o "(charset=)([^\"\'>/ ]+)" | awk -F= '{print $2}' | tr -d '\r' | tr '[:lower:]' '[:upper:]') #| awk -F '[()]' '{print $2}')
 	
-
 	echo "charset pre iconv : $charset" #pour debug
 	echo "num : $N" #pour debug
 	
+	#Si le site fonctionne
 	if [ $code -eq 200 ]; then
 		#Construire les chemins des fichiers en fonction de la langue et du numéro de ligne
 		html="aspirations/${lang}-${N}.html" 
@@ -157,24 +147,14 @@ do
 		context="contextes/${lang}-${N}.txt"
 		concord="concordances/${lang}-${N}.html"
 	
-		#Télécharger le contenu de l'URL de la ligne et l'enregistrer dans $html
-		#curl -Lo "$html" $line
-		#curl -Lo "$html" -b /dev/null "$line" 
-		#if [ "$charset" != "UTF-8" ] && [ "$charset" != "utf-8" ]; then 
-		#if [ "$charset" != "UTF-8" ] || [ "$charset" != "utf-8" ]; then 
+		#Télécharger le contenu de l'URL de la ligne et l'enregistrer dans $html si UTF-8 sinon conversion
+
 		if [ ! $charset == "UTF-8" ]; then #corr
 			curl "$line" | iconv -f "$charset" -t utf-8 > "$html";
 		else 
 			curl -Lo "$html" -b /dev/null "$line";
 		fi
-		
-		#### Les méthodes qu'on a testé mais qui ne fonctionnaient pas pour tous les liens ########
-		#encodage=$(cat "$html" | grep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-		#charset=$(curl -s -I "$line" | grep -i "Content-Type" | sed -n 's/.*charset=\([^;]*\).*/\1/p')
-		#encodage=$(cat "$html" | ggrep -oP "(?i)<[ ]?meta[ ]?charset=[ ]?[\'\"]\K[^\'\">]+" | head -1)
-		#encodage=$(ggrep -oP '(?i)<meta\s+charset\s*=\s*[\"\']?\K[^\"\'>]+' "$html" | head -1 | sed 's/^[ \t]*//;s/[ \t]*$//')
-		#encodage=$(ggrep -Po "charset=\S+" "$html"| sed -E "s/charset=[\"']?(.*)[\"']?/\1/g" | head -1)
-		
+
 		#Extraire l'encodage après conversion en utf-8
 		while read -r ligne; do
     	if [[ $ligne == *charset=* ]]; then
@@ -190,35 +170,23 @@ do
 		lynx --dump --nolist --assume-charset=UTF-8 --display-charset=UTF-8 "$html" > "$txt"
 		
 		#Compter le nombre d'occurrences de $mot
-		#grep -ci
+		#on adapte le nom de la commande en fonction de si on est sur mac ou linux
 		
 		if command -v ggrep > /dev/null; then
     		compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
 		else
     		compte=$(cat "$txt" | grep -Poi "${motif}" | wc -l)
     	fi 
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-		#compte=$(cat "$txt" | ggrep -Poi "${motif}" | wc -l)
-		
-		#Extraire le contexte
-		#ggrep -Poi ".*${mot}.*" "$txt" > "$context"
-		#cat "$txt" | tr '^$' ' ' | ggrep -Pi "^.*$.*${mot}.*^.*$" > "$context"
-		#grep -i -A 1 -B 1 "${mot}" "$txt" > "$context"
-		
+
+		#Extraire les contextes
 		if command -v ggrep > /dev/null; then
     		cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
 		else
     		cat "$txt" | grep -P -i -A 1 -B 1 "${motif}" > "$context"
     	fi 
-		
-		#cat "$txt" | ggrep -P -i -A 1 -B 1 "${motif}" > "$context"
-	else
+
+	else 
+		# on passe l'url si elle ne fonctionne pas, si le code n'est pas égale à 200
 		continue
   	fi
 	
@@ -230,7 +198,6 @@ do
 	# Parcourir le fichier $context
 	while read -r ligne; do
    	 	# Recherche du mot cible dans la ligne
-    	#if [[ $ligne =~ .*"$motif".* ]]; then # si la ligne contient le mot
     		#ATTENION ne pas mettre $motif entre guillemets car la regex ne fonctionnera pas dans une condition if [[..]]
         	if [[ $ligne =~ (.*)($motif)(.*) ]]; then #on capture les contextes avec les parenthèses 
            	 	contexte_gauche=${BASH_REMATCH[1]} #on extrait le contexte gauche (1ere parenthèse)
@@ -238,7 +205,6 @@ do
             	contexte_droit=${BASH_REMATCH[3]} #on extrait le contexte droit (3eme parenthèse)
            	 	concordance+=("$contexte_gauche;$cible;$contexte_droit") #on ajoute une nouvelle entrée au tableau séparé par des ;
         	fi
-   	 	#fi
 	done < "$context"
 
 	# Rediriger la sortie vers le fichier html $concord
@@ -272,8 +238,6 @@ do
             
         		</tr>" >> "$output_file"	
     
-        		     			
-	
 	N=$((N + 1)) #Incrémenter le compteur
 done < $URLS #Fin de la boucle
 
